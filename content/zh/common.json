@@ -1,0 +1,7 @@
+{
+  "_": "TODO: connect to VITE_SHEETS_CONTENT_URL (Apps Script) to fetch common chars & phrases",
+  "baseFreq": { "的": 0.08, "一": 0.06, "了": 0.05, "是": 0.05, "我": 0.04, "不": 0.04, "在": 0.03, "人": 0.03 },
+  "phrases": ["你好", "學校", "打字", "小朋友", "練習", "模擬", "成長", "排行榜"]
+}
+
+

@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.npm/
+
+# Build output
+dist/
+.vite/
+coverage/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store

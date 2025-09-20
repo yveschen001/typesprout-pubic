@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<defs>
+  <radialGradient id="soilGrad" cx="50%" cy="40%" r="65%">    <stop offset="0%" stop-color="#77533a"/>    <stop offset="100%" stop-color="#4e3627"/>  </radialGradient>
+  <linearGradient id="cotyledonGrad" x1="0%" y1="0%" x2="0%" y2="100%">    <stop offset="0%" stop-color="#71d684"/>    <stop offset="100%" stop-color="#3aa557"/>  </linearGradient>
+  <linearGradient id="leafGradMain" x1="0%" y1="0%" x2="0%" y2="100%">    <stop offset="0%" stop-color="#4fb866"/>    <stop offset="100%" stop-color="#2d8f40"/>  </linearGradient>
+  <linearGradient id="leafGradDark" x1="0%" y1="0%" x2="0%" y2="100%">    <stop offset="0%" stop-color="#3ea659"/>    <stop offset="100%" stop-color="#1f6d31"/>  </linearGradient>
+  <radialGradient id="fruitGradR" cx="35%" cy="30%" r="70%">    <stop offset="0%" stop-color="#ff7266"/>    <stop offset="100%" stop-color="#b81f21"/>  </radialGradient>
+  <radialGradient id="fruitGradG" cx="35%" cy="30%" r="70%">    <stop offset="0%" stop-color="#b5e27b"/>    <stop offset="100%" stop-color="#4f7f26"/>  </radialGradient>
+  <radialGradient id="fruitGradO" cx="35%" cy="30%" r="70%">    <stop offset="0%" stop-color="#ffc27e"/>    <stop offset="100%" stop-color="#d26a1f"/>  </radialGradient>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">    <feGaussianBlur stdDeviation="55"/>  </filter>
+  <filter id="leafShadow" x="-50%" y="-50%" width="200%" height="200%">    <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#194c26" flood-opacity="0.25"/>  </filter>
+</defs>
+<g id="glow" opacity="0.28" filter="url(#softGlow)">  <circle cx="450" cy="378.0" r="340" fill="#9de3a7"/></g>
+<g id="lighting" opacity="0.18" filter="url(#softGlow)">  <ellipse cx="450" cy="162.0" rx="240" ry="160" fill="#e7ffe9"/></g>
+<g id="soil">
+<ellipse cx="450" cy="783" rx="330" ry="95" fill="url(#soilGrad)"/>
+<circle cx="578.0" cy="757.6" r="3.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="257.1" cy="785.7" r="5.6" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="384.5" cy="802.2" r="4.2" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="356.6" cy="755.3" r="4.2" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="614.9" cy="781.7" r="4.0" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="713.2" cy="795.5" r="4.2" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="343.9" cy="784.2" r="3.2" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="392.8" cy="749.6" r="4.6" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="499.1" cy="801.7" r="3.7" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="189.7" cy="751.3" r="4.0" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="524.8" cy="756.2" r="4.3" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="711.5" cy="770.0" r="5.7" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="376.9" cy="785.6" r="3.4" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="489.4" cy="752.0" r="5.5" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="296.7" cy="782.7" r="4.6" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="251.4" cy="750.9" r="3.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="424.2" cy="776.4" r="4.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="720.8" cy="803.7" r="4.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="318.5" cy="779.5" r="5.3" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="663.1" cy="750.8" r="5.0" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="656.8" cy="753.2" r="5.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="683.1" cy="751.9" r="4.7" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="657.9" cy="749.0" r="5.4" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="359.6" cy="763.3" r="5.7" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="490.7" cy="800.6" r="5.2" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="223.2" cy="781.2" r="5.9" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="265.8" cy="780.6" r="4.5" fill="#3d2a1f" opacity="0.5"/>
+<circle cx="433.2" cy="800.5" r="4.5" fill="#3d2a1f" opacity="0.5"/>
+</g>
+<g id="trunk"><path d="M 450,753 Q 460,483 450,263" fill="none" stroke="#2f8f3e" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g id="stem">
+<path id="stem-1" d="M450,333 Q 345.0,253 240,323" fill="none" stroke="#2f8f3e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="stem-2" d="M450,363 Q 560.0,283 670,353" fill="none" stroke="#2f8f3e" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="stem-3" d="M450,403 Q 355.0,328 260,398" fill="none" stroke="#2f8f3e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="stem-4" d="M450,443 Q 542.5,368 635,438" fill="none" stroke="#2f8f3e" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="leaves"><g id="leaf-1" transform="rotate(-22 215 298)" filter="url(#leafShadow)">  <path d="M 127.5,298.0 Q 215.0,218.0 302.5,298.0 Q 215.0,378.0 127.5,298.0 Z" fill="url(#leafGradMain)" stroke="#206c30" stroke-width="4"/>  <line x1="137.5" y1="298.0" x2="292.5" y2="298.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g><g id="leaf-2" transform="rotate(22 695 318)" filter="url(#leafShadow)">  <path d="M 607.5,318.0 Q 695.0,238.0 782.5,318.0 Q 695.0,398.0 607.5,318.0 Z" fill="url(#leafGradMain)" stroke="#206c30" stroke-width="4"/>  <line x1="617.5" y1="318.0" x2="772.5" y2="318.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g><g id="leaf-3" transform="rotate(-20 245 383)" filter="url(#leafShadow)">  <path d="M 162.5,383.0 Q 245.0,305.0 327.5,383.0 Q 245.0,461.0 162.5,383.0 Z" fill="url(#leafGradDark)" stroke="#206c30" stroke-width="4"/>  <line x1="172.5" y1="383.0" x2="317.5" y2="383.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g><g id="leaf-4" transform="rotate(20 660 393)" filter="url(#leafShadow)">  <path d="M 577.5,393.0 Q 660.0,315.0 742.5,393.0 Q 660.0,471.0 577.5,393.0 Z" fill="url(#leafGradDark)" stroke="#206c30" stroke-width="4"/>  <line x1="587.5" y1="393.0" x2="732.5" y2="393.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g><g id="leaf-5" transform="rotate(-16 280 438)" filter="url(#leafShadow)">  <path d="M 202.5,438.0 Q 280.0,362.0 357.5,438.0 Q 280.0,514.0 202.5,438.0 Z" fill="url(#leafGradMain)" stroke="#206c30" stroke-width="4"/>  <line x1="212.5" y1="438.0" x2="347.5" y2="438.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g><g id="leaf-6" transform="rotate(16 625 448)" filter="url(#leafShadow)">  <path d="M 547.5,448.0 Q 625.0,372.0 702.5,448.0 Q 625.0,524.0 547.5,448.0 Z" fill="url(#leafGradMain)" stroke="#206c30" stroke-width="4"/>  <line x1="557.5" y1="448.0" x2="692.5" y2="448.0" stroke="#1c5a28" stroke-width="5" opacity="0.6"/></g></g>
+<g id="flowers"><g id="flower-1" class="flower">  <path d="M400,238 C 396.4,231.76461709275205 403.6,231.76461709275205 400.0,218.0 M400,238 C 403.6,231.76461709275205 407.2,238.0 417.3205080756888,228.0 M400,238 C 407.2,238.0 403.6,244.23538290724795 417.3205080756888,248.0 M400,238 C 403.6,244.23538290724795 396.4,244.23538290724795 400.0,258.0 M400,238 C 396.4,244.23538290724795 392.8,238.0 382.6794919243112,248.0 M400,238 C 392.8,238.0 396.4,231.76461709275205 382.6794919243112,228.0" fill="none" stroke="#ffd84d" stroke-width="7" stroke-linecap="round"/>  <circle cx="400" cy="238" r="4.4" fill="#f0a500"/></g><g id="flower-2" class="flower">  <path d="M455,243 C 451.4,236.76461709275205 458.6,236.76461709275205 455.0,223.0 M455,243 C 458.6,236.76461709275205 462.2,243.0 472.3205080756888,233.0 M455,243 C 462.2,243.0 458.6,249.23538290724795 472.3205080756888,253.0 M455,243 C 458.6,249.23538290724795 451.4,249.23538290724795 455.0,263.0 M455,243 C 451.4,249.23538290724795 447.8,243.0 437.6794919243112,253.0 M455,243 C 447.8,243.0 451.4,236.76461709275205 437.6794919243112,233.0" fill="none" stroke="#ffd84d" stroke-width="7" stroke-linecap="round"/>  <circle cx="455" cy="243" r="4.4" fill="#f0a500"/></g><g id="flower-3" class="flower">  <path d="M510,235 C 506.4,228.76461709275205 513.6,228.76461709275205 510.0,215.0 M510,235 C 513.6,228.76461709275205 517.2,235.0 527.3205080756887,225.0 M510,235 C 517.2,235.0 513.6,241.23538290724795 527.3205080756887,245.0 M510,235 C 513.6,241.23538290724795 506.4,241.23538290724795 510.0,255.0 M510,235 C 506.4,241.23538290724795 502.8,235.0 492.6794919243112,245.0 M510,235 C 502.8,235.0 506.4,228.76461709275205 492.6794919243112,225.0" fill="none" stroke="#ffd84d" stroke-width="7" stroke-linecap="round"/>  <circle cx="510" cy="235" r="4.4" fill="#f0a500"/></g></g>
+<g id="fruits"><g id="fruit-1" class="fruit" style="display:none">
+  <circle cx="465" cy="248" r="22" fill="url(#fruitGradG)" stroke="#7a1717" stroke-width="4"/>
+  <line x1="465" y1="248" x2="465.0" y2="229.3" stroke="#2e7d32" stroke-width="3" stroke-linecap="round"/>
+  <line x1="465" y1="248" x2="482.7847568547194" y2="242.2213822051885" stroke="#2e7d32" stroke-width="3" stroke-linecap="round"/>
+  <line x1="465" y1="248" x2="475.9915842178693" y2="263.12861779481153" stroke="#2e7d32" stroke-width="3" stroke-linecap="round"/>
+  <line x1="465" y1="248" x2="454.0084157821308" y2="263.12861779481153" stroke="#2e7d32" stroke-width="3" stroke-linecap="round"/>
+  <line x1="465" y1="248" x2="447.2152431452806" y2="242.2213822051885" stroke="#2e7d32" stroke-width="3" stroke-linecap="round"/>
+</g></g>
+</svg>

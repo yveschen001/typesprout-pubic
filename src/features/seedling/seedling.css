@@ -1,0 +1,24 @@
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes wind-sway {
+    0%, 100% { transform: rotate(0deg); }
+    50% { transform: rotate(2.5deg); }
+  }
+  @keyframes wind-sway-slow {
+    0%, 100% { transform: rotate(0deg); }
+    50% { transform: rotate(1deg); }
+  }
+  @keyframes glow-pulse {
+    0%, 100% { opacity: .6; filter: blur(0px); }
+    50% { opacity: .9; filter: blur(1px); }
+  }
+
+  #leaves.wind { transform-origin: 50% 100%; animation: wind-sway 1.6s ease-in-out infinite; }
+  #trunk.wind-slow, #stem.wind-slow { transform-origin: 50% 100%; animation: wind-sway-slow 2.4s ease-in-out infinite; }
+  #glow.glow-pulse, #lighting.glow-pulse { animation: glow-pulse 2.2s ease-in-out infinite; }
+
+  /* boosted 效果已移除 */
+}
+
+.seedling-host { width: 100%; height: 100%; max-width: 100%; max-height: 100%; overflow: hidden; }
+
+

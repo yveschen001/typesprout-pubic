@@ -1,0 +1,206 @@
+# TypeSprout .cursorrules
+
+project:
+  name: "TypeSprout — Kids Typing & Tree Growth"
+  versioning:
+    - Bump minor on feature, patch on fix; reflect in README
+  locale: zh-TW
+
+runtime:
+  node: "22.x"           # use .nvmrc
+  packageManager: npm
+  react: "18.3.x"
+  vite: "7.x"
+  tailwind: "4 + @tailwindcss/vite"
+  typescript: strict
+  testing: ["vitest", "@testing-library/react", "playwright"]
+
+routing_i18n:
+  baseRoute: "/{lang}/..."
+  supportedLangs: ["zh-TW","zh-CN","en-US"]
+  router: react-router-dom@7
+  i18n: i18next + react-i18next
+  redirect:
+    - Missing/invalid lang -> navigator.language or fallback en-US
+
+structure:
+  src/app: [main.tsx, routes]
+  src/libs: [firebase.ts, i18n.ts]
+  src/features: [auth, typing, leaderboard, gamification, profile, garden]
+  src/pages: [Home, Practice, Test, Result, Leaderboard, Profile, Garden, Admin]
+  src/components: [Button, Card, Field]
+  scripts: [gen-sitemap-robots.mjs]
+  public: static assets
+
+editing_rules:
+  - Prefer editing existing files over adding new ones
+  - Keep related logic in features/* modules
+  - No random demo/test/log files
+  - Create new files only when existing file becomes too large
+
+env_variables:
+  required:
+    - VITE_FIREBASE_API_KEY
+    - VITE_FIREBASE_AUTH_DOMAIN
+    - VITE_FIREBASE_PROJECT_ID
+    - VITE_FIREBASE_STORAGE_BUCKET
+    - VITE_FIREBASE_MESSAGING_SENDER_ID
+    - VITE_FIREBASE_APP_ID
+    - VITE_FIREBASE_MEASUREMENT_ID (optional)
+    - VITE_ADS_ENABLED=false
+    - VITE_SHEETS_CONTENT_URL (optional)
+    - VITE_SHEETS_COUNTERS_URL (optional)
+    - VITE_USE_GA=false
+    - VITE_USE_CF=false
+  usage:
+    - Initialize Firebase via src/libs/firebase.ts only
+
+firebase:
+  auth: Google only
+  models_required:
+    - profiles, attempts, leaderboards, trees, inventory, harvests, economyLogs, dailyProgress
+  rules_summary:
+    - attempts.create: auth && uid==auth.uid && durationSec>=30 && 0<=accuracy<=1
+    - leaderboards: public read
+    - others: user can read/write own docs only
+  indexes_recommended:
+    - attempts: (lang ASC, ts DESC), (uid ASC, ts DESC)
+    - leaderboards: (period ASC, lang ASC, scopeId ASC)
+    - economyLogs: (uid ASC, ts DESC)
+    - attempts: (lang ASC, adjWpm DESC, ts DESC)
+
+typing_scoring:
+  formulas:
+    - en.rawWPM=(chars/5)/minutes
+    - zh.CPM=chineseChars/minutes; UI shows WPM(zh)=CPM
+    - accuracy=correct/total; adjusted=raw*accuracy (zh uses CPM*accuracy)
+  anti_cheat:
+    - duration<30s: skip write/EP/leaderboard
+    - extreme: en>200 WPM or zh>400 CPM filtered
+    - no paste; backspace toggle allowed
+  stabilization:
+    - score = mean(winsorize(last10.adjWpm, 5/95))
+  ime:
+    - Only count characters on compositionend for CJK IME
+
+garden_economy:
+  config:
+    - base(lang)=10; dailyEPcap=200
+    - targets: en G1..G6=10..35; zh G1..G6=60..120
+    - stages: S2≥100, S3≥300, S4≥700, S5≥1200
+  formulas:
+    - EP=base*minutes*clamp(adj/target,0,2)*(0.5+0.5*acc)
+    - GP=EP*(1+0.2*fertilizerToday+0.1*waterToday)
+    - fruits=floor((dailyGP/200)*(1+min(streakDays/7*0.1,0.3)))
+
+seo_performance:
+  - Use react-helmet-async for page <title>/<meta>
+  - Generate sitemap.xml & robots.txt via scripts/gen-sitemap-robots.mjs
+  - Output hreflang alternates and canonical per language page
+  - Inject JSON-LD (SoftwareApplication/LearningResource) per route
+  - /admin must use meta robots noindex,nofollow
+  - Lighthouse mobile ≥ 90; FCP < 2.5s; gzip bundle < 300KB
+
+ui_guidelines:
+  path: docs/ui-guidelines.md
+  enforce: true
+  tokens:
+    colors:
+      primary: "#16a34a"     # green-600
+      primary-foreground: "#ffffff"
+      secondary: "#0ea5e9"   # sky-500
+      accent: "#f97316"      # orange-500
+      success: "#16a34a"
+      warning: "#f59e0b"
+      danger: "#ef4444"
+      surface: "#ffffff"
+      surface-foreground: "#111827"
+      muted: "#6b7280"
+      border: "#e5e7eb"
+    radius:
+      sm: 8
+      md: 12
+      lg: 16
+    elevation:
+      card: "0 1px 2px rgba(0,0,0,.06), 0 2px 8px rgba(0,0,0,.04)"
+    focus:
+      ring: "2px solid #38bdf8"
+    motion:
+      prefersReducedMotion: respect
+  typing_page_principles:
+    - Minimal & focused like Monkeytype; non-blocking UI
+    - Realtime feedback: per-char highlight (correct/incorrect/current)
+    - Countdown emphasis: big timer, <=10s turns warning color
+    - Sticky shortcuts bar: Space start/pause, R reset, F focus
+    - Paste disabled prompt; backspace toggle visible
+    - CapsLock & out-of-focus warnings; aria-live updates
+    - Performance-friendly; respect prefers-reduced-motion
+    - Insights 預設收起；採單線圖（速度=綠、正確率=藍）
+    - 圖上加註解：『這裡最高』與『最近（↑/↓）』並顯示數值
+    - 為圖與區塊提供 aria-label / aria-describedby 與簡短圖例文字（兒童可理解）
+    - 提供「小幫手」按鈕：開啟可存取對話框，用淺白語言解釋圖表與學習建議
+    - 語言切換放在 Profile；Header 不再顯示快速切換
+
+code_style:
+  - Clean names; guard clauses; no empty catch
+  - Comments explain why; avoid TODO
+  - Keep formatting consistent; do not reformat unrelated code
+  - Validate external data with Zod schemas in adapters/*
+
+git:
+  branches: [feat/*, fix/*, chore/*, docs/*]
+  commits: Conventional Commits
+  pr_checklist:
+    - Vitest unit tests pass
+    - Playwright e2e happy path passes
+
+dev_commands:
+  - nvm use 22
+  - npm run dev
+  - npm run build
+  - SITE_BASE=https://<domain> node scripts/gen-sitemap-robots.mjs
+
+references:
+  - react-router v7: "https://reactrouter.com/"
+  - i18next/react-i18next:
+    - "https://www.i18next.com/"
+    - "https://react.i18next.com/"
+  - MDN BCP-47 language tags: "https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang#language_tags_in_html"
+  - Firebase:
+    - Web setup: "https://firebase.google.com/docs/web/setup"
+    - Google Sign-In: "https://firebase.google.com/docs/auth/web/google-signin"
+    - Firestore rules: "https://firebase.google.com/docs/firestore/security/get-started"
+  - Tailwind v4 + @tailwindcss/vite: "https://tailwindcss.com/docs/installation/using-vite"
+  - Lighthouse performance targets: "https://web.dev/fast/"
+  - JSON-LD:
+    - SoftwareApplication: "https://schema.org/SoftwareApplication"
+    - LearningResource: "https://schema.org/LearningResource"
+  - UI Guidelines (本專案): "docs/ui-guidelines.md"
+
+adaptive_typing:
+  enabled: true
+  sources:
+    - content/en/ngrams.json
+    - content/zh/common.json
+  behavior:
+    - key-weight: w(key)=baseFreq*(1+alpha*errRate)*(1+beta*latencyZ)
+    - alpha: 0.8
+    - beta: 0.3
+    - english: avoid 3 same letters; insert bigrams occasionally
+    - chinese: compose 2–4 char chunks from common set
+    - after-segment: slightly decay weights for recently successful keys
+
+heatmap_charts:
+  keyboard: layout=['qwerty','bopomofo'], color=errRate, highlight=nextKey
+  charts: Speed(單線 adj，含最高/最近註記), Accuracy(單線)
+
+analytics_privacy:
+  ga4:
+    consent: { ad_storage: denied, ad_user_data: denied, ad_personalization: denied }
+    signals: { allow_google_signals: false, allow_ad_personalization_signals: false, ads_data_redaction: true }
+  cloudflare: allowed
+  mutually_exclusive: true
+  toggles:
+    - VITE_USE_GA=true -> load GA4 with Consent Mode defaults
+    - VITE_USE_CF=true -> load Cloudflare Web Analytics
+    - if both true -> warn and prefer GA4

@@ -1,0 +1,7 @@
+{
+  "_": "TODO: connect to VITE_SHEETS_CONTENT_URL (Apps Script) to fetch full n-grams",
+  "baseFreq": { "e": 0.127, "t": 0.091, "a": 0.082, "o": 0.075, "n": 0.067, "i": 0.066, "s": 0.063, "r": 0.060, "h": 0.061 },
+  "bigrams": [["th", 0.02], ["he", 0.018], ["in", 0.017], ["er", 0.016]]
+}
+
+

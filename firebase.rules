@@ -1,0 +1,60 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /profiles/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow create, update: if request.auth != null && request.auth.uid == uid;
+    }
+    match /attempts/{id} {
+      // 放寬：允許 >=5 秒的嘗試寫入（供活躍/歷程統計使用），其餘風險由前端反作弊與排行榜過濾處理
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.durationSec >= 5
+        && request.resource.data.accuracy >= 0 && request.resource.data.accuracy <= 1;
+      allow read: if true;
+      allow update, delete: if false;
+    }
+    match /trees/{doc} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
+      allow create, update: if request.auth != null && request.auth.uid == request.resource.data.uid;
+    }
+    // 果實：僅允許本人讀取；累計總數與每個視窗的頒發紀錄只能新增，不可修改或刪除
+    match /fruits/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow create: if request.auth != null && request.auth.uid == uid;
+      allow update: if request.auth != null && request.auth.uid == uid
+        && request.resource.data.total >= resource.data.total; // 只能遞增
+      allow delete: if false;
+      match /awards/{window} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow create: if request.auth != null && request.auth.uid == uid;
+        allow update, delete: if false; // 單次視窗頒發紀錄不可篡改
+      }
+    }
+    match /inventory/{uid} {
+      allow read, create, update: if request.auth != null && request.auth.uid == uid;
+    }
+    match /harvests/{id} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
+      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
+    }
+    match /economyLogs/{id} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
+      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
+    }
+    match /leaderboards/{lid} { allow read: if true; }
+    match /dailyProgress/{did} {
+      allow read, create, update: if request.auth != null && request.auth.uid == did.split('-')[0];
+    }
+    // 班級代碼全站唯一：以 docId 作為唯一鍵；僅『老師』可建立；不可修改/刪除
+    match /classCodes/{code} {
+      allow read: if true; // 允許前端檢查是否存在
+      allow create: if request.auth != null
+        && request.resource.data.owner == request.auth.uid
+        && get(/databases/$(database)/documents/profiles/$(request.auth.uid)).data.role == 'teacher';
+      allow update, delete: if false;
+    }
+  }
+}
+
+

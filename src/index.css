@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-brand: "Baloo 2", "Comic Sans MS", ui-rounded, var(--font-sans);
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { margin: 0; font-family: var(--font-sans); }
+
+/* Design tokens with CSS variables for theme + a11y */
+:root {
+  --color-primary: #16a34a;
+  --color-primary-foreground: #ffffff;
+  --color-border: #e5e7eb;
+  --color-muted: #6b7280;
+  --elevation-card: 0 1px 2px rgba(0,0,0,.06), 0 2px 8px rgba(0,0,0,.04);
+  /* Extended semantic colors */
+  --color-success: #16a34a;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+  /* Type scale */
+  --fs-xs: 12px;
+  --fs-sm: 14px;
+  --fs-md: 17px; /* 提升基準字級，兒童與行動裝置更易讀 */
+  --fs-lg: 19px;
+  --fs-xl: 22px;
+  --fs-2xl: 26px;
+  --fs-3xl: 30px;
+  --lh-tight: 1.3;
+  --lh-normal: 1.6;
+  --lh-loose: 1.9;
+}
+
+/* Global form controls sizing */
+select, input, textarea, button {
+  font-size: var(--fs-md);
+  line-height: var(--lh-normal);
+}
+/* Typing page enlargement */
+.typing-text { font-size: var(--fs-2xl); line-height: var(--lh-tight); color: #111827; }
+.typing-input { font-size: var(--fs-2xl); line-height: var(--lh-tight); color: #111827; }
+
+/* Unified typography utilities */
+.h1 { font-size: var(--fs-3xl); line-height: var(--lh-tight); font-weight: 700; }
+.h2 { font-size: var(--fs-2xl); line-height: var(--lh-tight); font-weight: 600; }
+.h3 { font-size: var(--fs-xl); line-height: var(--lh-tight); font-weight: 600; }
+.body { font-size: var(--fs-md); line-height: var(--lh-normal); }
+.muted { color: var(--color-muted); }
+
+/* Brand logo styles */
+.brand-title { font-family: var(--font-brand); font-weight: 800; letter-spacing: 0.5px; color: var(--color-primary,#16a34a); }
+.brand-subtitle { font-family: var(--font-sans); }
+
+
+/* High-contrast variant: auto via prefers-contrast / forced-colors */
+@media (prefers-contrast: more) {
+  :root { --color-border: #111827; --color-muted: #111827; --color-primary: #0a7a35; }
+}
+@media (forced-colors: active) {
+  :root { --color-border: CanvasText; --color-muted: CanvasText; --color-primary: Highlight; }
+}
+
+/* High-contrast manual toggle using .hc class on <html> */
+html.hc { --color-border: #111827; --color-muted: #111827; --color-primary: #0a7a35; }
