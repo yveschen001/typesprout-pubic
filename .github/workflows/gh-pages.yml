@@ -36,6 +36,7 @@ jobs:
           VITE_FIREBASE_MEASUREMENT_ID: ${{ secrets.VITE_FIREBASE_MEASUREMENT_ID }}
           VITE_ADS_ENABLED: ${{ secrets.VITE_ADS_ENABLED }}
           SITE_BASE: ${{ secrets.SITE_BASE }}
+          PUBLIC_BASE: ${{ secrets.PUBLIC_BASE }}
         run: npm run build
 
       - name: Install Playwright

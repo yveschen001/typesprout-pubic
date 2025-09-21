@@ -52,14 +52,13 @@ export async function applyAttemptRewards(params: {
     const target = typingConfig.targetByGrade[langKey]?.[grade as 1|2|3|4|5|6] || 20
 
     const epUncapped = base * minutes * clamp(adj / target, 0, 2) * (0.5 + 0.5 * accuracy)
-    // 鼓勵性規則：
-    // - 快速練習（≥5s 且 acc≥0.3）至少給 1 點，避免孩子灰心
-    // - 合格嘗試（≥30s 且 acc≥0.5）至少給 1 點；其餘採四捨五入
+    // 鼓勵性規則（更新）：
+    // - 合格嘗試（≥30s 且 acc≥0.5）至少給 1 點
+    // - 短練習階梯：若 acc≥0.3，按『每 10 秒至少 +1 點』計算下限（可累加）
     let epRounded = Math.round(epUncapped)
-    if (epRounded <= 0) {
-      if (durationSec >= 30 && accuracy >= 0.5) epRounded = 1
-      else if (durationSec >= 5 && accuracy >= 0.3) epRounded = 1
-    }
+    const shortFloor = (accuracy >= 0.3) ? Math.floor(durationSec / 10) : 0
+    epRounded = Math.max(epRounded, shortFloor)
+    if (epRounded <= 0 && durationSec >= 30 && accuracy >= 0.5) epRounded = 1
     const ep = Math.min(remainingCap, Math.max(0, epRounded))
 
   // boosters（讀取存貨）

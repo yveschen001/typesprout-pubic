@@ -405,6 +405,12 @@ function onOpen() {
     .addItem('③c zh-TW → 目標語言（批次翻譯）', 'translateContentBankZhTwToTarget')
     .addItem('③d 補翻譯：掃描空白目標並補齊', 'translateContentBankFillMissingTarget')
     .addItem('③b 偵錯：寫入一列到 content_bank', 'debugContentBankWrite1')
+    .addItem('⑦ 導出：content_bank → JSON（分頁）', 'exportContentBankToJsonPrompt')
+    .addItem('④e 擴充 content_bank 欄位（audience/category/…）', 'expandContentBankReservedColumns')
+    .addItem('④f 還原 content_bank 標準 5 欄', 'revertContentBankToBaseColumns')
+    .addSeparator()
+    .addItem('⑧ 檢查：非 zh 欄含中文 → 高亮', 'scanContentBankNonZhForChinese')
+    .addItem('⑧a 清除檢查高亮（語言欄）', 'scanContentBankClearHighlights')
     .addItem('④ 去重 QuestionBank（unit_id+Text）', 'dedupeQuestionBank')
     .addItem('④b 全局去重（僅 Text 規範化）', 'fastDedupeQuestionBankByText')
     .addItem('④c 補齊 content_bank 唯一 ID', 'fillContentBankMissingIds')
@@ -414,6 +420,8 @@ function onOpen() {
     .addItem('⑨a 生成索引（A–Z×10，英語，count=100）', 'buildAlphabetIndexEN260')
     .addItem('⑨b 重新編號 unit_id（依年級）', 'renumberIndexUnitIdsByGrade');
   ui.addToUi();
+  // 也掛上 Bible 菜單
+  try { if (typeof onOpen_BibleMenu === 'function') onOpen_BibleMenu(); } catch(e){ Logger.log('call onOpen_BibleMenu failed: '+e); }
 }
 
 function onOpen_old() {
@@ -480,6 +488,7 @@ function ensureContentBank_(){
   var sh = ss.getSheetByName(SHEET_CONTENT);
   if (!sh) sh = ss.insertSheet(SHEET_CONTENT);
   sh.clear();
+  // 回復為原來的 5 欄 + 語言（其餘作為可選的擴充，不強制）
   var headers = ['id','type','grade_min','grade_max','tags',
                  'zh-TW','en-US','es-MX','pt-BR','ja-JP','ko-KR','fr-FR','de-DE','it-IT','id-ID','vi-VN','th-TH','ru-RU',
                  'ar-SA','fil-PH','nl-NL','pl-PL','sv-SE','nb-NO','da-DK','fi-FI','ro-RO','el-GR','cs-CZ','hu-HU','uk-UA','ms-MY',
@@ -487,6 +496,188 @@ function ensureContentBank_(){
   sh.getRange(1,1,1,headers.length).setValues([headers]).setFontWeight('bold');
   sh.setFrozenRows(1);
   var c; for (c=1;c<=headers.length;c++) sh.autoResizeColumn(c);
+}
+
+// 就地擴充現有 content_bank 表頭，插入預留欄位（不清空資料）
+function expandContentBankReservedColumns(){
+  var ss = SpreadsheetApp.getActive();
+  var sh = ss.getSheetByName(SHEET_CONTENT);
+  if (!sh){ SpreadsheetApp.getUi().alert('缺少 content_bank 分頁'); return; }
+  var lastRow = sh.getLastRow();
+  var lastCol = sh.getLastColumn();
+  if (lastCol < 1){ SpreadsheetApp.getUi().alert('content_bank 表頭為空'); return; }
+
+  var headers = sh.getRange(1,1,1,lastCol).getValues()[0];
+  var map = {}; for (var i=0;i<headers.length;i++){ map[String(headers[i]).trim()] = i+1; }
+  var gmaxCol = map['grade_max'] || 0; var tagsCol = map['tags'] || 0;
+  if (!gmaxCol){ SpreadsheetApp.getUi().alert('找不到 grade_max 欄，無法就地插入預留欄位'); return; }
+
+  var reserves = ['audience','category','canonical_lang','series_id','source','license','rev_ts'];
+  var inserted = [];
+  var offset = 0;
+  for (var r=0; r<reserves.length; r++){
+    var name = reserves[r];
+    if (map[name]) continue; // 已存在則略過
+    sh.insertColumnAfter(gmaxCol + offset);
+    var colIdx = gmaxCol + offset + 1;
+    sh.getRange(1, colIdx, 1, 1).setValue(name).setFontWeight('bold');
+    inserted.push({ name:name, col:colIdx });
+    offset++;
+  }
+  if (!inserted.length){ SpreadsheetApp.getUi().alert('✅ 已有預留欄位，無需變更'); return; }
+
+  // 設定預設值（僅對資料列；不覆蓋已有值）
+  var rows = Math.max(0, lastRow - 1);
+  if (rows > 0){
+    for (var j=0; j<inserted.length; j++){
+      var ins = inserted[j];
+      var defaultVal = '';
+      if (ins.name==='audience') defaultVal = 'kids';
+      if (ins.name==='category') defaultVal = 'typing';
+      if (ins.name==='canonical_lang') defaultVal = 'zh-TW';
+      if (ins.name==='rev_ts') defaultVal = new Date().toISOString();
+      var rng = sh.getRange(2, ins.col, rows, 1);
+      var vals = rng.getValues();
+      var dirty = false;
+      for (var rr=0; rr<vals.length; rr++){
+        if (!String(vals[rr][0]||'').trim() && defaultVal){ vals[rr][0] = defaultVal; dirty = true; }
+      }
+      if (dirty) rng.setValues(vals);
+    }
+  }
+  SpreadsheetApp.getUi().alert('✅ 已插入預留欄位：'+inserted.map(function(x){return x.name}).join(', '));
+}
+
+// 還原成標準 5 欄（id/type/grade_min/grade_max/tags） + 語言欄
+function revertContentBankToBaseColumns(){
+  var ss = SpreadsheetApp.getActive();
+  var sh = ss.getSheetByName(SHEET_CONTENT);
+  if (!sh){ SpreadsheetApp.getUi().alert('缺少 content_bank 分頁'); return; }
+
+  function nowStr(){ return Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'yyyyMMdd-HHmm'); }
+
+  // 讀取原資料，先備份
+  var lastRow = sh.getLastRow(); var lastCol = sh.getLastColumn();
+  if (lastRow >= 1 && lastCol >= 1){
+    var all = sh.getRange(1,1,lastRow,lastCol).getValues();
+    try{
+      var bak = ss.insertSheet('content_bank_backup-'+nowStr());
+      bak.getRange(1,1,lastRow,lastCol).setValues(all); bak.setFrozenRows(1);
+    } catch(e){}
+  }
+
+  var targetHeaders = ['id','type','grade_min','grade_max','tags',
+    'zh-TW','en-US','es-MX','pt-BR','ja-JP','ko-KR','fr-FR','de-DE','it-IT','id-ID','vi-VN','th-TH','ru-RU',
+    'ar-SA','fil-PH','nl-NL','pl-PL','sv-SE','nb-NO','da-DK','fi-FI','ro-RO','el-GR','cs-CZ','hu-HU','uk-UA','ms-MY',
+    'hi-IN','bn-BD','he-IL','fa-IR','ur-PK','tr-TR','zh-CN'];
+
+  // 列映射
+  var outRows = [];
+  if (lastRow > 1){
+    var oldHeaders = sh.getRange(1,1,1,lastCol).getValues()[0];
+    var idxOld = {}; for (var i=0;i<oldHeaders.length;i++) idxOld[String(oldHeaders[i]).trim()] = i+1;
+    var idxNew = {}; for (var j=0;j<targetHeaders.length;j++) idxNew[targetHeaders[j]] = j+1;
+    var data = sh.getRange(2,1,lastRow-1,lastCol).getValues();
+    for (var r=0;r<data.length;r++){
+      var row = data[r];
+      var out = new Array(targetHeaders.length).fill('');
+      function copyField(name){ if(idxOld[name]) out[idxNew[name]-1] = row[idxOld[name]-1]; }
+      copyField('id'); copyField('type'); copyField('grade_min'); copyField('grade_max'); copyField('tags');
+      for (var k=5; k<targetHeaders.length; k++){
+        var lang = targetHeaders[k]; if (idxOld[lang]) out[idxNew[lang]-1] = row[idxOld[lang]-1];
+      }
+      outRows.push(out);
+    }
+  }
+
+  // 覆寫為標準欄位並寫回資料
+  sh.clear();
+  sh.getRange(1,1,1,targetHeaders.length).setValues([targetHeaders]).setFontWeight('bold');
+  if (outRows.length) sh.getRange(2,1,outRows.length,targetHeaders.length).setValues(outRows);
+  sh.setFrozenRows(1);
+  SpreadsheetApp.getUi().alert('✅ 已還原為標準欄位，且在同活頁簿建立備份分頁（content_bank_backup-日期）。原資料已保留於備份分頁。');
+}
+
+// 掃描 content_bank：所有非 zh-* 語言欄，若與 zh 文字的『前兩個可見字元』相同 → 高亮
+function scanContentBankNonZhForChinese(){
+  var ss = SpreadsheetApp.getActive();
+  var sh = ss.getSheetByName(SHEET_CONTENT);
+  if (!sh){ SpreadsheetApp.getUi().alert('缺少 content_bank 分頁'); return; }
+  var lastRow = sh.getLastRow(); var lastCol = sh.getLastColumn();
+  if (lastRow<2 || lastCol<1){ SpreadsheetApp.getUi().alert('content_bank 無資料'); return; }
+
+  var headers = sh.getRange(1,1,1,lastCol).getValues()[0];
+  var langCols = [];
+  for (var c=1;c<=lastCol;c++){
+    var name = String(headers[c-1]||'').trim();
+    if (!name || name==='id' || name==='type' || name==='grade_min' || name==='grade_max' || name==='tags') continue;
+    if (/^zh(?:-|$)/i.test(name)) continue; // 跳過 zh 欄
+    langCols.push({ col:c, name:name });
+  }
+  if (!langCols.length){ SpreadsheetApp.getUi().alert('找不到非 zh 的語言欄'); return; }
+
+  // 基準：優先 zh-TW，否則 zh-CN
+  var baseCol = -1;
+  for (var i0=1;i0<=lastCol;i0++){ var nm = String(headers[i0-1]||'').trim(); if (nm==='zh-TW'){ baseCol=i0; break; } }
+  if (baseCol<0){
+    for (var j0=1;j0<=lastCol;j0++){ var nm2 = String(headers[j0-1]||'').trim(); if (nm2==='zh-CN'){ baseCol=j0; break; } }
+  }
+  if (baseCol<0){ SpreadsheetApp.getUi().alert('找不到 zh-TW/zh-CN 參考欄，無法比較'); return; }
+
+  var rows = lastRow-1;
+  var hits = 0;
+  var color = '#fde2e2';
+
+  // 取 zh 基準前兩個可見字元
+  var baseVals = sh.getRange(2, baseCol, rows, 1).getValues();
+  var basePref = new Array(rows);
+  for (var r0=0;r0<rows;r0++){
+    basePref[r0] = firstTwoVisibleChars_(String(baseVals[r0][0]||''));
+  }
+
+  // 批次處理每個語言欄：一次讀值、一次寫背景
+  for (var i=0;i<langCols.length;i++){
+    var col = langCols[i].col;
+    var values = sh.getRange(2, col, rows, 1).getValues();
+    var bg = sh.getRange(2, col, rows, 1).getBackgrounds(); // 讀現有背景，避免覆蓋其他人工標記
+    for (var r=0;r<rows;r++){
+      var v = String(values[r][0]||'');
+      var pref = firstTwoVisibleChars_(v);
+      if (pref && pref === basePref[r]){ if (bg[r][0] !== color){ bg[r][0] = color; } hits++; }
+    }
+    sh.getRange(2, col, rows, 1).setBackgrounds(bg);
+  }
+  SpreadsheetApp.getUi().alert('檢查完成：高亮 '+hits+' 個可疑單元格（非 zh 欄與 zh 的前兩字相同）。');
+}
+
+function scanContentBankClearHighlights(){
+  var ss = SpreadsheetApp.getActive();
+  var sh = ss.getSheetByName(SHEET_CONTENT);
+  if (!sh){ SpreadsheetApp.getUi().alert('缺少 content_bank 分頁'); return; }
+  var lastRow = sh.getLastRow(); var lastCol = sh.getLastColumn();
+  if (lastRow<2 || lastCol<1){ SpreadsheetApp.getUi().alert('content_bank 無資料'); return; }
+  var headers = sh.getRange(1,1,1,lastCol).getValues()[0];
+  // 找到語言欄連續區段的起點（第一個非 meta 欄）
+  var firstLangCol = -1;
+  for (var c=1;c<=lastCol;c++){
+    var name = String(headers[c-1]||'').trim();
+    if (!name) continue;
+    if (name==='id' || name==='type' || name==='grade_min' || name==='grade_max' || name==='tags') continue;
+    firstLangCol = c; break;
+  }
+  if (firstLangCol<0){ SpreadsheetApp.getUi().alert('找不到語言欄'); return; }
+  var rows = lastRow-1;
+  var cols = lastCol - firstLangCol + 1;
+  // 一次性清空語言欄整塊背景（最快）
+  sh.getRange(2, firstLangCol, rows, cols).setBackground(null);
+  SpreadsheetApp.getUi().alert('已清除語言欄區塊的背景顏色（包含先前的高亮）。');
+}
+
+// 取前兩個可見字元（去掉空白與標點邊界，僅快速比對，不做語義）
+function firstTwoVisibleChars_(s){
+  var t = String(s||'').replace(/^[\s\u00A0\p{P}\p{S}]+/gu,'');
+  // 直接取前兩個 code unit（大多數 CJK 符合）；如不足兩個則原樣
+  return t.slice(0,2);
 }
 
 function ensureIndex_(){
@@ -2596,4 +2787,82 @@ function cleanQuestionBankRemoveBracketsAndTags(){
   if (keep.length) qb.getRange(rangeStart, 1, keep.length, QB_HEADERS.length).setValues(keep);
 
   SpreadsheetApp.getUi().alert('✅ 清潔完成：原 '+before+' 行 → 保留 '+keep.length+' 行（刪除 '+removed+' 行）。');
+}
+
+/* =================== 導出 content_bank → JSON（分頁） =================== */
+function exportContentBankToJsonPrompt(){
+  ensureSheetsExist_();
+  var ui = safeGetUi_();
+  if (!ui){ Logger.log('no UI'); return; }
+  var resp1 = ui.prompt('導出 content_bank', '輸入語言（如 zh-TW / en-US / ALL）：', ui.ButtonSet.OK_CANCEL);
+  if (resp1.getSelectedButton() !== ui.Button.OK) return;
+  var lang = String(resp1.getResponseText()||'').trim() || 'ALL';
+  var resp2 = ui.prompt('每頁筆數', '建議 1000（最大 5000）', ui.ButtonSet.OK_CANCEL);
+  if (resp2.getSelectedButton() !== ui.Button.OK) return;
+  var pageSize = Math.max(1, Math.min(5000, parseInt(String(resp2.getResponseText()||'1000'),10)||1000));
+  var out = exportContentBankToJson(lang, pageSize);
+  ui.alert('✅ 導出完成', '資料夾：'+out.folderName+'\n語言：'+out.lang+'\n檔數：'+out.files+'（含 index.json）', ui.ButtonSet.OK);
+}
+
+// 導出資料夾名稱：TypeSprout-Export-content_bank-<lang>-YYYYMMDD-HHMM
+function exportContentBankToJson(lang, pageSize){
+  var ss = SpreadsheetApp.getActive();
+  var cb = ss.getSheetByName(SHEET_CONTENT);
+  if (!cb) throw new Error('缺少 content_bank 分頁');
+  var headers = cb.getRange(1,1,1,cb.getLastColumn()).getValues()[0];
+  var col = {}; for (var i=0;i<headers.length;i++) col[String(headers[i]).trim()] = i+1;
+  var last = cb.getLastRow(); if (last<2) return { folderName:'(空)', lang:lang, files:0 };
+
+  function nowStr(){ return Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'yyyyMMdd-HHmm'); }
+  var langs = [];
+  if (String(lang||'ALL').toUpperCase()==='ALL'){
+    for (var h=0; h<headers.length; h++){
+      var nm = String(headers[h]||'').trim();
+      if (!nm || nm==='id' || nm==='type' || nm==='grade_min' || nm==='grade_max' || nm==='tags' || nm==='zh-TW') continue;
+      langs.push(nm);
+    }
+  } else {
+    if (!col[lang]) throw new Error('找不到語言欄：'+lang);
+    langs.push(lang);
+  }
+
+  var folderName = 'TypeSprout-Export-content_bank-'+(langs.length>1?'ALL':langs[0])+'-'+nowStr();
+  var folder = DriveApp.createFolder(folderName);
+
+  var totalRows = last - 1;
+  var meta = { version: 1, totalRows: totalRows, pageSize: pageSize, langs: langs, generatedAt: new Date().toISOString() };
+
+  // 逐語言輸出
+  var files = 0;
+  var filesPerLang = {};
+  for (var li=0; li<langs.length; li++){
+    var langName = langs[li];
+    var lcol = col[langName]; if (!lcol) continue;
+    var targetFolder = (langs.length>1) ? folder.createFolder(langName) : folder;
+    var page = 1;
+    var offset = 0;
+    while (offset < totalRows){
+      var size = Math.min(pageSize, totalRows - offset);
+      var rows = cb.getRange(2+offset, 1, size, cb.getLastColumn()).getValues();
+      var items = [];
+      for (var r=0; r<rows.length; r++){
+        var row = rows[r];
+        var id = String(row[col['id']-1]||'');
+        var tp = String(row[col['type']-1]||'');
+        var gm = Number(row[col['grade_min']-1]||1);
+        var gx = Number(row[col['grade_max']-1]||6);
+        var tags = String(row[col['tags']-1]||'');
+        var text = String(row[lcol-1]||'');
+        items.push({ id:id, lang:langName, type:tp, grade_min:gm, grade_max:gx, tags:tags, text:text });
+      }
+      var body = { items: items, page: page, next: (offset+size<totalRows) ? (page+1) : null };
+      var file = targetFolder.createFile('page-'+padNumber_(page,4)+'.json', JSON.stringify(body), 'application/json');
+      file.setDescription('content_bank export '+langName+' page '+page);
+      files++;
+      filesPerLang[langName] = (filesPerLang[langName]||0) + 1;
+      offset += size; page++;
+    }
+  }
+  folder.createFile('index.json', JSON.stringify(Object.assign({}, meta, { filesPerLang: filesPerLang })), 'application/json');
+  return { folderName: folder.getName(), lang: (langs.length>1?'ALL':langs[0]), files: files+1 };
 }

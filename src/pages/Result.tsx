@@ -27,6 +27,7 @@ export default function Result() {
   const { t } = useTranslation()
   const [vals, setVals] = useState<{ raw: number; accuracy: number; adj: number; dur: number; chars: number; totalQChars: number }>({ raw: state?.rawWpm ?? 0, accuracy: state?.accuracy ?? 0, adj: state?.adjWpm ?? 0, dur: state?.durationSec ?? 0, chars: state?.rawChars ?? 0, totalQChars: Math.max(0, Number(state?.totalQChars || 0)) })
   const [siteAvg, setSiteAvg] = useState<number | null>(null)
+  const [percentile, setPercentile] = useState<number | null>(null)
   const [histAdj, setHistAdj] = useState<Array<{ i: number; adj: number }>>([])
   const [histAcc, setHistAcc] = useState<Array<{ i: number; acc: number }>>([])
   const [showInsights, setShowInsights] = useState(false)
@@ -55,8 +56,19 @@ export default function Result() {
         const L = (lang || 'en-US') as string
         const rows = await getAttemptsWindow({ lang: L, days: 30, sampleLimit: 500 })
         const vals = rows.map((r: any) => Number((r as any).adjWpm || 0)).filter((v) => Number.isFinite(v))
-        const avg = trimmedMean(vals, 0.2)
+        const sorted = vals.slice().sort((a,b)=>a-b)
+        const avg = trimmedMean(sorted, 0.2)
         setSiteAvg(avg || 0)
+        if (sorted.length) {
+          const cur = Number(state?.adjWpm ?? adj) || 0
+          // 以「嚴格小於你的人」佔比作為百分位；範圍 [0.01, 99.99]
+          const below = sorted.filter(v => v < cur).length
+          const rawPct = (below / sorted.length) * 100
+          const pct = Math.min(99.99, Math.max(0.01, Number(rawPct.toFixed(2))))
+          setPercentile(Number.isFinite(pct) ? pct : null)
+        } else {
+          setPercentile(null)
+        }
       } catch {
         setSiteAvg(30)
       }
@@ -122,7 +134,7 @@ export default function Result() {
             <span>綜合分數（正確速度）：{adj.toFixed(1)}</span>
             <Tooltip label="綜合分數 = 只計正確字的輸入速度。計算方式：速度（WPM/CPM）× 正確率。用意：先把正確率練穩，再慢慢變快。">？</Tooltip>
           </li>
-          {siteAvg != null && (<li>相較站內平均（同語言）：{adj.toFixed(1)} / {siteAvg.toFixed(1)}</li>)}
+          {siteAvg != null && (<li>相較站內平均（同語言）：{adj.toFixed(1)} / {siteAvg.toFixed(1)}{percentile!=null?` · 超過約 ${(percentile as number).toFixed(2)}% 人`:''}</li>)}
         </ul>
         <div className="mt-3 flex gap-3">
           <Link to={`/${lang}/test`} className="inline-flex items-center gap-1 px-3 h-10 rounded-[10px] border">再試一次</Link>

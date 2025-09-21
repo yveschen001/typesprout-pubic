@@ -1,5 +1,5 @@
 import { db } from '../../libs/firebase'
-import { collection, query, where, orderBy, limit, getDocs, Timestamp, doc, getDoc } from 'firebase/firestore'
+import { collection, query, where, orderBy, limit, getDocs, Timestamp } from 'firebase/firestore'
 
 // simple in-memory cache with TTL
 type CacheEntry<T> = { at: number; data: T }
@@ -21,6 +21,29 @@ export async function getTotalUsers(): Promise<number> {
   try {
     const since = Timestamp.fromMillis(Date.now() - 30 * 24 * 60 * 60 * 1000)
     const q = query(collection(db, 'attempts'), where('ts', '>=', since), orderBy('ts', 'desc'), limit(2000))
+    const snaps = await getDocs(q)
+    const unique = new Set<string>()
+    for (const d of snaps.docs) {
+      const data = d.data() as Record<string, unknown>
+      const uid = data.uid as string | undefined
+      if (uid) unique.add(uid)
+    }
+    setCache(key, unique.size)
+    return unique.size
+  } catch {
+    return cached ?? 0
+  }
+}
+
+// 全站歷史玩家總數（近似）：
+// 由於無法公開讀 profiles，改以 attempts 全量去重 uid 估算。
+// 注意：此方法受限於查詢上限與抽樣；如需更準確，建議改為後台週期彙總到 metrics。
+export async function getTotalUsersAllTime(sampleLimit: number = 50000): Promise<number> {
+  const key = `totalUsersAll:${sampleLimit}`
+  const cached = getCache<number>(key)
+  if (cached != null) return cached
+  try {
+    let q = query(collection(db, 'attempts'), orderBy('ts', 'desc'), limit(sampleLimit))
     const snaps = await getDocs(q)
     const unique = new Set<string>()
     for (const d of snaps.docs) {

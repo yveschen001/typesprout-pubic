@@ -6,7 +6,7 @@ import Tooltip from '../components/Tooltip'
 import { typingConfig } from '../features/typing/config'
 import { db } from '../libs/firebase'
 import { collection, query as fq, where, orderBy, onSnapshot, Timestamp, doc, getDoc } from 'firebase/firestore'
-import { signInWithGoogleRedirect } from '../features/auth/actions'
+// removed inline sign-in button; use header AuthWidget only
 import { useEffect, useState } from 'react'
 import { loadReminderPref, requestNotifyPermission, shouldRemind, showReminderNotification } from '../libs/reminders'
 
@@ -99,11 +99,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <Seo title={meta.title} description={meta.description} canonicalPath={canonicalPath} />
+      {/* 儲存最終語言選擇到 localStorage，供下次優先使用 */}
+      {typeof window !== 'undefined' && lang && (
+        <script dangerouslySetInnerHTML={{ __html: `try{localStorage.setItem('typesprout_lang','${L}')}catch{}` }} />
+      )}
       {user && (
         <div className="bg-[var(--color-surface,#fff)]/90 backdrop-blur border-b border-[var(--color-border,#e5e7eb)] sticky top-0 z-30" aria-label="今日進度">
           <div className="max-w-[960px] mx-auto px-4 py-2 text-sm flex items-center justify-between gap-3">
             <div className="text-[var(--color-muted,#6b7280)] flex items-center">今日：{todayEarned}/{typingConfig.dailyEpCap}（剩餘 {Math.max(0, typingConfig.dailyEpCap - todayEarned)}）{(estMinLeft!=null) && ` · 估約 ${estMinLeft} 分`}
-              <Tooltip label={`怎麼拿點數？每次測驗依『時間×速度×正確率』換算（base×分鐘×(速度/目標，最多×2)×(0.5+0.5×正確率)）。每日上限 100；短練習（≥5 秒且正確率≥30%）至少 +1。${estMinLeft!=null?` 依你最近表現，達到上限約還需 ${estMinLeft} 分鐘。`:''}`}>？</Tooltip>
+              <Tooltip label={`怎麼拿點數？每次測驗依『時間×速度×正確率』換算（base×分鐘×(速度/目標，最多×2)×(0.5+0.5×正確率)）。每日上限 100；鼓勵規則：正確率≥30% 時，每 10 秒至少 +1 點（可累加）；≥30 秒且正確率≥50% 至少 +1。${estMinLeft!=null?` 依你最近表現，達到上限約還需 ${estMinLeft} 分鐘。`:''}`}>？</Tooltip>
             </div>
             <div className="text-[12px] text-[var(--color-muted,#6b7280)]">小提醒：每天練一點，樹就會長大！</div>
           </div>
@@ -113,10 +117,9 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="bg-sky-50 border-b border-sky-200 text-[var(--color-surface-foreground,#111827)]">
           <div className="max-w-[960px] mx-auto px-4 py-2 text-sm flex items-center justify-between gap-3 flex-wrap" role="region" aria-label="登入建議">
             <div>
-              建議使用 Google 登入以保存你的成績與歷程；本網站重視匿名與隱私，不會儲存個人敏感資料。
+              建議使用右上角「Sign in with Google」登入以保存你的成績與歷程；本網站重視匿名與隱私，不會儲存個人敏感資料。
             </div>
             <div className="flex items-center gap-2">
-              <button className="px-3 py-1 rounded border bg-white" onClick={()=>{ void signInWithGoogleRedirect() }}>使用 Google 登入</button>
               <button className="px-2 py-1 rounded border" onClick={()=>{ setHideLoginHint(true); try{ sessionStorage.setItem('hideLoginHint','1') }catch{} }} aria-label="關閉提示">稍後</button>
             </div>
           </div>

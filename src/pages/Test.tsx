@@ -73,6 +73,9 @@ export default function Test() {
   // 游標與已看過集合，推遲到按下 Start 才更新，避免未開始就「換題」
   const cursorKeyRef = useRef<string>('')
   const newCursorRef = useRef<number>(0)
+  // 續載控制：下一個要抓的起始頁、避免重複預取的旗標
+  const nextStartPageRef = useRef<number>(1)
+  const prefetchingRef = useRef<boolean>(false)
   const seenKeyRef = useRef<string>('typesprout_seen_ids')
   const mergedSeenIdsRef = useRef<string[]>([])
   const [userGrade, setUserGrade] = useState<number | null>(null)
@@ -187,7 +190,42 @@ export default function Test() {
         let items: SheetItem[] | null = null
         try {
           type FetchArgs = { lang: string; grade?: number; limit?: number; after?: string; signal?: AbortSignal }
-          items = await (fetchContent as (p: FetchArgs) => Promise<SheetItem[] | null>)({ lang: (lang || 'en-US'), limit: 200, signal: controller.signal }) as SheetItem[] | null
+          // 動態控制抓取上限：以題數的 4 倍為上限，兼顧去重與年級篩選；最少 60，最多 200
+          const dynamicLimit = Math.min(200, Math.max(numQuestions * 4, 60))
+          // 先載「游標所在頁」的 1 頁（或 60 筆），立即可玩
+          const cursorKey = `typesprout_cursor_${lang || 'en-US'}`
+          const cur0 = Number(localStorage.getItem(cursorKey) || '0')
+          // 從 index.json 讀取實際 pageSize（若取不到，退回 500）
+          let pageSize = 500
+          try {
+            const res = await fetch('/index.json', { signal: controller.signal })
+            const idx = await res.json() as { pageSize?: number }
+            if (idx && Number(idx.pageSize)) pageSize = Math.max(1, Number(idx.pageSize))
+          } catch {}
+          const startPage = Math.max(1, Math.floor(cur0 / Math.max(1, pageSize)) + 1)
+          items = await (fetchContent as (p: FetchArgs) => Promise<SheetItem[] | null>)({ lang: (lang || 'en-US'), limit: dynamicLimit, startPage, pageCount: 1, signal: controller.signal }) as SheetItem[] | null
+          // 背景續載：若需要更多題，從下一頁開始抓 1~2 頁補池（不阻塞 UI）
+          try {
+            const needMore = dynamicLimit < 150
+            if (needMore) {
+              const nextStart = startPage + 1
+              nextStartPageRef.current = Math.max(nextStartPageRef.current, nextStart)
+              setTimeout(() => {
+                (fetchContent as any)({ lang: (lang || 'en-US'), limit: 200, startPage: nextStart, pageCount: 2, signal: undefined })
+                  .then((more: SheetItem[] | null) => {
+                    if (!more || !more.length) return
+                    // 合併到快取：沿用下方 cacheKey（只影響下一輪刷新）
+                    try {
+                      const cacheKey = `typesprout_qs_cache_${lang || 'en-US'}`
+                      const cachedArr = JSON.parse(localStorage.getItem(cacheKey) || '[]') as string[]
+                      const merge = [...cachedArr, ...more.map((m:any)=> String((m.structured as any)?.q || m.text || ''))]
+                      localStorage.setItem(cacheKey, JSON.stringify(merge.slice(0, 800)))
+                    } catch {}
+                  })
+                  .catch(() => {})
+              }, 0)
+            }
+          } catch {}
         } catch (e) {
           if (import.meta.env.DEV) console.error('fetchContent failed', e)
           items = null
@@ -195,8 +233,12 @@ export default function Test() {
         if (!items) items = []
         if (!items || !Array.isArray(items) || items.length === 0) {
           const src = (()=>{ try { return localStorage.getItem('typesprout_last_content_source')||'' } catch { return '' } })()
-          const hint = src.startsWith('remote') ? '遠端資料為空' : '已自動改用本地後備題庫（不影響作答）'
-          setLoadError(`取題失敗或資料為空：${hint}。若要使用雲端題庫，請在 GAS 執行「③ 一鍵同步」或檢查 /exec 權限。`)
+          if (src === 'local:lang-missing') {
+            setLoadError(`該語言目前找不到題庫（${lang || 'en-US'}）。請確認 public/${lang || 'en-US'}/page-0001.json 與 index.json 中的 langs / filesPerLang 已註冊。`)
+          } else {
+            const hint = src.startsWith('remote') ? '遠端資料為空' : '已自動改用本地後備題庫（不影響作答）'
+            setLoadError(`取題失敗或資料為空：${hint}。若要使用雲端題庫，請在 GAS 執行「③ 一鍵同步」或檢查 /exec 權限。`)
+          }
           setQuestions([]); setQIndex(0); setText('Kids Typing & Tree Growth')
           return
         }
@@ -249,13 +291,26 @@ export default function Test() {
         const seenIds = new Set<string>()
         const uniqueAll: Array<{ id: string; text: string }> = []
         for (const it of allWithId) { if (!seenIds.has(it.id)) { seenIds.add(it.id); uniqueAll.push(it) } }
+        // 防呆：若因過濾或已看過導致為空，退回使用「未過濾的原始 items」
+        let pool: Array<{ id: string; text: string }> = uniqueAll
+        if (pool.length === 0 && (items && items.length)) {
+          const alt = (items as SheetItem[]).map((it: SheetItem) => {
+            const st = it.structured as StructuredText | undefined
+            const q = st?.q || (typeof it.text === 'string' ? it.text : 'Kids Typing & Tree Growth')
+            const sid = typeof it.id === 'string' && it.id.length ? it.id : hash32(q)
+            return { id: sid, text: q }
+          })
+          const seen2 = new Set<string>()
+          pool = []
+          for (const it of alt) { if (!seen2.has(it.id)) { seen2.add(it.id); pool.push(it) } }
+        }
         // 游標：同語言持久化；直到走完整個 uniqueAll 前不重複
         const cursorKey = `typesprout_cursor_${lang || 'en-US'}`
         const cur0 = Number(localStorage.getItem(cursorKey) || '0')
-        const total = uniqueAll.length
+        const total = pool.length
         const startIdx = Number.isFinite(cur0) ? Math.max(0, Math.min(cur0, Math.max(0,total-1))) : 0
         const seq: Array<{id:string; text:string}> = []
-        for (let i=0;i<Math.min(numQuestions,total);i++) seq.push(uniqueAll[(startIdx + i) % total])
+        for (let i=0;i<Math.min(numQuestions,total);i++) seq.push(pool[(startIdx + i) % total])
         const newCursor = (startIdx + Math.min(numQuestions,total)) % Math.max(1,total)
         // 可選：維持歷史已看過集合（與游標互不衝突）
         const ids = seq.map(it => it.id)
@@ -509,6 +564,32 @@ export default function Test() {
       } catch { setHistAdj([]); setHistAcc([]) }
     })()
   }, [user])
+
+  // 續載觸發：剩餘題數低於閾值時，預取下一頁補池
+  useEffect(() => {
+    if (!questions || questions.length === 0) return
+    const remain = Math.max(0, (questions.length - 1) - qIndex)
+    const THRESH = 10
+    if (remain <= THRESH && !prefetchingRef.current) {
+      prefetchingRef.current = true
+      try {
+        const L = (lang || 'en-US')
+        const nextStart = Math.max(1, nextStartPageRef.current)
+        ;(fetchContent as any)({ lang: L, limit: 200, startPage: nextStart, pageCount: 1, signal: undefined })
+          .then((more: SheetItem[] | null) => {
+            if (!more || !more.length) return
+            try {
+              const cacheKey = `typesprout_qs_cache_${L}`
+              const cachedArr = JSON.parse(localStorage.getItem(cacheKey) || '[]') as string[]
+              const merge = [...cachedArr, ...more.map((m:any)=> String((m.structured as any)?.q || m.text || ''))]
+              localStorage.setItem(cacheKey, JSON.stringify(merge.slice(0, 1000)))
+            } catch {}
+            nextStartPageRef.current = nextStart + 1
+          })
+          .finally(() => { prefetchingRef.current = false })
+      } catch { prefetchingRef.current = false }
+    }
+  }, [qIndex, questions, lang])
 
   const persistAttempt = useCallback(async () => {
     try {

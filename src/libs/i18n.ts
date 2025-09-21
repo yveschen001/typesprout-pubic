@@ -150,7 +150,16 @@ export function initI18n(defaultLng: string = defaultLang) {
       .use(initReactI18next)
       .init({
         resources,
-        lng: defaultLng,
+        // 以使用者先前選擇為主（localStorage: typesprout_lang），否則退回瀏覽器語言，再退回預設
+        lng: (() => {
+          try { const saved = localStorage.getItem('typesprout_lang'); if (saved) return saved } catch {}
+          try {
+            const b = navigator.language || defaultLng
+            const short = String(b||'').slice(0,2)
+            const map: Record<string, string> = { zh: 'zh-TW', en: 'en-US' }
+            return (map[short] || defaultLang)
+          } catch { return defaultLng }
+        })(),
         fallbackLng: 'en-US',
         load: 'currentOnly',
         interpolation: { escapeValue: false },
@@ -168,7 +177,11 @@ export function initI18n(defaultLng: string = defaultLang) {
   }
   else {
     // already initialized → ensure language matches current route/default
-    try { void i18n.changeLanguage(defaultLng) } catch {}
+    try {
+      const saved = (()=>{ try { return localStorage.getItem('typesprout_lang') || '' } catch { return '' } })()
+      const to = saved || defaultLng
+      void i18n.changeLanguage(to)
+    } catch {}
   }
   return i18n
 }

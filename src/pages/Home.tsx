@@ -1,7 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import AuthWidget from '../features/auth'
 import { useEffect, useState } from 'react'
-import { getTotalUsers, getAttemptsWindow, trimmedMean, getCountryCounts } from '../adapters/firestore/stats'
+import { getTotalUsersAllTime, getAttemptsWindow, trimmedMean, getCountryCounts } from '../adapters/firestore/stats'
 import AdsSlot from '../components/AdsSlot'
 import WorldMap from '../components/WorldMap'
 import Tooltip from '../components/Tooltip'
@@ -52,7 +52,7 @@ export default function Home() {
       try {
         setErr('')
         const [users, attempts, your30d] = await Promise.all([
-          getTotalUsers(),
+          getTotalUsersAllTime(50000),
           getAttemptsWindow({ lang: L, days: 30, sampleLimit: 500 }),
           getAttemptsWindow({ lang: L, days: 30, sampleLimit: 200 }),
         ])
@@ -145,7 +145,7 @@ export default function Home() {
       {/* Stats cards */}
       <div className="mt-4 grid gap-3 [grid-template-columns:repeat(auto-fit,minmax(180px,1fr))] items-end">
         <div className="p-3 border border-[var(--color-border,#e5e7eb)] rounded-[12px] shadow-[var(--elevation-card,0_1px_2px_rgba(0,0,0,.06),_0_2px_8px_rgba(0,0,0,.04))] relative pr-3">
-          <div className="flex items-center justify-between text-[var(--color-muted,#6b7280)]"><span className="inline-flex items-center gap-1">玩家數（30 天）<Tooltip label={ (L==='zh-TW') ? '最近 30 天有練習或測驗的小朋友數量（不記名）' : ((t('tips.players') !== 'tips.players') ? t('tips.players') : (t('home.visitorsDesc') || 'Visitors in last 30 days')) }>?</Tooltip></span><Users size={16} /></div>
+          <div className="flex items-center justify-between text-[var(--color-muted,#6b7280)]"><span className="inline-flex items-center gap-1">玩家數（歷史）<Tooltip label='從所有成績中估算的不重複玩家總數（匿名）'>?</Tooltip></span><Users size={16} /></div>
           <div className="h2" aria-live="polite">{Number.isFinite(cuUsers) ? Math.round(cuUsers) : 0}</div>
         </div>
         <div className="p-3 border border-[var(--color-border,#e5e7eb)] rounded-[12px] shadow-[var(--elevation-card,0_1px_2px_rgba(0,0,0,.06),_0_2px_8px_rgba(0,0,0,.04))] relative pr-3">

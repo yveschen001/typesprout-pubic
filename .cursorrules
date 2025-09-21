@@ -153,12 +153,26 @@ git:
   pr_checklist:
     - Vitest unit tests pass
     - Playwright e2e happy path passes
+  backup_push:
+    remotes:
+      private: origin   # https://github.com/yveschen001/typesprout
+      public: public    # https://github.com/yveschen001/typesprout-pubic
+    rules:
+      - Never push secrets to public (dotenv/.env*, service keys). Already ignored by .gitignore
+      - Public push is only executed on explicit user command
+    commands:
+      private_push: git push origin main
+      public_push: git push public main
 
 dev_commands:
   - nvm use 22
   - npm run dev
   - npm run build
   - SITE_BASE=https://<domain> node scripts/gen-sitemap-robots.mjs
+  - git push origin main   # 私庫（private）
+  - git push public main   # 公庫（public，typesprout-pubic）
+  - npm run deploy:private  # 本地建置 → 推 dist 到 origin:gh-pages
+  - npm run deploy:public   # 本地建置（SITE_BASE=https://typesprout.com，PUBLIC_BASE=/，含 CNAME）→ 推 dist 到 public:gh-pages
 
 references:
   - react-router v7: "https://reactrouter.com/"
@@ -176,6 +190,17 @@ references:
     - SoftwareApplication: "https://schema.org/SoftwareApplication"
     - LearningResource: "https://schema.org/LearningResource"
   - UI Guidelines (本專案): "docs/ui-guidelines.md"
+
+dns_pages:
+  domain: typesprout.com
+  provider: GitHub Pages
+  steps:
+    - 在公庫 `typesprout-pubic` 的 Pages 設定自訂網域填入 `typesprout.com`
+    - 在 DNS 設定：
+      - A 記錄 → 185.199.108.153 / 185.199.109.153 / 185.199.110.153 / 185.199.111.153
+      -（可選）加一個 `www` 的 CNAME 指向 `yveschen001.github.io`
+    - 佈署流程會自動在 gh-pages 產出 `CNAME` 檔，內容為 `typesprout.com`
+    - 變更 DNS 後，等待生效（通常數分鐘至 24 小時）
 
 adaptive_typing:
   enabled: true
