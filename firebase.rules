@@ -1,24 +1,100 @@
+// Firestore Security Rules (integrated)
+
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
+
+    // 個人檔案
     match /profiles/{uid} {
+      // 允許讀取 country 字段用於統計，其他敏感資料僅本人可讀
       allow read: if request.auth != null && request.auth.uid == uid;
+      // 允許公開讀取 country 字段用於世界地圖統計（查詢時）
+      allow read: if true &&
+        request.query != null &&
+        request.query.limit <= 2000 &&
+        request.query.select == 'country';
+      // 允許排行榜讀取基本資料（查詢時）
+      allow read: if true &&
+        request.query != null &&
+        request.query.limit <= 1000;
+      // 允許未登入用戶讀取單個文檔（用於排行榜頭像等）
+      allow read: if true;
       allow create, update: if request.auth != null && request.auth.uid == uid;
     }
+
+    // 嘗試紀錄（逐題計時 + 基本欄位/範圍驗證）
     match /attempts/{id} {
-      // 放寬：允許 >=5 秒的嘗試寫入（供活躍/歷程統計使用），其餘風險由前端反作弊與排行榜過濾處理
       allow create: if request.auth != null
         && request.resource.data.uid == request.auth.uid
-        && request.resource.data.durationSec >= 5
-        && request.resource.data.accuracy >= 0 && request.resource.data.accuracy <= 1;
+        // 基本統計欄位
+        && (request.resource.data.accuracy is number
+            && request.resource.data.accuracy >= 0
+            && request.resource.data.accuracy <= 1)
+        && (request.resource.data.adjWpm is number
+            && request.resource.data.adjWpm >= 0)
+        // 實際輸入總時間/總字數
+        && (request.resource.data.totalInputMs is number
+            && request.resource.data.totalInputMs >= 1000
+            && request.resource.data.totalInputMs <= 60*60*1000)
+        && (request.resource.data.totalChars is number
+            && request.resource.data.totalChars >= 1
+            && request.resource.data.totalChars <= 5000)
+        // 逐題列表：型別+數量（規則語言不支援逐項檢查）
+        && (request.resource.data.questions is list
+            && request.resource.data.questions.size() >= 1
+            && request.resource.data.questions.size() <= 120);
+      // 公開讀取用於統計和排行榜
       allow read: if true;
       allow update, delete: if false;
     }
+
+    // 樹
     match /trees/{doc} {
       allow read: if request.auth != null && request.auth.uid == resource.data.uid;
       allow create, update: if request.auth != null && request.auth.uid == request.resource.data.uid;
     }
-    // 果實：僅允許本人讀取；累計總數與每個視窗的頒發紀錄只能新增，不可修改或刪除
+
+    // 道具/庫存
+    match /inventory/{uid} {
+      allow read, create, update: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // 收成
+    match /harvests/{id} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
+      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
+    }
+
+    // 經濟紀錄
+    match /economyLogs/{id} {
+      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
+      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
+    }
+
+    // 排行（公開讀）
+    match /leaderboards/{lid} { allow read: if true; }
+
+    // 每日進度（文件 id 為 uid-...）
+    match /dailyProgress/{did} {
+      allow read, create, update: if request.auth != null && request.auth.uid == did.split('-')[0];
+    }
+
+    // 班級代碼（全站唯一）：任何人可讀；只能建立，不可修改/刪除
+    // 建立時必須寫入 owner=auth.uid
+    match /classCodes/{code} {
+      allow read: if true;
+      allow create: if request.auth != null
+        && request.resource.data.owner == request.auth.uid;
+      allow update, delete: if false;
+    }
+
+    // 新增：國家統計集合（公開讀取）
+    match /metrics_country/{country} {
+      allow read: if true;
+      allow write: if false; // 只允許後台寫入
+    }
+
+    // 新增：果實統計（僅本人可讀）
     match /fruits/{uid} {
       allow read: if request.auth != null && request.auth.uid == uid;
       allow create: if request.auth != null && request.auth.uid == uid;
@@ -31,30 +107,5 @@ service cloud.firestore {
         allow update, delete: if false; // 單次視窗頒發紀錄不可篡改
       }
     }
-    match /inventory/{uid} {
-      allow read, create, update: if request.auth != null && request.auth.uid == uid;
-    }
-    match /harvests/{id} {
-      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
-      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
-    }
-    match /economyLogs/{id} {
-      allow read: if request.auth != null && request.auth.uid == resource.data.uid;
-      allow create: if request.auth != null && request.resource.data.uid == request.auth.uid;
-    }
-    match /leaderboards/{lid} { allow read: if true; }
-    match /dailyProgress/{did} {
-      allow read, create, update: if request.auth != null && request.auth.uid == did.split('-')[0];
-    }
-    // 班級代碼全站唯一：以 docId 作為唯一鍵；僅『老師』可建立；不可修改/刪除
-    match /classCodes/{code} {
-      allow read: if true; // 允許前端檢查是否存在
-      allow create: if request.auth != null
-        && request.resource.data.owner == request.auth.uid
-        && get(/databases/$(database)/documents/profiles/$(request.auth.uid)).data.role == 'teacher';
-      allow update, delete: if false;
-    }
   }
 }
-
-

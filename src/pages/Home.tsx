@@ -10,7 +10,7 @@ import { db } from '../libs/firebase'
 import { doc, getDoc } from 'firebase/firestore'
 import { Users, Keyboard, BarChart3, Trophy, Globe, ChevronRight } from 'lucide-react'
 import Seedling from '../features/seedling/Seedling'
-import { loadGarden } from '../features/garden/api'
+import { loadGarden, updateStageFromRecentActivity } from '../features/garden/api'
 import { useTranslation } from 'react-i18next'
 import { debugLog } from '../utils/debug'
 
@@ -131,7 +131,7 @@ export default function Home() {
     })()
   }, [user])
 
-  // 載入植物階段：與 Garden 頁面使用相同的數據源
+  // 載入植物階段：與 Garden 頁面使用相同的數據源和計算邏輯
   useEffect(() => {
     async function loadPlantStage() {
       if (!user) {
@@ -140,8 +140,19 @@ export default function Home() {
       }
       
       try {
+        // 先從loadGarden獲取基本數據
         const gardenData = await loadGarden(user.uid)
-        const stage = Number(gardenData.tree?.stage || 1)
+        let stage = Number(gardenData.tree?.stage || 1)
+        
+        // 然後調用updateStageFromRecentActivity重新計算階段（與Garden頁面一致）
+        try {
+          const { stage: newStage } = await updateStageFromRecentActivity(user.uid)
+          stage = newStage
+          console.log('Home: 重新計算階段', { originalStage: Number(gardenData.tree?.stage || 1), newStage })
+        } catch (error) {
+          console.warn('Home: updateStageFromRecentActivity failed, using original stage:', error)
+        }
+        
         setPlantStage(Math.min(5, Math.max(1, stage)))
       } catch (error) {
         console.error('Failed to load plant stage:', error)

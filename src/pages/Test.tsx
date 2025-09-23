@@ -46,10 +46,15 @@ export default function Test() {
     if (![1,3,5].includes(perCharSec)) setPerCharSec(5)
   }, [perCharSec])
   const allowedMsFor = useCallback((textStr: string) => Math.max(1000, Math.floor(textStr.length * perCharSec * 1000)), [perCharSec])
-  const [elapsedMs, setElapsedMs] = useState(0)
   const [leftMs, setLeftMs] = useState(0)
   const [histAdj, setHistAdj] = useState<Array<{ i: number; adj: number }>>([])
   const [histAcc, setHistAcc] = useState<Array<{ i: number; acc: number }>>([])
+  // 每題獨立計時
+  const [currentQuestionStartTime, setCurrentQuestionStartTime] = useState<number | null>(null)
+  const [currentQuestionElapsedMs, setCurrentQuestionElapsedMs] = useState(0)
+  // 累積所有題目的成績
+  const [totalEffectiveMs, setTotalEffectiveMs] = useState(0)
+  const [totalEffectiveChars, setTotalEffectiveChars] = useState(0)
   // removed keyboard aggregate state
   const [loadingQs, setLoadingQs] = useState(false)
   const [loadError, setLoadError] = useState('')
@@ -172,7 +177,6 @@ export default function Test() {
             setMessage(((lang || 'en-US').startsWith('zh') ? '按下 Start 後，請輸入上方文字。禁止貼上。' : 'Press Start and type the text above. Paste is disabled.'))
             const firstAllowed = allowedMsFor(first)
             setLeftMs(firstAllowed)
-            setElapsedMs(0)
             setAccumTyped(0); setAccumCorrect(0)
             setRecords([])
             qStartRef.current = Date.now()
@@ -402,7 +406,6 @@ export default function Test() {
           setMessage(((lang || 'en-US').startsWith('zh') ? '按下 Start 後，請輸入上方文字。禁止貼上。' : 'Press Start and type the text above. Paste is disabled.'))
           const firstAllowed = allowedMsFor(first)
           setLeftMs(firstAllowed)
-          setElapsedMs(0)
           setAccumTyped(0); setAccumCorrect(0)
           setRecords([])
           qStartRef.current = Date.now()
@@ -432,6 +435,18 @@ export default function Test() {
     if (!running && text) setLeftMs(allowedMsFor(text))
   }, [perCharSec, text, running, allowedMsFor])
 
+  // 確保每題開始時正確設置計時器
+  useEffect(() => {
+    if (running && !startedRef.current && text && isFocused) {
+      // 如果正在運行、尚未開始、有題目且已聚焦，設置計時器
+      qStartPerfRef.current = performance.now()
+      lastTickRef.current = performance.now()
+      setLeftMs(allowedMsFor(text))
+      startedRef.current = true
+      console.log(`Test: 第${qIndex + 1}题开始计时 - qStartPerfRef: ${qStartPerfRef.current}`)
+    }
+  }, [running, text, isFocused, allowedMsFor, qIndex])
+
   
 
   useEffect(() => {
@@ -460,13 +475,14 @@ export default function Test() {
   const totalTypedAll = accumTyped + input.length
   const totalCorrectAll = accumCorrect + correctCurrent
   console.log(`Test: 实时显示 - 第${qIndex + 1}题, totalTypedRef: ${totalTypedRef.current}, input.length: ${input.length}, totalTypedAll: ${totalTypedAll}`)
-  const minutes = useMemo(() => Math.max(elapsedMs / 1000, 0.01) / 60, [elapsedMs])
+  const minutes = useMemo(() => Math.max(currentQuestionElapsedMs / 1000, 0.01) / 60, [currentQuestionElapsedMs])
   const isZhTyping = useMemo(() => typingLang === 'zh' || (typingLang === 'auto' && (lang || 'en-US').startsWith('zh')), [typingLang, lang])
-  const rawBase = isZhTyping ? (totalTypedAll / minutes) : ((totalTypedAll / 5) / minutes)
-  // 准确率应该基于题目总字数计算，未输入的部分算作错误
+  // 准确率：正确字数 ÷ 题目总字数
   const totalQCharsAll = useMemo(() => (questions || []).reduce((s, q) => s + ((q?.length) || 0), 0), [questions])
   const accuracy = useMemo(() => (totalQCharsAll > 0 ? totalCorrectAll / totalQCharsAll : 0), [totalQCharsAll, totalCorrectAll])
-  const adjWpm = useMemo(() => rawBase * accuracy, [rawBase, accuracy])
+  // 速度：基于实际打出的正确字数计算
+  const rawBase = isZhTyping ? (totalCorrectAll / minutes) : ((totalCorrectAll / 5) / minutes)
+  const adjWpm = useMemo(() => rawBase, [rawBase]) // 综合分数就是正确速度，不需要再乘以正确率
   // 顯示倒數：使用「向上取兩位小數」確保在真正歸零前不會顯示 0.00
   const leftSecDisplay = useMemo(() => (Math.max(0, Math.ceil(leftMs / 10) / 100)).toFixed(2), [leftMs])
   // 題目字數統計（方便對帳）- 已在上面定義
@@ -534,7 +550,12 @@ export default function Test() {
     const tokenSig = hash32(sessionTokenRef.current + '|' + qid + '|' + String(chars) + '|' + String(spentMs))
     questionsPayloadRef.current.push({ qid, chars, spentMs, mistakes: mistakesRef.current, fastViolation, tokenSig })
     // 僅在『有實際輸入』且『非超快違規』時，才將用時計入有效總時長
-    if (!fastViolation && chars > 0) totalInputMsRef.current += spentMs
+    if (!fastViolation && chars > 0) {
+      totalInputMsRef.current += spentMs
+      console.log(`Test: 第${qIndex + 1}题时间计算 - spentMs: ${spentMs}ms, 累计totalInputMsRef: ${totalInputMsRef.current}ms`)
+    } else {
+      console.log(`Test: 第${qIndex + 1}题跳过时间累计 - fastViolation: ${fastViolation}, chars: ${chars}`)
+    }
 
     // 未輸入的部分視為錯字記入統計
     if (untyped > 0) mistakesRef.current += untyped
@@ -546,9 +567,25 @@ export default function Test() {
     // 統一過場效果
     setMessage('… 下一題準備中')
     const advance = () => {
+      // 先累積當前題目的成績（無論是否是最後一題）
+      if (currentQuestionElapsedMs > 0) {
+        console.log(`Test: 第${qIndex + 1}题完成 - 时间: ${currentQuestionElapsedMs}ms, 字符: ${input.length}`)
+        setTotalEffectiveMs(prev => {
+          const newTotal = prev + currentQuestionElapsedMs
+          console.log(`Test: 总时间更新: ${prev}ms + ${currentQuestionElapsedMs}ms = ${newTotal}ms`)
+          return newTotal
+        })
+        setTotalEffectiveChars(prev => {
+          const newTotal = prev + input.length
+          console.log(`Test: 总字符更新: ${prev} + ${input.length} = ${newTotal}`)
+          return newTotal
+        })
+      }
+      
       if (qIndex < questions.length - 1) {
         const next = qIndex + 1
         answeredCountRef.current += 1
+        
         setQIndex(next)
         const nextText = questions[next] || 'Kids Typing & Tree Growth'
         setText(nextText)
@@ -559,7 +596,13 @@ export default function Test() {
         startedRef.current = false
         mistakesRef.current = 0
         prevLenRef.current = 0
-        qStartPerfRef.current = 0
+        // 重置當前題目計時，並立即開始下一題計時
+        const now = performance.now()
+        setCurrentQuestionStartTime(now)
+        setCurrentQuestionElapsedMs(0)
+        lastTickRef.current = now
+        startedRef.current = true
+        qStartPerfRef.current = now
       } else {
         // 結束：鎖定完成，停止計時並導向結果
         finishedRef.current = true
@@ -568,8 +611,9 @@ export default function Test() {
         setMessage(t('test.promptFinished'))
         try {
           const hasTyped = (totalTypedRef.current > 0) || questionsPayloadRef.current.some(q => q.chars > 0)
-          const effMs = hasTyped ? Math.max(1, totalInputMsRef.current) : 0
+          const effMs = hasTyped ? Math.max(1, totalEffectiveMs) : 0
           const effMin = effMs / 60000
+          // 使用 totalTypedRef.current 而不是 totalEffectiveChars，确保包含所有题目的字符数
           const effChars = hasTyped ? totalTypedRef.current : 0
           const effRaw = hasTyped && effMin > 0 ? (isZhTyping ? (effChars / effMin) : ((effChars / 5) / effMin)) : 0
           const accPass = hasTyped ? accuracy : 0
@@ -586,19 +630,24 @@ export default function Test() {
       }
     }
     setTimeout(() => { advance(); submittingRef.current = false }, 200)
-  }, [accuracy, isZhTyping, keyStats, lang, navigate, qIndex, questions, text, allowedMsFor, input, correctCurrent, t])
+  }, [accuracy, isZhTyping, keyStats, lang, navigate, qIndex, questions, text, allowedMsFor, input, correctCurrent, t, currentQuestionElapsedMs, totalEffectiveMs])
 
   const submitRef = useRef(submitCurrentQuestion)
   useEffect(() => { submitRef.current = submitCurrentQuestion }, [submitCurrentQuestion])
   useEffect(() => {
     if (!running || finished || finishedRef.current) return
-    if (!startedRef.current) return
+    if (!startedRef.current || !currentQuestionStartTime) return
     let raf = 0
     const tick = (now: number) => {
       const prev = lastTickRef.current ?? now
       const delta = now - prev
       lastTickRef.current = now
-      setElapsedMs((v) => v + delta)
+      
+      // 更新當前題目計時（只有在開始計時後）
+      if (currentQuestionStartTime) {
+        setCurrentQuestionElapsedMs(v => v + delta)
+      }
+      
       let timeUp = false
       setLeftMs((v) => {
         const nv = v - delta
@@ -615,7 +664,7 @@ export default function Test() {
     }
     raf = requestAnimationFrame(tick)
     return () => cancelAnimationFrame(raf)
-  }, [running, finished])
+  }, [running, finished, currentQuestionStartTime])
 
   // 換題由 rAF tick 內在顯示 0.00 後下一幀觸發；此處不再二次觸發，避免不同步
 
@@ -671,8 +720,8 @@ export default function Test() {
     try {
       if (!user) return
       const isZh = isZhTyping
-      const effectiveChars = questionsPayloadRef.current.filter(q => !q.fastViolation).reduce((s,q)=>s+q.chars,0)
-      const effectiveMs = Math.max(1, totalInputMsRef.current)
+      const effectiveChars = totalEffectiveChars
+      const effectiveMs = Math.max(1, totalEffectiveMs)
       const effectiveMinutes = effectiveMs / 60000
       const raw = isZh ? (effectiveChars / effectiveMinutes) : ((effectiveChars / 5) / effectiveMinutes)
       const acc = accuracy
@@ -739,8 +788,13 @@ export default function Test() {
       const prevEarned = await getTodayEarned(user.uid)
       await addDoc(collection(db, 'attempts'), data)
       console.log('Test: 准备调用 applyAttemptRewards', { uid: user.uid, lang: lang || 'en-US', durationSec: Number((effectiveMs/1000).toFixed(2)), raw, adj, accuracy: acc, correctChars: totalCorrectAll, totalChars: effectiveChars, totalQChars: questionsPayloadRef.current.reduce((s,q)=>s+q.chars,0) })
-      await applyAttemptRewards({ uid: user.uid, lang: lang || 'en-US', durationSec: Number((effectiveMs/1000).toFixed(2)), raw, adj, accuracy: acc, correctChars: totalCorrectAll, totalChars: effectiveChars, totalQChars: questionsPayloadRef.current.reduce((s,q)=>s+q.chars,0) })
-      console.log('Test: applyAttemptRewards 调用完成')
+      try {
+        await applyAttemptRewards({ uid: user.uid, lang: lang || 'en-US', durationSec: Number((effectiveMs/1000).toFixed(2)), raw, adj, accuracy: acc, correctChars: totalCorrectAll, totalChars: effectiveChars, totalQChars: questionsPayloadRef.current.reduce((s,q)=>s+q.chars,0) })
+        console.log('Test: applyAttemptRewards 调用完成')
+      } catch (error) {
+        console.error('Test: applyAttemptRewards 调用失败', error)
+        // 不抛出错误，避免影响用户体验
+      }
       // 小提示：提交後以無障礙方式回饋本次獲得
       try {
         // 估算 / 讀取本次點數與今日累計
@@ -795,7 +849,7 @@ export default function Test() {
       }
       if (import.meta.env.DEV) console.error('persistAttempt failed', e)
     }
-  }, [user, lang, isZhTyping, accuracy, keyStats, totalCorrectAll])
+  }, [user, lang, isZhTyping, accuracy, keyStats, totalCorrectAll, totalEffectiveMs, totalEffectiveChars])
 
   // 倒數強調：<=10s 轉為警示色
   const dangerLeft = (leftMs/1000) <= 10 && running
@@ -874,7 +928,19 @@ export default function Test() {
                 if (anyEvt.inputType === 'insertFromPaste') anyEvt.preventDefault()
               }}
               onDrop={(e) => { e.preventDefault() }}
-              onFocus={() => { setIsFocused(true); if (running && !startedRef.current) { lastTickRef.current = performance.now(); setElapsedMs(0); setLeftMs(allowedMsFor(text)); startedRef.current = true; qStartPerfRef.current = performance.now() } }}
+              onFocus={() => { 
+                setIsFocused(true); 
+                // 焦點進入輸入框就開始該題計時
+                if (running && !currentQuestionStartTime) {
+                  const now = performance.now();
+                  setCurrentQuestionStartTime(now);
+                  setCurrentQuestionElapsedMs(0);
+                  lastTickRef.current = now;
+                  setLeftMs(allowedMsFor(text));
+                  startedRef.current = true;
+                  qStartPerfRef.current = now;
+                }
+              }}
               onBlur={() => setIsFocused(false)}
               onKeyDown={(e) => {
                 if (!running) { e.preventDefault(); setMessage(t('test.promptBegin')); return }
@@ -971,7 +1037,7 @@ export default function Test() {
             <span>綜合分數（正確速度）{adjWpm.toFixed(1)}</span>
             <Button disabled={saving || !user} onClick={async () => { try { setSaving(true); await persistAttempt(); const hasInput = totalTypedRef.current > 0; const effMs = hasInput ? Math.max(1, totalInputMsRef.current) : 0; const effMin = effMs/60000; const effChars = hasInput ? totalTypedRef.current : 0; const effRaw = hasInput ? (isZhTyping ? (effChars/effMin) : ((effChars/5)/effMin)) : 0; const accPass = hasInput ? accuracy : 0; const effAdj = effRaw * accPass; const totalQCharsAllNow = questions.reduce((s, q) => s + (q?.length || 0), 0); navigate(`/${lang}/result`, { state: { rawWpm: effRaw, accuracy: accPass, adjWpm: effAdj, durationSec: Number((effMs/1000).toFixed(2)), rawChars: effChars, totalQChars: totalQCharsAllNow } }); try { (await import('../libs/reminders')).markPracticedNow() } catch { /* ignore */ } } finally { setSaving(false) } }}>送出並查看成績</Button>
             {!user && <span className="text-[var(--color-muted,#6b7280)]">{t('test.signInToSave')}</span>}
-            <Button variant="outline" onClick={() => { setInput(''); setRawInput(''); setFinished(false); setMessage(t('test.promptStart')); setQIndex(0); const first = questions[0] || 'Kids Typing & Tree Growth'; setText(first); setLeftMs(allowedMsFor(first)); setElapsedMs(0); setRunning(false); setRecords([]); totalTypedRef.current = 0 }}>{t('test.tryAgain')}</Button>
+            <Button variant="outline" onClick={() => { setInput(''); setRawInput(''); setFinished(false); setMessage(t('test.promptStart')); setQIndex(0); const first = questions[0] || 'Kids Typing & Tree Growth'; setText(first); setLeftMs(allowedMsFor(first)); setRunning(false); setRecords([]); totalTypedRef.current = 0 }}>{t('test.tryAgain')}</Button>
           </div>
           {records.length>0 && (
             <div className="mt-4">

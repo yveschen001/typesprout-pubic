@@ -40,9 +40,17 @@ export async function loadGarden(uid: string): Promise<GardenState> {
 }
 
 export async function recentEconomyLogs(uid: string, n = 20) {
-  const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), orderBy('ts', 'desc'), limit(n))
-  const snaps = await getDocs(q)
-  return snaps.docs.map(d => ({ id: d.id, ...(d.data() as any) }))
+  try {
+    console.log('recentEconomyLogs: 開始查詢', { uid, n })
+    const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), orderBy('ts', 'desc'), limit(n))
+    const snaps = await getDocs(q)
+    const logs = snaps.docs.map(d => ({ id: d.id, ...(d.data() as any) }))
+    console.log('recentEconomyLogs: 查詢成功', { count: logs.length })
+    return logs
+  } catch (error) {
+    console.error('recentEconomyLogs: 查詢失敗', error)
+    return []
+  }
 }
 
 export function nextStageTarget(gpTotal: number): { next: number; currentStage: number } {
@@ -133,7 +141,9 @@ export async function computeRecent5DaysActivity(uid: string): Promise<{ days: {
   try {
     // 方案1：嘗試使用複合查詢（需要索引）
     const start = new Date(dates[0]+'T00:00:00')
-    const q = query(collection(db, 'attempts'), where('uid','==',uid), where('ts','>=', Timestamp.fromDate(start)), orderBy('ts','asc'))
+    // 使用 UTC 時間創建 Timestamp，避免時區轉換問題
+    const startUtc = new Date(Date.UTC(start.getFullYear(), start.getMonth(), start.getDate(), 0, 0, 0))
+    const q = query(collection(db, 'attempts'), where('uid','==',uid), where('ts','>=', Timestamp.fromDate(startUtc)), orderBy('ts','asc'))
     const snaps = await getDocs(q)
     const byDate = new Map<string, number>()
     console.log('computeRecent5DaysActivity: fetched attempts:', snaps.docs.length, 'uid:', uid)
@@ -142,8 +152,8 @@ export async function computeRecent5DaysActivity(uid: string): Promise<{ days: {
       const data = s.data() as any
       const ts: Date = data.ts?.toDate?.() ? data.ts.toDate() : (data.ts instanceof Date ? data.ts : new Date())
       const dur = Number(data.durationSec || 0)
-      // 使用本地時間計算日期，確保時區正確
-      const date = ts.toLocaleDateString('en-CA') // YYYY-MM-DD格式，使用本地時區
+      // 使用 UTC 時間轉換為本地日期，避免時區轉換問題
+      const date = ts.toISOString().slice(0, 10) // 使用 UTC 日期進行比較
       console.log('Processing attempt:', { id: s.id, date, durationSec: dur, ts: ts.toISOString() })
       byDate.set(date, (byDate.get(date) || 0) + dur)
     }
@@ -174,8 +184,8 @@ export async function computeRecent5DaysActivity(uid: string): Promise<{ days: {
         if (ts < start) break
         
         const dur = Number(data.durationSec || 0)
-        // 使用本地時間計算日期，確保時區正確
-        const date = ts.toLocaleDateString('en-CA') // YYYY-MM-DD格式，使用本地時區
+        // 使用 UTC 時間轉換為本地日期，避免時區轉換問題
+        const date = ts.toISOString().slice(0, 10) // 使用 UTC 日期進行比較
         if (dates.includes(date)) {
           byDate.set(date, (byDate.get(date) || 0) + dur)
         }

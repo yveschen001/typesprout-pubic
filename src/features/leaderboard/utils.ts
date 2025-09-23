@@ -146,7 +146,9 @@ export function toTopN(attempts: Attempt[], n = 20, period: 'today' | 'yesterday
   let processedCount = 0
   attempts.forEach(attempt => {
     // 按照 .cursorrules 規則：轉換為本地時間格式進行比較
-    const attemptDate = attempt.ts?.toDate?.()?.toLocaleDateString('en-CA') || new Date(attempt.ts).toLocaleDateString('en-CA')
+    // 使用 UTC 時間轉換為本地日期，避免時區轉換問題
+    const attemptTs = attempt.ts?.toDate?.() || new Date(attempt.ts)
+    const attemptDate = attemptTs.toISOString().slice(0, 10) // 使用 UTC 日期進行比較
     
     // 处理指定时间段的数据（查询已经限制了时间范围，这里做额外检查）
     if (attemptDate < startDate || attemptDate > endDate) {

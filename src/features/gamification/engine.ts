@@ -122,8 +122,13 @@ export async function applyAttemptRewards(params: {
   batch.set(doc(logRef), logData)
 
   console.log('applyAttemptRewards: 提交批次写入')
-  await batch.commit()
-  console.log('applyAttemptRewards: 批次写入完成')
+  try {
+    await batch.commit()
+    console.log('applyAttemptRewards: 批次写入完成')
+  } catch (error) {
+    console.error('applyAttemptRewards: 批次写入失败', error)
+    throw error
+  }
 }
 
 

@@ -128,11 +128,11 @@ export default function Result() {
           <li>花費時間：{dur > 0 ? `${dur.toFixed(2)} 秒` : '—'}</li>
           <li className="flex items-start gap-1">
             <span>正確率：{(acc*100).toFixed(0)}%</span>
-            <Tooltip label="正確率 = 正確字 ÷ 題目總字。注意：沒輸入的字也算在題目總字內，所以多漏字會讓正確率下降。">？</Tooltip>
+            <Tooltip label="正確率 = 正確字數 ÷ 題目總字數。注意：沒輸入的字也算在題目總字數內，所以漏字會讓正確率下降。">？</Tooltip>
           </li>
           <li className="flex items-start gap-1">
             <span>綜合分數（正確速度）：{adj.toFixed(1)}</span>
-            <Tooltip label="綜合分數 = 只計正確字的輸入速度。計算方式：速度（WPM/CPM）× 正確率。用意：先把正確率練穩，再慢慢變快。">？</Tooltip>
+            <Tooltip label="綜合分數 = 正確字數 ÷ 時間（分鐘）。用意：先把正確率練穩，再慢慢變快。這樣可以鼓勵孩子先求準確，再求速度。">？</Tooltip>
           </li>
           {siteAvg != null && (<li>相較站內平均（同語言）：{adj.toFixed(1)} / {siteAvg.toFixed(1)}{percentile!=null?` · 超過約 ${(percentile as number).toFixed(2)}% 人`:''}</li>)}
         </ul>

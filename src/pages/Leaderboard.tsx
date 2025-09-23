@@ -42,15 +42,17 @@ export default function Leaderboard() {
         // 今天 (本地时间 00:00 到 23:59)
         const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
         const tomorrow = new Date(today.getTime() + 24 * 60 * 60 * 1000)
-        since = Timestamp.fromDate(today)
-        until = Timestamp.fromDate(tomorrow)
+        // 使用 UTC 時間創建 Timestamp，避免時區轉換問題
+        since = Timestamp.fromDate(new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0)))
+        until = Timestamp.fromDate(new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0)))
       } else if (period === 'yesterday') {
         // 昨天 (本地时间 00:00 到 23:59)
         const yesterday = new Date(now.getTime() - 24 * 60 * 60 * 1000)
         const yesterdayStart = new Date(yesterday.getFullYear(), yesterday.getMonth(), yesterday.getDate())
         const yesterdayEnd = new Date(yesterdayStart.getTime() + 24 * 60 * 60 * 1000)
-        since = Timestamp.fromDate(yesterdayStart)
-        until = Timestamp.fromDate(yesterdayEnd)
+        // 使用 UTC 時間創建 Timestamp，避免時區轉換問題
+        since = Timestamp.fromDate(new Date(Date.UTC(yesterday.getFullYear(), yesterday.getMonth(), yesterday.getDate(), 0, 0, 0)))
+        until = Timestamp.fromDate(new Date(Date.UTC(yesterday.getFullYear(), yesterday.getMonth(), yesterday.getDate() + 1, 0, 0, 0)))
       } else if (period === 'lastWeek') {
         // 上周 (自然周，周一到周日)
         const dayOfWeek = now.getDay()
@@ -58,14 +60,16 @@ export default function Leaderboard() {
         const thisMonday = new Date(now.getTime() - daysToMonday * 24 * 60 * 60 * 1000)
         const lastMonday = new Date(thisMonday.getTime() - 7 * 24 * 60 * 60 * 1000)
         const lastSunday = new Date(lastMonday.getTime() + 7 * 24 * 60 * 60 * 1000)
-        since = Timestamp.fromDate(lastMonday)
-        until = Timestamp.fromDate(lastSunday)
+        // 使用 UTC 時間創建 Timestamp，避免時區轉換問題
+        since = Timestamp.fromDate(new Date(Date.UTC(lastMonday.getFullYear(), lastMonday.getMonth(), lastMonday.getDate(), 0, 0, 0)))
+        until = Timestamp.fromDate(new Date(Date.UTC(lastSunday.getFullYear(), lastSunday.getMonth(), lastSunday.getDate() + 1, 0, 0, 0)))
       } else { // lastMonth
         // 上个月 (自然月，1号开始)
         const lastMonth = new Date(now.getFullYear(), now.getMonth() - 1, 1)
         const thisMonth = new Date(now.getFullYear(), now.getMonth(), 1)
-        since = Timestamp.fromDate(lastMonth)
-        until = Timestamp.fromDate(thisMonth)
+        // 使用 UTC 時間創建 Timestamp，避免時區轉換問題
+        since = Timestamp.fromDate(new Date(Date.UTC(lastMonth.getFullYear(), lastMonth.getMonth(), lastMonth.getDate(), 0, 0, 0)))
+        until = Timestamp.fromDate(new Date(Date.UTC(thisMonth.getFullYear(), thisMonth.getMonth(), thisMonth.getDate(), 0, 0, 0)))
       }
 
       // 构建查询条件

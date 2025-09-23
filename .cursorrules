@@ -37,6 +37,8 @@ editing_rules:
   - Keep related logic in features/* modules
   - No random demo/test/log files
   - Create new files only when existing file becomes too large
+  - Never create new .env files - use existing .env files only
+  - Do not modify or create environment variable files without explicit user request
 
 env_variables:
   required:
@@ -73,7 +75,10 @@ typing_scoring:
   formulas:
     - en.rawWPM=(chars/5)/minutes
     - zh.CPM=chineseChars/minutes; UI shows WPM(zh)=CPM
-    - accuracy=correct/total; adjusted=raw*accuracy (zh uses CPM*accuracy)
+    - accuracy=correctChars/totalQuestionChars; adjusted=correctChars/minutes (正確速度)
+    - 速度計算：基於實際打出的正確字數 ÷ 時間
+    - 正確率計算：正確字數 ÷ 題目總字數
+    - 綜合分數：就是正確速度，不需要再乘以正確率
   anti_cheat:
     - duration<30s: skip write/EP/leaderboard
     - extreme: en>200 WPM or zh>400 CPM filtered
@@ -82,6 +87,11 @@ typing_scoring:
     - score = mean(winsorize(last10.adjWpm, 5/95))
   ime:
     - Only count characters on compositionend for CJK IME
+  time_calculation:
+    - 每題獨立計時：從焦點進入輸入框開始，到按下送出結束
+    - 所有題目的時間累加為總時間
+    - 確保只計算實際答題時間，不包括思考或暫停時間
+    - 使用 performance.now() 進行高精度計時
 
 garden_economy:
   config:
@@ -458,3 +468,25 @@ best_practices:
         prefetchingRef.current = true
         // 背景預載邏輯
       }
+
+  # 時間計算準確性
+  time_calculation_accuracy:
+    principle: "確保時間計算的準確性和一致性"
+    implementation:
+      - 每題獨立計時：從焦點進入輸入框開始，到按下送出結束
+      - 所有題目的時間累加為總時間
+      - 確保只計算實際答題時間，不包括思考或暫停時間
+      - 使用 performance.now() 進行高精度計時
+      - 速度計算基於實際打出的正確字數，不是題目總字數
+      - 正確率計算基於題目總字數，未輸入部分算作錯誤
+    code_example: |
+      // 正確的時間計算邏輯
+      const accuracy = totalCorrectAll / totalQCharsAll // 正確字數 ÷ 題目總字數
+      const rawBase = isZhTyping ? (totalCorrectAll / minutes) : ((totalCorrectAll / 5) / minutes)
+      const adjWpm = rawBase // 綜合分數就是正確速度，不需要再乘以正確率
+      
+      // 每題獨立計時
+      const qStartTime = performance.now()
+      // ... 答題過程
+      const qElapsedMs = performance.now() - qStartTime
+      totalEffectiveMs += qElapsedMs
