@@ -7,14 +7,63 @@ import { typingConfig } from '../features/typing/config'
 import { useAuth } from '../features/auth/hooks'
 import { loadGarden, recentEconomyLogs, harvestToday, updateStageFromRecentActivity } from '../features/garden/api'
 import { signInWithGoogleRedirect } from '../features/auth/actions'
+import { doc, getDoc, collection, query, where, getDocs, orderBy, Timestamp } from 'firebase/firestore'
+import { db } from '../libs/firebase'
+import { useParams } from 'react-router-dom'
 
 export default function Garden() {
   const [tab, setTab] = useState<'tree'|'history'>('tree')
   const { user } = useAuth()
+  const { lang } = useParams()
   const [gpTotal, setGpTotal] = useState(0)
   const [stage, setStage] = useState(1)
   const [recent, setRecent] = useState<Array<{ date: string; active: boolean; minutes: number }>>([])
+  const [estMinLeft, setEstMinLeft] = useState<number | null>(null)
   const activeDays = useMemo(() => recent.filter(d => d.active).length, [recent])
+  
+  // 計算預估時間（與 Layout 相同的邏輯）
+  useEffect(() => {
+    (async () => {
+      try {
+        if (!user) { setEstMinLeft(null); return }
+        const Lkey = (lang || 'en-US') as keyof typeof typingConfig.baseByLang
+        const base = typingConfig.baseByLang[Lkey]
+        const prefRef = doc(db, 'profiles', user.uid)
+        const snap = await getDoc(prefRef)
+        const pdata = snap.exists() ? (snap.data() as any) : {}
+        const grade = Math.max(1, Math.min(6, Number(pdata.grade || 3)))
+        const target = typingConfig.targetByGrade[Lkey]?.[grade as 1|2|3|4|5|6] || 20
+        const last = pdata.lastAttempt || {}
+        const acc = Math.max(0, Math.min(1, Number(last.accuracy ?? 0.85)))
+        const adj = Number(last.adjWpm ?? (target * 0.8))
+        const ratio = Math.max(0, Math.min(2, adj / target))
+        const epPerMin = base * ratio * (0.5 + 0.5 * acc)
+        
+        // 使用與Layout相同的todayEarned計算方式
+        const today = new Date().toLocaleDateString('en-CA') // 按照 .cursorrules 規則使用本地時間
+        const start = new Date(today + 'T00:00:00')
+        const q = query(collection(db, 'economyLogs'), where('uid','==', user.uid), where('ts','>=', Timestamp.fromDate(start)), orderBy('ts','desc'))
+        const snaps = await getDocs(q)
+        let todayEarned = 0
+        snaps.docs.forEach(d => { 
+          const v = d.data() as { type?: string; delta?: number }
+          if (v.type==='earn') todayEarned += Number(v.delta||0) 
+        })
+        
+        const remain = Math.max(0, typingConfig.dailyEpCap - todayEarned)
+        
+        if (!Number.isFinite(epPerMin) || epPerMin <= 0) {
+          setEstMinLeft(null)
+        } else {
+          const mins = remain <= 0 ? 0 : Math.ceil(remain / epPerMin)
+          const maxMins = 100
+          const finalMins = Math.min(mins, maxMins)
+          setEstMinLeft(Number.isFinite(finalMins) ? finalMins : null)
+        }
+      } catch { setEstMinLeft(null) }
+    })()
+  }, [user, lang])
+  
   type TsLike = { toDate?: () => Date } | Date | number | undefined
   type Inv = { fertilizer?: number; water?: number; fertilizerActiveUntil?: TsLike; waterActiveUntil?: TsLike }
   type Log = { id: string; ts?: TsLike; type?: string; delta?: number; source?: string }
@@ -31,7 +80,7 @@ export default function Garden() {
     setStage(Number(g.tree?.stage || 1))
     // 自動收成果實：若今天階段為 5 且有累積 GP
     try {
-      const today = new Date().toISOString().slice(0,10)
+      const today = new Date().toLocaleDateString('en-CA') // 按照 .cursorrules 規則使用本地時間
       const tree: any = g.tree || {}
       const canAutoHarvest = Number(tree.stage || 0) >= 5 && Number(tree.dailyGp || 0) > 0 && String(tree.dailyDate || today) === today
       if (canAutoHarvest) {
@@ -122,19 +171,10 @@ export default function Garden() {
               <li>收集到的果實將依排名提供平台獎勵；目前可先以測驗時間作為積分累計。</li>
             </ul>
             {(() => {
-              // 估算距離升級所需有效輸入分鐘：
-              // 規則：每活躍 1 天≈+1 等；用最近 5 天平均(今天在內)推估今天還需的有效分鐘以達到下一等。
-              // 我們以「今天有效分鐘」與「活躍天數」來簡化估算：
-              // 若當前 stage<5：下一等目標活躍天數 = currentActiveDays+1；
-              // 以今天目前分鐘不足 20 分鐘時，以 20 分鐘視為達成當日活躍的保守目標。
-              const today = new Date().toISOString().slice(0,10)
-              const todayRec = recent.find(r => r.date === today)
-              const todayMin = Math.max(0, todayRec ? Number(todayRec.minutes || 0) : 0)
+              // 使用與頂部導航欄相同的預估時間
               const needStage = Math.min(5, Math.max(1, Number(stage)||1) + 1)
               const canLevelUpToday = (Number(stage)||1) < 5
-              // 保守門檻：20 分鐘視為「今天足夠活躍」
-              const targetTodayMin = 20
-              const moreMin = Math.max(0, targetTodayMin - todayMin)
+              const moreMin = estMinLeft || 0
               return canLevelUpToday ? (
                 <div className="mt-2 text-sm text-[var(--color-muted,#6b7280)]">
                   距離升到 <span className="font-semibold">階段 {needStage}</span>，建議今天至少再有效輸入 <span className="font-semibold">{moreMin.toFixed(0)}</span> 分鐘。
@@ -188,10 +228,10 @@ export default function Garden() {
         <div>
           {/* 今日總結 */}
           {(() => {
-            const today = new Date().toISOString().slice(0,10)
+            const today = new Date().toLocaleDateString('en-CA') // 按照 .cursorrules 規則使用本地時間
             const todayPoints = logs.reduce((sum, l) => {
               const d = asDate(l.ts)
-              const key = d ? d.toISOString().slice(0,10) : ''
+              const key = d ? d.toLocaleDateString('en-CA') : '' // 轉換為本地時間格式進行比較
               return key===today && l.type==='earn' ? sum + Number(l.delta || 0) : sum
             }, 0)
             const todayRec = recent.find(r => r.date === today)

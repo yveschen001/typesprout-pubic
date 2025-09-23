@@ -16,7 +16,7 @@ describe('EP/GP formulas', () => {
     expect(f).toBe(Math.floor((400/100) * (1 + 0.3)))
   })
   it('wither and revive rules', () => {
-    const sevenDaysAgo = new Date(Date.now() - 7*24*60*60*1000).toISOString().slice(0,10)
+    const sevenDaysAgo = new Date(Date.now() - 7*24*60*60*1000).toLocaleDateString('en-CA')
     expect(shouldWither(sevenDaysAgo)).toBe(true)
     expect(canRevive(3, 60)).toBe(true)
     expect(canRevive(2, 60)).toBe(false)

@@ -195,67 +195,47 @@ export default function Test() {
         let items: SheetItem[] | null = null
         try {
           type FetchArgs = { lang: string; grade?: number; limit?: number; after?: string; signal?: AbortSignal; startPage?: number; pageCount?: number }
-          // 智能加载策略：先加载当前游标附近的数据，后台加载其余数据
+          // 動態控制抓取上限：以題數的 4 倍為上限，兼顧去重與年級篩選；最少 60，最多 200
+          const dynamicLimit = Math.min(200, Math.max(numQuestions * 4, 60))
+          // 先載「游標所在頁」的 1 頁（或 60 筆），立即可玩
           const cursorKey = `typesprout_cursor_${lang || 'en-US'}`
           const cur0 = Number(localStorage.getItem(cursorKey) || '0')
-          // 從 index.json 讀取實際 pageSize 和總頁數
+          // 從 index.json 讀取實際 pageSize（若取不到，退回 500）
           let pageSize = 500
-          let totalPages = 15
           try {
             const res = await fetch('/index.json', { signal: controller.signal })
-            const idx = await res.json() as { pageSize?: number; filesPerLang?: Record<string, number> }
+            const idx = await res.json() as { pageSize?: number }
             if (idx && Number(idx.pageSize)) pageSize = Math.max(1, Number(idx.pageSize))
-            if (idx && idx.filesPerLang && idx.filesPerLang[lang || 'en-US']) {
-              totalPages = Number(idx.filesPerLang[lang || 'en-US'])
-            }
-          } catch {
-            // 使用默認值
+          } catch (e) {
+            console.warn('Failed to load page size from index.json:', e)
           }
-          // 计算当前游标所在的页面
-          const currentPage = Math.max(1, Math.floor(cur0 / pageSize) + 1)
-          const pagesToLoad = Math.min(3, totalPages) // 先加载3页数据，确保有足够题目
-          const startPage = Math.max(1, currentPage - 1) // 从当前页的前一页开始
-          
-          // 先加载当前游标附近的数据（快速响应）
-          items = await (fetchContent as (p: FetchArgs) => Promise<SheetItem[] | null>)({ 
-            lang: (lang || 'en-US'), 
-            limit: pageSize * pagesToLoad, 
-            startPage, 
-            pageCount: pagesToLoad, 
-            signal: controller.signal 
-          }) as SheetItem[] | null
-          // 后台加载其余数据（不阻塞UI）
-          if (totalPages > pagesToLoad) {
-            setTimeout(() => {
-              const remainingPages = totalPages - pagesToLoad
-              const nextStartPage = startPage + pagesToLoad
-              const fetchContentTyped = fetchContent as (p: { lang: string; grade?: number; limit?: number; after?: string; signal?: AbortSignal; startPage?: number; pageCount?: number }) => Promise<SheetItem[] | null>
-              fetchContentTyped({ 
-                lang: (lang || 'en-US'), 
-                limit: pageSize * remainingPages, 
-                startPage: nextStartPage, 
-                pageCount: remainingPages, 
-                signal: undefined 
-              }).then((moreItems: SheetItem[] | null) => {
-                if (moreItems && moreItems.length > 0) {
-                  // 将额外数据合并到缓存中
-                  try {
-                    const cacheKey = `typesprout_qs_cache_${lang || 'en-US'}`
-                    const cachedArr = JSON.parse(localStorage.getItem(cacheKey) || '[]') as string[]
-                    const newItems = moreItems.map((item: SheetItem) => {
-                      const st = item.structured as StructuredText | undefined
-                      return String(st?.q || item.text || '')
-                    })
-                    const merged = [...cachedArr, ...newItems]
-                    localStorage.setItem(cacheKey, JSON.stringify(merged.slice(0, 800)))
-                  } catch {
-                    // 忽略缓存错误
-                  }
-                }
-              }).catch(() => {
-                // 忽略后台加载错误
-              })
-            }, 100) // 100ms后开始后台加载
+          const startPage = Math.max(1, Math.floor(cur0 / Math.max(1, pageSize)) + 1)
+          items = await (fetchContent as (p: FetchArgs) => Promise<SheetItem[] | null>)({ lang: (lang || 'en-US'), limit: dynamicLimit, startPage, pageCount: 1, signal: controller.signal }) as SheetItem[] | null
+          // 背景續載：若需要更多題，從下一頁開始抓 1~2 頁補池（不阻塞 UI）
+          try {
+            const needMore = dynamicLimit < 150
+            if (needMore) {
+              const nextStart = startPage + 1
+              nextStartPageRef.current = Math.max(nextStartPageRef.current, nextStart)
+              setTimeout(() => {
+                (fetchContent as (p: FetchArgs) => Promise<SheetItem[] | null>)({ lang: (lang || 'en-US'), limit: 200, startPage: nextStart, pageCount: 2, signal: undefined })
+                  .then((more: SheetItem[] | null) => {
+                    if (!more || !more.length) return
+                    // 合併到快取：沿用下方 cacheKey（只影響下一輪刷新）
+                    try {
+                      const cacheKey = `typesprout_qs_cache_${lang || 'en-US'}`
+                      const cachedArr = JSON.parse(localStorage.getItem(cacheKey) || '[]') as string[]
+                      const merge = [...cachedArr, ...more.map((m: SheetItem)=> String((m.structured as StructuredText)?.q || m.text || ''))]
+                      localStorage.setItem(cacheKey, JSON.stringify(merge.slice(0, 800)))
+                    } catch (e) {
+            console.warn('Failed to load page size from index.json:', e)
+          }
+                  })
+                  .catch(() => {})
+              }, 0)
+            }
+          } catch (e) {
+            console.warn('Failed to load page size from index.json:', e)
           }
         } catch (e) {
           if (import.meta.env.DEV) console.error('fetchContent failed', e)
@@ -335,50 +315,11 @@ export default function Test() {
           pool = []
           for (const it of alt) { if (!seen2.has(it.id)) { seen2.add(it.id); pool.push(it) } }
         }
-        // 游標：同語言持久化；智能重置機制確保用戶每次都能從新的開始
+        // 游標：同語言持久化；直到走完整個 uniqueAll 前不重複
         const cursorKey = `typesprout_cursor_${lang || 'en-US'}`
-        let cur0 = Number(localStorage.getItem(cursorKey) || '0')
+        const cur0 = Number(localStorage.getItem(cursorKey) || '0')
         const total = pool.length
-        
-        // 优先从Firebase读取用户进度（如果已登录）
-        if (user) {
-          try {
-            const ref = doc(db, 'profiles', user.uid)
-            const snap = await getDoc(ref)
-            const pdata = snap.data() as Record<string, unknown> | undefined
-            if (pdata?.lastCursorLang === (lang || 'en-US') && typeof pdata?.lastCursor === 'number') {
-              cur0 = pdata.lastCursor
-              console.log(`从Firebase恢复进度：游标位置 ${cur0}`)
-            }
-          } catch (e) {
-            if (import.meta.env.DEV) console.warn('read Firebase cursor failed', e)
-          }
-        }
-        
-        // 智能游标重置：如果已看过的题目超过总题目的80%，重置游标
-        const seenRatio = unionSeen.size / Math.max(1, total)
-        const shouldReset = seenRatio > 0.8 // 80%的题目已看过
-        
-        let startIdx = 0
-        if (shouldReset) {
-          // 重置游标到开始，清空已看过记录
-          localStorage.setItem(cursorKey, '0')
-          localStorage.setItem(seenKey, '[]')
-          if (user) {
-            try {
-              await setDoc(doc(db, 'profiles', user.uid), { 
-                lastCursor: 0,
-                lastSeenIds: []
-              }, { merge: true })
-            } catch (e) {
-              if (import.meta.env.DEV) console.warn('reset Firebase progress failed', e)
-            }
-          }
-          console.log(`题库重置：已看过${Math.round(seenRatio * 100)}%的题目，重置游标到开始`)
-        } else {
-          // 正常游标逻辑
-          startIdx = Number.isFinite(cur0) ? Math.max(0, Math.min(cur0, Math.max(0,total-1))) : 0
-        }
+        const startIdx = Number.isFinite(cur0) ? Math.max(0, Math.min(cur0, Math.max(0,total-1))) : 0
         const seq: Array<{id:string; text:string}> = []
         for (let i=0;i<Math.min(numQuestions,total);i++) seq.push(pool[(startIdx + i) % total])
         const newCursor = (startIdx + Math.min(numQuestions,total)) % Math.max(1,total)
@@ -459,17 +400,15 @@ export default function Test() {
   }, [input, text])
   const totalTypedAll = accumTyped + input.length
   const totalCorrectAll = accumCorrect + correctCurrent
-  console.log(`Test: 实时显示 - 第${qIndex + 1}题, totalTypedRef: ${totalTypedRef.current}, input.length: ${input.length}, totalTypedAll: ${totalTypedAll}`)
   const minutes = useMemo(() => Math.max(elapsedMs / 1000, 0.01) / 60, [elapsedMs])
   const isZhTyping = useMemo(() => typingLang === 'zh' || (typingLang === 'auto' && (lang || 'en-US').startsWith('zh')), [typingLang, lang])
   const rawBase = isZhTyping ? (totalTypedAll / minutes) : ((totalTypedAll / 5) / minutes)
-  // 准确率应该基于题目总字数计算，未输入的部分算作错误
-  const totalQCharsAll = useMemo(() => (questions || []).reduce((s, q) => s + ((q?.length) || 0), 0), [questions])
-  const accuracy = useMemo(() => (totalQCharsAll > 0 ? totalCorrectAll / totalQCharsAll : 0), [totalQCharsAll, totalCorrectAll])
+  const accuracy = useMemo(() => (totalTypedAll ? totalCorrectAll / totalTypedAll : 0), [totalTypedAll, totalCorrectAll])
   const adjWpm = useMemo(() => rawBase * accuracy, [rawBase, accuracy])
   // 顯示倒數：使用「向上取兩位小數」確保在真正歸零前不會顯示 0.00
   const leftSecDisplay = useMemo(() => (Math.max(0, Math.ceil(leftMs / 10) / 100)).toFixed(2), [leftMs])
-  // 題目字數統計（方便對帳）- 已在上面定義
+  // 題目字數統計（方便對帳）
+  const totalQCharsAll = useMemo(() => (questions || []).reduce((s, q) => s + ((q?.length) || 0), 0), [questions])
   const cumQChars = useMemo(() => (questions || []).slice(0, Math.min(qIndex + 1, (questions||[]).length)).reduce((s, q) => s + ((q?.length)||0), 0), [questions, qIndex])
   const readyToStart = useMemo(() => {
     if (loadingQs) return false
@@ -517,9 +456,7 @@ export default function Test() {
 
     // 準確率：未輸入完的剩餘字數視為錯字（懲罰未完成）
     const untyped = Math.max(0, text.length - input.length)
-    console.log(`Test: 第${qIndex + 1}题提交 - 题目长度: ${text.length}, 输入长度: ${input.length}, 累加前totalTypedRef: ${totalTypedRef.current}`)
     totalTypedRef.current += input.length
-    console.log(`Test: 第${qIndex + 1}题提交 - 累加后totalTypedRef: ${totalTypedRef.current}`)
     totalMissedRef.current += untyped
     setAccumTyped((v) => v + input.length + untyped)
     setAccumCorrect((v) => v + correctCurrent)
@@ -738,9 +675,7 @@ export default function Test() {
       // 需要 Firestore 規則允許：auth 用戶可寫入 attempts
       const prevEarned = await getTodayEarned(user.uid)
       await addDoc(collection(db, 'attempts'), data)
-      console.log('Test: 准备调用 applyAttemptRewards', { uid: user.uid, lang: lang || 'en-US', durationSec: Number((effectiveMs/1000).toFixed(2)), raw, adj, accuracy: acc, correctChars: totalCorrectAll, totalChars: effectiveChars, totalQChars: questionsPayloadRef.current.reduce((s,q)=>s+q.chars,0) })
       await applyAttemptRewards({ uid: user.uid, lang: lang || 'en-US', durationSec: Number((effectiveMs/1000).toFixed(2)), raw, adj, accuracy: acc, correctChars: totalCorrectAll, totalChars: effectiveChars, totalQChars: questionsPayloadRef.current.reduce((s,q)=>s+q.chars,0) })
-      console.log('Test: applyAttemptRewards 调用完成')
       // 小提示：提交後以無障礙方式回饋本次獲得
       try {
         // 估算 / 讀取本次點數與今日累計
@@ -933,11 +868,7 @@ export default function Test() {
             <Button disabled={!readyToStart} onClick={() => { if (!readyToStart) return; startAtRef.current = Date.now(); setRunning(true); // 真正開始時才落盤游標與已看過集合
                   try { if (cursorKeyRef.current) localStorage.setItem(cursorKeyRef.current, String(newCursorRef.current)) } catch (e) { if (import.meta.env.DEV) console.warn('save cursor failed', e) }
                   try { if (seenKeyRef.current) localStorage.setItem(seenKeyRef.current, JSON.stringify(mergedSeenIdsRef.current)) } catch (e) { if (import.meta.env.DEV) console.warn('save seenIds failed', e) }
-                  try { if (user) void setDoc(doc(db,'profiles',user.uid), { 
-                    lastSeenIds: mergedSeenIdsRef.current.slice(-1000),
-                    lastCursor: newCursorRef.current,
-                    lastCursorLang: lang || 'en-US'
-                  }, { merge: true }) } catch (e) { if (import.meta.env.DEV) console.warn('persist profile progress failed', e) }
+                  try { if (user) void setDoc(doc(db,'profiles',user.uid), { lastSeenIds: mergedSeenIdsRef.current.slice(-1000) }, { merge: true }) } catch (e) { if (import.meta.env.DEV) console.warn('persist profile seenIds failed', e) }
                   setTimeout(() => { areaRef.current?.focus() }, 0); qStartRef.current = Date.now(); mistakesRef.current = 0; hasAnyInputRef.current = false }}>
                   {readyToStart ? '開始' : '載入中…'}
                 </Button>

@@ -38,22 +38,31 @@ export async function getTotalUsers(): Promise<number> {
 // 全站歷史玩家總數（近似）：
 // 由於無法公開讀 profiles，改以 attempts 全量去重 uid 估算。
 // 注意：此方法受限於查詢上限與抽樣；如需更準確，建議改為後台週期彙總到 metrics。
-export async function getTotalUsersAllTime(sampleLimit: number = 50000): Promise<number> {
+export async function getTotalUsersAllTime(sampleLimit: number = 10000): Promise<number> {
   const key = `totalUsersAll:${sampleLimit}`
   const cached = getCache<number>(key)
-  if (cached != null) return cached
+  if (cached != null) {
+    console.log('getTotalUsersAllTime: using cached value:', cached)
+    return cached
+  }
   try {
-    let q = query(collection(db, 'attempts'), orderBy('ts', 'desc'), limit(sampleLimit))
+    // Firebase限制最大10000，所以使用Math.min确保不超过限制
+    const actualLimit = Math.min(sampleLimit, 10000)
+    const q = query(collection(db, 'attempts'), orderBy('ts', 'desc'), limit(actualLimit))
     const snaps = await getDocs(q)
+    console.log('getTotalUsersAllTime: fetched attempts:', snaps.docs.length, 'limit:', actualLimit)
     const unique = new Set<string>()
     for (const d of snaps.docs) {
       const data = d.data() as Record<string, unknown>
       const uid = data.uid as string | undefined
+      console.log('getTotalUsersAllTime: attempt uid:', uid, 'data:', data)
       if (uid) unique.add(uid)
     }
+    console.log('getTotalUsersAllTime: unique users:', unique.size, 'uids:', Array.from(unique))
     setCache(key, unique.size)
     return unique.size
-  } catch {
+  } catch (error) {
+    console.error('getTotalUsersAllTime: error:', error)
     return cached ?? 0
   }
 }

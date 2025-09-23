@@ -10,8 +10,9 @@ import { db } from '../libs/firebase'
 import { doc, getDoc } from 'firebase/firestore'
 import { Users, Keyboard, BarChart3, Trophy, Globe, ChevronRight } from 'lucide-react'
 import Seedling from '../features/seedling/Seedling'
-import { usePlantLevel } from '../firebase/usePlantLevel'
+import { loadGarden } from '../features/garden/api'
 import { useTranslation } from 'react-i18next'
+import { debugLog } from '../utils/debug'
 
 export default function Home() {
   const { lang } = useParams()
@@ -23,12 +24,28 @@ export default function Home() {
   const [youVsSite, setYouVsSite] = useState<{ you?: number; site?: number }>({})
   const [err, setErr] = useState<string>('')
   const [countryCounts, setCountryCounts] = useState<Record<string, number>>({})
-  const [focusIso, setFocusIso] = useState<string>(() => (Intl.DateTimeFormat().resolvedOptions().locale.split('-')[1] || 'US'))
+  const [focusIso, setFocusIso] = useState<string>(() => {
+    try {
+      // 尝试从浏览器语言检测地区
+      const locale = Intl.DateTimeFormat().resolvedOptions().locale
+      const country = locale.split('-')[1]
+      if (country && country.length === 2) {
+        return country.toUpperCase()
+      }
+      // 如果无法检测，根据语言设置默认地区
+      if (locale.startsWith('zh')) return 'TW'
+      if (locale.startsWith('ja')) return 'JP'
+      if (locale.startsWith('ko')) return 'KR'
+      if (locale.startsWith('en')) return 'US'
+      return 'US' // 最终回退
+    } catch {
+      return 'US'
+    }
+  })
   const { user } = useAuth()
   const [tab, setTab] = useState<'visitors'|'leader'>('visitors')
   const [top3, setTop3] = useState<Array<{ id: string; name: string; wpm: number }>>([])
-  const [treeStage, setTreeStage] = useState<number>(1)
-  const { state: plant } = usePlantLevel('default')
+  const [plantStage, setPlantStage] = useState<number>(1)
   const [showHelp, setShowHelp] = useState(false)
 
   // lightweight CountUp animation
@@ -51,16 +68,24 @@ export default function Home() {
     void (async () => {
       try {
         setErr('')
+        // 使用實際測試的語言，而不是 URL 參數
+        const actualLang = user ? (await getDoc(doc(db, 'profiles', user.uid))).data()?.lang || L : L
+        debugLog('Home', 'actualLang from profile:', actualLang)
         const [users, attempts, your30d] = await Promise.all([
-          getTotalUsersAllTime(50000),
-          getAttemptsWindow({ lang: L, days: 30, sampleLimit: 500 }),
-          getAttemptsWindow({ lang: L, days: 30, sampleLimit: 200 }),
+          getTotalUsersAllTime(10000),
+          getAttemptsWindow({ lang: actualLang, days: 30, sampleLimit: 500 }),
+          user ? getAttemptsWindow({ lang: actualLang, days: 30, sampleLimit: 200, uid: user.uid }) : Promise.resolve([]),
         ])
+        console.log('Home data loaded:', { users, attemptsCount: attempts.length, your30dCount: your30d.length, lang: L })
         setTotalUsers(users)
         const vals = attempts.map((a: any) => a.adjWpm as number).filter((v) => typeof v === 'number')
-        setAvgAdj(trimmedMean(vals, 0.2))
-        setTotalChars(attempts.reduce((s: number, a: any) => s + Number(a.rawChars || 0), 0))
-        setYouVsSite({ you: trimmedMean(your30d.filter((a: any) => a.uid).map((a: any) => a.adjWpm || 0), 0.2), site: trimmedMean(vals, 0.2) })
+        const avgAdj = trimmedMean(vals, 0.2)
+        const totalChars = attempts.reduce((s: number, a: any) => s + Number(a.rawChars || 0), 0)
+        const youVsSite = { you: trimmedMean(your30d.filter((a: any) => a.uid).map((a: any) => a.adjWpm || 0), 0.2), site: avgAdj }
+        console.log('Home calculated stats:', { avgAdj, totalChars, youVsSite, valsCount: vals.length })
+        setAvgAdj(avgAdj)
+        setTotalChars(totalChars)
+        setYouVsSite(youVsSite)
         const cc = await getCountryCounts()
         // 若沒有資料，至少顯示自己國家=1 以利顯示紅點
         const iso = (Intl.DateTimeFormat().resolvedOptions().locale.split('-')[1] || 'US').toUpperCase()
@@ -83,6 +108,16 @@ export default function Home() {
     })()
   }, [L])
 
+  // 保底：無論是否有統計資料，至少讓聚焦國家顯示為 1（顯示紅點與著色）
+  useEffect(() => {
+    if (!focusIso) return
+    setCountryCounts((prev) => {
+      const iso = focusIso.toUpperCase()
+      if ((prev?.[iso] ?? 0) >= 1) return prev
+      return { ...prev, [iso]: 1 }
+    })
+  }, [focusIso])
+
   // 優先以 Profile.country 覆寫聚焦國家，否則退回瀏覽器 locale
   useEffect(() => {
     void (async () => {
@@ -96,11 +131,26 @@ export default function Home() {
     })()
   }, [user])
 
-  // 同步樹苗階段：改為讀 users/{uid}/plants/default
+  // 載入植物階段：與 Garden 頁面使用相同的數據源
   useEffect(() => {
-    const s = Number(plant.stage || 1)
-    setTreeStage(Math.min(5, Math.max(1, s)))
-  }, [plant.stage])
+    async function loadPlantStage() {
+      if (!user) {
+        setPlantStage(1)
+        return
+      }
+      
+      try {
+        const gardenData = await loadGarden(user.uid)
+        const stage = Number(gardenData.tree?.stage || 1)
+        setPlantStage(Math.min(5, Math.max(1, stage)))
+      } catch (error) {
+        console.error('Failed to load plant stage:', error)
+        setPlantStage(1) // 出错时显示第1阶段
+      }
+    }
+    
+    loadPlantStage()
+  }, [user])
 
   // 保底：無論是否有統計資料，至少讓聚焦國家顯示為 1（顯示紅點與著色）
   useEffect(() => {
@@ -135,8 +185,8 @@ export default function Home() {
             <p className="mt-2 text-xs text-[var(--color-muted,#6b7280)]">{t('home.privacyNote') || '建議使用 Google 登入以保存你的進度；僅用於記錄，絕不蒐集個人敏感資料。'}</p>
           </div>
           <div className="hidden md:block">
-            <div className={`${treeStage>=5?'w-64 h-64': treeStage>=3?'w-56 h-56':'w-48 h-48'} mx-auto translate-y-3`}>
-              <Seedling stage={treeStage as 1|2|3|4|5} className="w-full h-full" />
+            <div className={`${plantStage>=5?'w-64 h-64': plantStage>=3?'w-56 h-56':'w-48 h-48'} mx-auto translate-y-3`}>
+              <Seedling stage={plantStage as 1|2|3|4|5} className="w-full h-full" />
             </div>
           </div>
         </div>
@@ -201,11 +251,15 @@ export default function Home() {
       </div>
       <div className="mt-6">
         <h3 className="h3 mb-2">關於 <span className="brand-title">TypeSprout</span></h3>
-        <p className="body muted text-pretty">
-          嗨各位大朋友、小朋友好，我是 Zayn，來自台灣，就讀康橋國際學校三年級。<span className="brand-title">TypeSprout</span> 的點子，是我在玩 Roblox 時想到的：我發現自己的中文打字太慢，想練習，可是一直練習有點無聊，我希望它「可以更好玩」。
-          所以我想做一個種樹的小遊戲：如果我們每天上來打字，樹苗就會長大，還能長出果實，這樣就很有成就感！我把想法告訴爸爸，他也覺得很酷，說我們可以試著用 AI 做一個讓全世界小朋友都能玩的打字網站。於是我們一句一句和 ChatGPT AI 對話，把這個小網站慢慢做出來。
-          後來爸爸還想加入「聖經名言」題庫，未來也許會放更多不同的題庫，讓大人也能一起練習。不過我們先把這個版本推出來給大家玩看看。
-          我們沒有學過程式，也不確定每件事是不是做對了；如果你有建議，歡迎到 Zayn 的 YouTube 影片底下留言，我們會盡力調整，讓它變得更好。希望大家在這裡練習得開心！— 2025-10-25
+        <p className="body muted text-left text-top">
+          嗨大家好，我是來自台灣的爸爸 Yves.C。<span className="brand-title">TypeSprout</span> 的靈感來自我家孩子在 Roblox 上和世界各地朋友聊天——我發現，打字其實是孩子走向更大世界的第一把鑰匙。於是我用 no-code 概念 + ChatGPT/AI 一點一滴做出這個網頁打字練習，並加入「小樹成長」的視覺回饋：每一次正確敲擊，樹就長大一點，把每天的努力變成看得見的成就感。
+          <br/><br/>
+          內容方面，我把 小一到小六常用單字 整理成可選題庫；孩子可以練母語，也能在「設定」裡切換 英文或其他想練的語言，單字由 AI 依年級難度篩選。針對成人也準備了延伸題庫，目前包含 Bible API 與 AI 生成的聖經經句（來源為線上免費資源，準確度可能受限制），之後會陸續加入 名人名言 等主題，讓練習更有意思。
+          <br/><br/>
+          在 <span className="brand-title">TypeSprout</span> 裡，孩子會透過 分數、每天的努力 一步步累積；畫面上的小樹也會隨表現茁壯，形成「努力 → 回饋 → 再投入」的良性循環。我也設計了 5 天活躍檢測：連續練習 5 天 就會獲得小果實獎勵。當成果被看見，動機就會長出來。 這就是我想分享給孩子、也想分享給你的學習節奏。針對老師，我在個人頁面加入了 「班級」 功能，老師可建立班級、邀請同班小朋友一起參與，讓練習更有團體競賽感。
+          <br/><br/>
+          這是一個由我個人維護的小專案（沒有工程背景，主要靠 ChatGPT/AI 引導與協作完成）。若你在使用上有建議或發現問題，歡迎到 GitHub 的 Issues 留言，我會盡可能彙整後處理，先向大家說聲謝謝。<br/>
+          GitHub：<a href="https://github.com/yveschen001/typesprout-pubic/issues" target="_blank" rel="noopener noreferrer" className="text-[var(--color-primary,#16a34a)] underline hover:no-underline">https://github.com/yveschen001/typesprout-pubic/issues</a>
         </p>
       </div>
       {/* 小幫手對話框移除 */}

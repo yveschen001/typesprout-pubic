@@ -96,8 +96,8 @@ export default memo(function WorldMap({ counts, focusIso2 }: WorldMapProps) {
                     geography={geo}
                     style={{ default: { outline: 'none' }, hover: { outline: 'none' }, pressed: { outline: 'none' } }}
                     fill={colorFor(c)}
-                    stroke={isFocus ? '#ef4444' : '#fff'}
-                    strokeWidth={isFocus ? 0.8 : 0.3}
+                    stroke={isFocus ? '#ef4444' : 'transparent'}
+                    strokeWidth={isFocus ? 0.8 : 0}
                   />
                 )
               })

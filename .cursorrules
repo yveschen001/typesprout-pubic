@@ -229,3 +229,232 @@ analytics_privacy:
     - VITE_USE_GA=true -> load GA4 with Consent Mode defaults
     - VITE_USE_CF=true -> load Cloudflare Web Analytics
     - if both true -> warn and prefer GA4
+
+timezone_handling:
+  global_compatibility: true
+  principles:
+    - All date/time calculations must consider global users in different timezones
+    - Use local time for user-facing displays and calculations
+    - Use UTC for Firebase queries and data storage
+    - Convert between timezones explicitly, never assume
+  best_practices:
+    - date_calculation:
+      - Use `new Date().toLocaleDateString('en-CA')` for YYYY-MM-DD format in user's timezone
+      - Use `Intl.DateTimeFormat().resolvedOptions().timeZone` to detect user's timezone
+      - Use `Date.UTC()` only when creating UTC timestamps for Firebase queries
+    - firebase_queries:
+      - Store timestamps in UTC (Firebase default)
+      - Query with UTC time ranges using `Timestamp.fromDate(Date.UTC(...))`
+      - Convert results to local time for display using `toLocaleDateString()`
+    - date_comparison:
+      - Convert UTC timestamps to local date strings before comparing
+      - Use `timestamp.toLocaleDateString('en-CA')` for consistent YYYY-MM-DD format
+      - Never use `toISOString().slice(0,10)` for date comparison (UTC only)
+    - examples:
+      - correct: "const today = new Date().toLocaleDateString('en-CA')"
+      - correct: "const localDate = utcTimestamp.toLocaleDateString('en-CA')"
+      - correct: "const utcStart = Date.UTC(year, month, day, 0, 0, 0)"
+      - wrong: "const date = timestamp.toISOString().slice(0,10)" # UTC only
+      - wrong: "const today = new Date().toISOString().slice(0,10)" # UTC only
+  affected_features:
+    - Today's progress calculation (Layout.tsx)
+    - Garden page today summary (Garden.tsx)
+    - Leaderboard daily/weekly/monthly filtering
+    - Recent activity computation (garden/api.ts)
+    - All date-based data filtering and aggregation
+
+# 🛡️ CRITICAL: Code Protection Rules
+code_protection:
+  # 在修改任何现有功能之前，必须先进行以下检查
+  before_modification:
+    - 1. 确认当前功能是否正常工作
+    - 2. 识别所有相关的文件和函数
+    - 3. 理解数据流和依赖关系
+    - 4. 制定最小化修改计划
+    - 5. 备份关键代码段
+  
+  # 修改过程中的保护措施
+  during_modification:
+    - 只修改明确需要修改的部分
+    - 保持现有API和接口不变
+    - 添加调试日志而不是删除现有日志
+    - 使用渐进式修改，一次只改一个功能
+    - 每次修改后立即测试相关功能
+  
+  # 禁止的操作
+  forbidden_operations:
+    - 不要重构已经正常工作的代码
+    - 不要删除现有的调试信息
+    - 不要改变现有的数据结构和接口
+    - 不要同时修改多个不相关的功能
+    - 不要假设代码的用途，必须先理解
+  
+  # 必须保护的核心功能
+  protected_features:
+    - 图表数据显示 (SpeedChart.tsx, AccuracyChart.tsx)
+    - 最近记录显示 (Garden.tsx, recentEconomyLogs)
+    - 今日进度计算 (Layout.tsx)
+    - 打字测试核心逻辑 (Test.tsx)
+    - 数据持久化 (applyAttemptRewards)
+  
+  # 修改后的验证步骤
+  after_modification:
+    - 1. 测试被修改的功能
+    - 2. 测试相关的依赖功能
+    - 3. 检查控制台是否有错误
+    - 4. 验证数据流是否正常
+    - 5. 确认用户界面显示正确
+
+# 🚨 紧急修复指南
+emergency_fixes:
+  # 如果破坏了现有功能，立即执行以下步骤
+  immediate_actions:
+    - 1. 停止所有修改
+    - 2. 使用 git status 检查修改的文件
+    - 3. 使用 git diff 查看具体修改内容
+    - 4. 使用 git restore 恢复被破坏的文件
+    - 5. 重新开始，使用更小心的方式修改
+  
+  # 恢复策略
+  recovery_strategy:
+    - 优先恢复用户可见的功能
+    - 保持数据完整性
+    - 确保核心功能正常工作
+    - 逐步修复次要功能
+    - 最后优化和清理代码
+
+# 🎯 最佳實踐方案 (v1.3.0 優化成果)
+best_practices:
+  # 分鐘數計算一致性
+  minute_calculation_consistency:
+    principle: "Layout和Garden頁面必須顯示相同的預估分鐘數"
+    implementation:
+      - 使用相同的錯誤處理邏輯：檢查 epPerMin 是否為有效數字
+      - 設置合理的上限限制：最大100分鐘
+      - 無效時返回 null 而不是錯誤值
+      - 統一的計算公式：Number((sec / 60).toFixed(2))
+    code_example: |
+      if (!Number.isFinite(epPerMin) || epPerMin <= 0) {
+        setEstMinLeft(null)
+      } else {
+        const mins = remain <= 0 ? 0 : Math.ceil(remain / epPerMin)
+        const maxMins = 100
+        const finalMins = Math.min(mins, maxMins)
+        setEstMinLeft(Number.isFinite(finalMins) ? finalMins : null)
+      }
+
+  # 有效輸入分鐘數精度
+  effective_input_precision:
+    principle: "保留小數點後兩位精度，提供更準確的數據顯示"
+    implementation:
+      - 使用 Number((sec / 60).toFixed(2)) 而非 Math.floor(sec / 60)
+      - 能正確顯示小於1分鐘的練習時間
+      - 與預估時間計算邏輯保持一致
+    code_example: |
+      const minutes = Number((sec / 60).toFixed(2)) // 保留小數點後兩位
+      const active = minutes > 0
+
+  # 錯誤處理和回退機制
+  error_handling_fallback:
+    principle: "實現完整的錯誤處理和回退機制，確保系統穩定性"
+    implementation:
+      - 複合查詢失敗時自動回退到簡單查詢
+      - 所有查詢都失敗時返回默認值
+      - 詳細的調試日誌便於問題排查
+      - 避免系統崩潰，提供降級服務
+    code_example: |
+      try {
+        // 方案1：複合查詢（需要索引）
+        const q = query(collection(db, 'attempts'), ...)
+        // ... 處理邏輯
+      } catch (error) {
+        console.warn('Composite query failed, falling back to simple query:', error)
+        try {
+          // 方案2：簡單查詢（不需要索引）
+          const q = query(collection(db, 'attempts'), ...)
+          // ... 處理邏輯
+        } catch (fallbackError) {
+          console.error('Both queries failed:', fallbackError)
+          return { days: defaultDays, activeDays: 0 }
+        }
+      }
+
+  # 時區處理一致性
+  timezone_consistency:
+    principle: "所有日期計算必須考慮全球用戶的不同時區"
+    implementation:
+      - 用戶顯示使用本地時間：toLocaleDateString('en-CA')
+      - Firebase查詢使用UTC時間：Timestamp.fromDate(Date.UTC(...))
+      - 日期比較統一使用本地時間格式
+      - 避免使用 toISOString().slice(0,10) 進行日期比較
+    code_example: |
+      // 正確：使用本地時間
+      const today = new Date().toLocaleDateString('en-CA')
+      const localDate = utcTimestamp.toLocaleDateString('en-CA')
+      
+      // 錯誤：使用UTC時間
+      const today = new Date().toISOString().slice(0,10) // UTC only
+
+  # 數據源統一性
+  data_source_unification:
+    principle: "相同功能的數據源必須統一，避免不一致"
+    implementation:
+      - Home和Garden頁面的樹組件使用相同的 loadGarden 數據源
+      - 避免使用不同的hook或API獲取相同數據
+      - 確保數據更新時所有相關組件同步更新
+    code_example: |
+      // 統一使用 loadGarden 而非 usePlantLevel
+      const gardenData = await loadGarden(user.uid)
+      const stage = Number(gardenData.tree?.stage || 1)
+
+  # 題庫加載優化
+  question_bank_optimization:
+    principle: "智能加載策略，平衡性能和用戶體驗"
+    implementation:
+      - 初始載入3頁，背景預載剩餘頁面
+      - 智能游標管理，Firebase同步進度
+      - 80%完成度時重置游標，確保完整循環
+      - 錯誤處理和回退機制
+    code_example: |
+      // 動態控制抓取上限
+      const dynamicLimit = Math.min(200, Math.max(numQuestions * 4, 60))
+      // 背景續載
+      setTimeout(() => {
+        fetchContent({ lang, limit: 200, startPage: nextStart, pageCount: 2 })
+      }, 0)
+
+  # UI組件一致性
+  ui_component_consistency:
+    principle: "相同功能的UI組件必須保持一致的樣式和行為"
+    implementation:
+      - 統一的Tooltip樣式和位置
+      - 一致的載入狀態和錯誤處理
+      - 相同的數據顯示格式和精度
+      - 統一的顏色和間距規範
+    code_example: |
+      // 統一的Tooltip實現
+      <Tooltip label="詳細說明文字">？</Tooltip>
+      
+      // 統一的載入狀態
+      {loading && <div className="text-center py-8">載入中...</div>}
+      {error && <div className="text-center py-8 text-red-600">{error}</div>}
+
+  # 性能優化策略
+  performance_optimization:
+    principle: "在保證功能的前提下優化性能"
+    implementation:
+      - 使用 onSnapshot 進行實時數據更新
+      - 實現智能預載和緩存機制
+      - 避免不必要的重複查詢
+      - 合理使用 limit 限制查詢數量
+    code_example: |
+      // 實時監聽數據變化
+      const unsub = onSnapshot(q, (snaps) => {
+        // 處理數據更新
+      })
+      
+      // 智能預載
+      if (remain <= THRESH && !prefetchingRef.current) {
+        prefetchingRef.current = true
+        // 背景預載邏輯
+      }

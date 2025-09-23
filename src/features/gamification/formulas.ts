@@ -22,7 +22,7 @@ export function computeFruits(dailyGP: number, streakDays: number) {
 }
 
 export function shouldWither(lastActiveDateISO: string, nowMs: number = Date.now()) {
-  const last = new Date(lastActiveDateISO || new Date(nowMs).toISOString().slice(0,10))
+  const last = new Date(lastActiveDateISO || new Date(nowMs).toLocaleDateString('en-CA'))
   const days = Math.floor((nowMs - last.getTime()) / (24*60*60*1000))
   return days >= 7
 }

@@ -36,6 +36,7 @@ export async function applyAttemptRewards(params: {
   totalQChars?: number
 }) {
   const { uid, lang, durationSec, raw, adj, accuracy, correctChars, totalChars, totalQChars } = params
+  console.log('applyAttemptRewards: 开始处理奖励', { uid, lang, durationSec, raw, adj, accuracy, correctChars, totalChars, totalQChars })
   const minutes = Math.max(durationSec, 1) / 60
   const langKey = (['en-US','zh-TW','zh-CN'].includes(lang) ? lang : 'en-US') as LangKey
   const base = typingConfig.baseByLang[langKey]
@@ -116,9 +117,13 @@ export async function applyAttemptRewards(params: {
 
   // Economy log
   const logRef = collection(db, 'economyLogs')
-  batch.set(doc(logRef), { uid, ts: serverTimestamp(), type: 'earn', source: 'attempt', delta: ep, balanceAfter: newPoints, durationSec, raw, adj, accuracy, correctChars, totalChars, totalQChars })
+  const logData = { uid, ts: serverTimestamp(), type: 'earn', source: 'attempt', delta: ep, balanceAfter: newPoints, durationSec, raw, adj, accuracy, correctChars, totalChars, totalQChars }
+  console.log('applyAttemptRewards: 准备写入 economyLogs', logData)
+  batch.set(doc(logRef), logData)
 
+  console.log('applyAttemptRewards: 提交批次写入')
   await batch.commit()
+  console.log('applyAttemptRewards: 批次写入完成')
 }
 
 

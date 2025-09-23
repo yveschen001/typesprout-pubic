@@ -60,16 +60,122 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     if (!user) { setTodayEarned(0); return }
     try {
-      const today = new Date().toISOString().slice(0,10)
-      const start = new Date(today + 'T00:00:00')
-      const q = fq(collection(db, 'economyLogs'), where('uid','==', user.uid), where('ts','>=', Timestamp.fromDate(start)), orderBy('ts','desc'))
+      const now = new Date()
+      const today = now.toLocaleDateString('en-CA') // 按照 .cursorrules 規則使用本地時間
+      const todayLocal = new Date(now.getFullYear(), now.getMonth(), now.getDate())
+      const todayEndLocal = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59, 999)
+      const start = todayLocal
+      const end = todayEndLocal
+      
+      // 调试：检查时间计算
+      console.log('Layout: 时间计算调试:', {
+        now: now,
+        nowLocal: now.toLocaleString(),
+        nowUTC: now.toISOString(),
+        todayLocal: todayLocal,
+        todayLocalString: todayLocal.toLocaleString(),
+        todayLocalUTC: todayLocal.toISOString(),
+        todayEndLocal: todayEndLocal,
+        todayEndLocalString: todayEndLocal.toLocaleString(),
+        todayEndLocalUTC: todayEndLocal.toISOString(),
+        start: start,
+        startLocal: start.toLocaleString(),
+        startUTC: start.toISOString(),
+        end: end,
+        endLocal: end.toLocaleString(),
+        endUTC: end.toISOString(),
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        timezoneOffset: now.getTimezoneOffset()
+      })
+      
+      console.log('Layout: 今日进度计算 - 本地时间:', {
+        now: now.toISOString(),
+        nowLocal: now.toLocaleString(),
+        todayLocal: todayLocal.toISOString(),
+        todayLocalString: todayLocal.toLocaleString(),
+        start: start.toISOString(),
+        startLocal: start.toLocaleString(),
+        user: user.uid
+      })
+      
+      // 先尝试从economyLogs获取
+      const q = fq(collection(db, 'economyLogs'), where('uid','==', user.uid), where('ts','>=', Timestamp.fromDate(start)), where('ts','<=', Timestamp.fromDate(end)), orderBy('ts','desc'))
       const unsub = onSnapshot(q, (snaps) => {
         let sum = 0
-        snaps.docs.forEach(d => { const v = d.data() as { type?: string; delta?: number }; if (v.type==='earn') sum += Number(v.delta||0) })
+        console.log('Layout: economyLogs查询结果:', snaps.docs.length, '条记录')
+        snaps.docs.forEach(d => { 
+          const v = d.data() as { type?: string; delta?: number; ts?: any }
+          if (v.type==='earn') {
+            const delta = Number(v.delta||0)
+            sum += delta
+            console.log('Layout: economyLogs记录:', { type: v.type, delta, ts: v.ts?.toDate?.()?.toISOString() })
+          }
+        })
+        
+        // 如果economyLogs没有数据，尝试从attempts计算
+        if (sum === 0) {
+          console.log('Layout: economyLogs为空，尝试从attempts计算今日进度')
+          // 从attempts计算今日进度
+          const calculateFromAttempts = async () => {
+            try {
+              const attemptsQuery = fq(
+                collection(db, 'attempts'), 
+                where('uid', '==', user.uid), 
+                where('ts', '>=', Timestamp.fromDate(start)), 
+                orderBy('ts', 'desc')
+              )
+              const attemptsSnaps = await getDocs(attemptsQuery)
+              console.log('Layout: attempts查询结果:', attemptsSnaps.docs.length, '条记录')
+              let calculatedSum = 0
+              attemptsSnaps.docs.forEach(d => {
+                const data = d.data() as any
+                const recordTime = data.ts?.toDate?.()
+                console.log('Layout: attempt记录:', {
+                  ts: recordTime?.toISOString(),
+                  tsLocal: recordTime?.toLocaleString(),
+                  durationSec: data.durationSec,
+                  adjWpm: data.adjWpm,
+                  accuracy: data.accuracy
+                })
+                
+                // 检查记录是否在今天的时间范围内
+                if (recordTime && recordTime >= start && recordTime <= end) {
+                  if (data.durationSec && data.adjWpm && data.accuracy) {
+                    const Lkey = (lang || 'en-US') as keyof typeof typingConfig.baseByLang
+                    const base = typingConfig.baseByLang[Lkey]
+                    const minutes = data.durationSec / 60
+                    const ratio = Math.max(0, Math.min(2, data.adjWpm / 20)) // 假设目标速度是20
+                    const ep = base * minutes * ratio * (0.5 + 0.5 * data.accuracy)
+                    const roundedEp = Math.round(ep)
+                    calculatedSum += roundedEp
+                    console.log('Layout: 计算点数:', { minutes, ratio, ep, roundedEp, calculatedSum })
+                  }
+                } else {
+                  console.log('Layout: 记录不在今天范围内，跳过:', {
+                    recordTime: recordTime?.toISOString(),
+                    start: start.toISOString(),
+                    end: end.toISOString()
+                  })
+                }
+              })
+              console.log('Layout: 从attempts计算的今日进度:', calculatedSum)
+              setTodayEarned(calculatedSum)
+            } catch (error) {
+              console.error('Layout: 从attempts计算今日进度失败:', error)
+            }
+          }
+          calculateFromAttempts()
+          return
+        }
+        
+        console.log('Layout: 今日进度更新:', sum)
         setTodayEarned(sum)
       })
       return () => { try { unsub() } catch {} }
-    } catch { setTodayEarned(0) }
+    } catch (error) { 
+      console.error('Layout: 获取今日进度失败:', error)
+      setTodayEarned(0) 
+    }
   }, [user])
 
   // 估算：以最近一次成績估每分鐘點數，換算還需幾分鐘達成上限
@@ -90,8 +196,15 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         const ratio = Math.max(0, Math.min(2, adj / target))
         const epPerMin = base * ratio * (0.5 + 0.5 * acc)
         const remain = Math.max(0, typingConfig.dailyEpCap - todayEarned)
-        const mins = remain <= 0 ? 0 : Math.ceil(remain / Math.max(0.1, epPerMin))
-        setEstMinLeft(mins)
+        
+        if (!Number.isFinite(epPerMin) || epPerMin <= 0) {
+          setEstMinLeft(null)
+        } else {
+          const mins = remain <= 0 ? 0 : Math.ceil(remain / epPerMin)
+          const maxMins = 100
+          const finalMins = Math.min(mins, maxMins)
+          setEstMinLeft(Number.isFinite(finalMins) ? finalMins : null)
+        }
       } catch { setEstMinLeft(null) }
     })()
   }, [user, lang, todayEarned])
