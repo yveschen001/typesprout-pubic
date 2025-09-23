@@ -101,9 +101,11 @@ export default function Profile() {
         const frSnap = await getDoc(frRef)
         setStats(s => ({ ...s, fruits: frSnap.exists() ? Number((frSnap.data() as any).total || 0) : 0 }))
       } catch {}
-      // Insights：取最近 30 次嘗試
+      // Insights：取最近 50 次嘗試
       try{
-        const attempts = await getAttemptsWindow({ uid: user.uid, days: 30, sampleLimit: 200 })
+        console.log('Profile: 開始載入圖表數據，uid:', user.uid)
+        const attempts = await getAttemptsWindow({ uid: user.uid, days: 30, sampleLimit: 50 })
+        console.log('Profile: getAttemptsWindow 返回', attempts.length, '筆數據')
         const list = attempts.slice().reverse()
         const toDateSafe = (maybe: unknown): Date | undefined => {
           try {
@@ -116,10 +118,30 @@ export default function Profile() {
           } catch {}
           return undefined
         }
-        const adj = list.map((r: any, i: number) => ({ i, adj: Number(r.adjWpm || 0), ts: toDateSafe((r as any).ts) }))
-        const acc = list.map((r: any, i: number) => ({ i, acc: Math.max(0, Math.min(1, Number(r.accuracy || 0))), ts: toDateSafe((r as any).ts) }))
+        const adj = list.map((r: any, i: number) => ({ 
+          i, 
+          adj: Number(r.adjWpm || 0), 
+          ts: toDateSafe((r as any).ts),
+          durationSec: Number(r.durationSec || 0),
+          rawChars: Number(r.rawChars || 0),
+          accuracy: Math.max(0, Math.min(1, Number(r.accuracy || 0))),
+          totalQChars: Array.isArray(r.questions) ? r.questions.reduce((sum: number, q: any) => sum + Number(q.chars || 0), 0) : 0
+        }))
+        const acc = list.map((r: any, i: number) => ({ 
+          i, 
+          acc: Math.max(0, Math.min(1, Number(r.accuracy || 0))), 
+          ts: toDateSafe((r as any).ts),
+          durationSec: Number(r.durationSec || 0),
+          rawChars: Number(r.rawChars || 0),
+          adj: Number(r.adjWpm || 0),
+          totalQChars: Array.isArray(r.questions) ? r.questions.reduce((sum: number, q: any) => sum + Number(q.chars || 0), 0) : 0
+        }))
+        console.log('Profile: 圖表數據處理完成', { adj: adj.length, acc: acc.length })
         setHistAdj(adj); setHistAcc(acc)
-      }catch{ setHistAdj([]); setHistAcc([]) }
+      }catch(error){
+        console.error('Profile: 載入圖表數據失敗', error)
+        setHistAdj([]); setHistAcc([]) 
+      }
       // 載入我的班級清單
       try {
         const q = query(collection(db, 'classCodes'), where('owner', '==', user.uid))

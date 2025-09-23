@@ -15,13 +15,42 @@ function formatDateKey(ms: number = Date.now()) {
 }
 
 async function getTodayAttemptEp(uid: string): Promise<number> {
-  const today = formatDateKey()
-  const start = new Date(today + 'T00:00:00')
-  const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), where('ts', '>=', Timestamp.fromDate(start)), orderBy('ts', 'desc'), limit(200))
-  const snaps = await getDocs(q)
-  let sum = 0
-  snaps.docs.forEach(d => { const v = d.data() as any; if (v.type === 'earn' && v.source === 'attempt') sum += Number(v.delta || 0) })
-  return sum
+  try {
+    const today = formatDateKey()
+    const start = new Date(today + 'T00:00:00')
+    console.log('getTodayAttemptEp: 開始查詢今日已獲得點數', { uid, today, start: start.toISOString() })
+    
+    // 嘗試複合查詢（需要索引）
+    try {
+      const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), where('ts', '>=', Timestamp.fromDate(start)), orderBy('ts', 'desc'), limit(200))
+      const snaps = await getDocs(q)
+      let sum = 0
+      snaps.docs.forEach(d => { const v = d.data() as any; if (v.type === 'earn' && v.source === 'attempt') sum += Number(v.delta || 0) })
+      console.log('getTodayAttemptEp: 複合查詢成功', { count: snaps.docs.length, sum })
+      return sum
+    } catch (error) {
+      console.warn('getTodayAttemptEp: 複合查詢失敗，使用回退查詢', error)
+      
+      // 回退到簡單查詢（不需要索引）
+      const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), orderBy('ts', 'desc'), limit(200))
+      const snaps = await getDocs(q)
+      let sum = 0
+      const todayStart = new Date(today + 'T00:00:00')
+      
+      snaps.docs.forEach(d => { 
+        const v = d.data() as any
+        const ts = v.ts?.toDate?.() || new Date(v.ts)
+        if (ts >= todayStart && v.type === 'earn' && v.source === 'attempt') {
+          sum += Number(v.delta || 0)
+        }
+      })
+      console.log('getTodayAttemptEp: 回退查詢成功', { count: snaps.docs.length, sum })
+      return sum
+    }
+  } catch (error) {
+    console.error('getTodayAttemptEp: 查詢失敗', error)
+    return 0
+  }
 }
 
 export async function applyAttemptRewards(params: {

@@ -610,6 +610,17 @@ export default function Test() {
         setFinished(true)
         setMessage(t('test.promptFinished'))
         try {
+          // 自動保存測驗結果
+          console.log('Test: 自動保存測驗結果')
+          // 使用 setTimeout 避免在 useCallback 中直接調用異步函數
+          setTimeout(() => {
+            persistAttemptRef.current().then(() => {
+              console.log('Test: 自動保存完成')
+            }).catch((error) => {
+              console.error('Test: 自動保存失敗', error)
+            })
+          }, 0)
+          
           const hasTyped = (totalTypedRef.current > 0) || questionsPayloadRef.current.some(q => q.chars > 0)
           const effMs = hasTyped ? Math.max(1, totalEffectiveMs) : 0
           const effMin = effMs / 60000
@@ -850,6 +861,9 @@ export default function Test() {
       if (import.meta.env.DEV) console.error('persistAttempt failed', e)
     }
   }, [user, lang, isZhTyping, accuracy, keyStats, totalCorrectAll, totalEffectiveMs, totalEffectiveChars])
+
+  const persistAttemptRef = useRef(persistAttempt)
+  useEffect(() => { persistAttemptRef.current = persistAttempt }, [persistAttempt])
 
   // 倒數強調：<=10s 轉為警示色
   const dangerLeft = (leftMs/1000) <= 10 && running

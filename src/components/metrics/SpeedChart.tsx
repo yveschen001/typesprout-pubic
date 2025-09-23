@@ -2,7 +2,7 @@ import React from 'react'
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, ReferenceDot } from 'recharts'
 import HelpTip from '../Tooltip'
 
-export default function SpeedChart({ data }: { data: Array<{ i: number; adj: number; ts?: Date }> }) {
+export default function SpeedChart({ data, percentile }: { data: Array<{ i: number; adj: number; ts?: Date; durationSec?: number; rawChars?: number; accuracy?: number; totalQChars?: number }>; percentile?: number | null }) {
   const lastIndex = data.length - 1
   const lastVal = lastIndex >= 0 ? data[lastIndex].adj : 0
   const prevVal = lastIndex > 0 ? data[lastIndex - 1].adj : lastVal
@@ -20,10 +20,35 @@ export default function SpeedChart({ data }: { data: Array<{ i: number; adj: num
         <LineChart data={data} margin={{ left: 8, right: 8, top: 8, bottom: 8 }}>
           <XAxis dataKey="i" hide />
           <YAxis width={30} />
-          <Tooltip labelFormatter={(i:number)=>{
-            const d = (data[i] && data[i].ts) ? data[i].ts as Date : undefined
-            return d ? d.toLocaleString() : `第 ${i+1} 筆`
-          }} formatter={(v:number)=>[`綜合分數 ${Number(v).toFixed(2)}`, '']} />
+          <Tooltip 
+            labelFormatter={(i:number)=>{
+              const d = (data[i] && data[i].ts) ? data[i].ts as Date : undefined
+              return d ? d.toLocaleString() : `第 ${i+1} 筆`
+            }} 
+            formatter={(v:number, name, props)=>{
+              const item = data[props.payload?.i] || {}
+              const durationSec = item.durationSec || 0
+              const rawChars = item.rawChars || 0
+              const accuracy = item.accuracy || 0
+              const totalQChars = item.totalQChars || 0
+              const correctChars = Math.round(rawChars * accuracy)
+              
+              const lines = [
+                `綜合分數：${Number(v).toFixed(2)}`,
+                `題目總字數：${totalQChars} 字`,
+                `實際輸入：${rawChars} 字`,
+                `花費時間：${durationSec.toFixed(2)} 秒`,
+                `正確率：${(accuracy * 100).toFixed(0)}%`,
+                `正確字數：${correctChars} 字`
+              ]
+              
+              if (percentile !== null && percentile !== undefined) {
+                lines.push(`超過約 ${percentile.toFixed(1)}% 人`)
+              }
+              
+              return [lines.join(' · '), '']
+            }} 
+          />
           <Line type="monotone" dataKey="adj" stroke="#16a34a" dot={false} />
           {data.length > 0 && (
             <>

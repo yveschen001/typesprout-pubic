@@ -95,10 +95,14 @@ export default function Garden() {
     }
     setInventory(inv)
     const rawLogs = await recentEconomyLogs(user.uid)
+    console.log('Garden refresh: 获取到 economyLogs', rawLogs.length, '条记录')
+    console.log('Garden refresh: economyLogs 详情', rawLogs)
     setLogs((rawLogs as unknown as Array<{ id: string; ts?: TsLike; type?: string; delta?: number; source?: string }>))
     // 更新最近 5 天活躍並同步階段
     try {
+      console.log('Garden refresh: calling updateStageFromRecentActivity for user:', user.uid)
       const { stage: newStage, days } = await updateStageFromRecentActivity(user.uid)
+      console.log('Garden refresh: got stage and days:', { newStage, days })
       setStage(newStage)
       setRecent(days)
     } catch (e: unknown) {
@@ -113,7 +117,9 @@ export default function Garden() {
     if (!x) return '—'
     if (x instanceof Date) return x.toLocaleString()
     if (typeof x === 'number') return new Date(x).toLocaleString()
+    console.log('formatTs: 處理 Timestamp 對象', x, 'toDate 方法:', typeof x.toDate)
     const d = x.toDate?.()
+    console.log('formatTs: toDate() 結果:', d)
     return d ? d.toLocaleString() : '—'
   }
   function asDate(x?: TsLike): Date | undefined {

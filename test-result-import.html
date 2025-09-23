@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>測試 Result 組件導入</title>
+</head>
+<body>
+    <h1>測試 Result 組件導入</h1>
+    <div id="test-result"></div>
+    
+    <script type="module">
+        try {
+            console.log('開始測試 Result 組件導入...')
+            
+            // 嘗試動態導入 Result 組件
+            const ResultModule = await import('./src/pages/Result.tsx')
+            console.log('Result 組件導入成功:', ResultModule)
+            
+            const ResultComponent = ResultModule.default
+            console.log('Result 組件:', ResultComponent)
+            
+            document.getElementById('test-result').innerHTML = `
+                <p style="color: green;">✅ Result 組件導入成功</p>
+                <p>組件類型: ${typeof ResultComponent}</p>
+                <p>組件名稱: ${ResultComponent.name || 'Unknown'}</p>
+            `
+            
+        } catch (error) {
+            console.error('Result 組件導入失敗:', error)
+            document.getElementById('test-result').innerHTML = `
+                <p style="color: red;">❌ Result 組件導入失敗</p>
+                <p>錯誤: ${error.message}</p>
+                <pre>${error.stack}</pre>
+            `
+        }
+    </script>
+</body>
+</html>

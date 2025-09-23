@@ -39,7 +39,7 @@ export async function loadGarden(uid: string): Promise<GardenState> {
   }
 }
 
-export async function recentEconomyLogs(uid: string, n = 20) {
+export async function recentEconomyLogs(uid: string, n = 30) {
   try {
     console.log('recentEconomyLogs: 開始查詢', { uid, n })
     const q = query(collection(db, 'economyLogs'), where('uid', '==', uid), orderBy('ts', 'desc'), limit(n))

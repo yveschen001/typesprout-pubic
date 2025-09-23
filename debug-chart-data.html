@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>調試圖表數據</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .debug-section { margin: 20px 0; padding: 15px; border: 1px solid #ccc; }
+        .data-item { margin: 10px 0; padding: 10px; background: #f5f5f5; }
+        pre { background: #f0f0f0; padding: 10px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>調試圖表數據</h1>
+    
+    <div class="debug-section">
+        <h2>Firebase 配置</h2>
+        <div id="firebase-config"></div>
+    </div>
+    
+    <div class="debug-section">
+        <h2>最近 50 筆 attempts 數據</h2>
+        <button onclick="loadAttempts()">載入數據</button>
+        <div id="attempts-data"></div>
+    </div>
+    
+    <div class="debug-section">
+        <h2>處理後的圖表數據</h2>
+        <div id="chart-data"></div>
+    </div>
+
+    <script type="module">
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js';
+        import { getFirestore, collection, query, where, orderBy, limit, getDocs } from 'https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js';
+
+        // Firebase 配置
+        const firebaseConfig = {
+            apiKey: "AIzaSyBqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJq",
+            authDomain: "typesprout.firebaseapp.com",
+            projectId: "typesprout",
+            storageBucket: "typesprout.appspot.com",
+            messagingSenderId: "123456789",
+            appId: "1:123456789:web:abcdef123456789"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const db = getFirestore(app);
+
+        // 顯示 Firebase 配置
+        document.getElementById('firebase-config').innerHTML = `
+            <pre>${JSON.stringify(firebaseConfig, null, 2)}</pre>
+        `;
+
+        window.loadAttempts = async function() {
+            try {
+                console.log('開始載入 attempts 數據...');
+                
+                // 查詢最近 50 筆 attempts
+                const q = query(
+                    collection(db, 'attempts'),
+                    orderBy('ts', 'desc'),
+                    limit(50)
+                );
+                
+                const snaps = await getDocs(q);
+                const rows = snaps.docs.map(d => ({ id: d.id, ...d.data() }));
+                
+                console.log('載入到 attempts 數據:', rows.length, '筆');
+                console.log('原始數據:', rows);
+                
+                // 顯示原始數據
+                document.getElementById('attempts-data').innerHTML = `
+                    <p>載入到 ${rows.length} 筆記錄</p>
+                    <pre>${JSON.stringify(rows.slice(0, 3), null, 2)}</pre>
+                    <p>... (顯示前 3 筆，共 ${rows.length} 筆)</p>
+                `;
+                
+                // 處理數據
+                const processedData = rows.map((r, i) => {
+                    console.log(`處理第 ${i} 筆記錄:`, r);
+                    
+                    // 計算總題目字數
+                    const totalQChars = Array.isArray(r.questions) 
+                        ? r.questions.reduce((sum, q) => sum + (q.chars || 0), 0)
+                        : 0;
+                    
+                    const processed = {
+                        i,
+                        adj: Number(r.adjWpm || 0),
+                        durationSec: Number(r.durationSec || 0),
+                        rawChars: Number(r.rawChars || 0),
+                        accuracy: Math.max(0, Math.min(1, Number(r.accuracy || 0))),
+                        totalQChars,
+                        ts: r.ts
+                    };
+                    
+                    console.log(`處理後第 ${i} 筆:`, processed);
+                    return processed;
+                });
+                
+                console.log('處理後的圖表數據:', processedData);
+                
+                // 顯示處理後的數據
+                document.getElementById('chart-data').innerHTML = `
+                    <p>處理後 ${processedData.length} 筆記錄</p>
+                    <pre>${JSON.stringify(processedData.slice(0, 5), null, 2)}</pre>
+                    <p>... (顯示前 5 筆，共 ${processedData.length} 筆)</p>
+                `;
+                
+            } catch (error) {
+                console.error('載入數據失敗:', error);
+                document.getElementById('attempts-data').innerHTML = `
+                    <p style="color: red;">載入失敗: ${error.message}</p>
+                `;
+            }
+        };
+    </script>
+</body>
+</html>
