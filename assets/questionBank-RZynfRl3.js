@@ -1,0 +1,1 @@
+const n=[{id:"elementary",name:"elementary",description:"elementaryDescription",maxAge:17,defaultForAge:18,icon:"🎓",color:"#16a34a"},{id:"bible",name:"bible",description:"bibleDescription",minAge:18,defaultForAge:18,icon:"📖",color:"#7c3aed"}];function i(e){return e>=18?"bible":"elementary"}function t(e){return n}export{t as a,i as g};
