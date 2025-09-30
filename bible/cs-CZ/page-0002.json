@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-HEB-013-004",
+      "lang": "cs-CZ",
+      "text": "Nechť je manželství ctěno mezi všemi, a manželský lože ať není poskvrněno neboť Bůh bude soudit smilníky a cizoložníky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-003",
+      "lang": "cs-CZ",
+      "text": "Hle, děti jsou dědictvím Hospodina. Ovoce lůna je jeho odměna.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-003",
+      "lang": "cs-CZ",
+      "text": "Neboť vyleji vodu na žíznivého, a potoky na suchou půdu. Vyleji svého Ducha na tvé potomstvo, a své požehnání na tvé potomky",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-016",
+      "lang": "cs-CZ",
+      "text": "Ježíš je zavolal, říkaje Nechte malé děti, aby přišly ke mně, a nebraňte jim, neboť Boží království patří takovým, jakými jsou tyto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-004",
+      "lang": "cs-CZ",
+      "text": "Vy otcové, neprovokujte své děti k hněvu, ale vychovávejte je v kázni a napomenutí Páně.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-001",
+      "lang": "cs-CZ",
+      "text": "Každá moudrá žena buduje svůj dům, ale hloupá ho svými vlastními rukama strhává.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-039",
+      "lang": "cs-CZ",
+      "text": "Dám jim jedno srdce a jednu cestu, aby se báli mne navěky, pro jejich dobro a dobro jejich dětí po nich.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-026",
+      "lang": "cs-CZ",
+      "text": "Když tedy Ježíš viděl svou matku a učedníka, kterého miloval, jak tam stojí, řekl své matce Ženo, hle, tvůj syn!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-008",
+      "lang": "cs-CZ",
+      "text": "Ale jestliže někdo nepečuje o své vlastní, a zvláště o svou vlastní domácnost, popřel víru a je horší než nevěřící.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-001-017",
+      "lang": "cs-CZ",
+      "text": "Ale porodní báby se bály Boha, a neudělaly, co jim přikázal král Egypta, ale zachovaly naživu chlapce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013B",
+      "lang": "cs-CZ",
+      "text": "Ale Hospodinova milosrdenství jsou od věčnosti k věčnosti s těmi, kdo se ho bojí, jeho spravedlnost k dětem dětí,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-061-009",
+      "lang": "cs-CZ",
+      "text": "Jejich potomci budou známi mezi národy, a jejich potomci mezi lidmi. Všichni, kdo je uvidí, je uznají, že jsou to potomci, které Hospodin požehnal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-009",
+      "lang": "cs-CZ",
+      "text": "Co tedy Bůh spojil, ať člověk nerozlučuje.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-010B",
+      "lang": "cs-CZ",
+      "text": "Láska neškodí bližnímu. Láska tedy je naplněním zákona.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-050-021",
+      "lang": "cs-CZ",
+      "text": "Nyní se tedy nebojte. Postarám se o vás a o vaše malé. Utěšil je a mluvil k nim laskavě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-029",
+      "lang": "cs-CZ",
+      "text": "Kdo narušuje svůj vlastní dům, zdědí vítr. Hloupý bude sluhou moudrého srdce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-007",
+      "lang": "cs-CZ",
+      "text": "Efraim bude jako mocný muž, a jejich srdce se budou radovat jako z vína. Ano, jejich děti to uvidí a budou se radovat. Jejich srdce se budou radovat v Hospodinu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-026B",
+      "lang": "cs-CZ",
+      "text": "Jestliže někdo přijde ke mně a neodmítne svého otce, matku, ženu, děti, bratry a sestry, ano, i svůj vlastní život, nemůže být mým učedníkem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-003",
+      "lang": "cs-CZ",
+      "text": "Nechť muž dává své ženě to, co jí náleží, a podobně i žena muži.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-001-027",
+      "lang": "cs-CZ",
+      "text": "Modlil jsem se za toto dítě, a Hospodin mi dal mou žádost, kterou jsem od něho žádal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-003",
+      "lang": "cs-CZ",
+      "text": "Tvoje žena bude jako plodná vinná réva v nejvnitřnějších částech tvého domu, tvoje děti jako olivové výhonky kolem tvého stolu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012B",
+      "lang": "cs-CZ",
+      "text": "Hospodine, ty nám určíš pokoj, neboť jsi také vykonal všechno naše dílo pro nás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-006",
+      "lang": "cs-CZ",
+      "text": "Takže již nejsou dva, ale jedno tělo. Co tedy Bůh spojil, ať člověk nerozlučuje.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014B",
+      "lang": "cs-CZ",
+      "text": "Všechny věci dělejte bez reptání a hádání,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LEV-019-018",
+      "lang": "cs-CZ",
+      "text": "Nebudeš se mstít, ani nebudeš nosit žádnou zášť proti dětem svého lidu ale budeš milovat svého bližního jako sebe samého. Já jsem Hospodin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014",
+      "lang": "cs-CZ",
+      "text": "Dům a bohatství jsou dědictvím od otců, ale rozumná žena je od Hospodina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-065-023",
+      "lang": "cs-CZ",
+      "text": "Nebudou pracovat nadarmo, ani rodit pro pohromu neboť jsou potomky Hospodinových požehnaných a jejich potomci s nimi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-012-025",
+      "lang": "cs-CZ",
+      "text": "Když znal jejich myšlenky, Ježíš jim řekl Každé království rozdělené samo proti sobě se dostává do zkázy, a každé město nebo dům rozdělený proti sobě nebude stát.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-010",
+      "lang": "cs-CZ",
+      "text": "Tak tedy, když máme příležitost, dělejme dobro všem lidem, a zvláště těm, kdo jsou z domácnosti víry.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-005-016",
+      "lang": "cs-CZ",
+      "text": "Cti svého otce a svou matku, jak ti přikázal Hospodin, tvůj Bůh, aby se ti dobře vedlo a aby se ti dobře vedlo v zemi, kterou ti dává Hospodin, tvůj Bůh.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-025",
+      "lang": "cs-CZ",
+      "text": "Byl jsem mladý, a nyní jsem starý, ale neviděl jsem spravedlivého opuštěného, ani jeho děti, jak prosí o chléb.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011",
+      "lang": "cs-CZ",
+      "text": "Jako pastýř bude pást své stádo, shromáždí jehňata do náruče a ponese je na svém prsu, a bude jemně vést matky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-009",
+      "lang": "cs-CZ",
+      "text": "Ježíš mu řekl Dnes přišla spása do tohoto domu, neboť i on jest synem Abrahamovým.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-009B",
+      "lang": "cs-CZ",
+      "text": "Buďte pohostinní jedni k druhým, bez reptání.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-021-006",
+      "lang": "cs-CZ",
+      "text": "Sára řekla Bůh mi dal smích. Kdo uslyší, bude se smát se mnou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004B",
+      "lang": "cs-CZ",
+      "text": "Žena ctnostná jest korunou svého muže, ale ta, která působí hanbu, jest jako hniloba v jeho kostech.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-002-001",
+      "lang": "cs-CZ",
+      "text": "Třetí den byla svatba v Káni Galilejské. Matka Ježíšova byla tam.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001B",
+      "lang": "cs-CZ",
+      "text": "My silní máme nést slabosti slabých, a nemáme se líbit sami sobě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-003",
+      "lang": "cs-CZ",
+      "text": "Ó, zvelebujte Hospodina se mnou, a vyvyšujme jméno jeho společně.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-004",
+      "lang": "cs-CZ",
+      "text": "Ale každý člověk bude sedět pod svou vinnou révou a pod svým fíkovníkem. A nikdo je nebude děsit, neboť ústa Hospodina zástupů promluvila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-017",
+      "lang": "cs-CZ",
+      "text": "On však, znajíce jejich myšlenky, řekl jim Každé království, které se samo proti sobě rozděluje, zpustne, a dům, který se sám proti sobě rozděluje, padne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015B",
+      "lang": "cs-CZ",
+      "text": "Dbejte, aby nikdo neodplácel zlo za zlo, ale vždy usilujte o to, co je dobré, jak pro sebe navzájem, tak pro všechny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-022",
+      "lang": "cs-CZ",
+      "text": "Poslouchej svého otce, který ti dal život, a nezavrhuj svou matku, když zestárne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-005",
+      "lang": "cs-CZ",
+      "text": "Kdo přijme jednoho takového malého dítěte v mém jménu, přijímá mne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-033-004",
+      "lang": "cs-CZ",
+      "text": "Ezau běžel mu naproti, objal ho, padl mu na krk, políbil ho, a oba plakali.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-132-012",
+      "lang": "cs-CZ",
+      "text": "Jestliže tvé děti budou zachovávat mou smlouvu, mé svědectví, které je naučím, i jejich děti budou sedět na tvém trůnu navěky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-053",
+      "lang": "cs-CZ",
+      "text": "A tak otec poznal, že to byla v tu hodinu, kdy mu Ježíš řekl Tvůj syn žije. A uvěřil, jakož i celý jeho dům.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-033B",
+      "lang": "cs-CZ",
+      "text": "A přece, každý z vás ať miluje svou ženu, jako sám sebe a žena ať se bojí svého muže.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-004-030",
+      "lang": "cs-CZ",
+      "text": "Matka dítěte řekla Jak Hospodin žije, a jakž tvá duše žije, neopustím tě. A on vstal a šel za ní.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-022",
+      "lang": "cs-CZ",
+      "text": "Kdo nalezne ženu, nalezne dobrou věc, a získá přízeň Hospodinovu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-058",
+      "lang": "cs-CZ",
+      "text": "Její sousedé a příbuzní slyšeli, že Hospodin prokázal její milosrdenství, a radovali se s ní.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-004",
+      "lang": "cs-CZ",
+      "text": "aby učily mladé ženy milovati své muže, milovati své děti,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-011",
+      "lang": "cs-CZ",
+      "text": "Tam se postarám o vás, neboť ještě pět let hladu zbývá, abyste nepřišli na mizinu, vy, a váš dům, a vše, co máte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-005",
+      "lang": "cs-CZ",
+      "text": "Blahoslavený muž, který má plný svůj toulce. Nebudou zklamáni, když promluví se svými nepřáteli v bráně.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014B",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš řekl Nechte malé děti a nebraňte jim, aby přišly ke mně neboť království nebeské patří takovým, jako jsou tyto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013B",
+      "lang": "cs-CZ",
+      "text": "Pomáhajíce svatým v potřebách, a pohostinností se zabývajíce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-017",
+      "lang": "cs-CZ",
+      "text": "Napomeň svého syna, a dá ti pokoj ano, potěšení duše tvé přinese.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-019",
+      "lang": "cs-CZ",
+      "text": "Živí, živí, ten tě chválí, jako já dnes. Otec oznámí tvou pravdu dětem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-002",
+      "lang": "cs-CZ",
+      "text": "V domě mého Otce jest mnoho příbytků. Kdyby nebylo, řekl bych vám. Jdu připravit vám místo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010B",
+      "lang": "cs-CZ",
+      "text": "Jakž každý obdržel dar, tak jej užívejte v službě jedni druhým, jako dobří správci milosti Boží v různých podobách.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-133-003",
+      "lang": "cs-CZ",
+      "text": "Jako rosa Hermonská, která sestupuje na hory Sion neboť tam Hospodin dává požehnání, i život na věky věků.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-024",
+      "lang": "cs-CZ",
+      "text": "Neboť tento, můj syn, byl mrtvý a ožil. Ztracen byl a nalezen. A začali se radovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005B",
+      "lang": "cs-CZ",
+      "text": "Nechť je vaše mírnost známa všem lidem. Pán jest blízko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-031-049",
+      "lang": "cs-CZ",
+      "text": "A Mizpah, neboť řekl Hospodin ať bdí mezi mnou a tebou, když jsme od sebe vzdáleni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-004",
+      "lang": "cs-CZ",
+      "text": "Nezatajíme je před jejich dětmi, vypravujíce pokolení budoucím chvály Hospodinovy, jeho sílu a divy, které učinil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-014",
+      "lang": "cs-CZ",
+      "text": "Jestliže jsem tedy já, Pán a Učitel, umyl vaše nohy, i vy máte umývati nohy jedni druhým.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024B",
+      "lang": "cs-CZ",
+      "text": "Zvažme, jak bychom se navzájem podněcovali k lásce a dobrým skutkům,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057",
+      "lang": "cs-CZ",
+      "text": "Ať Hospodin, náš Bůh, jest s námi, jako byl s našimi otci. Ať nás neopustí ani nezanechá,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-033",
+      "lang": "cs-CZ",
+      "text": "Prokletí Hospodinovo jest v domě bezbožného, ale požehnání dává obydlí spravedlivých.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009B",
+      "lang": "cs-CZ",
+      "text": "Blahoslavení jsou pokojní, neboť oni budou nazváni syny Božími.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019B",
+      "lang": "cs-CZ",
+      "text": "Protož usilujme o to, co přináší pokoj, a o to, čím bychom se mohli budovat navzájem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-014",
+      "lang": "cs-CZ",
+      "text": "Ať Hospodin rozmnoží vás více a více, vás i vaše děti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-011-004",
+      "lang": "cs-CZ",
+      "text": "Vytáhl jsem je provazy lidskými, pouty lásky a byl jsem jim jako ti, kdo zvedají jho na jejich šíje a sklonil jsem se k němu a krmil jsem ho.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-015",
+      "lang": "cs-CZ",
+      "text": "A políbil všechny své bratry a plakal na nich. Potom mluvili jeho bratři s ním.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-026",
+      "lang": "cs-CZ",
+      "text": "Otevírá ústa svá moudře. Učení laskavosti je na jejím jazyce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017B",
+      "lang": "cs-CZ",
+      "text": "Hospodin, tvůj Bůh, je uprostřed tebe, mocný, který zachrání. Bude se radovat nad tebou s radostí. Uklidní tě ve své lásce. Bude se radovat nad tebou zpěvem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012B",
+      "lang": "cs-CZ",
+      "text": "Protož všecko, co byste chtěli, aby lidé činili vám, i vy čiňte jim neboť to jest zákon a proroci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-016",
+      "lang": "cs-CZ",
+      "text": "Podle toho známe lásku, že on položil život svůj za nás. A my jsme povinni položit životy své za bratry.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-001",
+      "lang": "cs-CZ",
+      "text": "Chvalte Hospodina! Požehnaný muž, který se bojí Hospodina, který se velmi raduje v jeho přikázáních.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008B",
+      "lang": "cs-CZ",
+      "text": "On ti ukázal, ó člověče, co jest dobré. Což žádá Hospodin od tebe, než abys činil spravedlivě, miloval milosrdenství a chodil pokorně se svým Bohem?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-009",
+      "lang": "cs-CZ",
+      "text": "Jak mne miloval Otec, tak i já jsem miloval vás. Zůstaňte v mé lásce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007B",
+      "lang": "cs-CZ",
+      "text": "Protož dejte každému, co mu dlužíte komu dlužíte daň, plaťte daň komu clo, clo komu úctu, úctu komu čest, čest.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-024",
+      "lang": "cs-CZ",
+      "text": "Kdo šetří hůl, nenávidí svého syna, ale kdo ho miluje, pečuje o jeho kázeň.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017B",
+      "lang": "cs-CZ",
+      "text": "Dílo spravedlnosti bude pokoj, a výsledek spravedlnosti, tichost a důvěra na věky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-015",
+      "lang": "cs-CZ",
+      "text": "A řekl jim „Hleďte, chraňte se chamtivosti, neboť život člověka nespočívá v množství věcí, které má.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-018",
+      "lang": "cs-CZ",
+      "text": "Aby činili dobré, aby byli bohatí v dobrých skutcích, aby byli připraveni rozdávat, ochotní se podělit",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-043-014",
+      "lang": "cs-CZ",
+      "text": "Nechť ti Bůh Všemohoucí dá milosrdenství před tím mužem, aby ti propustil tvého druhého bratra a Benjamína. Jestliže jsem ztratil své děti, ztratil jsem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-122-007",
+      "lang": "cs-CZ",
+      "text": "Pokoj buď v tvých hradbách, a blahobyt v tvých palácích.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-019",
+      "lang": "cs-CZ",
+      "text": "Díkůvzdání vyjde z nich s hlasem těch, kteří se radují. Početně je rozmnožím, a nebudou málo také je oslavím, a nebudou malí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-015",
+      "lang": "cs-CZ",
+      "text": "Nehledám, abys je vzal ze světa, ale abys je uchoval od zlého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-031",
+      "lang": "cs-CZ",
+      "text": "Šedivé vlasy jsou korunou slávy. Jsou získány životem spravedlnosti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018",
+      "lang": "cs-CZ",
+      "text": "Ale já se budu radovat v Hospodinu. Budu veselý v Bohu své spásy!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019B",
+      "lang": "cs-CZ",
+      "text": "Cti otce svého a matku svou. A Milovati budeš bližního svého jako sebe samého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013B",
+      "lang": "cs-CZ",
+      "text": "A Bůh naděje naplní vás veškerou radostí a pokojem v víře, abyste se v naději hojně rozmnožovali mocí Ducha svatého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-024",
+      "lang": "cs-CZ",
+      "text": "Buďte silní, ať se posílí srdce vaše, všichni, kdož doufáte v Hospodina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-004",
+      "lang": "cs-CZ",
+      "text": "Řekněte těm, kdož mají bojácné srdce Buďte silní! Nebojte se! Hle, váš Bůh přijde s pomstou, Bůh s odplatou. On přijde a zachrání vás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-027",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš hned promluvil k nim a řekl Odvahu! Já jsem! Nebojte se.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-008",
+      "lang": "cs-CZ",
+      "text": "Hospodin sám jde před tebou. Bude s tebou. Nenechá tě ani neopustí. Neboj se, ani se nedej odradit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-001",
+      "lang": "cs-CZ",
+      "text": "Zlí utíkají, když nikdo nehoní ale spravedliví jsou odvážní jako lev.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-036",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš, když uslyšel slova, hned řekl představenému synagogy Neboj se, jen věř.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-004",
+      "lang": "cs-CZ",
+      "text": "I kdybych šel údolím smrti, nebudu se báti zlého, neboť ty jsi se mnou. Tvoje hůl a tvá berla, ty mě potěšují.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-007",
+      "lang": "cs-CZ",
+      "text": "Nebude se bát zlých zpráv. Srdce jeho je pevné, doufající v Hospodina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-020",
+      "lang": "cs-CZ",
+      "text": "Ale on jim řekl Já jsem. Nebojte se.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-013",
+      "lang": "cs-CZ",
+      "text": "Ale vy, bratři, nebuďte unaveni v konání dobrého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-006",
+      "lang": "cs-CZ",
+      "text": "Tak s dobrým odvahou říkáme Hospodin je můj pomocník. Nebudu se bát. Co mi může učinit člověk?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-010",
+      "lang": "cs-CZ",
+      "text": "Jestliže se v čase soužení zakolísáš, malá jest síla tvá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-008",
+      "lang": "cs-CZ",
+      "text": "Neboj se jich, neboť já jsem s tebou, abych tě vysvobodil, praví Hospodin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-032",
+      "lang": "cs-CZ",
+      "text": "Nebojte se, malé stádo, neboť potěšení Otce vašeho jest dáti vám království.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003",
+      "lang": "cs-CZ",
+      "text": "A nejen to, ale i v soužení se radujeme, vědouce, že soužení přináší vytrvalost",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-010-025",
+      "lang": "cs-CZ",
+      "text": "Jozue jim řekl Nebojte se, ani se nedejte odradit. Buďte silní a stateční, neboť Hospodin učiní toto všem nepřátelům vašim, proti nimž bojujete.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-003",
+      "lang": "cs-CZ",
+      "text": "Když se bojím, v tebe doufám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-028",
+      "lang": "cs-CZ",
+      "text": "Nebojte se těch, kteří zabíjejí tělo, ale duši zabít nemohou. Spíše se bojte toho, kdo může zahubit duši i tělo v pekle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-010",
+      "lang": "cs-CZ",
+      "text": "Ale Bůh všecky milosti, který vás povolal k věčné slávě své v Kristu Ježíši, po krátkém utrpení vašem sám vás dokonal, upevnil, posílil a založil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-003",
+      "lang": "cs-CZ",
+      "text": "Kdyby proti mně tábor postavil, mé srdce se nebojí kdyby proti mně povstala válka, i tehdy budu důvěřovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-026",
+      "lang": "cs-CZ",
+      "text": "Neboť Hospodin bude tvou důvěrou a uchová nohu tvou, aby nebyla chycena.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-011",
+      "lang": "cs-CZ",
+      "text": "Hle, všichni, kdož se proti tobě rozhněvali, budou zahanbeni a zmateni ti, kdož s tebou zápasí, budou jako nic a zahynou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-006-050",
+      "lang": "cs-CZ",
+      "text": "Neboť oni ho viděli a byli znepokojeni. Ale on hned promluvil k nim a řekl „Důvěřujte! Já jsem! Nebojte se.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016",
+      "lang": "cs-CZ",
+      "text": "Proto neochabujeme, ale i když náš vnější člověk se kazí, náš vnitřní se obnovuje den za dnem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-017",
+      "lang": "cs-CZ",
+      "text": "Když se to stane, náš Bůh, kterého služebníci jsme, může nás vysvobodit z peci ohnivé, a vysvobodí nás z ruky tvé, ó králi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-006",
+      "lang": "cs-CZ",
+      "text": "Hospodin je při mně, nebudu se bát. Co mi může učinit člověk?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-016",
+      "lang": "cs-CZ",
+      "text": "V ten den se řekne Jeruzalému „Neboj se, Sione, ať se neochabují ruce tvé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-001",
+      "lang": "cs-CZ",
+      "text": "Nenechte se znepokojit srdcem svým. Věřte v Boha, věřte také ve mne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-004",
+      "lang": "cs-CZ",
+      "text": "Vy jste z Boha, dítky, a přemohli jste je, neboť větší je ten, který je ve vás, než ten, který je ve světě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-006",
+      "lang": "cs-CZ",
+      "text": "On sám je má skála a má spása, má tvrz nebudu se pohybovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-025",
+      "lang": "cs-CZ",
+      "text": "Strach z člověka je pastí, ale kdo doufá v Hospodina, bude chráněn.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-007",
+      "lang": "cs-CZ",
+      "text": "Neboť Panovník Hospodin mi pomůže proto jsem nebyl zahanben. Proto jsem učinil svou tvář jako flint, a vím, že nebudu zahanben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-050",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš, když to uslyšel, odpověděl mu „Neboj se, jen věř, a bude uzdravena.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-035",
+      "lang": "cs-CZ",
+      "text": "Proto neodhazujte svou odvahu, která má velikou odměnu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-004",
+      "lang": "cs-CZ",
+      "text": "V Bohu chválím slovo jeho v Bohu doufám nebudu se bát. Co mi může učinit tělo?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-014",
+      "lang": "cs-CZ",
+      "text": "Neboj se, červi Jákobe, a muži Izraele já ti pomohu, praví Hospodin tvůj Vykupitel je Svatý Izraelský.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš, obrátiv se a viděv ji, řekl „Dcerko, důvěřuj! Tvá víra tě uzdravila. A žena byla uzdravena od té hodiny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-028",
+      "lang": "cs-CZ",
+      "text": "A v ničem se nenechte děsit protivníky, což je pro ně důkaz zkázy, ale pro vás spásy, a to od Boha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-037",
+      "lang": "cs-CZ",
+      "text": "Ale v těchto všech věcech jsme více než vítězové skrze toho, který nás miloval.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-031",
+      "lang": "cs-CZ",
+      "text": "Kůň se připravuje na den boje, ale vítězství je u Hospodina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-015-002",
+      "lang": "cs-CZ",
+      "text": "Hospodin je má síla a píseň, stal se mým spasitelem. To je můj Bůh, a já ho budu chválit Bůh mého otce, a já ho vyvýším.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-002",
+      "lang": "cs-CZ",
+      "text": "Proto se nebudeme bát, i když se země změní, i když se hory otřásají do srdce moří.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-005",
+      "lang": "cs-CZ",
+      "text": "Neboj se, neboť jsem s tebou. Přivedu tvé potomstvo z východu a shromáždím tě ze západu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-019",
+      "lang": "cs-CZ",
+      "text": "Ve vaší vytrvalosti získáte své životy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-012",
+      "lang": "cs-CZ",
+      "text": "Blahoslavený je člověk, který snáší pokušení, neboť když byl schválen, obdrží korunu života, kterou Pán zaslíbil těm, kteří ho milují.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-013-030",
+      "lang": "cs-CZ",
+      "text": "Kaleb ztišil lid před Mojžíšem a řekl „Pojďme hned a obsadíme to, neboť jsme schopni to překonat!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-009",
+      "lang": "cs-CZ",
+      "text": "Kdo chodí bezúhonně, chodí bezpečně, ale kdo zkresluje své cesty, bude odhalen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-010",
+      "lang": "cs-CZ",
+      "text": "Blahoslavení jsou ti, kdož byli pronásledováni pro spravedlnost, neboť jejich je království nebeské.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-058",
+      "lang": "cs-CZ",
+      "text": "Proto, moji milovaní bratři, buďte stálí, neochvějní, vždycky se množící v Pánově díle, neboť víte, že vaše práce není marná v Pánu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-017",
+      "lang": "cs-CZ",
+      "text": "Nepomřu, ale budu žít a vyprávět Hospodinovy skutky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-003",
+      "lang": "cs-CZ",
+      "text": "Neboť jsi mi byl útočištěm, silnou věží před nepřítelem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-034",
+      "lang": "cs-CZ",
+      "text": "Řekl jí „Dcerko, tvá víra tě uzdravila. Jdi v pokoji a buď uzdravena ze své nemoci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-016",
+      "lang": "cs-CZ",
+      "text": "aby vám dal, podle bohatství své slávy, abyste byli posíleni mocí skrze jeho Ducha v nitru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-008",
+      "lang": "cs-CZ",
+      "text": "Jeho srdce je ustaveno. Nebude se bát na konci, když uvidí své protivníky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-025",
+      "lang": "cs-CZ",
+      "text": "Nechť tvé oči hledí přímo vpřed. Upři svůj pohled přímo před sebe.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-008-013",
+      "lang": "cs-CZ",
+      "text": "Hospodin zástupů je ten, koho musíš ctít jako svatého. On je ten, koho se musíš bát. On je ten, koho se musíš děsit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-001",
+      "lang": "cs-CZ",
+      "text": "Také k nim promluvil podobenství, že se mají vždy modlit a neochabovat,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-008",
+      "lang": "cs-CZ",
+      "text": "Buďte střízliví a sebekontrolovaní. Buďte bdělí. Váš protivník, ďábel, chodí kolem jako hřmící lev, hledaje, koho by pohltil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-004",
+      "lang": "cs-CZ",
+      "text": "Světlo vychází v temnotě pro upřímné, milosrdné a spravedlivé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019",
+      "lang": "cs-CZ",
+      "text": "Hospodin, Pán, je má síla. Dává mi nohy jako nohy jelena a umožňuje mi chodit na vysokých místech. Pro vedoucího hudby, na strunné nástroje.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-031",
+      "lang": "cs-CZ",
+      "text": "Nebojte se tedy. Vy jste cennější než mnozí vrabci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-013",
+      "lang": "cs-CZ",
+      "text": "Proto oblečte celou zbroj Boží, abyste mohli obstát v den zlý, a když učiníte vše, abyste obstáli.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-011",
+      "lang": "cs-CZ",
+      "text": "Důvěřuji v Boha. Nebudu se bát. Co mi může člověk učinit?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-025",
+      "lang": "cs-CZ",
+      "text": "Neboj se náhlého strachu, ani zpustošení bezbožných, když přijde",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007",
+      "lang": "cs-CZ",
+      "text": "Ale já se budu dívat k Hospodinu, budu čekat na Boha své spásy. Můj Bůh mě vyslyší.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-027",
+      "lang": "cs-CZ",
+      "text": "Ježíš, hledě na ně, řekl U lidí je to nemožné, ale ne u Boha, neboť u Boha jsou všechny věci možné.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-003",
+      "lang": "cs-CZ",
+      "text": "Ty tedy musíš snášet těžkosti jako dobrý voják Krista Ježíše.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-018",
+      "lang": "cs-CZ",
+      "text": "Neboť považuji, že utrpení tohoto času nejsou hodna srovnání s tím, co se má zjevit v nás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016",
+      "lang": "cs-CZ",
+      "text": "Neboť spravedlivý padá sedmkrát a znovu vstává, ale bezbožní jsou přemoženi pohromou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-021",
+      "lang": "cs-CZ",
+      "text": "Ježíš jim tedy znovu řekl Pokoj vám. Jak mě poslal Otec, tak i já vás posílám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-003-006",
+      "lang": "cs-CZ",
+      "text": "Ale Kristus je věrný jako Syn nad svým domem. My jsme jeho dům, pokud zachováváme svou důvěru a chloubu naší naděje pevně až do konce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-020-004",
+      "lang": "cs-CZ",
+      "text": "Neboť Hospodin, tvůj Bůh, je ten, kdo jde s tebou, aby bojoval za tebe proti tvým nepřátelům, aby tě zachránil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-002",
+      "lang": "cs-CZ",
+      "text": "Z konce země volám k tobě, když je mé srdce přemoženo. Veď mě na skálu, která je výše než já.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-016",
+      "lang": "cs-CZ",
+      "text": "Hospodin, který činí cestu v moři a stezku v mocných vodách,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-022",
+      "lang": "cs-CZ",
+      "text": "Ježíš jim odpověděl Mějte víru v Boha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009",
+      "lang": "cs-CZ",
+      "text": "Nebuďme unaveni v konání dobrého, neboť v pravý čas sklidíme, pokud neochabneme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-023-006",
+      "lang": "cs-CZ",
+      "text": "Buďte tedy velmi odvážní, abyste zachovali a činili vše, co je napsáno v knize zákona Mojžíšova, abyste se od něj neodchýlili napravo ani nalevo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-005",
+      "lang": "cs-CZ",
+      "text": "Moudrý muž má velkou moc. Znalý muž zvyšuje sílu,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-013",
+      "lang": "cs-CZ",
+      "text": "Hledejte mne, a naleznete mne, když mne budete hledat celým svým srdcem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-027",
+      "lang": "cs-CZ",
+      "text": "On však řekl Což je nemožné lidem, je možné Bohu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-008",
+      "lang": "cs-CZ",
+      "text": "Proto se nestyď za svědectví našeho Pána, ani za mne, jeho zajatce ale snášej utrpení pro evangelium podle moci Boží,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-020",
+      "lang": "cs-CZ",
+      "text": "Kdo je věrný, je bohatý požehnáním ale kdo se snaží zbohatnout, nebude bez trestu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012",
+      "lang": "cs-CZ",
+      "text": "Já, ano já, jsem ten, kdo vás utěšuje. Koho se bojíš, že se bojíš člověka, který zemře, a syna člověka, který bude jako tráva?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-039",
+      "lang": "cs-CZ",
+      "text": "Probudil se a pohrozil větru a řekl moři Mlč! Buď zticha! A vítr ustal a nastalo veliké ticho.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-007",
+      "lang": "cs-CZ",
+      "text": "Ale máme tento poklad v hliněných nádobách, aby se přehnaná velikost moci byla z Boha a ne z nás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-008",
+      "lang": "cs-CZ",
+      "text": "Lépe je hledat útočiště v Hospodinu, než spoléhat na člověka.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-032",
+      "lang": "cs-CZ",
+      "text": "Kdo je pomalý k hněvu, je lepší než mocný kdo ovládá svého ducha, než ten, kdo dobývá město.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-019",
+      "lang": "cs-CZ",
+      "text": "Budou proti tobě bojovat, ale nepřemohou tě neboť já jsem s tebou, praví Hospodin, abych tě vysvobodil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-031",
+      "lang": "cs-CZ",
+      "text": "I hned Ježíš vztáhl ruku, uchopil ho a řekl mu Ty, kdož máš malou víru, proč jsi pochyboval?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-014",
+      "lang": "cs-CZ",
+      "text": "Napomínáme vás, bratři Napomínejte nepořádné povzbuzujte malomyslné podporujte slabé buďte trpěliví ke všem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-033",
+      "lang": "cs-CZ",
+      "text": "Bůh je má silná tvrz. On činí mou cestu dokonalou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-059-016",
+      "lang": "cs-CZ",
+      "text": "Ale já budu zpívat o tvé síle. Ano, budu zpívat nahlas o tvé milosti ráno. Neboť ty jsi byl mou vysokou věží, útočištěm v dni mého soužení.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-050",
+      "lang": "cs-CZ",
+      "text": "On řekl ženě Tvoje víra tě zachránila. Jdi v pokoji.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-006",
+      "lang": "cs-CZ",
+      "text": "V tom se velmi radujete, i když nyní na chvíli, pokud je třeba, jste zarmouceni různými zkouškami,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-003",
+      "lang": "cs-CZ",
+      "text": "V den, kdy jsem volal, jsi mi odpověděl. Posílil jsi mě silou v mé duši.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-026",
+      "lang": "cs-CZ",
+      "text": "Ve strachu před Hospodinem je bezpečná tvrz, a on bude útočištěm pro své děti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-013",
+      "lang": "cs-CZ",
+      "text": "Ano, od doby, kdy byl den, jsem já. Není nikoho, kdo by mohl vytrhnout z mé ruky. Já budu pracovat, a kdo to může zadržet?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-049",
+      "lang": "cs-CZ",
+      "text": "Ježíš se zastavil a řekl Zavolejte ho. Zavolali slepého muže, říkajíce mu Buď veselý! Vstaň. Volá tě!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-012",
+      "lang": "cs-CZ",
+      "text": "Bojuj dobrý boj víry, uchop věčný život, k němuž jsi byl povolán, a vyznal jsi dobré vyznání před mnoha svědky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-005",
+      "lang": "cs-CZ",
+      "text": "Nikdo ti nebude moci odolat po všechny dny tvého života. Jak jsem byl s Mojžíšem, tak budu s tebou. Nenechám tě ani neopustím.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-005",
+      "lang": "cs-CZ",
+      "text": "Neboť v den zlosti mě skryje ve svém stanu, v tajném místě své svatyně mě ukryje, na skálu mě vyvýší.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-009",
+      "lang": "cs-CZ",
+      "text": "Tehdy zavoláš, a Hospodin odpoví budeš volat o pomoc, a on řekne Hle, jsem tu. Jestliže odstraníš z tvého středu jho, ukazování prstem a mluvení zle",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-027",
+      "lang": "cs-CZ",
+      "text": "Potom řekl Tomášovi Dáš sem prst svůj a pohleď na mé ruce a dáš sem ruku svou a vložíš ji do mého boku. Nebuď nevěřící, ale věřící.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-012",
+      "lang": "cs-CZ",
+      "text": "V něm máme smělost a přístup s důvěrou skrze víru v něj.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-018",
+      "lang": "cs-CZ",
+      "text": "Ale i kdyby ne, ať je ti známo, ó králi, že tvým bohům sloužit nebudeme a zlatému obrazu, který jsi postavil, se nebudeme klanět.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-004",
+      "lang": "cs-CZ",
+      "text": "Budu bydlet v tvém stanu navěky, budu se skrývat v úkrytu tvých křídel. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019",
+      "lang": "cs-CZ",
+      "text": "Hle, učiním věc novou nyní vyvstává. Nevíš o tom? Učiním i cestu v poušti a řeky na pustém místě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-025",
+      "lang": "cs-CZ",
+      "text": "A řekl jim Kde je vaše víra? A oni, ustrašení, se divili a říkali si navzájem Kdo je to, že i větry a voda mu poslouchají?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-004",
+      "lang": "cs-CZ",
+      "text": "Neboť vše, co se narodilo z Boha, přemáhá svět. A toto je vítězství, které přemohlo svět vaše víra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-008",
+      "lang": "cs-CZ",
+      "text": "Neraduj se nade mnou, nepříteli můj když padnu, vstanu když sedím v temnotě, Hospodin mi bude světlem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-023",
+      "lang": "cs-CZ",
+      "text": "Tehdy budeš chodit bezpečně na své cestě, a noha tvá nebude klopýtat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-017",
+      "lang": "cs-CZ",
+      "text": "Chudí a potřební hledají vodu, a není jí jazyk jejich vysychá žízní. Já, Hospodin, jim odpovím já, Bůh Izraele, je neopustím.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-034",
+      "lang": "cs-CZ",
+      "text": "Proto se nestarejte o zítřek, neboť zítřek se postará sám o sebe. Každý den má dost svých vlastních trápení.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-001",
+      "lang": "cs-CZ",
+      "text": "Proto, poněvadž máme tuto službu, jak jsme obdrželi milosrdenství, neochabujeme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-004",
+      "lang": "cs-CZ",
+      "text": "Který nás utěšuje ve všech našich souženích, abychom mohli utěšovat ty, kdo jsou v jakémkoli soužení, skrze útěchu, kterou jsme sami byli utěšeni od Boha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-019",
+      "lang": "cs-CZ",
+      "text": "Mnoho je soužení spravedlivého, ale Hospodin jej vyvádí ze všech.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-057-018",
+      "lang": "cs-CZ",
+      "text": "Viděl jsem jeho cesty a uzdravím jej povedu jej také a potěším jeho truchlící.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-030",
+      "lang": "cs-CZ",
+      "text": "Neboť mé jho je příjemné a mé břemeno lehké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-018",
+      "lang": "cs-CZ",
+      "text": "Protožte se utěšujte navzájem těmito slovy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-003",
+      "lang": "cs-CZ",
+      "text": "Obnovuje mou duši vede mne stezkami spravedlnosti pro jméno své.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-024",
+      "lang": "cs-CZ",
+      "text": "Příjemná slova jsou jako plástev medu, sladká duši a zdraví kostem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-006",
+      "lang": "cs-CZ",
+      "text": "Hle, přivedu ji k zdraví a uzdravení, a vyléčím je a zjeví jim hojnost pokoje a pravdy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-048",
+      "lang": "cs-CZ",
+      "text": "A on jí řekl „Dcerko, buď vesele. Tvá víra tě uzdravila. Jdi v pokoji.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-015",
+      "lang": "cs-CZ",
+      "text": "A modlitba víry uzdraví nemocného, a Pán jej pozdvihne. A jestliže zhřešil, budou mu odpuštěny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-004",
+      "lang": "cs-CZ",
+      "text": "Blahoslavení, kdož plačí, neboť oni potěšeni budou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-002",
+      "lang": "cs-CZ",
+      "text": "Hospodine, Bože můj, volal jsem k tobě, a ty jsi mě uzdravil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-013",
+      "lang": "cs-CZ",
+      "text": "Zpívejte, nebe, a radujte se, země! Hory, vyjímejte se zpěvem! Neboť Hospodin potěšil svůj lid a smiluje se nad svými ubohými.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-022",
+      "lang": "cs-CZ",
+      "text": "Proto nyní máte zármutek, ale opět vás uvidím, a vaše srdce se radovat bude, a nikdo vám radosti vaší nevezme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-005",
+      "lang": "cs-CZ",
+      "text": "A Bůh trpělivosti a útěchy dej vám, abyste byli téhož smýšlení jedni s druhými podle Krista Ježíše.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-002",
+      "lang": "cs-CZ",
+      "text": "Řeknu o Hospodinu „On jest má útočiště a má tvrz Bůh můj, v něhož doufám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-076",
+      "lang": "cs-CZ",
+      "text": "Nechť je tvá milosrdnost mým potěšením, podle slova tvého k tvému služebníku.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-066-013",
+      "lang": "cs-CZ",
+      "text": "Jakožto matka utěšuje syna svého, tak já potěším vás. Utěšeni budete v Jeruzalémě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-003",
+      "lang": "cs-CZ",
+      "text": "Požehnán buď Bůh a Otec Pána našeho Ježíše Krista, Otec milosrdenství a Bůh všeho potěšení,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-035",
+      "lang": "cs-CZ",
+      "text": "Kdo nás oddělí od lásky Kristovy? Může snad soužení, nebo úzkost, nebo pronásledování, nebo hlad, nebo nahota, nebo nebezpečí, nebo meč?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-094-019",
+      "lang": "cs-CZ",
+      "text": "V množství myšlenek mých uvnitř mne, potěšení tvá radují mou duši.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-013",
+      "lang": "cs-CZ",
+      "text": "Tehdy se panna radovati bude v tanci, mladí muži a staří spolu neboť obrátím jejich plač v radost, a potěším je, a učiním je radovati se z jejich zármutku.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-041",
+      "lang": "cs-CZ",
+      "text": "A když byl pohnut soucitem, vztáhl ruku svou, a dotkl se ho, a řekl mu „Chci, buď čistý.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-002-016",
+      "lang": "cs-CZ",
+      "text": "Nyní sám Pán náš Ježíš Kristus a Bůh náš Otec, kterýž nás miloval a dal nám věčné potěšení a dobrou naději skrze milost,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-010",
+      "lang": "cs-CZ",
+      "text": "Když mě otec můj a matka má opustí, Hospodin mě přijme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-024",
+      "lang": "cs-CZ",
+      "text": "Když si lehneš, nebudeš se bát. Ano, lehneš si a tvůj spánek bude sladký.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-003",
+      "lang": "cs-CZ",
+      "text": "Posilněte slabé ruce a učiněte pevné kolena.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-024",
+      "lang": "cs-CZ",
+      "text": "A hned otec toho chlapce zvolal se slzami „Věřím, pomoz mé nevěře!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-015",
+      "lang": "cs-CZ",
+      "text": "Neboť nemáme velekněze, který by nemohl mít soucit s našimi slabostmi, ale takového, který byl ve všem pokoušen jako my, avšak bez hříchu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-017",
+      "lang": "cs-CZ",
+      "text": "Neboť naše lehké soužení, které je na okamžik, působí pro nás stále více a více nesmírnou váhu slávy,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050B",
+      "lang": "cs-CZ",
+      "text": "Prosím, ať je tvá milosrdná láska mým útěchou, podle tvého slova k tvému služebníku.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012B",
+      "lang": "cs-CZ",
+      "text": "Já, ano já, jsem ten, kdo tě utěšuje. Kdo jsi ty, že se bojíš člověka, který zemře, a syna člověka, který bude učiněn jako tráva?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-018",
+      "lang": "cs-CZ",
+      "text": "Nenechám vás sirotky. Přijdu k vám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-007",
+      "lang": "cs-CZ",
+      "text": "Vrať se k odpočinku, má duše, neboť Hospodin se ti dobrotivě odměnil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025B",
+      "lang": "cs-CZ",
+      "text": "Zármutek v srdci muže ho tíží, ale laskavé slovo ho potěší.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-013",
+      "lang": "cs-CZ",
+      "text": "Položil na ni ruce a hned se vztyčila a oslavila Boha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-007-006",
+      "lang": "cs-CZ",
+      "text": "A přece, ten, kdo utěšuje ponížené, Bůh, nás potěšil příchodem Tita,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009B",
+      "lang": "cs-CZ",
+      "text": "Ti, kdo znají tvé jméno, vloží svou důvěru v tebe, neboť ty, Hospodine, jsi neopustil ty, kdo tě hledají.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-014",
+      "lang": "cs-CZ",
+      "text": "Duch muže ho v nemoci podpírá, ale zkroušeného ducha, kdo unese?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-019",
+      "lang": "cs-CZ",
+      "text": "Tví mrtví budou žít. Jejich mrtvá těla vstanou. Probuďte se a zpívejte, vy, kdo bydlíte v prachu neboť vaše rosa je jako rosa bylin, a země vyvrhne odpadlé duchy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-008-017",
+      "lang": "cs-CZ",
+      "text": "Aby se naplnilo, co bylo řečeno skrze Izaiáše, proroka, říkající „Vzal naše slabosti a nesl naše nemoci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024B",
+      "lang": "cs-CZ",
+      "text": "On sám nesl naše hříchy ve svém těle na dřevě, abychom, umřevše hříchům, žili spravedlnosti. Byly jste uzdraveny jeho ranami.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003B",
+      "lang": "cs-CZ",
+      "text": "a vytrvalost, osvědčený charakter a osvědčený charakter, naděje",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-041-003",
+      "lang": "cs-CZ",
+      "text": "Hospodin ho podpírat bude na jeho lůžku nemoci a uzdraví ho z jeho postele nemoci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-013",
+      "lang": "cs-CZ",
+      "text": "Srdce veselé dělá veselou tvář, ale srdce zarmoucené láme ducha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-014",
+      "lang": "cs-CZ",
+      "text": "Uzdrav mě, Hospodine, a budu uzdraven zachraň mě, a budu zachráněn neboť Ty jsi má chvála.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-034",
+      "lang": "cs-CZ",
+      "text": "A uzdravil mnohé, kteří byli nemocní různými nemocemi, a vyháněl mnohé démony. A nedovolil démonům mluvit, protože ho znali.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-003",
+      "lang": "cs-CZ",
+      "text": "Ale Pán je věrný, který vás upevní a ochrání od zlého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027B",
+      "lang": "cs-CZ",
+      "text": "Nenechte se znepokojovat. Věřte v Boha, věřte také ve mne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-006-009",
+      "lang": "cs-CZ",
+      "text": "Hospodin slyšel mou prosbu Hospodin přijal mou modlitbu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-016",
+      "lang": "cs-CZ",
+      "text": "Pane, muži žijí těmito věcmi a můj duch nachází život ve všech z nich. Ty mě obnovíš a způsobíš, abych žil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-019",
+      "lang": "cs-CZ",
+      "text": "A řekl mu „Vstaň a jdi svou cestou. Tvá víra tě uzdravila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019",
+      "lang": "cs-CZ",
+      "text": "Můj Bůh naplní každou vaši potřebu podle svých bohatství v slávě v Kristu Ježíši.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-005",
+      "lang": "cs-CZ",
+      "text": "Neboť jak se množí utrpení Kristova, tak se také množí naše útěcha skrze Krista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-042-011",
+      "lang": "cs-CZ",
+      "text": "Proč jsi sklíčená, má duše? Proč se znepokojuješ ve mně? Doufej v Boha! Neboť ještě ho budu chválit, spásu své tváře a svého Boha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-017",
+      "lang": "cs-CZ",
+      "text": "Neboť uzdravím tě a vyléčím tvé rány, praví Hospodin, protože tě nazvali vyhnancem, říkajíce To je Sion, po němž nikdo nepátrá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022B",
+      "lang": "cs-CZ",
+      "text": "Ale Ježíš, obrátiv se a viděv ji, řekl „Dcerko, buď veselá! Tvá víra tě uzdravila. A žena byla uzdravena od té hodiny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019B",
+      "lang": "cs-CZ",
+      "text": "Abychom měli silnou útěchu, my, kteří jsme utekli, abychom se chopili naděje, která je před námi, skrze dvě neproměnné věci, v nichž je nemožné, aby Bůh lhal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028B",
+      "lang": "cs-CZ",
+      "text": "A víme, že všecko napomáhá k dobrému těm, kteří milují Boha, těm, kteří jsou povoláni podle jeho záměru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-114",
+      "lang": "cs-CZ",
+      "text": "Ty jsi má skrýš a má štít doufám v tvé slovo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011B",
+      "lang": "cs-CZ",
+      "text": "Bude pást své stádo jako pastýř shromáždí jehňata do svého náruče a ponese je na svém prsu jemně povede ty, kteří mají mláďata.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-013",
+      "lang": "cs-CZ",
+      "text": "Když ji Pán viděl, měl nad ní soucit a řekl jí „Nenech se plakat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-008",
+      "lang": "cs-CZ",
+      "text": "Jeho, kterého, neznaje, milujete. V něm, ač nyní ho nevidíte, však věříce, radujete se velmi radostí nevýslovnou a plnou slávy,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-008",
+      "lang": "cs-CZ",
+      "text": "Tísněni jsme ze všech stran, ale ne zlomeni udiveni, ale ne na smrt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-007",
+      "lang": "cs-CZ",
+      "text": "Hospodin tě uchová od všeho zlého, uchová tvou duši.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011B",
+      "lang": "cs-CZ",
+      "text": "Neboť já znám myšlenky, které myslím o vás, praví Hospodin, myšlenky pokoje a ne zla, abych vám dal naději a budoucnost.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033B",
+      "lang": "cs-CZ",
+      "text": "Amen, pravím vám, že budete plakat a naříkat, ale svět se bude radovat. Vy budete smutní, ale váš smutek se obrátí v radost.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012B",
+      "lang": "cs-CZ",
+      "text": "Radujte se v naději, vytrvejte v soužení, vytrvale se modlete.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-023",
+      "lang": "cs-CZ",
+      "text": "A přece jsem stále s tebou ty jsi mě uchopil za pravici.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-020",
+      "lang": "cs-CZ",
+      "text": "Můj synu, věnuj pozornost mým slovům, nakloň své ucho k mým výrokům.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-019",
+      "lang": "cs-CZ",
+      "text": "Nedovolil mu, ale řekl mu Jdi domů, ke svým přátelům, a vyprávěj jim, jaké veliké věci ti učinil Pán a jak se nad tebou smiloval.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-007",
+      "lang": "cs-CZ",
+      "text": "Naše naděje pro vás je pevná, vědouce, že jak jste účastníky utrpení, tak i útěchy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-017",
+      "lang": "cs-CZ",
+      "text": "Ukaž mi znamení své dobroty, aby ti, kdo mě nenávidí, viděli a byli zahanbeni, neboť ty, Hospodine, jsi mi pomohl a potěšil mě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-012",
+      "lang": "cs-CZ",
+      "text": "Naděje odložená působí srdci nemoc, ale touha naplněná je stromem života.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-011",
+      "lang": "cs-CZ",
+      "text": "Hle, byla tam žena, která měla ducha nemoci osmnáct let byla ohnutá a nemohla se nijak vzpřímit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-007",
+      "lang": "cs-CZ",
+      "text": "Proto jsme, bratři, byli potěšeni nad vámi ve všech našich souženích a úzkostech skrze vaši víru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007B",
+      "lang": "cs-CZ",
+      "text": "Čiňte to, co jste se naučili, co jste přijali, co jste slyšeli a co jste viděli ve mně, a Bůh pokoje bude s vámi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-049",
+      "lang": "cs-CZ",
+      "text": "Pamatuj na své slovo k svému služebníku, neboť jsi mi dal naději.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-025",
+      "lang": "cs-CZ",
+      "text": "Neboť jsem nasytil unavenou duši a každou zarmoucenou duši jsem naplnil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-035",
+      "lang": "cs-CZ",
+      "text": "Ježíš plakal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016B",
+      "lang": "cs-CZ",
+      "text": "Proto neochabujeme, ale i když se náš vnější člověk kazí, náš vnitřní člověk se obnovuje den co den.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013C",
+      "lang": "cs-CZ",
+      "text": "Ať vás naplní Bůh naděje veškerou radostí a pokojem ve víře, abyste se v naději rozhojňovali mocí Ducha svatého.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-092",
+      "lang": "cs-CZ",
+      "text": "Kdyby nebyl tvůj zákon mým potěšením, byl bych zahynul v mé úzkosti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017B",
+      "lang": "cs-CZ",
+      "text": "Přítel miluje v každém čase, a bratr se rodí pro soužení.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-014",
+      "lang": "cs-CZ",
+      "text": "Ježíš vyšel a viděl veliké množství lidí měl nad nimi soucit a uzdravil jejich nemocné.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005",
+      "lang": "cs-CZ",
+      "text": "Buďte bez lásky k penězům, spokojeni s tím, co máte, neboť on řekl „Nikdy tě nenechám, ani tě neopustím.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005B",
+      "lang": "cs-CZ",
+      "text": "Blahoslavený je člověk, který snáší pokušení, neboť když byl schválen, obdrží korunu života, kterou Pán zaslíbil těm, kdo ho milují.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039",
+      "lang": "cs-CZ",
+      "text": "Ale spása spravedlivých je od Hospodina on je jejich pevností v čase soužení.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-007",
+      "lang": "cs-CZ",
+      "text": "Nedá Bůh pomstu svým vyvoleným, kteří k němu volají dnem i nocí, a přece s nimi trpělivě jedná?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005B",
+      "lang": "cs-CZ",
+      "text": "A naděje nás nezklame, neboť láska Boží byla vylita do našich srdcí skrze Ducha svatého, který nám byl dán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-012-010",
+      "lang": "cs-CZ",
+      "text": "Proto se raději chlubím slabostmi, urážkami, potřebami, pronásledováním a úzkostmi pro Kristovu věc, neboť když jsem slabý, tehdy jsem silný.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-003",
+      "lang": "cs-CZ",
+      "text": "Nedovolí, aby se tvá noha pohnula ten, kdo tě chrání, nespí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-037",
+      "lang": "cs-CZ",
+      "text": "Všichni, které mi Otec dává, přijdou ke mně a toho, kdo ke mně přijde, nikdy nevyhodím.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-013B",
+      "lang": "cs-CZ",
+      "text": "Proto si připravte své mysli k činnosti, buďte střízliví a plně vkládejte svou naději na milost, která vám bude přinesena při zjevení Ježíše Krista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002B",
+      "lang": "cs-CZ",
+      "text": "Proto, když máme příležitost, čiňme dobro všem lidem, a zvláště těm, kdo jsou z domácnosti víry.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-005",
+      "lang": "cs-CZ",
+      "text": "Má duše, čekej v tichosti na Boha jedině, neboť má naděje je od něho.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-011",
+      "lang": "cs-CZ",
+      "text": "Požehnáním spravedlivých je město vyvýšeno, ale ústy bezbožných je zničeno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015B",
+      "lang": "cs-CZ",
+      "text": "Neboť tak praví Pán Hospodin, Svatý Izraelský „Spaseni budete v návratu a odpočinku vaše síla bude v tichosti a důvěře. Ale vy jste odmítli.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-052",
+      "lang": "cs-CZ",
+      "text": "Ježíš mu řekl „Jdi svou cestou tvá víra tě uzdravila. A hned obdržel zrak a šel za Ježíšem po cestě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007B",
+      "lang": "cs-CZ",
+      "text": "Neboť Bůh nám nedal ducha strachu, ale moci, lásky a sebekontroly.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-029",
+      "lang": "cs-CZ",
+      "text": "Vidíš muže, který je zručný ve své práci? Bude sloužit králům nebude sloužit neznámým lidem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-008-018",
+      "lang": "cs-CZ",
+      "text": "Ale pamatuj na Hospodina, svého Boha, neboť on ti dává moc získat bohatství, aby mohl ustanovit svou smlouvu, kterou přísahal tvým otcům, jak je dnes.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-011",
+      "lang": "cs-CZ",
+      "text": "A abyste usilovali vést tichý život a vykonávat své vlastní záležitosti a pracovat svýma rukama, jak jsme vám přikázali.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-004",
+      "lang": "cs-CZ",
+      "text": "Kdo pracuje s lenivou rukou, chudne, ale ruka pilného přináší bohatství.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-017",
+      "lang": "cs-CZ",
+      "text": "Nechť je přízeň Pána, našeho Boha, na nás upevni dílo našich rukou pro nás, ano, upevni dílo našich rukou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-042",
+      "lang": "cs-CZ",
+      "text": "Pán řekl „Kdo je tedy věrný a moudrý správce, kterého jeho pán postaví nad svou domácnost, aby jim dával jejich porci jídla v pravý čas?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-028",
+      "lang": "cs-CZ",
+      "text": "Nechť ten, kdo kradl, už nekrade, ale ať raději pracuje, produkujíc svýma rukama něco dobrého, aby měl co dát tomu, kdo potřebuje.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-011",
+      "lang": "cs-CZ",
+      "text": "Kdo obdělává svou půdu, bude mít dostatek chleba, ale kdo honí fantazie, je bez porozumění.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-021",
+      "lang": "cs-CZ",
+      "text": "Jeho pán mu řekl ‚Dobře jsi učinil, dobrý a věrný služebníku byl jsi věrný v malých věcech, postavím tě nad mnohé. Vejdi do radosti svého pána.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-010",
+      "lang": "cs-CZ",
+      "text": "Neboť i když jsme byli s vámi, přikázali jsme vám toto „Kdo není ochoten pracovat, ať nejí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-031",
+      "lang": "cs-CZ",
+      "text": "Ať tedy jíte nebo pijete, nebo cokoli děláte, dělejte všechno k slávě Boží.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-004",
+      "lang": "cs-CZ",
+      "text": "Duše lenocha touží a nic nemá, ale touha pilného bude plně uspokojena.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-011",
+      "lang": "cs-CZ",
+      "text": "Pokud jste tedy nebyli věrní v nepoctivém mamonu, kdo vám svěřil pravé bohatství?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-014",
+      "lang": "cs-CZ",
+      "text": "Nechť se naši lidé také učí udržovat dobré skutky k naplnění potřeb, aby nebyli neplodní.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-003",
+      "lang": "cs-CZ",
+      "text": "Bude jako strom zasazený u vodních potoků, který přináší svůj plod v jeho čase, jehož list také neuvadne co dělá, to se mu podaří.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028",
+      "lang": "cs-CZ",
+      "text": "Neboť který z vás, kdo si přeje postavit věž, nejdříve nesedne a nepočítá náklady, aby viděl, zda má dostatek k dokončení?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-006",
+      "lang": "cs-CZ",
+      "text": "Ale zbožnost s uspokojením je veliký zisk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014",
+      "lang": "cs-CZ",
+      "text": "Dělejte vše bez stížností a hádek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005B",
+      "lang": "cs-CZ",
+      "text": "Plány pilného jistě vedou k zisku, ale každý, kdo je ukvapený, jistě spěchá k chudobě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-020",
+      "lang": "cs-CZ",
+      "text": "Blahoslavení jste, kdo zaséváte vedle všech vod, kdo posíláte nohy volů a oslů.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-017",
+      "lang": "cs-CZ",
+      "text": "Ježíš jim odpověděl „Dejte císaři, co je císařovo, a Bohu, co je Boží. Velmi se nad ním podivovali.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-010",
+      "lang": "cs-CZ",
+      "text": "Neboť Bůh není nespravedlivý, aby zapomněl na vaši práci a námahu lásky, kterou jste prokázali jeho jménu, když jste sloužili svatým a stále sloužíte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-010",
+      "lang": "cs-CZ",
+      "text": "Ale milostí Boží jsem tím, čím jsem a jeho milost, která mi byla dána, nebyla marná, ale pracoval jsem více než všichni avšak ne já, ale milost Boží, která byla se mnou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-005",
+      "lang": "cs-CZ",
+      "text": "Svěř Hospodinu svou cestu, doufej v něj, a on to učiní.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-012",
+      "lang": "cs-CZ",
+      "text": "Neboť kdo má, tomu bude dáno, a bude mít hojnost ale kdo nemá, tomu bude odňato i to, co má.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-019",
+      "lang": "cs-CZ",
+      "text": "Kdo obdělává svou půdu, bude mít hojnost pokrmu ale kdo honí fantazie, bude mít nedostatek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010B",
+      "lang": "cs-CZ",
+      "text": "A když vyliješ svou duši na hladového a uspokojíš trpící duši, pak tvé světlo vyjde v temnotě a tvá tma bude jako poledne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-020",
+      "lang": "cs-CZ",
+      "text": "A ti, kteří byli zaseti na dobrou půdu, jsou ti, kteří slyší slovo, přijímají je a nesou ovoce, jedni třicetkrát, jiní šedesátkrát a jiní sto krát.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-011",
+      "lang": "cs-CZ",
+      "text": "Nezlenivěte v pilnosti, buďte horliví v duchu, služte Pánu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-024",
+      "lang": "cs-CZ",
+      "text": "Je jeden, kdo rozsévá, a přidává ještě více. Je jeden, kdo zadržuje více, než je vhodné, ale získává chudobu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-005",
+      "lang": "cs-CZ",
+      "text": "Stavějte domy a bydlete v nich. Sázejte zahrady a jezte jejich plody.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-003-014",
+      "lang": "cs-CZ",
+      "text": "I vojáci se ho ptali, říkajíce „A co my? Co máme dělat? Řekl jim „Nikoho neokrádejte násilím, ani nikoho nepronásledujte křivě. Buďte spokojeni se svými mzdami.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010",
+      "lang": "cs-CZ",
+      "text": "Jak každý obdržel dar, tak ho používejte v službě jeden druhému, jako dobří správci milosti Boží v jejích různých podobách.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-004-002",
+      "lang": "cs-CZ",
+      "text": "Kromě toho se od správců vyžaduje, aby byli nalezeni věrní.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-003",
+      "lang": "cs-CZ",
+      "text": "Bohatství a jmění jsou v jeho domě. Jeho spravedlnost trvá navěky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022B",
+      "lang": "cs-CZ",
+      "text": "Kde není rady, tam plány selhávají ale v množství radících se ustavují.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-007B",
+      "lang": "cs-CZ",
+      "text": "Tvořím světlo a vytvářím tmu. Dělám pokoj a vytvářím zlo. Já jsem Hospodin, který činí všechny tyto věci.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-023",
+      "lang": "cs-CZ",
+      "text": "Jeho pán mu řekl ‚Dobře jsi učinil, dobrý a věrný služebníku. Byl jsi věrný v malých věcech. Učiním tě nad mnohými. Vstup do radosti svého pána.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-002",
+      "lang": "cs-CZ",
+      "text": "Nadarmo vstáváte časně, pozdě usínáte, jíte chléb úsilí, neboť on dává spánek svým milovaným.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-011",
+      "lang": "cs-CZ",
+      "text": "Bohatství získané nepoctivě se zmenšuje, ale kdo shromažďuje rukama, činí je růst.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-008",
+      "lang": "cs-CZ",
+      "text": "Vystupte na horu, přineste dřevo a stavte dům. Potěším se v něm a budu oslaven, praví Hospodin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-013",
+      "lang": "cs-CZ",
+      "text": "Žádný služebník nemůže sloužit dvěma pánům, neboť buď nenávidí jednoho a miluje druhého nebo se přidržuje jednoho a pohrdá druhým. Nemůžete sloužit Bohu a mamonu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005B",
+      "lang": "cs-CZ",
+      "text": "Buďte bez lásky k penězům, spokojeni s tím, co máte, neboť on řekl „Nenechám tě, ani tě neopustím.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009B",
+      "lang": "cs-CZ",
+      "text": "Nebuďme unaveni v konání dobrého, neboť v pravý čas sklidíme, pokud neochabneme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-009",
+      "lang": "cs-CZ",
+      "text": "Kdo je lenivý v práci, je bratrem tomu, kdo je pánem zkázy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-043",
+      "lang": "cs-CZ",
+      "text": "A zavolal si k sobě své učedníky a řekl jim Amen, pravím vám, tato chudá vdova dala více než všichni, kdo vkládají do pokladnice,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007",
+      "lang": "cs-CZ",
+      "text": "Dejte tedy každému, co mu dlužíte pokud dlužíte daně, plaťte daně pokud clo, pak clo pokud úctu, pak úctu pokud čest, pak čest.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-008-021",
+      "lang": "cs-CZ",
+      "text": "Mějte na zřeteli čestné věci, nejen před Pánem, ale také před lidmi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-006",
+      "lang": "cs-CZ",
+      "text": "Lépe je chudý, který chodí v své upřímnosti, než ten, kdo je zvrácený ve svých cestách, a je bohatý.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-024",
+      "lang": "cs-CZ",
+      "text": "Ale ať spravedlnost proudí jako řeky, a spravedlnost jako mocný potok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-021",
+      "lang": "cs-CZ",
+      "text": "Neboť kde je tvůj poklad, tam bude i tvé srdce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-007",
+      "lang": "cs-CZ",
+      "text": "S dobrou vůlí vykonávejte službu jako Pánu, a ne lidem,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-001",
+      "lang": "cs-CZ",
+      "text": "Páni, dejte svým služebníkům, co je spravedlivé a rovné, vědouce, že i vy máte Pána v nebesích.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-016",
+      "lang": "cs-CZ",
+      "text": "Lépe je málo, co má spravedlivý, než hojnost mnoha bezbožných.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-001",
+      "lang": "cs-CZ",
+      "text": "Klamavá váha je ohavností Hospodinu, ale přesné váhy jsou jeho potěšením.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-011",
+      "lang": "cs-CZ",
+      "text": "Mám snášet nepoctivé váhy a pytel podvodných vah?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-013",
+      "lang": "cs-CZ",
+      "text": "A zavolal deset svých služebníků a dal jim deset hřiven, a řekl jim Obchodujte, dokud nepřijdu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-018",
+      "lang": "cs-CZ",
+      "text": "Služebníci, buďte poddáni svým pánům se vší úctou, nejen dobrým a mírným, ale také zlým.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-013",
+      "lang": "cs-CZ",
+      "text": "Pojďte nyní, vy, kdo říkáte Dnes nebo zítra půjdeme do tohoto města a strávíme tam rok, obchodujeme a získáme zisk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-005",
+      "lang": "cs-CZ",
+      "text": "Dobře je muži, který se chová laskavě a půjčuje. Udrží si svou věc v soudu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-029",
+      "lang": "cs-CZ",
+      "text": "Neboť každému, kdo má, bude dáno, a bude mít hojnost, ale od toho, kdo nemá, bude vzato i to, co má.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014B",
+      "lang": "cs-CZ",
+      "text": "Ať se všechno, co děláte, děje v lásce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-012",
+      "lang": "cs-CZ",
+      "text": "A nyní těm, kdo takto žijí, přikazujeme a napomínáme v Pánu Ježíši Kristu, aby pracovali v tichosti a jedli svůj vlastní chléb.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-020",
+      "lang": "cs-CZ",
+      "text": "Člověk, který má bohatství bez porozumění, je jako zvířata, která hynou.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-004",
+      "lang": "cs-CZ",
+      "text": "Nesnaž se zbohatnout v své moudrosti se ovládej.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-019",
+      "lang": "cs-CZ",
+      "text": "Je ještě semeno v sýpce? Ano, vinná réva, fíkovník, granátové jablko a olivovník ještě nevydaly. Od dneška vás požehnám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-018",
+      "lang": "cs-CZ",
+      "text": "Neboť Písmo praví Nebudeš zadržovat vola, když mlátí obilí. A Dělník je hoden své mzdy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-009",
+      "lang": "cs-CZ",
+      "text": "Kdo činí veliké věci, které nelze prozkoumat, podivuhodné věci bez počtu",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-023",
+      "lang": "cs-CZ",
+      "text": "Ve veškeré tvrdé práci je zisk, ale mluvení rtů vede jen k chudobě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045B",
+      "lang": "cs-CZ",
+      "text": "Neboť Syn člověka nepřišel, aby byl obsluhován, ale aby sloužil a dal svůj život jako výkupné za mnohé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-017",
+      "lang": "cs-CZ",
+      "text": "Nikomu neplaťte zlo za zlo. Ctěte, co je čestné v očích všech lidí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-003",
+      "lang": "cs-CZ",
+      "text": "V něm jsou skryty všechny poklady moudrosti a poznání.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-009",
+      "lang": "cs-CZ",
+      "text": "Rozptýlil, dal chudým. Jeho spravedlnost trvá navěky. Jeho roh bude vyvýšen s ctí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-027",
+      "lang": "cs-CZ",
+      "text": "Nedrž zpět dobro od těch, kterým náleží, když je v moci tvé ruky to učinit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-026",
+      "lang": "cs-CZ",
+      "text": "Mezi vámi to tak nebude ale kdo chce být mezi vámi veliký, bude vaším služebníkem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-022",
+      "lang": "cs-CZ",
+      "text": "Zdrž se každého druhu zla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008B",
+      "lang": "cs-CZ",
+      "text": "A Bůh je mocen učinit, aby vám byla veškerá milost hojná, abyste, vždy mající všeho dostatek, mohli hojně konat každé dobré dílo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-104-023",
+      "lang": "cs-CZ",
+      "text": "Člověk vychází ke své práci, k svému úsilí až do večera.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-015",
+      "lang": "cs-CZ",
+      "text": "Lenost uvádí do hlubokého spánku. Líná duše bude trpět hladem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-016",
+      "lang": "cs-CZ",
+      "text": "Ale nezapomínejte konat dobro a sdílet, neboť s takovými oběťmi je Bůh dobře spokojen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-018",
+      "lang": "cs-CZ",
+      "text": "Ano, člověk řekne Ty máš víru, a já mám skutky. Ukaž mi svou víru bez skutků, a já ti ukážu svou víru skrze své skutky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023B",
+      "lang": "cs-CZ",
+      "text": "Kroky člověka jsou ustaveny Hospodinem. On se raduje v jeho cestě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-013",
+      "lang": "cs-CZ",
+      "text": "Nedbej na spánek, abys nepřišel k chudobě. Otevři své oči a budeš nasycen chlebem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009B",
+      "lang": "cs-CZ",
+      "text": "Takto promluvil Hospodin zástupů, říkaje Provádějte pravé soudy a prokazujte laskavost a soucit každý svému bratru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-009-004",
+      "lang": "cs-CZ",
+      "text": "Musím konat skutky toho, který mě poslal, dokud je den. Noc přichází, když nikdo nemůže pracovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-012",
+      "lang": "cs-CZ",
+      "text": "Tak tedy každý z nás dá účet sám za sebe Bohu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-024",
+      "lang": "cs-CZ",
+      "text": "Bratři, ať každý zůstane v tom stavu, v němž byl povolán, s Bohem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-002",
+      "lang": "cs-CZ",
+      "text": "Neboť budeš jíst práci svých rukou. Budeš šťastný a bude ti dobře.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-027",
+      "lang": "cs-CZ",
+      "text": "Kdo dává chudému, nemá nedostatek ale kdo zavírá oči, bude mít mnoho prokletí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008C",
+      "lang": "cs-CZ",
+      "text": "On ti ukázal, ó člověče, co je dobré. Což žádá Hospodin od tebe, než abys jednal spravedlivě, miloval milosrdenství a chodil pokorně se svým Bohem?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-024",
+      "lang": "cs-CZ",
+      "text": "Nikdo nemůže sloužit dvěma pánům, neboť buď nenávidí jednoho a miluje druhého, nebo se k jednomu přikloní a druhého pohrdne. Nemůžete sloužit Bohu i mamonu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-010",
+      "lang": "cs-CZ",
+      "text": "aby jste chodili hodně podle Pána, abyste se mu líbili ve všech věcech, nesli ovoce v každém dobrém skutku a rostli v poznání Boha,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-012",
+      "lang": "cs-CZ",
+      "text": "Hospodin si nás pamatuje. Požehná nám. Požehná domu Izraelskému. Požehná domu Áronovu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-023",
+      "lang": "cs-CZ",
+      "text": "Důkladně poznej stav svých ovcí a věnuj pozornost svým stádům,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-003",
+      "lang": "cs-CZ",
+      "text": "Neboť vidění je ještě pro určený čas, a spěchá k cíli, a nezklame. I když to trvá, čekej na to, neboť to jistě přijde. Nebude to zpožděno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-005-004",
+      "lang": "cs-CZ",
+      "text": "Když skončil mluvit, řekl Šimonovi „Zajeď na hlubinu a spustěte své sítě na lov.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019B",
+      "lang": "cs-CZ",
+      "text": "Můj Bůh naplní každou vaši potřebu podle svých bohatství v slávě v Kristu Ježíši.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018B",
+      "lang": "cs-CZ",
+      "text": "Ve všem děkujte, neboť to je vůle Boží v Kristu Ježíši vůči vám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-001-021B",
+      "lang": "cs-CZ",
+      "text": "Řekl „Nahý jsem vyšel z lůna matky své, a nahý se tam navrátím. Hospodin dal, a Hospodin vzal. Požehnáno buď jméno Hospodinovo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-008",
+      "lang": "cs-CZ",
+      "text": "Odstraň ode mne daleko lež a lži. Nedávej mi ani chudobu, ani bohatství. Nasyť mě pokrmem, který je mi potřebný,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016B",
+      "lang": "cs-CZ",
+      "text": "Toto jsou věci, které máte činit mluvte každý s pravdou se svým bližním. Provádějte soud pravdy a pokoje ve svých bránách,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-036",
+      "lang": "cs-CZ",
+      "text": "Neboť co prospěje člověku, získá-li celý svět, a ztratí-li svou duši?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-011",
+      "lang": "cs-CZ",
+      "text": "Usilujme tedy, abychom vešli do toho odpočinutí, aby nikdo nepadl podle téhož příkladu neposlušnosti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-011",
+      "lang": "cs-CZ",
+      "text": "vy obohaceni ve všem pro veškerou štědrost, která přináší díkůvzdání Bohu skrze nás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-002",
+      "lang": "cs-CZ",
+      "text": "Jehož potomstvo bude mocné v zemi. Pokolení upřímných bude požehnáno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-001",
+      "lang": "cs-CZ",
+      "text": "Dobrý jméno je žádoucí více než veliké bohatství, a milost je lepší než stříbro a zlato.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006B",
+      "lang": "cs-CZ",
+      "text": "Řekl jim „Zahoďte síť na pravou stranu lodi, a naleznete něco. A oni ji tedy zhodili, a nyní ji nemohli vytáhnout pro množství ryb.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002B",
+      "lang": "cs-CZ",
+      "text": "Nesnažte se přizpůsobit tomuto světu, ale buďte proměněni obnovou své mysli, abyste mohli prokázat, co je dobrá, příjemná a dokonalá vůle Boží.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-006",
+      "lang": "cs-CZ",
+      "text": "Ó, pojďme, uctívejme a poklekněme. Poklekněme před Hospodinem, naším Stvořitelem,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-009",
+      "lang": "cs-CZ",
+      "text": "Modlete se takto „Otče náš, jenž jsi na nebesích, posvěť se jméno tvé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-017",
+      "lang": "cs-CZ",
+      "text": "Modlete se bez přestání.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-004",
+      "lang": "cs-CZ",
+      "text": "Tak tě budu chválit, dokud budu žít. Zvednu své ruce ve tvém jménu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-029",
+      "lang": "cs-CZ",
+      "text": "Hospodin je daleko od bezbožných, ale slyší modlitbu spravedlivých.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-002",
+      "lang": "cs-CZ",
+      "text": "Řekl jim „Když se modlíte, říkejte ‚Otče náš, jenž jsi na nebesích, posvěť se jméno tvé. Přijď království tvé. Buď vůle tvá, jako v nebi, tak i na zemi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-002",
+      "lang": "cs-CZ",
+      "text": "Vytrvale se modlete, bděte v tom s díkůvzdáním,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-001",
+      "lang": "cs-CZ",
+      "text": "Od Davida když se před Abimelechem choval jako šílený, který ho vyhnal, a on odešel. 1 Budu chválit Hospodina za všech okolností. Jeho chvála bude vždy v mém ústech.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-009",
+      "lang": "cs-CZ",
+      "text": "Kdo odvrací ucho od slyšení zákona, i jeho modlitba je ohavností.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007B",
+      "lang": "cs-CZ",
+      "text": "Ale co se mě týče, já se budu dívat k Hospodinu. Budu čekat na Boha své spásy. Můj Bůh mě uslyší.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-024",
+      "lang": "cs-CZ",
+      "text": "Bůh je duch, a ti, kdo ho uctívají, musí ho uctívat v duchu a pravdě.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-001",
+      "lang": "cs-CZ",
+      "text": "Proto vás napomínám, především, aby byly činěny prosby, modlitby, přímluvy a díkůvzdání za všechny lidi,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-002",
+      "lang": "cs-CZ",
+      "text": "Ať je má modlitba postavena před tebou jako kadidlo zvednutí mých rukou jako večerní oběť.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-010",
+      "lang": "cs-CZ",
+      "text": "Ať přijde tvé království. Ať se stane tvá vůle na zemi, jako je v nebi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-018",
+      "lang": "cs-CZ",
+      "text": "Se vší modlitbou a prosbou, modlíce se v každém čase v Duchu, a buďte bdělí k tomu v každé vytrvalosti a prosbách za všechny svaté.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-029-002",
+      "lang": "cs-CZ",
+      "text": "Přiznejte Hospodinu slávu, která mu náleží. Uctívejte Hospodina v posvátném oděvu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-002",
+      "lang": "cs-CZ",
+      "text": "Protože se obrátil k mně, budu ho vzývat, dokud budu žít.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-004",
+      "lang": "cs-CZ",
+      "text": "V ten den řeknete „Děkujte Hospodinu! Volejte jeho jméno! Oznámte jeho skutky mezi národy! Proklamujte, že jeho jméno je vyvýšeno!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-013",
+      "lang": "cs-CZ",
+      "text": "Ale celník, stojící daleko, ani nepozvedl oči k nebi, ale bil se do prsou, říkaje ‚Bože, smiluj se nade mnou, hříšníkem!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-020",
+      "lang": "cs-CZ",
+      "text": "Nyní našemu Bohu a Otci buď sláva na věky věků! Amen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018B",
+      "lang": "cs-CZ",
+      "text": "přesto se budu radovat v Hospodinu. Budu se radovat v Bohu své spásy!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-013",
+      "lang": "cs-CZ",
+      "text": "Cokoli budete žádat v mém jménu, to učiním, aby byl Otec oslaven v Synu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018",
+      "lang": "cs-CZ",
+      "text": "Ve všem děkujte, neboť to je vůle Boží v Kristu Ježíši vůči vám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-002",
+      "lang": "cs-CZ",
+      "text": "Pojďme před jeho tvář s díkůvzdáním. Pojďme ho vyvyšovat písněmi!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013B",
+      "lang": "cs-CZ",
+      "text": "Kdo skrývá své hříchy, neprosperuje, ale kdo je vyznává a opouští, nalézá milosrdenství.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-008",
+      "lang": "cs-CZ",
+      "text": "Proto si přeji, aby se muži na každém místě modlili, pozdvihujíce svaté ruce bez hněvu a pochybností.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-008",
+      "lang": "cs-CZ",
+      "text": "Oběť bezbožných je ohavností Hospodinu, ale modlitba upřímných je jeho potěšením.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-008",
+      "lang": "cs-CZ",
+      "text": "Ano, v cestě tvých soudů, Hospodine, jsme na tebe čekali. Tvé jméno a tvá sláva jsou touhou naší duše.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041B",
+      "lang": "cs-CZ",
+      "text": "Bděte a modlete se, abyste neupadli do pokušení. Duch je sice ochotný, ale tělo je slabé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006B",
+      "lang": "cs-CZ",
+      "text": "V ničem se nestarejte, ale ve všem, modlitbou a prosbou s díkůvzdáním, ať jsou vaše žádosti známy Bohu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-012",
+      "lang": "cs-CZ",
+      "text": "Budu tě chválit, Pane, můj Bože, celým svým srdcem. Budu oslavovat tvé jméno navěky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-017-006",
+      "lang": "cs-CZ",
+      "text": "Volal jsem k tobě, neboť mi odpovíš, Bože. Otoč svůj sluch ke mně. Slyš mou řeč.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-023",
+      "lang": "cs-CZ",
+      "text": "V ten den se mě nebudete ptát na nic. Opravu vám říkám, cokoli budete žádat od Otce v mém jménu, dá vám to.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-099-005",
+      "lang": "cs-CZ",
+      "text": "Vyvyšujte Hospodina, našeho Boha. Uctívejte u jeho podnoží. On je svatý!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021B",
+      "lang": "cs-CZ",
+      "text": "Smrt a život jsou v moci jazyka kdo je miluje, bude jíst jeho ovoce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006B",
+      "lang": "cs-CZ",
+      "text": "Ve všech svých cestách ho uznávej, a on učiní tvé stezky přímé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006B",
+      "lang": "cs-CZ",
+      "text": "Hledejte Hospodina, dokud se dá nalézt. Volejte ho, dokud je blízko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-011",
+      "lang": "cs-CZ",
+      "text": "Dej nám dnes náš denní chléb.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-025",
+      "lang": "cs-CZ",
+      "text": "Bratři, modlete se za nás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026B",
+      "lang": "cs-CZ",
+      "text": "Učiňte stezku svých nohou rovnou. Ať jsou všechny vaše cesty ustaveny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-020",
+      "lang": "cs-CZ",
+      "text": "Ale Hospodin je ve svém svatém chrámu. Ať je celá země před ním v tichu!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-007",
+      "lang": "cs-CZ",
+      "text": "Pokud zůstanete ve mně a má slova zůstanou ve vás, budete žádat, co chcete, a bude vám to dáno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002B",
+      "lang": "cs-CZ",
+      "text": "Když přijde pýcha, pak přijde hanba, ale s pokorou přichází moudrost.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-024",
+      "lang": "cs-CZ",
+      "text": "Proto vám říkám, všechno, co modlíte a žádáte, věřte, že jste to přijali, a budete to mít.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-020",
+      "lang": "cs-CZ",
+      "text": "vždy děkujte za všechno v jménu našeho Pána Ježíše Krista Bohu, i Otci",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-003",
+      "lang": "cs-CZ",
+      "text": "Učiň, Hospodine, stráž před mými ústy. Chraň dveře mých rtů.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-006",
+      "lang": "cs-CZ",
+      "text": "Křičte a radujte se, obyvatelé Sionu, neboť Svatý Izraelský je veliký uprostřed vás!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013B",
+      "lang": "cs-CZ",
+      "text": "Jestliže tedy vy, kteří jste zlí, víte, jak dávat dobré dary svým dětem, jak mnohem více dá váš nebeský Otec Ducha svatého těm, kdo ho prosí!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-022",
+      "lang": "cs-CZ",
+      "text": "A co žádáme, to od něho dostáváme, protože zachováváme jeho přikázání a činíme to, co je jemu milé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-005",
+      "lang": "cs-CZ",
+      "text": "Když se zděsily, sklonily své tváře k zemi. Muži jim řekli „Proč hledáte živého mezi mrtvými?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-011",
+      "lang": "cs-CZ",
+      "text": "Obrátil jsi mou zármutek v tanec, svlékl jsi můj pytlový oděv a oblékl jsi mě radostí,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-043",
+      "lang": "cs-CZ",
+      "text": "Když to řekl, zvolal mocným hlasem „Lazare, pojď ven!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-015",
+      "lang": "cs-CZ",
+      "text": "Děkujeme Bohu za jeho nevyslovitelný dar!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-034",
+      "lang": "cs-CZ",
+      "text": "Odejte díky Hospodinu, neboť je dobrý, jeho milosrdenství trvá navěky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-015",
+      "lang": "cs-CZ",
+      "text": "Jeden z nich, když viděl, že byl uzdraven, vrátil se a oslavoval Boha mocným hlasem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-017",
+      "lang": "cs-CZ",
+      "text": "Ať děláte cokoliv, ve slově nebo v činu, dělejte všechno ve jménu Pána Ježíše, děkujíc Bohu Otci skrze něj.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-009",
+      "lang": "cs-CZ",
+      "text": "Cti Hospodina ze svého majetku, z prvotin všech svých výnosů",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-041",
+      "lang": "cs-CZ",
+      "text": "A tak odvalili kámen od místa, kde ležel mrtvý. Ježíš pozdvihl oči a řekl „Otče, děkuji ti, že jsi mě vyslyšel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-002",
+      "lang": "cs-CZ",
+      "text": "Vždy děkujeme Bohu za všechny vás, vzpomínajíc na vás v našich modlitbách,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-004",
+      "lang": "cs-CZ",
+      "text": "Výsledkem pokory a bázně před Hospodinem je bohatství, čest a život.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-028",
+      "lang": "cs-CZ",
+      "text": "A vzal ho do náručí a požehnal Bohu a řekl,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-029-013",
+      "lang": "cs-CZ",
+      "text": "Nyní tedy, Bože náš, děkujeme ti a chválíme tvé slavné jméno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-004",
+      "lang": "cs-CZ",
+      "text": "ani nečistoty, ani hloupé řeči, ani posměšky, které nejsou vhodné, ale spíše dávání díky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-106-001",
+      "lang": "cs-CZ",
+      "text": "Chvalte Hospodina! Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá navěky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-022",
+      "lang": "cs-CZ",
+      "text": "Hospodinovo požehnání přináší bohatství a k tomu nepřidává žádné trápení.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-015-036",
+      "lang": "cs-CZ",
+      "text": "A vzal sedm chlebů a ryby. Děkoval a lámal je a dával učedníkům, a učedníci lidem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-015",
+      "lang": "cs-CZ",
+      "text": "Neboť všechno je pro vaše dobro, aby milost, rozmnožená skrze mnohé, přivedla díkůvzdání k slávě Boží.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-019",
+      "lang": "cs-CZ",
+      "text": "Vzal chléb, a když poděkoval, lámal a dával jim, říkaje „Toto je mé tělo, které se dává za vás. Točiňte na mou památku.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-007",
+      "lang": "cs-CZ",
+      "text": "Zakořeněni a budováni v něm a ustaveni ve víře, jak jste byli vyučováni, bohatí v díkůvzdání.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-008",
+      "lang": "cs-CZ",
+      "text": "Odejte díky Hospodinu. Volejte na jeho jméno. Oznámte, co učinil mezi národy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-017",
+      "lang": "cs-CZ",
+      "text": "Neboť jak veliká je jeho dobrota, a jak veliká je jeho krása! Obilí učiní mladé muže kvetoucími, a nové víno panny.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-010",
+      "lang": "cs-CZ",
+      "text": "Všechny tvé skutky ti budou děkovat, Hospodine. Tvoji svatí tě budou vyvyšovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014B",
+      "lang": "cs-CZ",
+      "text": "Dům a bohatství jsou dědictvím od otců, ale rozumná žena je od Hospodina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-023",
+      "lang": "cs-CZ",
+      "text": "Vzal kalich, a když poděkoval, dal jim. Všichni z něj pili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-041",
+      "lang": "cs-CZ",
+      "text": "A s nimi Heman a Jedutun a ostatní, kteří byli vybráni, kteří byli jmenováni, aby děkovali Hospodinu, neboť jeho milosrdenství trvá navěky",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-012",
+      "lang": "cs-CZ",
+      "text": "Aby mé srdce mohlo zpívat chválu tobě a nebylo mlčeno. Hospodine, můj Bože, budu ti děkovat navěky!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-016",
+      "lang": "cs-CZ",
+      "text": "Padl na tvář k Ježíšovým nohám, děkujíc mu a byl Samaritán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-004-004",
+      "lang": "cs-CZ",
+      "text": "Neboť každé stvoření Boží je dobré, a nic není k odmítnutí, pokud je to přijato s díkůvzdáním.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-007-017",
+      "lang": "cs-CZ",
+      "text": "Děkovat budu Hospodinu podle jeho spravedlnosti a budu zpívat chválu jménu Hospodina Nejvyššího.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-027",
+      "lang": "cs-CZ",
+      "text": "Vzal kalich, poděkoval a dal jim, říkaje „Všichni z něj pijte,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-017",
+      "lang": "cs-CZ",
+      "text": "Ale děkujeme Bohu, že, zatímco jste byli otroky hříchu, stali jste se poslušní od srdce tomu učení, k němuž jste byli vydáni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-035",
+      "lang": "cs-CZ",
+      "text": "Řekněte „Zachraň nás, Bože naší spásy! Shromáždi nás a vysvoboď nás z národů, abychom děkovali tvému svatému jménu, abychom triumfovali v tvé chvále.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-017",
+      "lang": "cs-CZ",
+      "text": "Obětuji ti oběť díkůvzdání a budu volat na Hospodinovo jméno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-023",
+      "lang": "cs-CZ",
+      "text": "Ale lodě z Tiberiady přišly blízko místa, kde jedli chléb poté, co Pán poděkoval.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 2,
+  "next": 3
+}

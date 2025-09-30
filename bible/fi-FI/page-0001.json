@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "fi-FI",
+      "text": "Sillä niin on Jumala maailmaa rakastanut, että hän antoi ainoan Poikansa, jotta jokainen, joka häneen uskoo, ei hukkuisi, vaan hänellä olisi iankaikkinen elämä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "fi-FI",
+      "text": "Herra on minun paimeneni ei minulta mitään puutu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "fi-FI",
+      "text": "Mutta ne, jotka Herraa odottavat, saavat uutta voimaa he nousevat siivilleen kuin kotkat he juoksevat, eivätkä väsy he vaeltavat, eivätkä uuvu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "fi-FI",
+      "text": "Te olette maailman valo. Kaupunki, joka on vuorella, ei voi salata itseään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "fi-FI",
+      "text": "Kaiken minä voin hänessä, joka minua vahvistaa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "fi-FI",
+      "text": "Alussa loi Jumala taivaan ja maan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "fi-FI",
+      "text": "Autuas se mies, joka ei vaella jumalattomien neuvoissa, eikä seiso syntisten tiellä, eikä istu pilkkaajien seurassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "fi-FI",
+      "text": "Sillä minä tiedän ne ajatukset, jotka minä ajattelen teitä kohtaan, sanoo Herra, rauhan ajatukset, eikä onnettomuuden, antaakseni teille tulevaisuuden ja toivon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "fi-FI",
+      "text": "Jeesus puhui heille taas ja sanoi Minä olen maailman valo joka seuraa minua, ei vaella pimeydessä, vaan hänellä on elämän valo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "fi-FI",
+      "text": "Ja me tiedämme, että kaikki asiat vaikuttavat yhdessä niiden hyväksi, jotka rakastavat Jumalaa, jotka ovat hänen tarkoituksensa mukaan kutsutut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "fi-FI",
+      "text": "Herra taistelee teidän puolestanne, ja teidän tulee olla vaiti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "fi-FI",
+      "text": "Herra on minun valoni ja minun autuuteni ketä minä pelkäisin? Herra on minun elämän voimani ketä minä pelkäisin?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "fi-FI",
+      "text": "Sinä pidät hänet täydellisessä rauhassa, jonka mieli on sinussa, sillä hän turvautuu sinuun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "fi-FI",
+      "text": "Mutta etsikää ensin Jumalan valtakuntaa ja hänen vanhurskauttaan, niin kaikki nämä asiat annetaan teille yltäkylläisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "fi-FI",
+      "text": "Usko on sen todistus, mitä toivotaan, sen todistus, mitä ei nähdä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "fi-FI",
+      "text": "Olkaa vahvoja ja rohkeita, älkää pelätkö, älkääkä säikkykö heitä sillä Herra, teidän Jumalanne, hän on se, joka kulkee kanssanne hän ei jätä teitä, eikä hylkää teitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "fi-FI",
+      "text": "Turvaa Herraan koko sydämestäsi, äläkä nojaa omaan ymmärrykseesi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "fi-FI",
+      "text": "Älä pelkää, sillä minä olen sinun kanssasi älä hätkähdä, sillä minä olen sinun Jumalasi minä vahvistan sinua kyllä, minä autan sinua kyllä, minä kannan sinua oikean käteni avulla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Minä olen tie, totuus ja elämä ei kukaan tule Isän tykö, kuin minun kauttani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "fi-FI",
+      "text": "Sentähden, jos joku on Kristuksessa, niin hän on uusi luomus vanhat ovat kadonneet katso, kaikki on uudeksi tullut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "fi-FI",
+      "text": "Sinun sanasi on lamppu minun jalalleni ja valo minun polulleni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "fi-FI",
+      "text": "Hänet lävisti meidän rikkomustemme tähden, Hänet murskattiin meidän pahoinpitelyjemme tähden. Rangaistus, joka toi meille rauhan, oli Hänen päällään ja Hänen haavojensa kautta me olemme parannetut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "fi-FI",
+      "text": "Tulkaa minun tyköni, kaikki te, jotka työtä teette ja olette raskautetut, niin minä annan teille levon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "fi-FI",
+      "text": "Jos siis tunnustat suullasi Herran Jeesuksen ja uskot sydämessäsi, että Jumala on herättänyt hänet kuolleista, niin sinä pelastut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "fi-FI",
+      "text": "Iloitse myös Herrassa, niin hän antaa sinulle sydämesi toiveet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "fi-FI",
+      "text": "Joka asuu Korkeimman salaisuudessa, se lepää Kaikkivaltiaan varjossa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "fi-FI",
+      "text": "Autuas se mies, joka turvautuu Herraan, ja jonka toivo on Herra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "fi-FI",
+      "text": "Minä olen viiniköynnös, te olette oksat joka pysyy minussa, ja minä hänessä, se kantaa paljon hedelmää sillä ilman minua te ette voi mitään tehdä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "fi-FI",
+      "text": "Sillä armosta te olette pelastetut uskon kautta ja se ei ole teistä, se on Jumalan lahja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "fi-FI",
+      "text": "Tulkaa hänen portteihinsa kiitoksella, hänen esikartanoihinsa ylistyksellä kiittäkää häntä, ja ylistäkää hänen nimeään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "fi-FI",
+      "text": "Panna teidän teot Herran haltuun, niin teidän ajatuksenne vahvistuvat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "fi-FI",
+      "text": "Sillä minun ajatukseni eivät ole teidän ajatuksianne, eivätkä teidän tietänne minun teitäni, sanoo Herra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "fi-FI",
+      "text": "Pyytäkää, niin teille annetaan etsikää, niin te löydätte kolkuttakaa, niin teille avataan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "fi-FI",
+      "text": "Nyt kuitenkin pysyvät usko, toivo ja rakkaus, nämä kolme mutta suurin niistä on rakkaus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "fi-FI",
+      "text": "Laulu astuista. Minä nostan silmäni vuoria kohti mistä tulee minun apuni?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "fi-FI",
+      "text": "Maistakaa ja katsokaa, että Herra on hyvä autuas se mies, joka turvautuu häneen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "fi-FI",
+      "text": "Varkaan ainoa tarkoitus on varastaa, tappaa ja hävittää minä olen tullut, että heillä olisi elämä, ja että heillä olisi yltäkylläisyys.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "fi-FI",
+      "text": "Älkää mukautuko tämän maailman mukaan, vaan muuttukaa mielenne uudistamisen kautta, että voisitte koetella, mikä on hyvä, ja otollinen, ja täydellinen Jumalan tahto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "fi-FI",
+      "text": "Herra on minun kallioni, minun linnani ja minun pelastajani minun Jumalani, minun kallioni, johon minä turvaan minun kilpeni, ja pelastukseni sarvi, minun korkeuteni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "fi-FI",
+      "text": "Minä kiitän sinua, sillä minä olen pelvottavasti ja ihmeellisesti tehty sinun teot ovat ihmeelliset minun sieluni tietää sen hyvin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "fi-FI",
+      "text": "Opettakaa heitä pitämään kaikki, mitä minä olen käskenyt teille. Katso, minä olen teidän kanssanne kaikki päivät maailman loppuun asti. Aamen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "fi-FI",
+      "text": "Sillä Jumala ei ole antanut meille pelon henkeä, vaan voiman, rakkauden ja kohtuuden hengen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "fi-FI",
+      "text": "Herra on vahva torni vanhurskaat juoksevat sinne ja ovat turvassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "fi-FI",
+      "text": "Minä olen sanonut teille nämä asiat, että teissä olisi rauha maailmassa teillä on ahdistus mutta olkaa rohkeat! Minä olen voittanut maailman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "fi-FI",
+      "text": "Mutta Hengen hedelmä on rakkaus, ilo, rauha, kärsivällisyys, ystävällisyys, hyvyys, usko,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "fi-FI",
+      "text": "Jotkut turvautuvat vaunuihin, ja jotkut hevosiin, mutta me turvaamme Herran, meidän Jumalamme nimeen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "fi-FI",
+      "text": "Sillä Herra Jumala on aurinko ja kilpi Herra antaa armon ja kunnian hän ei pidä mitään hyvää pois niiltä, jotka vaeltavat nuhteettomasti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "fi-FI",
+      "text": "Nouse, loista sillä sinun valosi on tullut, ja Herran kunnia on noussut sinun yllesi!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Sinä saat rakastaa Herraa, sinun Jumalaasi, kaikesta sydämestäsi, kaikesta sielustasi ja kaikesta mielestäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "fi-FI",
+      "text": "Ja mitä ikinä teette, tehkää se sydämellisesti, niin kuin Herralle, eikä ihmisille,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "fi-FI",
+      "text": "Herra on lähellä niitä, joilla on särjetty sydän, ja pelastaa ne, joilla on murtunut henki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "fi-FI",
+      "text": "Minun apuni tulee Herralta, joka teki taivaan ja maan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "fi-FI",
+      "text": "Katso, Jumala on minun pelastukseni minä turvaan, enkä pelkää sillä Herra, Herra, on minun voimani ja lauluni, ja hän on tullut minun pelastukseni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "fi-FI",
+      "text": "Pyhitä heidät totuudessasi sinun sanasi on totuus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "fi-FI",
+      "text": "Mutta Jumala osoittaa oman rakkautensa meitä kohtaan siinä, että Kristus kuoli meidän puolestamme, kun me olimme vielä syntisiä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "fi-FI",
+      "text": "Herra on lähellä kaikkia, jotka häntä avuksi huutavat, kaikkia, jotka häntä avuksi huutavat totuudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "fi-FI",
+      "text": "Herrassa on viisauden alku Pyhän tunteminen on ymmärrystä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "fi-FI",
+      "text": "Mutta nyt, Herra, sinä olet meidän Isämme me olemme savea, ja sinä olet meidän seppämme me kaikki olemme sinun kättesi tekoa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "fi-FI",
+      "text": "Ja Jeesus katsoi heihin ja sanoi Ihmisten on tämä mahdotonta, mutta Jumalalle on kaikki mahdollista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "fi-FI",
+      "text": "Pukekaa yllenne Jumalan koko sota-asu, että voisitte seistä perkeleen viekkauden vastaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "fi-FI",
+      "text": "Sillä hänen vihansa on vain hetken aikaa, mutta hänen armonsa on koko elämän ajan. Itku saattaa kestää yön, mutta ilo tulee aamulla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "fi-FI",
+      "text": "Niin kauas kuin itä on lännestä, niin kauas hän on poistanut meidän rikkomuksemme meistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "fi-FI",
+      "text": "Herra, ole meille armollinen. Me olemme odottaneet sinua. Ole meidän voimamme joka aamu, meidän pelastuksemme myös ahdistuksen aikana.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "fi-FI",
+      "text": "Älkää olko huolissanne mistään, vaan kaikessa, rukouksella ja anomisella kiitoksen kanssa, saattakaa pyyntönne Jumalan tietoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "fi-FI",
+      "text": "Sillä sinä, Herra, olet hyvä ja valmis antamaan anteeksi, runsas armossa kaikille, jotka sinua avuksensa huutavat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "fi-FI",
+      "text": "Sillä missä kaksi tai kolme on kokoontunut minun nimeeni, siellä minä olen heidän keskellään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "fi-FI",
+      "text": "Lähestykäämme siis rohkeasti armon valtaistuinta, että saisimme armoa ja löytäisimme apua oikeaan aikaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "fi-FI",
+      "text": "Sillä yksi päivä sinun esikartanoissasi on parempi kuin tuhat. Mieluummin minä olen ovenvartijana Jumalani huoneessa kuin asun pahojen teltoissa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "fi-FI",
+      "text": "Pitäkää sydämenne kaikella huolellisuudella, sillä sieltä ovat elämän lähteet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "fi-FI",
+      "text": "Oikeuden työn on rauha, ja oikeuden vaikutus on hiljaisuus ja luottamus ikuisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "fi-FI",
+      "text": "Hän ei ole täällä, sillä hän on noussut, niin kuin hän sanoi. Tulkaa, katsokaa paikkaa, jossa Herra makasi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "fi-FI",
+      "text": "Heittäen kaikki huolenne hänen päällensä, sillä hän pitää teistä huolen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "fi-FI",
+      "text": "Minä olen asettanut Herran aina eteeni. Sillä hän on minun oikealla puolellani, enkä minä horju.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "fi-FI",
+      "text": "Kiittäkää Herraa, sillä hän on hyvä, hänen armonsa kestää iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "fi-FI",
+      "text": "Sentähden Herra itse antaa teille merkin. Katso, neitsyt tulee raskaaksi ja synnyttää pojan, ja hänen nimensä on Immanuel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "fi-FI",
+      "text": "Sillä teille on tänään syntynyt Davidin kaupungissa Vapahtaja, joka on Kristus, Herra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "fi-FI",
+      "text": "Ja nyt, olkoon toivon Jumala täyttämässä teidät kaikella ilolla ja rauhalla uskossa, että te voisitte yltäkylläisesti toivoa Pyhän Hengen voimassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "fi-FI",
+      "text": "Herra on minun voimani ja kilpeni. Sydämeni on luottanut häneen, ja minä olen autettu. Sentähden sydämeni iloitsee suuresti. Laulullani minä kiitän häntä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "fi-FI",
+      "text": "Kaikki, joilla on henki, ylistäköön Herraa! Ylistäkää Herraa!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "fi-FI",
+      "text": "Katsokaa minuun ja pelastukaa, kaikki maan ääret sillä minä olen Jumala, eikä ole toista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "fi-FI",
+      "text": "Autuaita ovat rauhantekijät, sillä heitä kutsutaan Jumalan lapsiksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "fi-FI",
+      "text": "Herra on myös korkea torni sorretuille korkea torni ahdistuksen aikana.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "fi-FI",
+      "text": "Tämä on se päivä, jonka Herra on tehnyt. Me iloitsemme ja riemuitsemme siitä!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "fi-FI",
+      "text": "Ruohot lakastuvat, kukat kuihtuvat mutta meidän Jumalamme sana pysyy iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "fi-FI",
+      "text": "Minä sanon myös teille, että sinä olet Pietari, ja tälle kalliolle minä rakennan seurakuntani, ja helvetin portit eivät sitä voita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "fi-FI",
+      "text": "Rakkaudessa ei ole pelkoa vaan täydellinen rakkaus karkottaa pelon, sillä pelossa on rangaistus. Joka pelkää, ei ole täydellinen rakkaudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "fi-FI",
+      "text": "Herra on hyvä kaikille. Hänen armonsa on yli kaikkien hänen tekojensa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "fi-FI",
+      "text": "Antelias sielu tulee ravituksi. Joka kastaa, se myös itse kastellaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "fi-FI",
+      "text": "Katso, minä olen kaivertanut sinut käsiini. Sinun muurisi ovat alati edessäni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "fi-FI",
+      "text": "Sillä Ihmisen Poika on tullut etsimään ja pelastamaan sitä, mikä on kadonnut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "fi-FI",
+      "text": "Nyt hänelle, joka on voimallinen tekemään ylenpalttisesti yli kaiken, mitä me pyydämme tai ajattelemme, sen voiman mukaan, joka toimii meissä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "fi-FI",
+      "text": "Näytä minulle tiesi, Herra. Opeta minulle polkusi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "fi-FI",
+      "text": "Olkoon minun suuni sanat ja sydämeni mietiskely hyväksyttävät sinun edessäsi, Herra, minun kallioni ja minun lunastajani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "fi-FI",
+      "text": "Eivät he vahingoita eivätkä tuhoa kaikella minun pyhällä vuorellani sillä maa on täynnä Herran tuntemusta, niin kuin vedet peittävät meren.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "fi-FI",
+      "text": "Taivas ja maa katoavat, mutta minun sanani eivät katoa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "fi-FI",
+      "text": "Jeesus Kristus on sama eilen, tänään ja iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "fi-FI",
+      "text": "Olkaa hiljaa ja tietäkää, että minä olen Jumala. Minä olen ylhäällä kansojen keskuudessa, minä olen ylhäällä maan päällä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "fi-FI",
+      "text": "Kaikilla teillä tunnustakaa hänet, ja hän tekee polkunne suoriksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "fi-FI",
+      "text": "Hän antaa voimaa heikoille. Hän lisää voimaa niille, joilla ei ole voimaa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "fi-FI",
+      "text": "Niin olkoon, että teidän valonne loistaa ihmisten edessä, että he näkisivät teidän hyvät tekonne ja ylistäisivät Isäänne, joka on taivaissa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "fi-FI",
+      "text": "eikä korkeus, eikä syvyys, eikä mikään muu luotu asia voi erottaa meitä Jumalan rakkaudesta, joka on Kristuksessa Jeesuksessa, meidän Herrassamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "fi-FI",
+      "text": "Eikö minä ole käskenyt sinua? Ole vahva ja rohkea. Älä pelkää, äläkä säikähdä, sillä Herra, sinun Jumalasi, on kanssasi kaikkialla, minne menet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "fi-FI",
+      "text": "Herra varjelee sinun lähtösi ja tulosi, nyt ja aina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "fi-FI",
+      "text": "Miehen sydän suunnittelee tiensä, mutta Herra ohjaa hänen askeleensa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "fi-FI",
+      "text": "Mutta nyt Herra, joka on luonut sinut, Jaakob, ja joka on muovannut sinut, Israel, sanoo Älä pelkää, sillä minä olen lunastanut sinut. Olen kutsunut sinut nimeltäsi. Sinä olet minun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "fi-FI",
+      "text": "Mutta niin monille kuin hänet vastaanotti, hän antoi voiman tulla Jumalan lapsiksi, niille, jotka uskovat hänen nimeensä",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "fi-FI",
+      "text": "Ja Jumalan rauha, joka ylittää kaiken ymmärryksen, varjelee sydämenne ja ajatuksenne Kristuksessa Jeesuksessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "fi-FI",
+      "text": "sillä me vaellamme uskossa, emme näkemisessä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "fi-FI",
+      "text": "Sillä hän asettaa enkelinsä sinun yllesi, varjelemaan sinua kaikilla teilläsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "fi-FI",
+      "text": "Viisaus on ensisijainen. Hankki viisaus. Kyllä, vaikka se maksaisi kaikki omaisuutesi, hanki ymmärrys.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "fi-FI",
+      "text": "Sillä ei mikään, mitä Jumala puhuu, ole mahdotonta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "fi-FI",
+      "text": "Sillä me olemme hänen luomustaan, luotu Kristuksessa Jeesuksessa hyviä tekoja varten, jotka Jumala on etukäteen valmistanut, että me kävisimme niissä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "fi-FI",
+      "text": "Minä etsin Herraa, ja hän vastasi minulle ja vapautti minut kaikista peloistani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "fi-FI",
+      "text": "Iloinen sydän on hyvä lääke, mutta murtunut henki kuivattaa luut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "fi-FI",
+      "text": "Huuda minua, niin minä vastaan sinulle ja ilmoitan sinulle suuria ja vaikeita asioita, joita et tiedä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "fi-FI",
+      "text": "Ottakaa minun ikeeni päällenne ja oppikaa minulta, sillä minä olen lempeä ja nöyrä sydämeltä ja te löydätte levon sieluillenne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "fi-FI",
+      "text": "Pitäkäämme siis kiinni toivomme tunnustuksesta horjumatta sillä hän, joka on luvannut, on uskollinen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "fi-FI",
+      "text": "Heitä taakkasi Herran päälle, niin hän pitää sinusta huolen. Hän ei koskaan salli vanhurskaan horjua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "fi-FI",
+      "text": "Kuolema ja elämä ovat kielen vallassa ja ne, jotka rakastavat sitä, syövät sen hedelmää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "fi-FI",
+      "text": "Sillä näin sanoo Herra, Israelin Pyhä Te pelastutte kääntymisessä ja levossa. Teidän voimanne on hiljaisuudessa ja luottamuksessa. Te kieltäydyitte,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi heille Minä olen elämän leipä. Joka tulee minun luokseni, se ei koskaan näe nälkää, ja joka uskoo minuun, se ei koskaan janoa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "fi-FI",
+      "text": "Ollessamme siis vanhurskautettuja uskosta, meillä on rauha Jumalan kanssa Herramme Jeesuksen Kristuksen kautta",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "fi-FI",
+      "text": "Minun lihani ja sydämeni raukeavat, mutta Jumala on sydämeni voima ja osani iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "fi-FI",
+      "text": "Huoli painaa miehen sydäntä, mutta hyvä sana ilahduttaa sitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "fi-FI",
+      "text": "Turvatkaa Herraan iankaikkisesti sillä Herra, Herra, on iankaikkinen kallio.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Jos voit uskoa, kaikki on mahdollista sille, joka uskoo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "fi-FI",
+      "text": "Hän on ennen kaikkea, ja hänessä kaikki pysyy koossa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "fi-FI",
+      "text": "Minä opetan sinua ja ohjaan sinua tiellä, jota sinun tulee kulkea. Minä neuvon sinua silmäni ollessa sinussa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "fi-FI",
+      "text": "Lempeä vastaus kääntää vihaa, mutta kova sana nostaa kiukkua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "fi-FI",
+      "text": "Sillä minä, Herra, sinun Jumalasi, pidän oikeaa kättäsi, sanoen sinulle Älä pelkää, minä autan sinua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "fi-FI",
+      "text": "Autuaita ovat hengellisesti köyhät, sillä heidän on taivasten valtakunta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "fi-FI",
+      "text": "Tämä toivo, joka meillä on, on sielun ankkuri, varma ja lujasti pitävä, ja se menee sisälle verhojen taakse,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "fi-FI",
+      "text": "Älä anna hyvyyden ja totuuden hylätä sinua. Sidot ne kaulaasi, kirjoita ne sydämesi tauluun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "fi-FI",
+      "text": "Katso, minä olen Herra, kaikkien lihain Jumala. Onko mitään liian vaikeaa minulle?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "fi-FI",
+      "text": "Joka uskoo Pojan, sillä on iankaikkinen elämä, mutta joka ei tottele Poikaa, se ei näe elämää, vaan Jumalan viha pysyy hänen päällään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "fi-FI",
+      "text": "Iloiten toivosta, kestäen ahdistuksissa, pysyen lujina rukouksessa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "fi-FI",
+      "text": "Minä olen taistellut hyvän taistelun. Olen päättänyt kilpailun. Olen säilyttänyt uskon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "fi-FI",
+      "text": "Katso, minä seison ovella ja kolkutan. Jos joku kuulee ääneni ja avaa oven, niin minä tulen hänen luokseen ja aterioin hänen kanssaan, ja hän minun kanssani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "fi-FI",
+      "text": "Mutta jos joltakulta teistä puuttuu viisautta, kysyköön Jumalalta, joka antaa kaikille avokätisesti eikä moiti, ja se annetaan hänelle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "fi-FI",
+      "text": "Jokainen hyvä lahja ja jokainen täydellinen lahja on ylhäältä, valon Isältä, jonka luona ei ole vaihtelua eikä varjon kääntymistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "fi-FI",
+      "text": "Lähettäkää itsenne Jumalalle, niin hän lähettää itsensä teille. Puhtaat kätenne, te syntiset. Puhdistakaa sydämenne, te kaksimieliset.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "fi-FI",
+      "text": "Rakkaus on kärsivällinen ja ystävällinen. Rakkaus ei kadehdi. Rakkaus ei kerskaile, ei ole ylpeä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "fi-FI",
+      "text": "Ystävä rakastaa aina ja veli on syntynyt vastoinkäymistä varten.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "fi-FI",
+      "text": "Sillä minä haluan armoa, en uhria ja Jumalan tuntemista enemmän kuin polttouhreja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "fi-FI",
+      "text": "Suurempaa rakkautta ei ole kenelläkään kuin että hän antaa henkensä ystäviensä puolesta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "fi-FI",
+      "text": "Veljien rakkaudessa olkaa hellästi kiintyneitä toisiinne kunniassa olkaa toisiane edellä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "fi-FI",
+      "text": "ei käyttäydy sopimattomasti, ei etsi omaa etuaan, ei ärsyynny, ei pidä pahaa mielessään",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "fi-FI",
+      "text": "Hän on näyttänyt sinulle, oi ihminen, mikä on hyvää. Mitä Herra vaatii sinulta, muuta kuin että toimisit oikein, rakastaisit armoa ja vaeltaisit nöyrästi Jumalasi kanssa?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "fi-FI",
+      "text": "Mutta minä sanon teille rakastakaa vihollisianne, siunatkaa niitä, jotka teitä kiroavat, tehkää hyvää niille, jotka teitä vihaavat, ja rukoilkaa niiden puolesta, jotka teitä väärin kohtelevat ja vainoavat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "fi-FI",
+      "text": "Ja olkaa hyviä toisillenne, sydämellisiä, anteeksiantavia, niin kuin Jumalakin on Kristuksessa anteeksi antanut teille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "fi-FI",
+      "text": "ei iloitse vääryydestä, vaan iloitsee totuuden kanssa",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "fi-FI",
+      "text": "Viha nostaa riitaa, mutta rakkaus peittää kaikki rikkomukset.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "fi-FI",
+      "text": "Herra, sinun Jumalasi, on sinun keskelläsi, voimallinen, joka pelastaa. Hän iloitsee sinusta ilolla. Hän rauhoittaa sinut rakkaudessaan. Hän iloitsee sinusta laulamalla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "fi-FI",
+      "text": "Kuten te tahtoisitte ihmisten tekevän teille, tehkää te heille samoin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "fi-FI",
+      "text": "Ja ennen kaikkea olkaa innokkaita rakkaudessanne toisianne kohtaan, sillä rakkaus peittää paljon syntejä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "fi-FI",
+      "text": "kaikki kestää, kaikki uskoo, kaikki toivoo, kaikki kärsii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "fi-FI",
+      "text": "Kuinka kallis on sinun armosi, Jumala! Ihmisten lapset etsivät turvapaikkaa siipiesi varjossa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "fi-FI",
+      "text": "Oppikaa tekemään hyvin. Etsikää oikeutta. Vapauttakaa sorretut. Puolustakaa orpoja. Puolustakaa leskiä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "fi-FI",
+      "text": "Toinen on tämän kaltainen Sinä saat rakastaa lähimmäistäsi niin kuin itseäsi. Ei ole suurempaa käskyä kuin nämä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "fi-FI",
+      "text": "Kun olin lapsi, puhuin kuin lapsi, tunsin kuin lapsi, ajattelin kuin lapsi. Nyt kun olen tullut mieheksi, olen hylännyt lapselliset asiat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "fi-FI",
+      "text": "Parempi on yrttiruoka, jossa on rakkautta, kuin lihotettu vasikka, jossa on vihaa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "fi-FI",
+      "text": "Herra ilmestyi minulle muinoin, sanoen Kyllä, minä olen rakastanut sinua iankaikkisella rakkaudella. Sen tähden olen vetänyt sinut rakkauden siteellä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "fi-FI",
+      "text": "Tämän kautta kaikki tuntevat, että olette minun opetuslapsiani, jos teillä on rakkaus toisianne kohtaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "fi-FI",
+      "text": "Yli kaiken tämän, vaeltakaa rakkaudessa, joka on täydellisyyden side.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "fi-FI",
+      "text": "Sillä nyt me näemme peilissä, hämärästi, mutta sitten kasvoista kasvoihin. Nyt tiedän osittain, mutta sitten tunnen täydellisesti, niin kuin minutkin on täydellisesti tunnettu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "fi-FI",
+      "text": "Armo ja totuus kohtaavat. Oikeus ja rauha suutelevat toisiaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "fi-FI",
+      "text": "Minä vihitän sinut itselleni iankaikkisesti. Kyllä, minä vihitän sinut itselleni vanhurskaudessa, oikeudessa, armossa ja laupeudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "fi-FI",
+      "text": "Sentähden, mitä ikinä tahdot, että ihmisten tekevät teille, tehkää te heille sillä tämä on laki ja profeetat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "fi-FI",
+      "text": "Herra antakoon teidän lisääntyä ja ylitsevuotaa rakkaudessa toisianne ja kaikkia kohtaan, niin kuin mekin teitä kohtaan teemme,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "fi-FI",
+      "text": "Olkoon kaikki, mitä teette, rakkaudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "fi-FI",
+      "text": "Se, mikä tekee miehen haluttavaksi, on hänen hyvyytensä. Köyhä mies on parempi kuin valehtelija.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "fi-FI",
+      "text": "Nämä ovat ne asiat, joita teidän tulee tehdä puhukaa jokainen totuus lähimmäiselleen. Suorittakaa totuuden ja rauhan tuomio porteissanne,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "fi-FI",
+      "text": "Toinen on tämä Sinä saat rakastaa lähimmäistäsi niin kuin itseäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "fi-FI",
+      "text": "Sillä koko laki täyttyy yhdessä sanassa, tässä Sinä saat rakastaa lähimmäistäsi niin kuin itseäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "fi-FI",
+      "text": "Sillä sinun armosi on parempi kuin elämä, huuleni ylistävät sinua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "fi-FI",
+      "text": "Sillä minä, Herra, en muutu sen tähden te, Jaakobin lapset, ette ole tuhoutuneet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "fi-FI",
+      "text": "Tämä on minun käskyni, että te rakastaisitte toisiaan, niin kuin minä olen rakastanut teitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "fi-FI",
+      "text": "kaiken nöyryyden ja alttiuden kanssa, kärsivällisinä, toisiaan rakastaen,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "fi-FI",
+      "text": "Me rakastamme häntä, koska hän ensin rakasti meitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "fi-FI",
+      "text": "Rauta terottaa rautaa niin mies terottaa ystävänsä kasvoja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "fi-FI",
+      "text": "Sillä sinun Luojasi on sinun miehesi Herra Sebaot on hänen nimensä. Israelin Pyhä on sinun Vapahtajasi. Häntä kutsutaan koko maan Jumalaksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "fi-FI",
+      "text": "Hän vastasi Sinä saat rakastaa Herraa, Jumalaasi, koko sydämestäsi, koko sielustasi, kaikesta voimastasi ja kaikesta mielestäsi ja lähimmäistäsi niin kuin itseäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "fi-FI",
+      "text": "Olkaamme siis rauhan asioiden perässä ja niiden asioiden, joilla voimme rakentaa toisiamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "fi-FI",
+      "text": "Lapset, älkäämme rakastako sanoin vain, emmekä kielellä vain, vaan teoin ja totuudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "fi-FI",
+      "text": "Niin kuin isä armahtaa lapsiaan, niin Herra armahtaa niitä, jotka häntä pelkäävät.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "fi-FI",
+      "text": "Koska olet ollut kallis ja arvokas minun silmissäni, ja olen rakastanut sinua, niin annan kansoja sinun sijastasi ja kansakuntia sinun elämäsi sijasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "fi-FI",
+      "text": "Mutta kun Jeesus näki sen, hän vihastui ja sanoi heille Sallikaa lasten tulla minun tyköni! Älkää estäkö heitä, sillä Jumalan valtakunta kuuluu tällaisille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "fi-FI",
+      "text": "Sentähden kehottaa toinen toistanne ja rakentaa toinen toistanne, niinkuin myös te teette.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "fi-FI",
+      "text": "Ja toivo ei häpeä, koska Jumalan rakkaus on vuodatettu sydämiimme Pyhässä Hengessä, joka on annettu meille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "fi-FI",
+      "text": "Arvokas vaimo on miehensä kruunu, mutta häpeällinen vaimo on kuin mädäntyminen hänen luissaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "fi-FI",
+      "text": "Ja jos sinä avaat sielusi nälkäiselle ja tyydytät vaivattoman sielun, silloin sinun valosi nousee pimeydessä, ja sinun pimeytesi on kuin keskipäivä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "fi-FI",
+      "text": "Kunnioita isääsi ja äitiäsi. Ja Rakasta lähimmäistäsi niin kuin itseäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "fi-FI",
+      "text": "Älkää tehkö mitään kilpailun tai ylpeyden kautta, vaan nöyryydessä, pitäen toisia parempina kuin itseänne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "fi-FI",
+      "text": "Älkää voittako pahaa pahalla, vaan voittakaa paha hyvällä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "fi-FI",
+      "text": "Joka juoruaa, paljastaa salaisuuden, mutta joka on luotettava henki, se pitää salaisuuden.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "fi-FI",
+      "text": "Näin on Herra Sebaot puhunut, sanoen Suorittakaa totinen tuomio, ja osoittakaa jokainen hyvyyttä ja armoa veljeänne kohtaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "fi-FI",
+      "text": "Katsokaamme, kuinka voimme yllyttää toisiamme rakkauteen ja hyviin tekoihin,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "fi-FI",
+      "text": "Sentähden ottakaa toinen toisianne vastaan, niinkuin myös Kristus on ottanut teidät, Jumalan kunniaksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "fi-FI",
+      "text": "Joka vaeltaa viisaiden kanssa, tulee viisaaksi, mutta hölmöjen seurassa kärsii vahinkoa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "fi-FI",
+      "text": "Mutta jalo ajattelee jaloja asioita, ja hän pysyy jaloissa asioissa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "fi-FI",
+      "text": "Älköön kukaan etsikö omaansa, vaan jokainen lähimmäisensä hyvää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "fi-FI",
+      "text": "Kantakaa toinen toistenne taakkoja, ja niin täytätte Kristuksen lain.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "fi-FI",
+      "text": "Ystävän haavat ovat uskolliset, mutta vihollisen suukot ovat runsaat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "fi-FI",
+      "text": "Sentähden olkaa armollisia, niinkuin teidän Isänne on armollinen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "fi-FI",
+      "text": "Miehet, rakastakaa vaimojanne, niinkuin Kristuskin rakasti seurakuntaa ja antoi itsensä sen puolesta,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "fi-FI",
+      "text": "Ja niin me, sydämellisesti teitä kaivaten, olimme iloisia, että saimme jakaa teille ei ainoastaan Jumalan hyvää sanomaa, vaan myös omat sielumme, koska te olette tulleet meille hyvin rakkaiksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "fi-FI",
+      "text": "Kaikki Herran polut ovat armoa ja totuutta niille, jotka pitävät hänen liittonsa ja hänen todistuksensa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "fi-FI",
+      "text": "Mutta joka teistä on suurin, se on teidän palvelijanne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "fi-FI",
+      "text": "Älkää kukin vain katsoko omiensa, vaan myös toisten asioita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "fi-FI",
+      "text": "Lopuksi, olkaa kaikki samaa mieltä, myötätuntoisia, veljellisiä, sydämellisiä, kohteliaita,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "fi-FI",
+      "text": "Joka rakastaa puhtautta sydämessä ja puhuu kauniisti, on kuninkaan ystävä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "fi-FI",
+      "text": "Hän kääntää isien sydämet lasten puoleen ja lasten sydämet isien puoleen, ettei minä tulisi ja lyöisi maata kirouksella.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "fi-FI",
+      "text": "Rauhan minä jätän teille. Rauhani minä annan teille en niin kuin maailma anna, minä annan teille. Älköön teidän sydämenne olko murheellinen, älkääkä peljätkö.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "fi-FI",
+      "text": "Olkaa keskenänne samaa mieltä. Älkää asettako mieltänne korkeisiin asioihin, vaan liittykää nöyrien kanssa. Älkää olko viisaita omissa silmissänne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "fi-FI",
+      "text": "Mutta sinä, Jumalan mies, pakene näitä asioita, ja seuraa vanhurskautta, jumalallisuutta, uskoa, rakkautta, kestävyyttä ja lempeyttä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "fi-FI",
+      "text": "Mutta sinä, Herra, olet armollinen ja laupias Jumala, hidas vihaiseksi ja runsas armoa ja totuutta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "fi-FI",
+      "text": "Herra, sinä järjestät rauhan meille, sillä sinä olet myös tehnyt kaiken työn meidän puolestamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "fi-FI",
+      "text": "niin kuin Ihmisen Poika ei tullut palveltavaksi, vaan palvelemaan ja antamaan henkensä monien edestä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "fi-FI",
+      "text": "Veljellinen rakkaus pysyköön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "fi-FI",
+      "text": "Lopuksi, veljet, iloitkaa! Täydellistykää. Olkaa lohdutettuja. Olkaa samaa mieltä. Eläkää rauhassa, ja rakkauden ja rauhan Jumala olkoon teidän kanssanne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "fi-FI",
+      "text": "Monet miehet väittävät olevansa uskollisia, mutta kuka voi löytää uskollisen miehen?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "fi-FI",
+      "text": "Sillä jos te todella parannatte tietänne ja tekonne, jos te todella suoritatte oikeutta miehen ja hänen lähimmäisensä välillä",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "fi-FI",
+      "text": "Olkaa varovaisia. Jos veljesi syntiä tekee sinua vastaan, nuhtele häntä. Jos hän katuu, anna hänelle anteeksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "fi-FI",
+      "text": "Vaeltakaa rakkaudessa, niinkuin Kristuskin rakasti meitä ja antoi itsensä meidän puolestamme, uhri ja uhri Jumalalle tuoksuvana tuoksuna.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "fi-FI",
+      "text": "Älkää puhuko pahaa kenestäkään, älkääkä olko riidanhaluisia, olkaa lempeitä, osoittaen kaikkea nöyryyttä kaikkia ihmisiä kohtaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "fi-FI",
+      "text": "Joka halveksii lähimmäistään, se syntiä tekee, mutta joka armahtaa köyhiä, se on siunattu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "fi-FI",
+      "text": "Älkää sorrettako leskeä, orpoa, muukalaista, älkääkä köyhää älkääkä kukaan teistä suunnitelko pahaa veljeänne kohtaan sydämessänne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "fi-FI",
+      "text": "Hän istui alas ja kutsui kaksitoista ja hän sanoi heille Jos joku tahtoo olla ensimmäinen, hän olkoon kaikkien viimeinen ja kaikkien palvelija.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "fi-FI",
+      "text": "Nyt me, jotka olemme vahvoja, olemme velvollisia kantamaan heikkojen heikkouksia, emmekä etsimään omaa mielihyvää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "fi-FI",
+      "text": "Tätä minä rukoilen, että rakkautenne yhä enemmän ja enemmän lisääntyisi tiedossa ja kaikessa ymmärryksessä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "fi-FI",
+      "text": "Sinä päivänä on oleva alttari Herralle Egyptin maan keskellä, ja pylväs Herralle sen rajalla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "fi-FI",
+      "text": "Minä olen ilmoittanut heille nimesi, ja aion ilmoittaa sen että se rakkaus, jolla sinä rakastit minua, olisi heissä, ja minä heissä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "fi-FI",
+      "text": "Mutta veljellisen rakkauden suhteen teillä ei ole tarvetta, että kukaan kirjoittaisi teille. Sillä teidät on Jumala opettanut rakastamaan toinen toistanne,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "fi-FI",
+      "text": "Koska olette puhdistaneet sielunne totuuden kuuliaisuudessa Hengen kautta vilpittömässä veljellisessä rakkaudessa, rakastakaa toinen toistanne sydämestä innokkaasti,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "fi-FI",
+      "text": "Joka seuraa vanhurskautta ja hyvyyttä, löytää elämän, vanhurskauden ja kunnian.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "fi-FI",
+      "text": "Hän nousi ja tuli isänsä tykö. Mutta kun hän oli vielä kaukana, hänen isänsä näki hänet ja tuli liikutetuksi, ja juoksi, heittäytyi hänen kaulaansa ja suuteli häntä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "fi-FI",
+      "text": "Jos mahdollista on, niin paljon kuin teistä riippuu, olkaa rauhassa kaikkien ihmisten kanssa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "fi-FI",
+      "text": "Joka rakastaa veljeään, pysyy valkeudessa, eikä hänessä ole kompastumisen aihetta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "fi-FI",
+      "text": "Hän parantaa särkyneet sydämet ja sitoo heidän haavansa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "fi-FI",
+      "text": "Minä parannan heidän poikansa. Rakastan heitä vapaasti sillä vihani on kääntynyt heistä pois.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "fi-FI",
+      "text": "Menkää ja oppikaa, mitä tämä tarkoittaa Minä tahdon armolahjaa, en uhria. Sillä minä en ole tullut kutsumaan vanhurskaita, vaan syntisiä parannukseen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "fi-FI",
+      "text": "Sillä he ovat virkistäneet henkeäni ja teidänkin. Tunnustakaa siis sellaiset.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "fi-FI",
+      "text": "Jos te täytätte kuninkaallisen lain kirjoituksen mukaan Rakasta lähimmäistäsi niin kuin itseäsi, teette hyvin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "fi-FI",
+      "text": "Monilla ystävillä on paljon vaurioita, mutta on ystävä, joka on lähempänä kuin veli.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "fi-FI",
+      "text": "Sillä Jumala ei lähettänyt Poikaansa maailmaan tuomitsemaan maailmaa, vaan että maailma pelastettaisiin hänen kauttaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "fi-FI",
+      "text": "Älkää unohtako osoittaa vieraanvaraisuutta vieraille, sillä sillä tavoin jotkut ovat viihdyttäneet enkeleitä tietämättään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "fi-FI",
+      "text": "Herran pelko on tiedon alku, mutta tyhmät halveksivat viisautta ja opetusta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "fi-FI",
+      "text": "Ja kun käännät oikealle, ja kun käännät vasemmalle, korvasi kuulee äänen takanasi, joka sanoo Tämä on tie. Käy siinä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "fi-FI",
+      "text": "Olkaa sanan tekijöitä, eikä vain kuuntelijoita, petten itsenne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "fi-FI",
+      "text": "Opeta meitä laskemaan päivämme, että saisimme viisaan sydämen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "fi-FI",
+      "text": "Sillä Herra antaa viisautta. Hänen suustaan tulee tietoa ja ymmärrystä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "fi-FI",
+      "text": "Minä sanon teille, kysykää, ja teille annetaan. Etsikää, ja te löydätte. Kolkuttakaa, ja teille avataan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "fi-FI",
+      "text": "Olen kätkenyt sanasi sydämeeni, etten syntiä sinua vastaan tekisi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "fi-FI",
+      "text": "Herran Henki lepää hänen päällään viisauden ja ymmärryksen henki, neuvon ja voiman henki, tiedon ja Herran pelon henki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "fi-FI",
+      "text": "Hän kutsui joukon luokseen opetuslastensa kanssa ja sanoi heille Joka tahtoo tulla minun jäljessäni, hän kieltäköön itsensä, ottakoon ristinsä ja seuratkoon minua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "fi-FI",
+      "text": "Mikä mies on se, joka pelkää Herraa? Hänet hän opettaa valitsemaan sen tien, jota hän kulkee.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "fi-FI",
+      "text": "Älä ole viisas omissa silmissäsi. Pelkää Herraa ja poistu pahasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "fi-FI",
+      "text": "Etsikää hyvää, älkääkä pahaa, että saisitte elää ja niin Herra, Sotajoukkojen Jumala, on teidän kanssanne, niin kuin sanotte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "fi-FI",
+      "text": "Kehon lamppu on silmä. Jos siis silmäsi on terve, koko ruumiisi on täynnä valoa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "fi-FI",
+      "text": "Herran laki on täydellinen, elvyttävä sielua. Herran liitto on varma, viisaaksi tekevä yksinkertaiset.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "fi-FI",
+      "text": "Tee jalkojesi polku tasaiseksi. Olkoon kaikki tiesi vahvistetut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "fi-FI",
+      "text": "Viisaat loistavat kuin taivaan kirkkaus. Ne, jotka kääntävät monet vanhurskauteen, loistavat kuin tähdet iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "fi-FI",
+      "text": "Katsokaa siis tarkasti, kuinka vaellatte, älkääkä kuin tyhmät, vaan kuin viisaat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "fi-FI",
+      "text": "Herran pelko on viisauden alku. Kaikki, jotka tekevät hänen työtään, ovat ymmärrykseltään hyviä. Hänen ylistyksensä kestää iankaikkisesti!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "fi-FI",
+      "text": "Joka rakastaa nuhdetta, rakastaa tietoa, mutta joka vihaa nuhtelua, on tyhmä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "fi-FI",
+      "text": "Etsikää Herraa, kun hänet voi löytää. Huutakaa häntä, kun hän on lähellä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "fi-FI",
+      "text": "Kuinka ahdas on portti ja kapea on tie, joka vie elämään! Vain harvat löytävät sen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "fi-FI",
+      "text": "Mutta se viisaus, joka on ylhäältä, on ensin puhdas, sitten rauhallinen, lempeä, järkevä, täynnä armoa ja hyviä hedelmiä, ilman puolueellisuutta ja ilman tekopyhyyttä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "fi-FI",
+      "text": "Miehen askeleet ovat Herran vahvistamat. Hän iloitsee hänen tiestään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "fi-FI",
+      "text": "Missä ei ole neuvoa, suunnitelmat epäonnistuvat mutta monien neuvonantajien kanssa ne vakiintuvat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "fi-FI",
+      "text": "Herra sanoo Älkää antako viisaiden kerskata viisaudestaan. Älkää antako voimakkaiden kerskata voimastaan. Älkää antako rikkaiden kerskata rikkauksistaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "fi-FI",
+      "text": "Jos joku tahtoo tehdä hänen tahtonsa, hän tietää opettamisesta, onko se Jumalasta vai puhunko minä itsestäni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "fi-FI",
+      "text": "Koetelkaa kaikki, ja pitäkää kiinni siitä, mikä on hyvää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "fi-FI",
+      "text": "Sinun sanojesi sisäänkäynti antaa valoa. Se antaa ymmärrystä yksinkertaisille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "fi-FI",
+      "text": "Joka kuuntelee Sanaa, löytää vaurautta. Joka turvautuu Herraan, on siunattu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "fi-FI",
+      "text": "Sillä missä on aarteesi, siellä on myös sydämesi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "fi-FI",
+      "text": "Sillä lihan mieli on kuolema, mutta Hengen mieli on elämä ja rauha",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "fi-FI",
+      "text": "Kuunnelkaa neuvoa ja ottakaa opetusta, että olisitte viisaita viimeisinä aikoina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "fi-FI",
+      "text": "Totisesti kaikki kansat voivat vaeltaa omien jumaliensa nimessä, mutta me vaellamme Herran, meidän Jumalamme, nimessä iankaikkisesti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "fi-FI",
+      "text": "Autuaita ovat ne, jotka nälkää ja janoa vanhurskautta, sillä heidät ravitaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "fi-FI",
+      "text": "Pyrkikää esittämään itsenne hyväksytyiksi Jumalan edessä, työntekijäksi, joka ei tarvitse hävetä, oikein käsittelemään totuuden sanaa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "fi-FI",
+      "text": "Avaa silmäni, että näkisin ihmeellisiä asioita laistasi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "fi-FI",
+      "text": "On tie, joka näyttää oikealta ihmiselle, mutta lopussa se johtaa kuolemaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "fi-FI",
+      "text": "Silloin hän vastasi ja puhui minulle, sanoen Tämä on Herran sana Serubbabelille, sanoen Ei voimalla, eikä väellä, vaan minun Hengelläni, sanoo Sotajoukkojen Herra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "fi-FI",
+      "text": "Valvokaa, olkaa valppaita ja rukoilkaa sillä ette tiedä, milloin aika on.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "fi-FI",
+      "text": "Vaeltakaa viisaudessa niitä kohtaan, jotka ovat ulkopuolella, lunastaen aikaa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "fi-FI",
+      "text": "Opeta minua hyvää tuomiota ja tietoa, sillä minä uskon käskyihisi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "fi-FI",
+      "text": "Sillä viisaus on parempi kuin rubiinit. Kaikki, mitä voi toivoa, ei voi verrata siihen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "fi-FI",
+      "text": "Herra, sinun Lunastajasi, Israelin Pyhä, sanoo Minä olen Herra, sinun Jumalasi, joka opettaa sinua hyötymään, joka johtaa sinua sen tien, jota sinun tulee kulkea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "fi-FI",
+      "text": "Olkaa siis varovaisia, kuinka kuuntelette. Sillä kenellä on, sille annetaan ja keneltä ei ole, siltä otetaan pois se, mitä hän luulee itsellään olevan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "fi-FI",
+      "text": "Olkaa siis alistuvia Jumalalle. Vastustakaa perkelettä, ja hän pakenee teistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "fi-FI",
+      "text": "Johdata minua totuudessasi ja opeta minua, sillä sinä olet minun pelastukseni Jumala. Odotan sinua koko päivän.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "fi-FI",
+      "text": "Joka turvautuu itseensä, on tyhmä mutta joka vaeltaa viisaudessa, on turvassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "fi-FI",
+      "text": "Kuinka minä rakastankaan sinun lakiisi! Se on minun mietiskelyni koko päivän.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "fi-FI",
+      "text": "Hanki viisautta. Hanki ymmärrystä. Älä unohda, äläkä poikkea suuni sanoista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "fi-FI",
+      "text": "Olen tullut valona maailmaan, että joka uskoo minuun, ei pysy pimeydessä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "fi-FI",
+      "text": "Vahvista askeleeni sanassasi. Älä anna minkään vääryyden hallita minua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "fi-FI",
+      "text": "Viisas poika kuuntelee isänsä opetusta, mutta pilkkaaja ei kuuntele nuhtelua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "fi-FI",
+      "text": "Valvokaa ja rukoilkaa, että ette joutuisi kiusaukseen. Henki on kyllä halukas, mutta liha on heikko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "fi-FI",
+      "text": "Mutta kiinteä ruoka on täysikasvuisille, jotka käytön kautta ovat harjoittaneet aistinsa erottamaan hyvän ja pahan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "fi-FI",
+      "text": "Olkoon suuni sanat ja sydämeni mietiskely sinulle otolliset, Herra, kallioni ja lunastajani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "fi-FI",
+      "text": "Sillä viisaalla neuvolla sinä sotasi käyt, ja voitto on monessa neuvonantajassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "fi-FI",
+      "text": "Etsikää Herraa, te maan nöyrät, jotka olette pitäneet hänen säädöksensä. Etsikää vanhurskautta. Etsikää nöyryyttä. Ehkä teidät kätketään Herran vihan päivänä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "fi-FI",
+      "text": "Olkaa siis valppaat aina, rukoillen, että teidät lasketaan arvollisiksi pääsemään kaikista näistä asioista, jotka tapahtuvat, ja seisomaan Ihmisen Pojan edessä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "fi-FI",
+      "text": "Yksi pitää yhtä päivää tärkeämpänä. Toinen pitää jokaista päivää samanarvoisena. Olkoon jokainen täysin vakuuttunut omassa mielessään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "fi-FI",
+      "text": "Minä mietin sinun käskyjäsi ja tarkastelen sinun teitäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "fi-FI",
+      "text": "Joka saa viisautta, rakastaa omaa sieluaan. Joka pitää ymmärryksestä, löytää hyvää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Katsokaa, mitä kuuntelette. Millä mitalla te mittaatte, sillä mitataan teille ja teille, jotka kuuntelette, annetaan enemmän.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "fi-FI",
+      "text": "ostamalla aikaa, sillä päivät ovat pahat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "fi-FI",
+      "text": "Anna minulle ymmärrys, niin minä pidän sinun lakiasi. Kyllä, minä tottelevan sitä koko sydämestäni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "fi-FI",
+      "text": "Kärsivällinen näkee vaaran ja piiloutuu mutta yksinkertaiset kulkevat eteenpäin ja kärsivät siitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "fi-FI",
+      "text": "Sinä aikana on vakaus, pelastuksen runsaus, viisaus ja tieto. Herran pelko on sinun aarteesi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "fi-FI",
+      "text": "Silloin vanhurskaat loistavat kuin aurinko Isänsä valtakunnassa. Jolla on korvat kuulla, se kuulkoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "fi-FI",
+      "text": "että teidän uskonne ei seisoisi ihmisten viisaudessa, vaan Jumalan voimassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "fi-FI",
+      "text": "Ihmisen hän sanoi Katso, Herran pelko, se on viisautta. Pahasta luopuminen on ymmärrystä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "fi-FI",
+      "text": "Ahkeran suunnitelmat johtavat varmasti voittoon ja jokainen, joka on hätäinen, kiirehtii köyhyyteen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "fi-FI",
+      "text": "Sydän on petollinen yli kaiken, ja se on äärimmäisen turmeltunut. Kuka voi sen tuntea?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "fi-FI",
+      "text": "Joka on uskollinen vähässä, on uskollinen myös paljon. Joka on epärehellinen vähässä, on myös epärehellinen paljon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "fi-FI",
+      "text": "Kyllä, ja tämän vuoksi, lisäten puoleltanne kaiken ahkeruuden, uskossanne antakaa hyviä tekoja ja hyvien tekojen, tietoa",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "fi-FI",
+      "text": "Sinun suusi laki on minulle parempi kuin tuhannet kultakappaleet ja hopeat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "fi-FI",
+      "text": "Miehen askeleet ovat Herrasta kuinka voi ihminen ymmärtää tiensä?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "fi-FI",
+      "text": "Tämäkin tulee Herralta, joka on ihmeellinen neuvossa ja erinomainen viisaudessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "fi-FI",
+      "text": "Valvokaa ja rukoilkaa, että ette joutuisi kiusaukseen. Henki on kyllä halukas, mutta liha on heikko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "fi-FI",
+      "text": "Ennen kuin olin vaivattu, eksyin mutta nyt minä pidän sinun sanasi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "fi-FI",
+      "text": "niin sinä tunnet viisauden sielullesi. Jos olet sen löytänyt, niin silloin on palkka toivosi ei tule katkaistuksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "fi-FI",
+      "text": "Mitä hyötyy ihmiselle, jos hän voittaa koko maailman ja menettää henkensä? Tai mitä voi ihminen antaa vastineeksi hengestään?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "fi-FI",
+      "text": "Niin usko tulee kuulemisesta, ja kuuleminen Jumalan sanasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "fi-FI",
+      "text": "Minä vaellan vapaudessa, sillä olen etsinyt sinun käskyjäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "fi-FI",
+      "text": "Kun ylpeys tulee, silloin tulee häpeä, mutta nöyryyden kanssa tulee viisaus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "fi-FI",
+      "text": "Hän on täyttänyt nälkäiset hyviä asioita. Hän on lähettänyt rikkaat tyhjiksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "fi-FI",
+      "text": "Veljet, älkää olko lapsia ajatuksissa, mutta pahassa olkaa lapsia, mutta ajatuksissa olkaa kypsiä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "fi-FI",
+      "text": "Sinun käskysi tekevät minut viisaammaksi kuin viholliseni, sillä sinun käskysi ovat aina kanssani.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "fi-FI",
+      "text": "Kuule, poikani, ja ole viisas, ja pidä sydämesi oikealla tiellä!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "fi-FI",
+      "text": "Autuaita ovat puhtaat sydämessä, sillä he saavat nähdä Jumalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "fi-FI",
+      "text": "Mutta pyhitä Herra Jumala sydämissänne. Olkaa aina valmiit antamaan vastaus jokaiselle, joka kysyy teiltä syytä toivolle, joka teissä on, nöyryydessä ja pelossa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "fi-FI",
+      "text": "Ymmärrän enemmän kuin vanhukset, koska olen pitänyt sinun käskyjäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "fi-FI",
+      "text": "Ei ole viisautta eikä ymmärrystä eikä neuvonantoa Herraa vastaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "fi-FI",
+      "text": "Katsokaa minuun ja pelastukaa, te kaikki maan ääret sillä minä olen Jumala, eikä ole toista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "fi-FI",
+      "text": "Sitten hän avasi heidän mielensä, että he ymmärtäisivät kirjoituksia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "fi-FI",
+      "text": "Ja Jumala on kykenevä tekemään kaiken armon teille ylenpalttisesti, että te, aina ollen kaikessa riittäviä, voitte ylenpalttisesti jokaiseen hyvään työhön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "fi-FI",
+      "text": "Ohjaa minut sinun käskyjesi polulle, sillä minä iloitsen niistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "fi-FI",
+      "text": "Kärsivällinen näkee vaaran ja ottaa turvapaikan mutta yksinkertaiset kulkevat eteenpäin ja kärsivät siitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "fi-FI",
+      "text": "Kuulkaa minua, te, jotka tiedätte vanhurskauden, kansa, jonka sydämessä on minun lakini. Älkää pelätkö ihmisten häpäisyä, älkääkä olko hämmästyneet heidän pilkastaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "fi-FI",
+      "text": "Joka itsensä korottaa, se alennetaan, ja joka itsensä alentaa, se korotetaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "fi-FI",
+      "text": "että te voisitte hyväksyä erinomaiset asiat, että olisitte vilpittömiä ja ilman loukkausta Kristuksen päivään asti,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "fi-FI",
+      "text": "Tämä on minun lohdutukseni vaivassani, sillä sinun sanasi on elvyttänyt minut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "fi-FI",
+      "text": "Viisaus on ymmärtävän kasvojen edessä, mutta tyhmän silmät vaeltavat maan ääriin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "fi-FI",
+      "text": "Kuinka kauniit ovat vuorilla hänen jalkansa, joka tuo hyvää sanomaa, joka julistaa rauhaa, joka tuo hyvää sanomaa, joka julistaa pelastusta, joka sanoo Siionille Sinun Jumalasi hallitsee!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "fi-FI",
+      "text": "Sinä rakastat Herraa, Jumalaasi, koko sydämestäsi, koko sielustasi, kaikesta mielestäsi ja kaikesta voimastasi. Tämä on ensimmäinen käsky.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "fi-FI",
+      "text": "Autuaita ovat ne, jotka pitävät hänen säädöksensä, jotka etsivät häntä koko sydämestään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "fi-FI",
+      "text": "Pidä lujasti kiinni opetuksesta. Älä päästä häntä menemään. Pidä häntä, sillä hän on sinun elämäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "fi-FI",
+      "text": "Katsomalla heitä Jeesus sanoi Ihmisten kanssa tämä on mahdotonta, mutta Jumalan kanssa kaikki on mahdollista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Minä olen ylösnousemus ja elämä. Joka uskoo minuun, elää, vaikka kuolee.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "fi-FI",
+      "text": "Sillä et sinä jätä sieluani tuonelaan, etkä salli pyhäsi nähdä turmeltumista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "fi-FI",
+      "text": "Hän ei ole täällä, vaan on noussut. Muistakaa, mitä hän teille sanoi, kun hän oli vielä Galileassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "fi-FI",
+      "text": "Sillä synnin palkka on kuolema, mutta Jumalan lahja on iankaikkinen elämä Kristuksessa Jeesuksessa, meidän Herrassamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "fi-FI",
+      "text": "Sillä minä olen teille ensiksi antanut sen, minkä myös olen vastaanottanut että Kristus kuoli meidän syntiemme tähden kirjoitusten mukaan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "fi-FI",
+      "text": "Mutta sinun tykönäsi on anteeksianto, sentähden sinua pelätään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "fi-FI",
+      "text": "Minä lunastan heidät tuonelan vallasta. Minä vapautan heidät kuolemasta! Kuolema, missä ovat sinun vitsauksesi? Tuonela, missä on sinun tuhosi? Armoa kätketään silmistäni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Älkää olko hämmästyneet. Te etsitte Jeesusta, Nasaretilaista, joka on ristiinnaulittu. Hän on noussut! Hän ei ole täällä. Katsokaa paikkaa, johon he hänet panivat!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "fi-FI",
+      "text": "Hänessä meillä on lunastus hänen verensä kautta, syntiemme anteeksianto, hänen armonsa rikkauden mukaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "fi-FI",
+      "text": "ja että hänet haudattiin, ja että hän nousi kolmantena päivänä kirjoitusten mukaan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "fi-FI",
+      "text": "Joka peittää syntinsä, ei menesty, mutta joka tunnustaa ja hylkää ne, saa armon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "fi-FI",
+      "text": "Herra on paljastanut pyhän käsivartensa kaikkien kansojen nähden. Maailman äärimmäiset osat ovat nähneet Jumalamme pelastuksen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "fi-FI",
+      "text": "sillä tämä on minun vereni, uuden liiton veri, joka vuodatetaan monien puolesta syntien anteeksiantamiseksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "fi-FI",
+      "text": "niin myös Kristus, kun hänet on kerran uhrattu monien syntien puolesta, tulee toisen kerran, ei syntiä varten, vaan pelastamaan ne, jotka häntä hartaasti odottavat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "fi-FI",
+      "text": "Pelastusta ei ole missään muussa, sillä ei ole muuta nimeä taivaan alla, joka on annettu ihmisille, jonka kautta meidän on pelastuttava!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "fi-FI",
+      "text": "Katso, päivät tulevat, sanoo Herra, että teen uuden liiton Israelin huoneen kanssa ja Juudan huoneen kanssa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Niin on kirjoitettu, ja niin oli tarpeellista, että Kristuksen piti kärsiä ja nousta kuolleista kolmantena päivänä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "fi-FI",
+      "text": "kumoten sen käsikirjoituksen, joka oli meitä vastaan. Hän on ottanut sen pois tieltä, nauliten sen ristiin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "fi-FI",
+      "text": "Mutta nyt Kristus on noussut kuolleista. Hänestä on tullut ensimmäinen sato niistä, jotka nukkuvat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "fi-FI",
+      "text": "Eikä kukaan heistä voi millään keinoin lunastaa veljeään, eikä antaa Jumalalle lunnaita hänestä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "fi-FI",
+      "text": "Ja minä annan teille uuden sydämen, ja panen teidän sisimpäänne uuden hengen. Minä otan pois kiven sydämen lihastanne, ja annan teille lihan sydämen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Koska olet nähnyt minut, olet uskonut. Autuaita ovat ne, jotka eivät ole nähneet ja ovat uskovat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "fi-FI",
+      "text": "Ei siis nyt ole mitään kadotustuomiota niille, jotka ovat Kristuksessa Jeesuksessa, jotka eivät vaella lihan mukaan, vaan hengen mukaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "fi-FI",
+      "text": "joka luovutettiin meidän rikkomustemme tähden ja herätettiin meidän vanhurskauttamisemme tähden.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "fi-FI",
+      "text": "joka antaa anteeksi kaikki sinun syntisi, joka parantaa kaikki sinun sairautesi,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "fi-FI",
+      "text": "He sanoivat toisilleen Eikö meidän sydämemme ollut kuumina, kun hän puhui meille tiellä ja avasi meille kirjoituksia?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "fi-FI",
+      "text": "Hän itse kantoi meidän syntimme ruumiissaan puuhun, että me, kuoltua syntiin, eläisimme vanhurskaudelle. Hänen haavojensa kautta teidät on parannettu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "fi-FI",
+      "text": "Tämä on todistus että Jumala on antanut meille iankaikkisen elämän, ja tämä elämä on hänen Pojassaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "fi-FI",
+      "text": "Minun pelastukseni ja kunniani ovat Jumalassa. Minun voimani kallio ja turvani on Jumalassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "fi-FI",
+      "text": "Monet niistä, jotka nukkuvat maan tomussa, heräävät, toiset iankaikkiseen elämään, ja toiset häpeään ja iankaikkiseen halveksuntaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "fi-FI",
+      "text": "Minä olen hyvä paimen. Hyvä paimen antaa henkensä lampaiden puolesta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "fi-FI",
+      "text": "Kristus on lunastanut meidät lain kirouksesta, tultuaan kiroukseksi meidän puolestamme. Sillä on kirjoitettu Kirottu on jokainen, joka on puuhun naulittu,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "fi-FI",
+      "text": "Jolla on Poika, sillä on elämä. Jolla ei ole Jumalan Poikaa, sillä ei ole elämää.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "fi-FI",
+      "text": "Armosta ja totuudesta on rikkomus sovitettu. Herran pelosta ihmiset kääntyvät pahasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "fi-FI",
+      "text": "Hänen sielunsa kärsimyksen jälkeen hän näkee valon ja on tyytyväinen. Minun vanhurskas palvelijani vanhurskauttaa monet itsensä tuntemisen kautta ja hän kantaa heidän rikkomuksensa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "fi-FI",
+      "text": "Jeesus, huutaen suurella äänellä, sanoi Isä, sinun käsiisi minä annan henkeni! Ja tämän sanottuaan hän antoi henkensä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "fi-FI",
+      "text": "ei vanhurskauden tekojen kautta, jotka me itse olemme tehneet, vaan hänen armonsa mukaan, hän pelasti meidät uudistuksen pesun ja Pyhän Hengen uudistamisen kautta,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "fi-FI",
+      "text": "Mutta jos me vaellamme valkeudessa, niin kuin hän on valkeudessa, meillä on yhteys toisiimme, ja Jeesuksen Kristuksen, hänen Poikansa, veri puhdistaa meidät kaikesta synnistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "fi-FI",
+      "text": "Sinä olet antanut anteeksi kansasi vääryyden. Sinä olet peittänyt kaikki heidän syntinsä. Sela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "fi-FI",
+      "text": "Mooses teki vaskikäärmeen ja nosti sen tangolle. Jos käärme oli purrut jotakuta, ja hän katsoi vaskikäärmeeseen, hän eli.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "fi-FI",
+      "text": "Tämä on sen, joka lähetti minut, tahto, että jokainen, joka näkee Pojan ja uskoo häneen, saisi iankaikkisen elämän ja minä herätän hänet viimeisenä päivänä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "fi-FI",
+      "text": "Mutta nyt Kristuksessa Jeesuksessa te, jotka olitte kaukana, olette tulleet lähelle Kristuksen vereen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "fi-FI",
+      "text": "oikeutettuina ilmaiseksi hänen armonsa kautta, sen lunastuksen kautta, joka on Kristuksessa Jeesuksessa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "fi-FI",
+      "text": "Kivi, jonka rakentajat hylkäsivät, on tullut kulmakiveksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "fi-FI",
+      "text": "Ja Jeesus tuli heidän luokseen ja puhui heille, sanoen Kaikki valta on annettu minulle taivaassa ja maan päällä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "fi-FI",
+      "text": "Sillä on yksi Jumala ja yksi välimies Jumalan ja ihmisten välillä, ihminen Kristus Jeesus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "fi-FI",
+      "text": "Sillä Kristus on myös kärsinyt syntien puolesta kerran, vanhurskas epävanhurskaitten puolesta, että hän voisi tuoda teidät Jumalan tykö, kuolettuaan lihassa, mutta elvytettynä hengessä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "fi-FI",
+      "text": "Hän on pannut uuden laulun suuhuni, kiitoksen meidän Jumalallemme. Monet näkevät sen ja pelkäävät ja turvautuvat Herraan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "fi-FI",
+      "text": "Abraham kutsui sen paikan nimeksi Herra on huolehtiva. Niin kuin sanotaan tänäkin päivänä Herra vuorella huolehtii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "fi-FI",
+      "text": "Kun Jeesus oli saanut etikkaa, sanoi hän Se on täytetty! Ja hän kallisti päänsä ja antoi henkensä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "fi-FI",
+      "text": "Sentähden hän on myös kykenevä pelastamaan täydellisesti ne, jotka lähestyvät Jumalaa hänen kauttansa, nähden, että hän elää aina tekemään väliintuloa heidän puolestaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "fi-FI",
+      "text": "Vielä vähän aikaa, ja maailma ei näe minua enää mutta te näette minut. Koska minä elän, te elätte myös.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "fi-FI",
+      "text": "Olen vielä varma tästä minä näen Herran hyvyyden elävien maassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "fi-FI",
+      "text": "Herra, Herra sanoo näille luurangoille Katso, minä annan hengen tulla teihin, ja te elätte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "fi-FI",
+      "text": "sanoen, että Ihmisen Poika on annettava syntisten käsiin ja ristiinnaulittava, ja kolmantena päivänä nouseva ylös?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "fi-FI",
+      "text": "että minä tuntisin hänet ja hänen ylösnousemuksensa voiman ja hänen kärsimyksensä yhteyden, tullakseni hänen kuolemaansa osalliseksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "fi-FI",
+      "text": "ja elävä. Minä olin kuollut, ja katso, minä elän iankaikkisesti. Aamen. Minulla ovat kuoleman ja tuonelan avaimet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "fi-FI",
+      "text": "Herra lunastaa palvelijansa sielun. Ei kukaan, joka turvautuu häneen, jää tuomituksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "fi-FI",
+      "text": "Olen pyyhkinyt pois, kuin paksu pilvi, teidän rikkomuksenne, ja kuin pilvi, teidän syntinne. Palatkaa minun tyköni, sillä minä olen lunastanut teidät.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "fi-FI",
+      "text": "Mutta nämä on kirjoitettu, että te uskoisitte, että Jeesus on Kristus, Jumalan Poika, ja että uskoessanne teillä olisi elämä hänen nimessään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "fi-FI",
+      "text": "Paljon enemmän, nyt kun olemme oikeutettuja hänen verensä kautta, me pelastumme Jumalan vihasta hänen kauttansa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "fi-FI",
+      "text": "jonka kautta me olemme pyhitetyt Jeesuksen Kristuksen ruumiin uhraamisen kautta, kerran ja kaikille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "fi-FI",
+      "text": "Luo minulle puhdas sydän, O Jumala. Uudista oikea henki minun sisimpääni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "fi-FI",
+      "text": "Aloittaen Mooseksesta ja kaikista profeetoista, hän selitti heille kaikissa kirjoituksissa asiat, jotka koskivat itseään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "fi-FI",
+      "text": "Hän kuoli kaikkien puolesta, että ne, jotka elävät, eivät enää elä itselleen, vaan hänelle, joka heidän tähtensä kuoli ja nousi ylös.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "fi-FI",
+      "text": "ja hänen kauttansa sovittaa kaikki itselleen, olipa se maan päällä tai taivaissa, rauhoittamalla itselleen ristinsä veren kautta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "fi-FI",
+      "text": "Sillä sinun armosi on suuri minua kohtaan. Olet pelastanut sieluni alhaisimmasta tuonelasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "fi-FI",
+      "text": "Sillä Ihmisen Poika on tullut, ei palveltavaksi, vaan palvelemaan ja antamaan henkensä monien puolesta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "fi-FI",
+      "text": "jopa kun olimme kuolleet rikkomuksissamme, teki hän meidät eläviksi yhdessä Kristuksen kanssa - armosta te olette pelastetut -",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "fi-FI",
+      "text": "Kuka on se, joka tuomitsee? On Kristus, joka kuoli, ja vielä enemmän, joka nousi kuolleista, joka on Jumalan oikealla puolella, ja joka myös tekee väliintuloa meidän puolestamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "fi-FI",
+      "text": "Sillä hän ei ole halveksinut eikä inhoannut vaivattujen vaivannäköä, eikä hän ole kätkenyt kasvojaan häneltä mutta kun hän huusi häntä, hän kuuli.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "fi-FI",
+      "text": "Totisesti hän on kantanut meidän sairautemme ja kärsinyt meidän tuskamme kuitenkin me pidimme häntä lyötynä, Jumalan lyömänä ja vaivattuna.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "fi-FI",
+      "text": "Totisesti, minä sanon teille, joka kuulee minun sanani ja uskoo häneen, joka on minut lähettänyt, hänellä on iankaikkinen elämä, eikä hän tule tuomittavaksi, vaan on siirtynyt kuolemasta elämään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "fi-FI",
+      "text": "mutta on nyt ilmestynyt meidän Vapahtajamme, Kristus Jeesuksen, kautta, joka on kukistanut kuoleman ja tuonut elämän ja katoamattomuuden valoon Hyvän Sanoman kautta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "fi-FI",
+      "text": "Sinä, joka olet näyttänyt meille monia ja katkeria vaivoja, annat minun elää. Tuot meidät ylös jälleen maan syvyyksistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "fi-FI",
+      "text": "Tulkaa! Palatkaamme Herraan sillä hän on repinyt meidät kappaleiksi, ja hän parantaa meidät hän on loukannut meidät, ja hän sitoo haavamme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "fi-FI",
+      "text": "Heidän silmänsä avautuivat, ja he tunsivat hänet sitten hän katosi heidän näkyvistään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "fi-FI",
+      "text": "Sillä sydämellä uskotaan vanhurskaudeksi ja suulla tunnustetaan pelastukseksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "fi-FI",
+      "text": "Sillä ristin sana on hullutus niitä kohtaan, jotka ovat kadotuksessa, mutta meille, jotka pelastumme, se on Jumalan voima.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "fi-FI",
+      "text": "Vanhurskasten hedelmä on elämän puu. Hän, joka on viisas, voittaa sieluja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "fi-FI",
+      "text": "Sentähden te tulette ilolla kaivamaan vettä pelastuksen lähteistä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "fi-FI",
+      "text": "Niin kuin Mooses nosti käärmeen autiomaassa, niin on myös Ihmisen Pojan nostettava.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "fi-FI",
+      "text": "Hän, joka ei säästänyt omaa Poikaansa, vaan antoi hänet meidän kaikkien puolesta, kuinka hän ei myös yhdessä hänen kanssaan vapaasti antaisi meille kaikkia asioita?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "fi-FI",
+      "text": "Sillä sinä olet pelastanut sieluni kuolemasta, silmäni kyynelistä ja jalkani kaatumisesta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "fi-FI",
+      "text": "Jeesus sanoi hänelle Totisesti, minä sanon sinulle, tänään olet oleva kanssani paratiisissa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "fi-FI",
+      "text": "tietäen, että teidät on lunastettu, ei hävittävillä asioilla, kuten hopealla tai kullalla, vaan turhasta isiltä peritystä elämäntavasta,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "fi-FI",
+      "text": "Sinun käteesi minä uskon henkeni. Sinä lunastat minut, Herra, totuuden Jumala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "fi-FI",
+      "text": "Ja kun hän oli sanonut tämän, hän näytti heille kätensä ja kylkensä. Opetuslapset iloitsivat, kun he näkivät Herran.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "fi-FI",
+      "text": "Mutta kiitos olkoon Jumalalle, joka antaa meille voiton Herramme Jeesuksen Kristuksen kautta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "fi-FI",
+      "text": "Herra on minun voimani ja lauluni. Hän on tullut minun pelastukseni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "fi-FI",
+      "text": "Ja kun he menivät kertomaan opetuslapsilleen, katso, Jeesus kohtasi heidät, sanoen Iloitkaa! He tulivat ja tarttuivat hänen jalkoihinsa ja kumarsivat häntä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "fi-FI",
+      "text": "Hänessä te myös, kuultuanne totuuden sanan, pelastuksen hyvän sanoman - hänessä, kun olette myös uskoneet, olette saaneet sinetöidyt luvatussa Pyhässä Hengessä,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "fi-FI",
+      "text": "jonka Jumala herätti, vapautettuaan hänet kuoleman tuskasta, koska ei ollut mahdollista, että hänet pidettäisiin siinä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "fi-FI",
+      "text": "Laulu. Laulakaa Herra uudesta laulusta, sillä hän on tehnyt ihmeellisiä tekoja! Hänen oikea käsi ja hänen pyhä käsivartensa ovat tuoneet pelastuksen hänelle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "fi-FI",
+      "text": "Sinä päivänä avautuu lähde Daavidin huoneelle ja Jerusalemin asukkaille, syntiä ja saastaisuutta varten.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Miksi olette levottomia? Miksi sydämiinne nousee epäilyksiä?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "fi-FI",
+      "text": "Sillä en häpeä Kristuksen hyvää sanomaa, sillä se on Jumalan voima pelastukseksi jokaiselle, joka uskoo, juutalaiselle ensin, mutta myös kreikkalaiselle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "fi-FI",
+      "text": "Sillä jos kun olimme vihollisia, meidät on sovitettu Jumalan kanssa hänen Poikansa kuoleman kautta, paljon enemmän, kun olemme sovitettuja, me pelastumme hänen elämänsä kautta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "fi-FI",
+      "text": "joka lunastaa sinun elämäsi tuhosta, joka kruunaa sinut armolla ja laupeudella.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "fi-FI",
+      "text": "kun teidät on haudattu hänen kanssaan kasteessa, jossa teidät on myös herätetty hänen kanssaan uskon kautta, joka vaikuttaa Jumalassa, joka herätti hänet kuolleista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "fi-FI",
+      "text": "Te olitte kuolleet rikkomuksissanne ja lihanne ympärileikkaamattomuudessa. Hän teki teidät eläviksi yhdessä hänen kanssaan, anteeksiannettuaan meille kaikki rikkomuksemme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "fi-FI",
+      "text": "Jumalan uhrit ovat murtunut henki. Jumala, sinä et halveksi murtunutta ja nöyrää sydäntä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Menkää kaikkeen maailmaan ja saarnatkaa evankeliumia kaikille luoduille.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "fi-FI",
+      "text": "joka antoi itsensä meidän puolestamme, että hän voisi vapauttaa meidät kaikesta laittomuudesta ja puhdistaa itselleen kansan, joka on omaksi omaisuudekseen, innokas hyviin tekoihin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "fi-FI",
+      "text": "Tässä on rakkaus, ei siinä, että me rakastimme Jumalaa, vaan siinä, että hän rakasti meitä ja lähetti Poikansa meidän syntiemme sovitukseksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "fi-FI",
+      "text": "Israelin, toivoa Herraa, sillä Herralla on armoa. Runsas lunastus on hänen luonaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "fi-FI",
+      "text": "Ja kun sadanpäämies ja hänen kanssaan olevat, jotka katselivat Jeesusta, näkivät maanjäristyksen ja ne asiat, jotka tapahtuivat, pelästyivät ja sanoivat Totisesti, tämä oli Jumalan Poika!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "fi-FI",
+      "text": "jonka Jumala on asettanut sovitusuhriksi uskon kautta hänen vereensä, osoitukseksi hänen vanhurskaudestaan, kun hän on kärsinyt aikaisempia syntejä Jumalan kärsivällisyydessä",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "fi-FI",
+      "text": "Herra ei viivyttele lupauksensa täyttämisessä, niin kuin jotkut viivyttelynä pitävät vaan hän on kärsivällinen meidän tähtemme, eikä tahdo, että kukaan hukkuu, vaan että kaikki tulevat parannukseen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "fi-FI",
+      "text": "Odota Herraa. Ole vahva, ja rohkaise sydämesi. Kyllä, odota Herraa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "fi-FI",
+      "text": "Sillä minä en iloitse kuoleman kuolemasta, sanoo Herra, Herra. Kääntykää siis, ja eläkää!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "fi-FI",
+      "text": "Minä olen ovi. Jos joku menee sisään minun kauttani, hän pelastuu, ja hän menee sisään ja ulos ja löytää laitumen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "fi-FI",
+      "text": "Tämä sanoma on tosi ja kaikessa hyväksyttävä, että Kristus Jeesus tuli maailmaan pelastamaan syntisiä, joista minä olen ensimmäinen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "fi-FI",
+      "text": "Sillä olen vakuuttunut, ettei kuolema, eikä elämä, eikä enkelit, eikä hallitukset, eikä nykyiset asiat, eikä tulevat asiat, eikä voimat,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "fi-FI",
+      "text": "Sillä sinä olet pelastanut sieluni kuolemasta, ja estänyt jalkani lankeamasta, että voisin vaeltaa Jumalan edessä elävien valossa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "fi-FI",
+      "text": "Minä, minä olen se, joka pyyhkii pois sinun rikoksesi omaksi nimekseni enkä muista sinun syntejäsi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "fi-FI",
+      "text": "Samoin hän otti maljan illallisen jälkeen ja sanoi Tämä malja on uusi liitto minun veressäni, joka vuodatetaan teidän puolestanne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "fi-FI",
+      "text": "joka julistettiin Jumalan Pojaksi voimalla pyhyyden hengessä, kuolleista ylösnousemuksen kautta, meidän Herramme Jeesuksen Kristuksen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "fi-FI",
+      "text": "Jumala on meille pelastuksen Jumala. Herralle, Herralle, kuuluu pelastus kuolemasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "fi-FI",
+      "text": "Ja teidänkin puolestanne, teidän liitonne veren tähden, olen vapauttanut vankinne kaivosta, jossa ei ole vettä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "fi-FI",
+      "text": "Hän sanoi heille Heittäkää verkko veneen oikealle puolelle, niin löydätte. He heittivät sen siis, ja nyt he eivät voineet vetää sitä sisään kalojen paljouden tähden.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "fi-FI",
+      "text": "Nyt Jumala herätti Herran, ja hän myös herättää meidät voimallaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "fi-FI",
+      "text": "Sillä niin kuin yhdessä ihmisessä kaikki kuolevat, niin myös yhdessä Kristuksessa kaikki tehdään eläväksi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "fi-FI",
+      "text": "Mutta Jumala lunastaa sieluni kuoleman vallasta, sillä hän ottaa minut vastaan. Sela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "fi-FI",
+      "text": "Mutta minä uhraan sinulle kiitoksen äänen. Suoritan sen, minkä olen vannonut. Pelastus kuuluu Herralle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "fi-FI",
+      "text": "Hän vei heidät ulos niin pitkälle kuin Betaniaan, ja hän nosti kätensä ja siunasi heitä.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "fi-FI",
+      "text": "He huusivat suurella äänellä, sanoen Pelastus on meidän Jumalaltamme, joka istuu valtaistuimella, ja Karitsalta!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "fi-FI",
+      "text": "Pelastus kuuluu Herralle. Olkoon sinun siunaus kansasi päällä. Sela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "fi-FI",
+      "text": "Sillä Herra on meidän tuomarimme. Herra on meidän lainsäätäjämme. Herra on meidän kuninkaamme. Hän pelastaa meidät.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "fi-FI",
+      "text": "Sillä Jumalan armo on ilmestynyt, tuoden pelastuksen kaikille ihmisille,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "fi-FI",
+      "text": "Sentähden mies jättää isänsä ja äitinsä ja liittyy vaimoonsa, ja heistä tulee yksi liha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "fi-FI",
+      "text": "Kaikki lapsesi opetetaan Herralta, ja sinun lastesi rauha on suuri.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "fi-FI",
+      "text": "ja sanoi Tämän vuoksi mies jättää isänsä ja äitinsä ja liittyy vaimoonsa ja ne kaksi tulevat yhdeksi lihaksi?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "fi-FI",
+      "text": "Lapset, totelkaa vanhempianne Herrassa, sillä se on oikein.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "fi-FI",
+      "text": "Kunnioita isääsi ja äitiäsi, että sinun päiviesi olisi pitkä seudussa, jonka Herra, sinun Jumalasi, antaa sinulle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "fi-FI",
+      "text": "Kouluta lasta hänen tiellään, ja kun hän on vanha, ei hän siitä poikkea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "fi-FI",
+      "text": "Minä annan heille sydämen, että he tuntevat minut, että minä olen Herra. He ovat minun kansani, ja minä olen heidän Jumalansa sillä he palaavat minun tyköni koko sydämestään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "fi-FI",
+      "text": "Ja hän meni heidän kanssaan ja tuli Nasaretiin. Hän oli heidän alamaisensa, ja hänen äitinsä piti kaikki nämä sanat sydämessään.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "fi-FI",
+      "text": "Isät, älkää kiusatko lapsianne, ettei heitä masentuisi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "fi-FI",
+      "text": "Kansani asuu rauhallisessa asunnossa, turvallisissa asunnoissa ja hiljaisissa lepopaikoissa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "fi-FI",
+      "text": "Sillä joka tekee Jumalan tahdon, se on minun veljeni, sisareni ja äitini.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "fi-FI",
+      "text": "ja te opetatte niitä lapsillenne, ja puhutte niistä, kun istutte kotona, ja kun vaellatte tiellä, ja kun makaatte ja kun nousette ylös.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "fi-FI",
+      "text": "Kaupungin kadut ovat täynnä poikia ja tyttöjä leikkimässä sen kaduilla.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "fi-FI",
+      "text": "Jos siis te, jotka olette pahoja, tiedätte antaa hyviä lahjoja lapsillenne, kuinka paljon enemmän taivaallinen Isänne antaa Pyhän Hengen niille, jotka häntä anovat?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "fi-FI",
+      "text": "Mutta me olimme lempeitä teidän keskuudessanne, niin kuin imettävä äiti hoitaa omia lapsiaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "fi-FI",
+      "text": "Jumala asettaa yksinäiset perheisiin. Hän tuo vangit laulamalla, mutta kapinoitsijat asuvat auringon polttamassa maassa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "fi-FI",
+      "text": "Lastenlapset ovat vanhojen kruunu lasten kunnia on heidän vanhempansa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "fi-FI",
+      "text": "Jos siis te, jotka olette pahoja, tiedätte antaa hyviä lahjoja lapsillenne, kuinka paljon enemmän Isänne, joka on taivaassa, antaa hyviä asioita niille, jotka häntä anovat!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "ar-SA",
+      "text": "لكي أسمع صوت الشكر وأخبر بجميع عجائبك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "ar-SA",
+      "text": "شاكرين الآب الذي أهّلنا لشركة ميراث القديسين في النور،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "ar-SA",
+      "text": "يُرشد المتواضعين في الحق، ويعلّم المتواضعين طريقه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "ar-SA",
+      "text": "ولكنه يعطي نعمة أكثر. لذلك يقول الله يقاوم المستكبرين، ولكن يعطي نعمة للمتواضعين.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "ar-SA",
+      "text": "خوف الرب يُعلّم حكمة، وقبل الكرامة تواضع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "ar-SA",
+      "text": "لأن كل من يرفع نفسه يتواضع، ومن يتواضع نفسه يرتفع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "ar-SA",
+      "text": "خاضعين بعضكم لبعض في خوف المسيح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "ar-SA",
+      "text": "فتواضعوا تحت يد الله القوية، لكي يرفعكم في حينه،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "ar-SA",
+      "text": "قبل الهلاك قلب الإنسان متكبر، ولكن قبل الكرامة تواضع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "ar-SA",
+      "text": "إن كنتم مستعدين وطائعين، تأكلون خير الأرض؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "ar-SA",
+      "text": "فمن تواضع مثل هذا الطفل، فهو الأعظم في ملكوت السماوات.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "ar-SA",
+      "text": "ليكن في ذهنكم هذا، الذي كان أيضًا في المسيح يسوع،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "ar-SA",
+      "text": "فالبسوا إذًا، كمختاري الله، القديسين والمحبوبين، أحشاء رأفة، ووداعة، وتواضع، وطول أناة؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "ar-SA",
+      "text": "تواضعوا في نظر الرب، فسيعليكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "ar-SA",
+      "text": "كبرياء الإنسان تُحطّه، ولكن المتواضع الروح ينال كرامة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "ar-SA",
+      "text": "ولكن ليس هكذا فيكم. بل من هو الأعظم بينكم، فليكن كالأصغر، ومن يتولى، كمن يخدم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "ar-SA",
+      "text": "الرب يرفع المتواضعين، ويُسقط الأشرار إلى الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "ar-SA",
+      "text": "المتواضعون أيضًا يزداد فرحهم في الرب، والفقراء بين الناس يفرحون في القدوس في إسرائيل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "ar-SA",
+      "text": "من أراد أن يكون أولاً بينكم، فليكن خادمًا لكم،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "ar-SA",
+      "text": "لذلك، اطرحوا كل نجاسة وكثرة شر، وقبلوا بوداعة الكلمة المغروسة، القادرة أن تخلص نفوسكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "ar-SA",
+      "text": "أما الودعاء فيرثون الأرض، ويتلذذون بكثرة السلام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "ar-SA",
+      "text": "ليمدحك إنسان آخر، لا فمك؛ أجنبي، لا شفتيك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "ar-SA",
+      "text": "طوبى للودعاء، لأنهم سيرثون الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "ar-SA",
+      "text": "لا ترفع نفسك في حضرة الملك، ولا تقف في مكان العظماء؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "ar-SA",
+      "text": "ومن أراد أن يكون أولكم، فليكن خادماً للجميع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "ar-SA",
+      "text": "أقول لكم، إن هذا الرجل نزل إلى بيته مبرراً دون الآخر؛ لأن كل من يرفع نفسه يتضع، ومن يتضع يرتفع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "ar-SA",
+      "text": "يهوه يسر بالمخافين منه، وبالراجين رحمته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "ar-SA",
+      "text": "لكنهم لم يسمعوا ولم يميلوا آذانهم، بل ساروا في مشوراتهم وفي عناد قلوبهم الشريرة، وذهبوا إلى الوراء، لا إلى الأمام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "ar-SA",
+      "text": "قولي لابنة صهيون هوذا ملكك يأتي إليك، وديعاً، راكباً على أتان، وعلى جحش ابن أتان.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "ar-SA",
+      "text": "فاخضعوا لكل ترتيب إنسان من أجل الرب سواء للملك، كالأعلى،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "ar-SA",
+      "text": "ينبغي أن يزيد، وأنا ينبغي أن أنقص.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "ar-SA",
+      "text": "منتظرين الرجاء المبارك وظهور مجد إلهنا العظيم ومخلصنا يسوع المسيح،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "ar-SA",
+      "text": "فإنها ستلد ابناً، وتدعو اسمه يسوع، لأنه هو الذي يخلص شعبه من خطاياهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "ar-SA",
+      "text": "أنتظر يهوه. نفسي تنتظر. أرجو في كلمته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "ar-SA",
+      "text": "الشعب السالك في الظلمة أبصر نوراً عظيماً. الجالسون في أرض ظلال الموت أشرق عليهم نور.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "ar-SA",
+      "text": "والكلمة صارت جسداً، وحلت بيننا، ورأينا مجدها، مجداً كما لوحيد من الآب، مملوءة نعمة وحقاً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "ar-SA",
+      "text": "فقال لهم الملاك لا تخافوا، فها أنا أبشركم بفرح عظيم يكون لجميع الشعب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "ar-SA",
+      "text": "أما أنا فأتوقع دائماً، وأزيد على كل تسبيحك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "ar-SA",
+      "text": "النور الحقيقي الذي ينير كل إنسان كان آتياً إلى العالم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "ar-SA",
+      "text": "لأن أجرة الخطية هي موت، ولكن هبة الله هي حياة أبدية في المسيح يسوع ربنا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "ar-SA",
+      "text": "انتظر يهوه. تشدد وليتشجع قلبك. انتظر يهوه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "ar-SA",
+      "text": "لكن لكم أيها الذين تخافون اسمي، ستشرق شمس البر، وشفاء في أجنحتها. وتخرجون وتلعبون كالعجول من الحظيرة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "ar-SA",
+      "text": "المجد لله في الأعالي، وعلى الأرض السلام، وبالناس المسرة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "ar-SA",
+      "text": "صوت صارخ أعدوا طريق يهوه في البرية! قوموا سبلاً في القفر لإلهنا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "ar-SA",
+      "text": "مستقبلين غاية إيمانكم، خلاص نفوسكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "ar-SA",
+      "text": "فلما رأوا النجم، فرحوا فرحاً عظيماً جداً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "ar-SA",
+      "text": "فستعرف الحكمة أنها لنفسك. إن وجدتها، فسيكون لك أجر لن ينقطع رجاؤك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "ar-SA",
+      "text": "ها تأتي أيام، يقول يهوه، وأقيم لداود غصن بر، فيملك كملك ويعمل بحكمة، ويجري عدلاً وبرّاً في الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "ar-SA",
+      "text": "ولكن عندما ظهرت لطف الله مخلصنا ومحبته نحو البشر،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "ar-SA",
+      "text": "ها العذراء تحبل، وتلد ابناً، ويدعى اسمه عمانوئيل، الذي تفسيره الله معنا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "ar-SA",
+      "text": "لأن قلوبنا تفرح به، لأننا وثقنا باسمه القدوس.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "ar-SA",
+      "text": "فرجع الرعاة، يمجدون ويباركون الله على كل ما سمعوه ورأوه، كما قيل لهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "ar-SA",
+      "text": "لأن مواطنتنا في السماوات، التي منها أيضاً ننتظر مخلصاً، الرب يسوع المسيح،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "ar-SA",
+      "text": "لكن خلاص الأبرار من يهوه. هو حصنهم في وقت الضيق.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "ar-SA",
+      "text": "بسبب رحمة إلهنا الرقيقة، التي بها سيزورنا مشرق من العلاء،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "ar-SA",
+      "text": "قائلاً قد تم الزمان، واقترب ملكوت الله! توبوا وآمنوا بالإنجيل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "ar-SA",
+      "text": "لكن الله يفدي نفسي من يد الهاوية، لأنه سيقبلني. سلاه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "ar-SA",
+      "text": "في تلك الأيام وفي ذلك الوقت، أنبت غصن بر لداود. ويجري عدلاً وبرّاً في الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "ar-SA",
+      "text": "أعطيهم حياة أبدية، ولن يهلكوا إلى الأبد، ولا يخطف أحدهم من يدي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "ar-SA",
+      "text": "لأننا خلصنا على الرجاء، ولكن الرجاء الذي يُرى ليس رجاءً. لأن من يرجو ما يُرى؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "ar-SA",
+      "text": "لأن عيني قد رأتا خلاصك،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "ar-SA",
+      "text": "اسمه يدوم إلى الأبد. اسمه يستمر ما دامت الشمس. يبارك به الرجال. جميع الأمم تدعوه مباركاً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "ar-SA",
+      "text": "الشعب الجالس في الظلمة أبصر نوراً عظيماً؛ والجالسون في بلاد ظلال الموت، أشرق عليهم نور.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "ar-SA",
+      "text": "ولكن عندما جاء ملء الزمان، أرسل الله ابنه، مولوداً من امرأة، مولوداً تحت الناموس،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "ar-SA",
+      "text": "وكلموه قائلاً هكذا قال يهوه من الجنود هوذا الرجل الذي اسمه الغصن! هو ينبت من مكانه، ويبني هيكل يهوه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "ar-SA",
+      "text": "مبارك الرب إله إسرائيل، لأنه افتقد وافتدى شعبه؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "ar-SA",
+      "text": "الذين يؤمنون به، الذين أقامه من الأموات وأعطاه مجداً، لكي تكون إيمانكم ورجاؤكم في الله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "ar-SA",
+      "text": "وزاد يسوع في الحكمة والقامة، وفي النعمة عند الله والناس.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "ar-SA",
+      "text": "في تلك الأيام لا يقولون بعد الآباء أكلوا حصرماً، وأسنان الأبناء قد انصدعت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "ar-SA",
+      "text": "لكن يسوع قال دعوا الأولاد يأتون إلي، ولا تمنعوهم، لأن لمثل هؤلاء ملكوت السماوات.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "ar-SA",
+      "text": "يا أولاد، أطيعوا والديكم في كل شيء، لأن هذا يرضي الرب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "ar-SA",
+      "text": "هذه الكلمات التي أوصيك بها اليوم، تكون على قلبك؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "ar-SA",
+      "text": "فأبناءنا يكونون كالنباتات الناضجة، وبناتنا كالأعمدة المنحوتة لتزيين قصر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "ar-SA",
+      "text": "وصية جديدة أعطيكم أن تحبوا بعضكم بعضاً. كما أحببتكم، تحبون أنتم أيضاً بعضكم بعضاً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "ar-SA",
+      "text": "فطاعة الرجل تجعله بطيئاً إلى الغضب. هو مجد له أن يتجاوز عن ذنب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "ar-SA",
+      "text": "لكنني سأترك في وسطكم شعباً معذَّباً وفقيراً، فيأخذون ملجأً باسم يهوه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "ar-SA",
+      "text": "كل من يأتي إلي، ويسمع كلامي ويعمل به، سأظهر لكم من هو.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "ar-SA",
+      "text": "علمني حكمتك ومعرفتي، لأني أؤمن بوصاياك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "ar-SA",
+      "text": "أما هؤلاء الفتيان الأربعة، فقد أعطاهم الله معرفة ومهارة في كل تعلم وحكمة؛ وكان لدانيال فهم في كل رؤيا وأحلام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "ar-SA",
+      "text": "لذلك، لا تكونوا حمقى، بل افهموا ما هي إرادة الرب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "ar-SA",
+      "text": "أرشدني في حقك، وعلمني، لأنك أنت إله خلاصي. أنتظرك كل النهار.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "ar-SA",
+      "text": "لأن كل من يسأل يأخذ، ومن يطلب يجد، ومن يقرع يفتح له.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "ar-SA",
+      "text": "حيث لا مشورة حكيمة، تسقط الأمة، ولكن في كثرة المشيرين يكون النصر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "ar-SA",
+      "text": "أنت ترشدني بمشورتك، وبعد ذلك تأخذني إلى المجد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "ar-SA",
+      "text": "لأن كما أن السماوات أعلى من الأرض، هكذا طرقاي أعلى من طرقكم، وأفكاري أعلى من أفكاركم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "ar-SA",
+      "text": "لكن قال بل طوبى للذين يسمعون كلمة الله، ويحفظونها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "ar-SA",
+      "text": "يا رب، أنا أعلم أن طريق الإنسان ليس في نفسه. ليس في الإنسان الذي يمشي أن يوجه خطواته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "ar-SA",
+      "text": "طريق الأحمق مستقيم في عينيه، ولكن الحكيم يسمع المشورة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "ar-SA",
+      "text": "لماذا لا تحكمون بأنفسكم ما هو الحق؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "ar-SA",
+      "text": "لكي يعطيكم إله ربنا يسوع المسيح، أبو المجد، روح حكمة وإعلان في معرفةه،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "ar-SA",
+      "text": "كثيرة هي الأفكار في قلب الإنسان، ولكن مشورة الرب هي التي تثبت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "ar-SA",
+      "text": "سأقف على حراستي، وأقيم نفسي على الحصون، وسأنظر لأرى ماذا يقول لي، وماذا أجيب عن شكواي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "ar-SA",
+      "text": "كل طريق إنسان مستقيم في عينيه، ولكن الرب يوزن القلوب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "ar-SA",
+      "text": "اطلبوا الرب، يا جميع المتواضعين في الأرض، الذين حفظوا أحكامه. اطلبوا البر، اطلبوا التواضع. عسى أن تُخفوا في يوم غضب الرب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "ar-SA",
+      "text": "لأنه ينبغي أن تقولوا إن شاء الرب، سنعيش ونعمل هذا أو ذاك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "ar-SA",
+      "text": "اجعلني أسمع محبتك في الصباح، لأني أثق بك. اجعلني أعرف الطريق الذي أسلك فيه، لأني أرفع نفسي إليك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "ar-SA",
+      "text": "ادعني، فأستجيب لك، وأريك أشياء عظيمة وعسيرة، لم تعرفها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "ar-SA",
+      "text": "ولكن المعزي، الروح القدس، الذي سيرسله الآب باسمي، يعلمكم كل شيء، ويذكركم بكل ما قلته لكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "ar-SA",
+      "text": "لأن الرب يعرف طريق الأبرار، ولكن طريق الأشرار ستبيد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "ar-SA",
+      "text": "ولكن الروحي يميز كل شيء، وهو لا يُحكم عليه من أحد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "ar-SA",
+      "text": "الآن، لذلك، هذا ما يقوله رب الجنود اعتبروا طرقكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "ar-SA",
+      "text": "لأن كل من يسأل يأخذ، ومن يطلب يجد، ومن يقرع يفتح له.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "ar-SA",
+      "text": "إن كان أحد يخدمني، فليتبعني. حيث أكون، هناك يكون خادمي أيضًا. وإن كان أحد يخدمني، يكرمه الآب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "ar-SA",
+      "text": "لأن الذين يُقادون بروح الله، هؤلاء هم أبناء الله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "ar-SA",
+      "text": "ولكنه أجاب مكتوب لا يحيى الإنسان بالخبز وحده، بل بكل كلمة تخرج من فم الله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "ar-SA",
+      "text": "صلوا لأجلنا، لأننا مقتنعون أن لنا ضميرًا صالحًا، نرغب في أن نعيش بكرامة في كل شيء.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "ar-SA",
+      "text": "بالحكمة يُبنى البيت، وبالفهم يُثبت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "ar-SA",
+      "text": "علمني طريقك، يا رب. سأمشي في حقك. اجعل قلبي غير منقسم ليخاف اسمك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "ar-SA",
+      "text": "في تلك الأيام، وفي ذلك الوقت، سأجعل غصن بر للداود. هو ينفذ العدل والبر في الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "ar-SA",
+      "text": "لكن واحدة هي الحاجة. مريم اختارت النصيب الصالح، الذي لن يُؤخذ منها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "ar-SA",
+      "text": "اسكن في الرب، وانتظر بصبر له. لا تغتاظ بسبب الذي ينجح في طريقه، بسبب الرجل الذي يضع مؤامرات شريرة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "ar-SA",
+      "text": "إن كنتم تعرفون هذه الأمور، طوبى لكم إن فعلتموها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "ar-SA",
+      "text": "مستنيرين عيون قلوبكم، لكي تعرفوا ما هو رجاء دعوته، وما هي غنى مجد ميراثه في القديسين،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "ar-SA",
+      "text": "يا ابني، لا تدعها تبتعد عن عينيك. احفظ الحكمة السليمة والتعقل،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "ar-SA",
+      "text": "لأن طاعتكم قد عُرفت لدى الجميع. أفرح لذلك عليكم. ولكنني أريد أن تكونوا حكماء في ما هو صالح، ولكن أبرياء في ما هو شرير.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "ar-SA",
+      "text": "من يجيب قبل أن يسمع، فذلك هو حماقة وعار له.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "ar-SA",
+      "text": "علمني، يا رب، طريق وصاياك. سأحفظها إلى النهاية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "ar-SA",
+      "text": "لكن قال بل طوبى للذين يسمعون كلمة الله، ويحفظونها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "ar-SA",
+      "text": "تعليمنا أن ننكر الفجور والشهوات العالمية، لنعيش برًا وتقوى في هذا العصر الحاضر؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "ar-SA",
+      "text": "صداقة الرب مع الذين يخافونه. سيظهر لهم عهده.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "ar-SA",
+      "text": "يا ليتك كنت قد استمعت إلى وصاياي! لكان سلامك كالنهر، وبرك كأمواج البحر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "ar-SA",
+      "text": "مبارك هو الرجل الذي يتكل على الرب، وثقته في الرب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "ar-SA",
+      "text": "إن أحببتني، فاحفظ وصاياي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "ar-SA",
+      "text": "أبارك الرب الذي أعطاني مشورة. نعم، قلبي يعلمني في الليالي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "ar-SA",
+      "text": "من يختصر كلماته له معرفة. ومن هو هادئ الطباع هو رجل فهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "ar-SA",
+      "text": "ها أنا سأفعل شيئًا جديدًا. ينبع الآن. ألا تعرفونه؟ سأجعل طريقًا في البرية، وأنهارًا في الصحراء.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "ar-SA",
+      "text": "إن عشنا بالروح، فلنسلك أيضًا بالروح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "ar-SA",
+      "text": "لذلك أعتبر جميع وصاياك صحيحة. أكره كل طريق كاذب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "ar-SA",
+      "text": "لكن بالقول الحق في المحبة، ننمو في كل شيء إلى الذي هو الرأس، المسيح،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "ar-SA",
+      "text": "طوبى للرجل الذي يجد الحكمة، الرجل الذي يحصل على الفهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "ar-SA",
+      "text": "يا رب، قد سمعت رغبة المتواضعين. ستعد قلوبهم. ستجعل أذنك تسمع،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "ar-SA",
+      "text": "سأسرع، ولا أتأخر، لأطيع وصاياك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "ar-SA",
+      "text": "كل الكتاب هو موحى به من الله، ونافع للتعليم، وللتوبيخ، وللتصحيح، وللتعليم في البر،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "ar-SA",
+      "text": "استقامة المستقيمين ترشدهم، ولكن انحراف الأشرار يهلكهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "ar-SA",
+      "text": "كيف يحفظ الشاب طريقه طاهرًا؟ بحفظه حسب كلمتك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "ar-SA",
+      "text": "بدون إيمان، لا يمكن إرضاؤه، لأن الذي يأتي إلى الله يجب أن يؤمن بأنه موجود، وأنه يجازي الذين يطلبونه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "ar-SA",
+      "text": "من يحفظ الشريعة هو ابن حكيم؛ ولكن من هو رفيق الشرهين يعيب أباه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "ar-SA",
+      "text": "عيوني دائمًا على الرب، لأنه سينقذ قدمي من الفخ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "ar-SA",
+      "text": "لأن الذين يعيشون حسب الجسد يضبطون عقولهم على أشياء الجسد، ولكن الذين يعيشون حسب الروح، على أشياء الروح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "ar-SA",
+      "text": "الرجل البسيط يصدق كل شيء، ولكن الرجل الحكيم يتأمل طرقه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "ar-SA",
+      "text": "بكُلِّ قَلبي طلبتك. لا تَجعلني أَضِلُّ عن وصاياك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "ar-SA",
+      "text": "الرَّجُلُ الَّذِي يَضِلُّ عن طَرِيقِ الفَهْمِ سَيَسْتَرِيحُ في جَمَاعَةِ الأَرْوَاحِ الْمَيِّتَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "ar-SA",
+      "text": "فَتَعَجَّبُوا مِنْ تَعْلِيمِهِ، لأَنَّهُ كَانَ يُعَلِّمُهُمْ كَمَنْ لَهُ سُلْطَانٌ، لا كَكَتَبَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "ar-SA",
+      "text": "لأَنَّنَا جَمِيعًا نَزِلُ في أُمُورٍ كَثِيرَةٍ. وَمَنْ لَمْ يَزِلْ في الكَلَامِ فَهُوَ إِنْسانٌ كَامِلٌ، قَادِرٌ أَنْ يُلْجِمَ كُلَّ الجَسَدِ أَيْضًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "ar-SA",
+      "text": "إِنْ أَحْجَمْتَ عَنْ السَّمَاعِ لِلْتَّعْلِيمِ، يَا ابْنِي، فَإِنَّكَ تَضِلُّ عَنْ كَلِمَاتِ الْمَعْرِفَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "ar-SA",
+      "text": "قَدْ جَعَلْتُ قَلْبِي لِتَنْفِيذِ فَرَائِضِكَ إِلَى الأَبَدِ، إِلَى النِّهَايَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "ar-SA",
+      "text": "مَنْ مِنْكُمْ يَخْشَى الرَّبَّ وَيَسْمَعُ لِصَوْتِ عَبْدِهِ؟ مَنْ يَسْلُكُ فِي الظَّلاَمِ وَلَيْسَ لَهُ نُورٌ، فَلْيَتَّكِلْ عَلَى اسْمِ الرَّبِّ وَيَتَّكِلْ عَلَى إِلَهِهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "ar-SA",
+      "text": "مَنْ هُوَ الْعَبْدُ الْأَمِينُ الْحَكِيمُ، الَّذِي أَقَامَهُ سَيِّدُهُ عَلَى بَيْتِهِ، لِيُعْطِيَهُمْ طَعَامَهُمْ فِي وَقْتِهِ؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "ar-SA",
+      "text": "لِتَكُونُوا أَبْرِيَاءَ وَبُلْهًا، أَوْلَادَ اللَّهِ بلا عَيْبٍ فِي وَسَطِ جِيلٍ مُعَوَّجٍ وَمُعَوَّجٍ، بَيْنَ مَنْ تَظْهَرُونَ كَنُورَاتٍ فِي الْعَالَمِ،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "ar-SA",
+      "text": "هُوَ فِي طَرِيقِ الْحَيَاةِ مَنْ يَسْمَعُ التَّوْبِيخَ، وَمَنْ يَتْرُكُ التَّصْحِيحَ يُضِلُّ آخَرِينَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "ar-SA",
+      "text": "خُذْ كَلِمَاتٍ مَعَكَ، وَارْجِعْ إِلَى الرَّبِّ. قُلْ لَهُ اغْفِرْ كُلَّ خَطَايَانَا، وَاقْبَلْ مَا هُوَ جَيِّدٌ؛ فَإِنَّا نُقَدِّمُ ثَوْرَانٍ كَمَا نَذَرْنَا بِشَفَاتِنَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "ar-SA",
+      "text": "لِمَنْ مِنْكُمْ، إِذَا أَرَادَ أَنْ يَبْنِيَ بُرْجًا، أَلَّا يَجْلِسَ أَوَّلًا وَيُحَسِبُ النَّفَقَةَ، لِيَرَى إِنْ كَانَ لَدَيْهِ مَا يُكَمِّلُهُ؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "ar-SA",
+      "text": "وَوُجِدَتْ كَلِمَاتُكَ، فَأَكَلْتُهَا. كَلِمَاتُكَ كَانَتْ لِي فَرَحًا وَتَهْلِيلًا لِقَلْبِي، لأَنِّي دُعِيتُ بِاسْمِكَ، يَا رَبُّ إِلَهَ الْجُنُودِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "ar-SA",
+      "text": "جَيِّدٌ وَمُسْتَقِيمٌ هُوَ الرَّبُّ، لِذَلِكَ سَيُعَلِّمُ الْخُطَاةَ الطَّرِيقَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "ar-SA",
+      "text": "هَئَنَذَا عَبْدِي سَيَفْهَمُ. سَيُعَظَّمُ وَيُرْتَفَعُ وَيَكُونُ عَالِيًا جِدًّا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "ar-SA",
+      "text": "كُلُّ رَجُلٍ حَكِيمٍ يَفْعَلُ مِنَ الْمَعْرِفَةِ، وَأَمَّا الْأَحْمَقُ فَيُظْهِرُ حَمَاقَةً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "ar-SA",
+      "text": "أَثْبِتْ خُطَايَايَ فِي كَلَامِكَ. لا تَسَلِّطْ عَلَيَّ أَيَّ إِثْمٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "ar-SA",
+      "text": "مِصْبَاحُ الْجَسَدِ هُوَ الْعَيْنُ. إِذَا كَانَتْ عَيْنُكَ جَيِّدَةً، فَكُلُّ جَسَدِكَ أَيْضًا مَلآنٌ مِنَ النُّورِ؛ وَأَمَّا إِذَا كَانَتْ شَرِيرَةً، فَجَسَدُكَ أَيْضًا مَلآنٌ مِنَ الظَّلَامِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "ar-SA",
+      "text": "وَالآنَ، لِيَكُنْ إِلَهُ السَّلاَمِ، الَّذِي أَقَامَ مِنَ الْمَوْتِ الرَّاعِيَ الْعَظِيمَ لِلْخِرَافِ بِدَمِ عَهْدٍ أَبَدِيٍّ، رَبُّنَا يَسُوعُ،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "ar-SA",
+      "text": "قَلْبُ مَنْ لَهُ فَهْمٌ يَسْتَشْتِفُ الْمَعْرِفَةَ، وَأَمَّا أَفْوَاهُ الْحُمُقَاءِ فَتَأْكُلُ مِنَ الْحَمَاقَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "ar-SA",
+      "text": "إِنَّ السَّيِّدَ الرَّبَّ لَنْ يَفْعَلَ شَيْئًا، إِلَّا إِذَا أَخْبَرَ سِرَّهُ لِعَبِيدِهِ الْأَنْبِيَاءِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "ar-SA",
+      "text": "خِرَافِي تَسْمَعُ صَوْتِي، وَأَنَا أَعْرِفُهَا، وَتَتْبَعُنِي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "ar-SA",
+      "text": "لا تُطْفِئُوا الرُّوحَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "ar-SA",
+      "text": "النَّصِيحَةُ فِي قَلْبِ الإِنْسَانِ كَمِيَاهٍ عَمِيقَةٍ، وَالرَّجُلُ الْفَهِيمُ يَسْتَخْرِجُهَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "ar-SA",
+      "text": "وَقَالَ اَلزَّمَانُ قَدْ تَمَّ، وَمَلَكُوتُ اللَّهِ قَدْ قَرُبَ! تَوبُوا وَآمِنُوا بِالْبَشَارَةِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "ar-SA",
+      "text": "أَمَّا مَنْ يَنْظُرُ إِلَى شَرِيعَةِ الْحُرِّيَّةِ الْكَامِلَةِ وَيُثَبِّتُ، لَا يَكُونُ سَامِعًا يَنْسَى، بَلْ فَاعِلًا لِلْعَمَلِ، فَهَذَا سَيُبَارَكُ فِي مَا يَفْعَلُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "ar-SA",
+      "text": "لا تَحْسِدِ الرَّجُلَ الْمُعَارِضَ. لا تَخْتَرْ أَيًّا مِنْ طُرُقِهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "ar-SA",
+      "text": "أَيْضًا عَبْدُكَ مُنَبَّهٌ بِهَا. فِي حِفْظِهَا يُوجَدُ أَجْرٌ عَظِيمٌ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "ar-SA",
+      "text": "لِنَعْتَرِفْ بِالرَّبِّ. لِنَسْعَ إِلَى مَعْرِفَةِ الرَّبِّ. كَمَا تَشْرُقُ الشَّمْسُ، سَيَظْهَرُ الرَّبُّ. سَيَأْتِي إِلَيْنَا كَالْمَطَرِ، كَمَطَرِ الرَّبِيعِ الَّذِي يُرَوِّي الأَرْضَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "ar-SA",
+      "text": "مَنْ لَهُ آذَانٌ لِيَسْمَعْ، فَلْيَسْمَعْ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "ar-SA",
+      "text": "مَنْ يُبَطِّئُ غَضَبَهُ لَهُ فَهْمٌ عَظِيمٌ، وَمَنْ يُسَرِعُ بِغَضَبِهِ يُظْهِرُ حَمَاقَةً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "ar-SA",
+      "text": "فَأَجَابَ يَسُوعُ قَائِلًا مَكْتُوبٌ لاَ يَعِيشُ الإِنْسَانُ بِالْخُبْزِ وَحْدَهُ، بَلْ بِكُلِّ كَلِمَةٍ تَخْرُجُ مِنْ فَمِ اللَّهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "ar-SA",
+      "text": "لَيْسَ جَيِّدًا أَنْ تَكُونَ لَكَ حَمَاسَةٌ بِلاَ مَعْرِفَةٍ، وَلَا أَنْ تَكُونَ مُتَعَجِّلًا بِرِجْلَيْكَ فَتَفْتَقِدَ الطَّرِيقَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "ar-SA",
+      "text": "تَفَكَّرْتُ فِي طُرُقِي، وَتَحَوَّلْتُ إِلَى فَرَائِضِكَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "ar-SA",
+      "text": "هَلْ يَخْفَى أَحَدٌ فِي أَمَاكِنَ سِرِّيَّةٍ حَتَّى لا أَرَاهُ؟ يَقُولُ الرَّبُّ. أَلَمْ أَمْلَأِ السَّمَاوَاتِ وَالْأَرْضَ؟ يَقُولُ الرَّبُّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "ar-SA",
+      "text": "إخْوَتِي، لَسْتُ أَعْتَبِرُ نَفْسِي قَدْ أَخَذْتُ، وَلَكِنَّ شَيْئًا وَاحِدًا أَفْعَلُ أَنْ أَنْسَى مَا وَرَاءَ، وَأَسْتَطِيلَ إِلَى مَا أَمَامِي،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "ar-SA",
+      "text": "فِي طَرِيقِ الْبِرِّ حَيَاةٌ؛ فِي سُبُلِهِ لَا مَوْتَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "ar-SA",
+      "text": "هَئَنَذَا أَشْتَاقُ إِلَى وَصَايَاكَ! أَحْيِنِي فِي بَرِّكَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "ar-SA",
+      "text": "يَا رَبُّ، أَنْتَ إِلَهِي. أُعَظِّمُكَ! أُسَبِّحُ اسْمَكَ، لأَنَّكَ فَعَلْتَ أَشْيَاءَ عَظِيمَةً، أَشْيَاءَ مُخَطَّطَةً مُنْذُ قَدِيمٍ، بِكُلِّ أَمَانَةٍ وَحَقٍّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "ar-SA",
+      "text": "كُلُّنَا كَخِرَافٍ ضَلَلْنَا. تَحَوَّلَ كُلٌّ إِلَى طَرِيقِهِ. وَالرَّبُّ وَضَعَ عَلَيْهِ إِثْمَ جَمِيعِنَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "ar-SA",
+      "text": "لَيْسَ مِنْ أَعْمَالٍ، لِئَلَّا يَفْتَخِرَ أَحَدٌ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "ar-SA",
+      "text": "لأَنَّ الْجَمِيعَ أَخْطَأُوا، وَأَعْتَزُّوا عَنْ مَجْدِ اللَّهِ؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "ar-SA",
+      "text": "خَوْفُ الرَّبِّ نَاعُورَةُ حَيَاةٍ، مُحَوِّلَةٌ النَّاسَ عَنْ شَرَكِ الْمَوْتِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "ar-SA",
+      "text": "فِي الْيَوْمِ التَّالِي، رَءَا يَسُوعَ قَادِمًا إِلَيْهِ، وَقَالَ هَئَنَذَا خَرُوفُ اللَّهِ، الَّذِي يَحْمِلُ خَطِيَّةَ الْعَالَمِ!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "ar-SA",
+      "text": "أَخْرَجَنِي أَيْضًا مِنْ جُبٍّ رَدِيءٍ، مِنَ الطِّينِ الْمُوحِلِ. أَقَامَ قَدَمَيَّ عَلَى صَخْرَةٍ، وَأَعْطَانِي مَكَانًا ثَابِتًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "ar-SA",
+      "text": "بَعْدَ يَوْمَيْنِ سَيُحْيِينَا. فِي الْيَوْمِ الثَّالِثِ سَيُقِيمُنَا، وَنَحْيَا أَمَامَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "ar-SA",
+      "text": "الَّذِي أَنْقَذَنَا مِنْ قُوَّةِ الظَّلاَمَةِ، وَنَقَلَنَا إِلَى مَلَكُوتِ ابْنِ حُبِّهِ،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "ar-SA",
+      "text": "لَا أَرْفُضُ نِعْمَةَ اللَّهِ. لأَنَّهُ إِنْ كَانَتِ الْبِرُّ مِنَ النَّامُوسِ، فَإِنَّ الْمَسِيحَ مَاتَ لَا شَيْءٍ!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "ar-SA",
+      "text": "لَكِنْ إِذَا كَانَتْ لَنَا، يَا إِخْوَتِي، جُرْأَةٌ لِلدُّخُولِ إِلَى الْمَقْدِسِ بِدَمِ يَسُوعَ،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "ar-SA",
+      "text": "أَعِدْ إِلَيَّ فَرَحَ خَلاَصِكَ. وَأَقِمْنِي بِرُوحٍ مُسْتَعِدَّةٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "ar-SA",
+      "text": "الْغِنَى لَا يُنَفِعُ فِي يَوْمِ السَّخَطِ، وَلَكِنَّ الْبِرَّ يُنَجِّي مِنَ الْمَوْتِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "ar-SA",
+      "text": "لِنَتَقَرَّبْ بِقَلْبٍ صَادِقٍ فِي كَمَالِ الإِيمَانِ، وَقَدْ رُشَّتْ قُلُوبُنَا مِنْ ضَمِيرٍ شَرِيرٍ، وَأَجْسَادُنَا غُسِلَتْ بِمَاءٍ نَقِيٍّ،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "ar-SA",
+      "text": "وَمِنْ يَسُوعَ الْمَسِيحِ، الشَّاهِدُ الْأَمِينُ، الْمَوْلُودُ الأَوَّلُ مِنَ الأَمْوَاتِ، وَالْمُتَسَلِّطُ عَلَى مَلَاكِ الْأَرْضِ. لَهُ الَّذِي يُحِبُّنَا، وَغَسَلَنَا مِنْ خَطَايَانَا بِدَمِهِ—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "ar-SA",
+      "text": "وَلَمَّا رَءَا الْمِئْذَنُ الَّذِي وَقَفَ ضِدَّهُ، أَنَّهُ صَرَخَ هَكَذَا وَأَسْلَمَ الرُّوحَ، قَالَ بِالْحَقِّ كَانَ هَذَا الرَّجُلُ ابْنَ اللَّهِ!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "ar-SA",
+      "text": "لأَنَّهُ الَّذِي لَمْ يَعْرِفْ خَطِيَّةً، جَعَلَهُ خَطِيَّةً مِنْ أَجْلِنَا، لِكَيْ نَصِيرَ بَرَّ اللَّهِ فِيهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "ar-SA",
+      "text": "عِنْدَمَا تَجْتَازُ الزَّوَابِعُ، لَا يَكُونُ الشِّرِّيرُ بَعْدُ؛ وَأَمَّا الْبَارُّ فَيَثْبُتُ إِلَى الأَبَدِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "ar-SA",
+      "text": "وَلَا بَعْدُ دَمِ الْتُّيوسِ وَالْعُجُولِ، بَلْ بِدَمِهِ هُوَ، دَخَلَ مَرَّةً وَاحِدَةً إِلَى الْمَقْدِسِ، حَائِزًا فِدَاءً أَبَدِيًّا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "ar-SA",
+      "text": "تَغَلَّبُوا عَلَيْهِ مِنْ أَجْلِ دَمِ الْخَرُوفِ، وَمِنْ أَجْلِ كَلِمَةِ شَهَادَتِهِمْ. لَمْ يُحِبُّوا حَيَاتَهُمْ، حَتَّى الْمَوْتِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "ar-SA",
+      "text": "مَنْ يَتَّكِلُ عَلَى غِنَاهُ يَسْقُطُ، وَلَكِنَّ الْبَارَّ يُزْهِرُ كَأَورَاقِ الشَّجَرِ الْخَضْرَاءَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "ar-SA",
+      "text": "مَنْ يَسْلُكُ بِلاَ لَومٍ يُحَفَظُ، وَأَمَّا مَنْ لَهُ طُرُقٌ مُعَوَّجَةٌ فَسَيَسْقُطُ بَغْتَةً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "ar-SA",
+      "text": "وأن تُكرَز بالتوبة ومغفرة الخطايا باسمه في جميع الأمم، مبتدئين من أورشليم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "ar-SA",
+      "text": "لكي يفدي الذين تحت الناموس، لننال التبني كأبناء.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "ar-SA",
+      "text": "فقال الجالس على العرش ها أنا أصنع كل شيء جديدًا. وقال اكتب، فإن هذه الكلمات هي أمينة وصادقة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "ar-SA",
+      "text": "آه يا سيد الرب! ها أنت قد صنعت السماوات والأرض بقوتك العظيمة وذراعك الممدودة. ليس شيء صعب عليك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "ar-SA",
+      "text": "من سيشتكي على مختاري الله؟ الله هو الذي يبرر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "ar-SA",
+      "text": "وأن أوجد فيه، لا ببر خاص بي، الذي هو من الناموس، بل الذي هو بالإيمان بالمسيح، البر الذي من الله بالإيمان،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "ar-SA",
+      "text": "تعليم الحكماء ينابيع حياة، لتحويل عن فخاخ الموت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "ar-SA",
+      "text": "لأنه بكبش واحد قد أكمل إلى الأبد المقدسين.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "ar-SA",
+      "text": "كل كلمة من كلمات الله نقية. هو ترس للمحتمين به.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "ar-SA",
+      "text": "ها إن نفسه متعجرفة. ليس فيها استقامة، ولكن البار سيحيا بإيمانه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "ar-SA",
+      "text": "وأنا، إن ارتفعت عن الأرض، أجذب إليّ الجميع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "ar-SA",
+      "text": "الذي خلصنا ودعانا دعوة مقدسة، لا حسب أعمالنا، بل حسب غرضه ونعمة، التي أعطيت لنا في المسيح يسوع قبل الأزمنة الأزلية،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "ar-SA",
+      "text": "توكل على الرب من كل قلبك، ولا تعتمد على فهمك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "ar-SA",
+      "text": "فاثبتوا إذًا في الحرية التي أطلقنا بها المسيح، ولا تتعثروا أيضًا بنير العبودية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "ar-SA",
+      "text": "قال لي أنا الألف والياء، البداية والنهاية. سأعطي العطشان من ينبوع ماء الحياة مجانًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "ar-SA",
+      "text": "الرجاء الملبى حلو للنفس، ولكن الجهال يكرهون التحول عن الشر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "ar-SA",
+      "text": "لأنه إن كنا قد صرنا متحدين معه بشبه موته، سنكون أيضًا بشبه قيامته؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "ar-SA",
+      "text": "أنقذ الذين يُقادون إلى الموت! حقًا، امسكوا بالذين يتعثرون إلى الذبح!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "ar-SA",
+      "text": "الرب قد أزال أحكامك. قد طرد عدوك. ملك إسرائيل، الرب، في وسطك. لن تخاف من الشر بعد الآن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "ar-SA",
+      "text": "وهو كفارة لخطايانا، وليس لخطايانا فقط، بل أيضًا لخطايا كل العالم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "ar-SA",
+      "text": "من يستطيع أن يقول قد طهرت قلبي. أنا نقي بلا خطيئة؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "ar-SA",
+      "text": "لكي نكون مبررين بنعمته، نكون ورثة حسب رجاء الحياة الأبدية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "ar-SA",
+      "text": "الروح والعروس يقولان تعال! ومن يسمع، فليقل تعال! ومن هو عطشان، فليأتِ. ومن يريد، فليأخذ ماء الحياة مجانًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "ar-SA",
+      "text": "يا ابني، أعطني قلبك، ولتلاحظ عيناك طرقاتي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "ar-SA",
+      "text": "ولكن من يشرب من الماء الذي سأعطيه، فلن يعطش أبدًا؛ بل الماء الذي سأعطيه يصير فيه ينبوع ماء ينبع إلى حياة أبدية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "ar-SA",
+      "text": "ولكن حاشا لي أن أفتخر إلا بصليب ربنا يسوع المسيح، الذي به صُلب العالم لي، وأنا للعالم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "ar-SA",
+      "text": "ولكن لكي تعلموا أن ابن الإنسان له سلطان على الأرض أن يغفر الخطايا - قال للمفلوج -",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "ar-SA",
+      "text": "لأنه كل من يدعو باسم الرب يخلص.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "ar-SA",
+      "text": "إن ذهبت وأعددت لكم مكانًا، سأعود وآخذكم إليّ؛ لكي حيث أكون أنا، تكونون أنتم أيضًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "ar-SA",
+      "text": "إن كنتم قد أُقيمتم مع المسيح، فاطلبوا ما فوق، حيث المسيح جالس عن يمين الله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "ar-SA",
+      "text": "لكن بدم كريم، كدم حمل بلا عيب ولا دنس، دم المسيح،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "ar-SA",
+      "text": "اسم الرب برج حصين يركض إليه الصديقون، ويعصمون.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "ar-SA",
+      "text": "طوبى للذين يعملون وصاياه، لكي يكون لهم سلطان على شجرة الحياة، ويدخلوا من الأبواب إلى المدينة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "ar-SA",
+      "text": "لكن طريق الأبرار كالنور الساطع، الذي يضيء أكثر فأكثر إلى اليوم الكامل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "ar-SA",
+      "text": "هذه هي الحياة الأبدية، أن يعرفوك، الإله الحقيقي، ويسوع المسيح الذي أرسلته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "ar-SA",
+      "text": "لأنه قانون روح الحياة في المسيح يسوع أعتقني من قانون الخطية والموت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "ar-SA",
+      "text": "فكم بالحري دم المسيح، الذي قدم نفسه بلا عيب لله، بالروح الأبدية، يطهر ضميركم من الأعمال الميتة لتخدموا الله الحي؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "ar-SA",
+      "text": "الذي هو بار حقًا ينال الحياة. الذي يسعى إلى الشر ينال الموت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "ar-SA",
+      "text": "سأفديهم من يد الهاوية. سأخلصهم من الموت! موت، أين بلاياك؟ هاوية، أين هلاكك؟ ستُخفى الرحمة من عينيّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "ar-SA",
+      "text": "لأن هذه هي دمي للعهد الجديد، الذي يُسفك من أجل كثيرين لمغفرة الخطايا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "ar-SA",
+      "text": "سيرحمنا مرة أخرى. سيدوس آثامنا تحت الأقدام. ستطرح جميع خطاياهم في أعماق البحر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "ar-SA",
+      "text": "نحن نؤكد إذًا أن الإنسان يتبرر بالإيمان بدون أعمال الناموس.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "ar-SA",
+      "text": "وإذ وُجد في هيئة إنسان، وضع نفسه وأطاع حتى الموت، نعم، موت الصليب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "ar-SA",
+      "text": "اشترِ الحق، ولا تبيعه. احصل على الحكمة، والتأديب، والفهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "ar-SA",
+      "text": "الرب إلههم سيخلصهم في ذلك اليوم كقطيع شعبه؛ لأنهم كجواهر تاج، مرتفعة فوق أرضه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "ar-SA",
+      "text": "أقول لكم إنه سيكون فرح أكثر في السماء عن خاطئ واحد يتوب، أكثر من تسعة وتسعين بارًا لا يحتاجون إلى توبة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "ar-SA",
+      "text": "لكي كما ملكت الخطية في الموت، هكذا تملك النعمة من خلال البر إلى حياة أبدية بيسوع المسيح ربنا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "ar-SA",
+      "text": "أيضًا، أن الله كان في المسيح مصالحًا العالم لنفسه، غير حاسب لهم خطاياهم، وقد أعطى لنا كلمة المصالحة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "ar-SA",
+      "text": "وعلى ثوبه وعلى فخذه اسم مكتوب ملك الملوك ورب الأرباب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "ar-SA",
+      "text": "ليترك الشرير طريقه، والرجل الغير بار أفكاره. وليعد إلى الرب، فيرحمه، وإلى إلهنا، لأنه يكثر العفو.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "ar-SA",
+      "text": "لا يستطيع أحد أن يأتي إليّ إن لم يجذبني الآب الذي أرسلني؛ وسأقيمه في اليوم الأخير.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "ar-SA",
+      "text": "لأنه هو سلامنا، الذي جعل الاثنين واحدًا، وهدم حائط السياج المتوسط،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "ar-SA",
+      "text": "لا تكن حكيمًا في عينيك. اتقِ الرب، وابتعد عن الشر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "ar-SA",
+      "text": "سأخلصك من يد الأشرار، وسأفديك من يد العنيف.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "ar-SA",
+      "text": "لأنكم جميعًا أبناء الله، بالإيمان في المسيح يسوع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "ar-SA",
+      "text": "في الماضي، لم تكونوا شعبًا، ولكن الآن أنتم شعب الله، الذين لم ينالوا رحمة، ولكن الآن نلتم رحمة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "ar-SA",
+      "text": "يا رب، اسمع. يا رب، اغفر. يا رب، استمع وافعل. لا تؤخر، من أجل نفسك، يا إلهي، لأن مدينتك وشعبك يدعى باسمك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "ar-SA",
+      "text": "قال يسوع لها أنا القيامة والحياة. من يؤمن بي، وإن مات، فسيحيا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "ar-SA",
+      "text": "الذي فيه لنا الفداء، مغفرة خطايانا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "ar-SA",
+      "text": "فلنقترب إذًا بثقة إلى عرش النعمة، لكي ننال رحمة ونجد نعمةً لعون في حين الحاجة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "ar-SA",
+      "text": "خوف الرب يؤدي إلى الحياة، ثم إلى الرضا؛ هو يستريح ولن يمسّه ضيق.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "ar-SA",
+      "text": "فوجدوا الحجر مدحرجًا عن القبر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "ar-SA",
+      "text": "لكنكم لستم في الجسد بل في الروح، إن كان روح الله ساكنًا فيكم. ولكن إن كان أحد ليس له روح المسيح، فذاك ليس له.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "ar-SA",
+      "text": "وما هي عظمة قوته الفائقة نحونا نحن المؤمنين، حسب عمل شدة قوته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "ar-SA",
+      "text": "وجعلنا مملكة، كهنة لله وأبيه - له المجد والسلطان إلى الأبد. آمين.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "ar-SA",
+      "text": "ثمر البار شجرة حياة. ومن الحكيم يربح النفوس.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "ar-SA",
+      "text": "أجاب سمعان بطرس، أنت المسيح، ابن الله الحي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "ar-SA",
+      "text": "نعمة ربنا يسوع المسيح تكون معكم جميعًا. آمين.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "ar-SA",
+      "text": "بالتأكيد، الرجل الشرير لن يكون بلا عقاب، ولكن نسل الأبرار سينقذ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "ar-SA",
+      "text": "ولكن كما أن كثيرين قبلوه، أعطاهم سلطانًا أن يصيروا أولاد الله، أي المؤمنين باسمه",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "ar-SA",
+      "text": "عارفين أن الذي أقام الرب يسوع سيقيمنا أيضًا مع يسوع، ويقدمنا معكم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "ar-SA",
+      "text": "لأن الله لم يعيننا للغضب، بل للحصول على الخلاص بربنا يسوع المسيح،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "ar-SA",
+      "text": "لن يدخل إليها شيء دنس، أو من يسبب رجسًا أو كذبًا، بل الذين كتبوا في سفر حياة الحمل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "ar-SA",
+      "text": "لا تمتنع عن تأديب الولد. إن ضربته بالعصا لا يموت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "ar-SA",
+      "text": "قال لها، قد غفرت خطاياك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "ar-SA",
+      "text": "افعلوا هذا، عارفين الوقت، أنه قد حان الوقت لكي تستيقظوا من النوم، لأن الخلاص الآن أقرب إلينا مما كان حين آمنا أولاً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "ar-SA",
+      "text": "فأنتم لستم بعد غرباء ونزلاء، بل أنتم رعايا مع القديسين وأهل بيت الله،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "ar-SA",
+      "text": "لكي تعرف الجيل الآتي، حتى الأولاد الذين سيولدون؛ الذين سيقومون ويخبرون أولادهم،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "ar-SA",
+      "text": "اطلبوا سلام المدينة التي سبيت إليها، وصلوا لأجلها إلى الرب، لأنه في سلامها يكون لكم سلام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "ar-SA",
+      "text": "أيها النساء، كونوا خاضعات لرجالكم، كما يليق في الرب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "ar-SA",
+      "text": "شوارع المدينة ستكون مليئة بالأولاد والبنات يلعبون في شوارعها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "ar-SA",
+      "text": "ثم قال للتلميذ، ها أمك! ومن تلك الساعة أخذها التلميذ إلى خاصته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "ar-SA",
+      "text": "أب البار له فرح عظيم. ومن يلد ابنًا حكيمًا يسر به.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "ar-SA",
+      "text": "هل يمكن أن تنسى امرأة رضيعها، حتى لا ترحم ابن بطنها؟ نعم، هؤلاء قد ينسون، لكنني لن أنساك!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "ar-SA",
+      "text": "أكرم أباك وأمك، وهو أول وصية بوعد",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "ar-SA",
+      "text": "وأعطيكم رعاة حسب قلبي، الذين سيرعونكم بمعرفة وفهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "ar-SA",
+      "text": "ولكن إن كانت أرملة لها أولاد أو أحفاد، فليتعلموا أولاً أن يظهروا تقوى نحو عائلتهم، وأن يردوا لآبائهم، لأن هذا مقبول في نظر الله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "ar-SA",
+      "text": "تنظر إلى طرق بيتها، ولا تأكل خبز الكسل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "ar-SA",
+      "text": "إن كانت بيت مقسوم على نفسه، فلا يستطيع ذلك البيت أن يقوم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "ar-SA",
+      "text": "أيها الأزواج، أحبوا نساءكم، ولا تكونوا مرّين عليهن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "ar-SA",
+      "text": "مشاركين في احتياجات القديسين، ومحبين للضيافة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "ar-SA",
+      "text": "أفضل هو لقمة جافة مع هدوء، من بيت مليء بالشبع مع خصام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "ar-SA",
+      "text": "أولادها يقومون ويدعونها مباركة. وزوجها أيضًا يمدحها",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "ar-SA",
+      "text": "الرب إلهك في وسطك، جبار يخلص. سيفرح بك فرحًا. يسكتك في محبته. يفرح بك بأغاني.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "ar-SA",
+      "text": "بارك الله نوحًا وبنيه، وقال لهم، أثمروا، واكثروا، واملأوا الأرض.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "ar-SA",
+      "text": "قال لهم، اجعلوا قلوبكم لجميع الكلمات التي أشهد بها لكم اليوم، التي تأمرون أولادكم أن يحفظوها ليعملوا بجميع كلمات هذه الشريعة.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "ar-SA",
+      "text": "قل للأبرار إنه سيكون لهم خير، لأنهم سيأكلون ثمر أعمالهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "ar-SA",
+      "text": "ارجع إلى بيتك، وأخبر بما صنع الله بك. فذهب في طريقه، مبشرًا في المدينة كلها بما صنعه يسوع له.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "ar-SA",
+      "text": "ابن حكيم يفرح أباه، ولكن الرجل الجاهل يحتقر أمه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "ar-SA",
+      "text": "هذه هي الأمور التي تفعلونها تكلم كل إنسان الحق مع جاره. نفذوا حكم الحق والسلام في أبوابكم،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "ar-SA",
+      "text": "انظروا أن لا يرجع أحد شرًا عن شر لأحد، بل اتبعوا دائمًا ما هو صالح لأجل بعضكم البعض ولأجل الجميع.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "ar-SA",
+      "text": "ليجعل الرب عملك مكافأة، ولتُعطَ لك مكافأة كاملة من الرب، إله إسرائيل، تحت أجنحته التي جئت لتأوي إليها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "ar-SA",
+      "text": "ليكن لطفكم معروفًا لدى جميع الناس. الرب قريب.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "ar-SA",
+      "text": "الرب صالح، ملجأ في يوم الضيق؛ ويعرف الذين يتوكلون عليه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "ar-SA",
+      "text": "قال لهم، لماذا أنتم خائفون هكذا؟ كيف ليس عندكم إيمان؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "ar-SA",
+      "text": "لأنكم تحتاجون إلى الصبر، حتى إذا فعلتم مشيئة الله، تنالوا الوعد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "ar-SA",
+      "text": "الرب، السيد، هو قوتي. يجعل قدمي كأقدام الغزلان، ويمكنني أن أذهب في الأماكن العالية. للمغني، على آلاتي الوترية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "ar-SA",
+      "text": "طوبى لمن له إله يعقوب معونته، وملجأه في الرب إلهه،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "ar-SA",
+      "text": "ليوجه الرب قلوبكم إلى محبة الله وإلى صبر المسيح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "ar-SA",
+      "text": "أما أنا، فمليء قوة من روح الرب، ومن حكم، ومن بأس، لأخبر يعقوب بمعصيته، وإسرائيل بخطيته.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "ar-SA",
+      "text": "ألا تعلمون أن الذين يركضون في سباق، جميعهم يركضون، ولكن واحدًا يأخذ الجائزة؟ اركضوا هكذا، لكي تنالوا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "ar-SA",
+      "text": "لكن كونوا أقوياء! لا تضعف أيديكم، لأن عملكم سيجازى.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "ar-SA",
+      "text": "ظهر ملاك الرب له، وقال له، الرب معك، يا جبار البأس!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "ar-SA",
+      "text": "لكي يعرف كل هذا الجمع أن الرب لا يخلص بالسيف والرمح؛ لأن المعركة للرب، وهو يسلمكم إلى أيدينا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "ar-SA",
+      "text": "أجاب، لا تخف، لأن الذين معنا أكثر من الذين معهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "ar-SA",
+      "text": "ماذا تبيتون ضد الرب؟ هو سيجعل نهاية كاملة. لن تقوم الضيقة للمرة الثانية.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "ar-SA",
+      "text": "أرسلت رسلًا إليهم، قائلة، أنا أعمل عملًا عظيمًا، فلا أستطيع أن أنزل. لماذا تتوقف العمل بينما أتركه وأنزل إليكم؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "ar-SA",
+      "text": "ولكن الذي يصبر إلى النهاية، فهذا سيتخلص.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "ar-SA",
+      "text": "لكنني احتفظت بسبعة آلاف في إسرائيل، كل الركب التي لم تنحني لبعل، وكل فم لم يقبله.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "ar-SA",
+      "text": "مجد هذا البيت الأخير سيكون أعظم من الأول، يقول رب الجنود؛ وفي هذا المكان سأعطي سلامًا، يقول رب الجنود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "ar-SA",
+      "text": "سَتُبْغَضُونَ مِنْ جَمِيعِ النَّاسِ مِنْ أَجْلِ اسْمِي، وَلَكِنَّ مَنْ يَصْبِرُ إِلَى النِّهَايَةِ فَذَاكَ سَيُخَلَّصُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "ar-SA",
+      "text": "لِكَيْ لَا يَتَزَعْزَعَ أَحَدٌ فِي هَذِهِ الضِّيقَاتِ، فَإِنَّكُمْ تَعْلَمُونَ أَنَّنَا مُعَيَّنُونَ لِهَذَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "ar-SA",
+      "text": "فَتَأَمَّلُوا فِي الَّذِي احْتَمَلَ مِنَ الْخِلاَفِ مِنَ الْخُطَاةِ عَلَى نَفْسِهِ، لِئَلَّا تَكِلُّوا وَتَخْنَعُوا فِي نُفُوسِكُمْ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "ar-SA",
+      "text": "أَمَّا اللَّهُ فَطَرِيقُهُ كَامِلٌ. كَلِمَةُ الرَّبِّ مَجْرَّبَةٌ. هُوَ تَاجٌ لِكُلِّ الَّذِينَ يَلْتَجِئُونَ إِلَيْهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "ar-SA",
+      "text": "اجْتَهِدُوا أَنْ تَدْخُلُوا مِنَ الْبَابِ الضَّيِّقِ، فَإِنَّ كَثِيرِينَ سَأَقُولُ لَكُمْ سَيَسْعَوْنَ أَنْ يَدْخُلُوا وَلَنْ يَقْدِرُوا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "ar-SA",
+      "text": "تَشَدَّدُوا وَتَشَجَّعُوا. لَا تَخَافُوا وَلَا تَرْتَعِبُوا مِنْ مَلِكِ أَشُّورَ، وَلَا مِنْ كُلِّ الْجُمْهُورِ الَّذِي مَعَهُ، فَإِنَّهُ مَعَنَا أَعْظَمُ مِنْهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "ar-SA",
+      "text": "الآنَ قَدِ اضْطَرَبَتْ نَفْسِي. فَمَاذَا أَقُولُ؟ أَبَاكَ، نَجِّنِي مِنْ هَذَا السَّاعَةِ؟ وَلَكِنِّي إِلَى هَذِهِ السَّاعَةِ جِئْتُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "ar-SA",
+      "text": "لذلك، فلْيُسَلِّم الذين يتألمون حسب مشيئة الله نفوسهم للبارئ الأمين، في عمل الخير.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "ar-SA",
+      "text": "فَارْجِعُوا إِلَى إِلَهِكُمْ، وَاحْفَظُوا الرَّحْمَةَ وَالْعَدْلَ، وَانتَظِرُوا إِلَهَكُمْ كُلَّ حِينٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "ar-SA",
+      "text": "أنتَ وسَّعتَ خطواتي تحتِي، فلم تزل قدماي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "ar-SA",
+      "text": "فَإِذَا أَحْضَرُوكُمْ إِلَى الْمَجَامِعِ وَالسُّلُطَاتِ، فَلَا تَكُونُوا قَلِقِينَ كَيْفَ أَوْ مَاذَا تَجِيبُونَ أَوْ مَاذَا تَقُولُونَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "ar-SA",
+      "text": "اِطْلُبُوا الْمَحْضَرَ وَقُوَّتَهُ، وَابْتَغُوا وَجْهَهُ دَائِمًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "ar-SA",
+      "text": "لأَنَّ الْبَارَّ يَسْقُطُ سَبْعَ مَرَّاتٍ وَيَقُومُ، أَمَّا الشِّرِّيرُونَ فَيَسْقُطُونَ بِالشَّرِّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "ar-SA",
+      "text": "وَالصَّبْرُ، تَجْرِبَةٌ مُثْبَتَةٌ؛ وَالتَّجْرِبَةُ الْمُثْبَتَةُ، رَجَاءٌ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "ar-SA",
+      "text": "يَسْقُطُ أَلْفٌ عَنْ يَمِينِكَ، وَيَسْقُطُ أَعْشَرَةُ أَلْفٍ عَنْ شِمَالِكَ، أَمَّا إِلَيْكَ فَلَنْ تَقْتَرِبَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "ar-SA",
+      "text": "سَتُبْغَضُونَ مِنْ جَمِيعِ النَّاسِ مِنْ أَجْلِ اسْمِي، وَلَكِنَّ مَنْ يَصْبِرُ إِلَى النِّهَايَةِ فَذَاكَ سَيُخَلَّصُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "ar-SA",
+      "text": "يَقُولُ رُؤَسَاءُ يَهُوذَا فِي قُلُوبِهِمْ إِنَّ سُكَّانَ أُورُشَلِيمَ هُمْ قُوَّتِي فِي يَهْوَهَ مِنْ جُنُودِهِمْ إِلَهِهِمْ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "ar-SA",
+      "text": "فَظَهَرَ إِلَيْهِ مَلَكٌ مِنَ السَّمَاءِ يُقَوِّيَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "ar-SA",
+      "text": "لِكَيْ لَا تَكُونُوا مُتَّكِلِينَ، بَلْ مُشَابِهِينَ لِلَّذِينَ مِنْ خَلَفِ الإِيمَانِ وَالصَّبْرِ أَرْثُوا الْمَوَاعِيدَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "ar-SA",
+      "text": "أَنَا ذَاهِبٌ فِي طَرِيقِ كُلِّ الْأَرْضِ. فَتَقَوَّ وَكُنْ رَجُلًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "ar-SA",
+      "text": "لَنْ أَخَافَ مِنْ أَلْفَاتٍ مِنَ النَّاسِ الَّذِينَ أَقَامُوا عَلَيَّ مِنْ كُلِّ نَاحِيَةٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "ar-SA",
+      "text": "أَعَدَّ يَهْوَهُ حُوتًا عَظِيمًا لِيَبْتَلِعَ يُونَانَ، وَكَانَ يُونَانُ فِي بَطْنِ الْحُوتِ ثَلاثَةَ أَيَّامٍ وَثَلاثَةَ لَيَالٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "ar-SA",
+      "text": "فَتَذَكَّرَ بُطْرُسُ الْكَلِمَةَ الَّتِي قَالَهَا لَهُ يَسُوعُ قَبْلَ أَنْ يَصِيحَ الدُّجَاجُ، تُنْكِرُنِي ثَلاثَ مَرَّاتٍ. ثُمَّ خَرَجَ وَبَكَى بِمَرَارَةٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "ar-SA",
+      "text": "يَهْوَهُ إِلَهٌ غَيُورٌ وَمُنْتَقِمٌ. يَهْوَهُ مُنْتَقِمٌ وَمَلَانٌ غَضَبًا. يَهْوَهُ يَأْخُذُ نَقْمَةً عَلَى أَعْدَائِهِ، وَيُحَافِظُ عَلَى غَضَبِهِ عَلَى أَشْرَارِهِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "ar-SA",
+      "text": "الَّليلُ قَدْ مَضَى، وَالنهَارُ قَدْ قَرُبَ. فَلْنَطْرَحْ أَعْمَالَ الظَّلاَمِ، وَلْنَلْبَسْ أَسْلِحَةَ النُّورِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "ar-SA",
+      "text": "لِأَنَّكَ بِكَ أَجُوزُ فِي جَيْشٍ. بِإِلَهِي أَتَسَلَّقُ سُورًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "ar-SA",
+      "text": "تَوَجَّهُوا إِلَى الْمَلْجَأِ، أَيُّهَا الْمَسْجُونُونَ فِي الرَّجَاءِ! حَتَّى الْيَوْمَ أُعْلِنُ أَنِّي سَأُرَدُّ لَكُمْ ضِعْفًا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "ar-SA",
+      "text": "هَا أَنَا أُسَمِّي الْمُتَحَمِّلِينَ مُبَارَكِينَ. قَدْ سَمِعْتُمْ بِصَبْرِ أَيُّوبَ وَرَأَيْتُمْ الرَّبَّ فِي النَّتِيجَةِ، وَكَيْفَ أَنَّ الرَّبَّ مَلَانٌ رَأْفَةً وَرَحْمَةً.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "ar-SA",
+      "text": "أَنْتَ مَخْبَأِي. تَحْفَظُنِي مِنَ الضِّيقِ. تُحِيطُنِي بِأَغَانِي النَّجَاةِ. سِلاَه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "ar-SA",
+      "text": "فَصِرْتُمْ مُشَابِهِينَ لَنَا وَلِلرَّبِّ، إِذْ قَبِلْتُمْ الْكَلِمَةَ فِي كَثْرَةِ الضِّيقِ، مَعَ فَرَحِ الرُّوحِ الْقُدُسِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "ar-SA",
+      "text": "وَثِقَ فِي يَهْوَهَ إِلَهِ إِسْرَائِيلَ، حَتَّى لَمْ يَكُنْ مِثْلُهُ بَعْدَهُ فِي كُلِّ مُلُوكِ يَهُوذَا، وَلَا فِي الَّذِينَ كَانُوا قَبْلَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "ar-SA",
+      "text": "الآنَ يَا ابْنَتِي، لَا تَخَافِي. سَأَفْعَلُ لَكِ كُلَّ مَا قُلْتِ؛ لأَنَّ كُلَّ مَدِينَةِ شَعْبِي تَعْلَمُ أَنَّكِ امْرَأَةٌ صَالِحَةٌ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "ar-SA",
+      "text": "صَوْتُ مُنَادٍ فِي الْبَرِّيَّةِ أَعِدُّوا طَرِيقَ الرَّبِّ! اجْعَلُوا سُبُلَهُ مُسْتَقِيمَةً!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "ar-SA",
+      "text": "لَكِنَّهُ يَعْلَمُ الطَّرِيقَ الَّذِي أَسْلُكُهُ. عِندَمَا يُجَرِّبُنِي، أَخْرُجُ كَالذَّهَبِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "ar-SA",
+      "text": "الَّذِي يَفْتَحُ الطَّرِيقَ يَصْعَدُ قُدَّامَهُمْ. يَخْرُجُونَ مِنَ الْبَابِ، وَيَخْرُجُونَ. مَلِكُهُمْ يَجُوزُ قُدَّامَهُمْ، وَيَهْوَهُ فِي رَأْسِهِم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "ar-SA",
+      "text": "مَنْ أَنْتَ الَّذِي تَحْكُمُ عَلَى عَبْدِ آخَرَ؟ إِلَى سَيِّدِهِ يَقِفُ أَوْ يَسْقُطُ. نَعَمْ، سَيُقَامُ، لأَنَّ اللهَ قَادِرٌ عَلَى أَنْ يُقِيمَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "ar-SA",
+      "text": "لِيَكُنْ يَهْوَهُ إِلَهُنَا مَعَنَا كَمَا كَانَ مَعَ آبَائِنَا. لَا يَتْرُكُنَا وَلَا يَهْجُرُنَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "ar-SA",
+      "text": "وَبَعْدَ ثَمَانِيَةِ أَيَّامٍ، كَانَ تَلامِيذُهُ دَاخِلَ الْبَيْتِ وَكَانَ تُومَا مَعَهُمْ. فَجَاءَ يَسُوعُ، وَالأَبْوَابُ مُغْلَقَةٌ، وَوَقَفَ فِي الْوَسَطِ، وَقَالَ السَّلاَمُ لَكُمْ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "ar-SA",
+      "text": "لَكِنَّكَ تَرَى الشَّدَائِدَ وَالْحُزْنَ. تَفْكُرُ فِي أَنْ تَأْخُذَهُ إِلَى يَدِكَ. تَسْتَحِقُّ الْمَسْكِينَ وَالْيَتِيمَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "ar-SA",
+      "text": "مِنْ أَيَّامِ يُوحَنَّا الْمُعَمِّدِ إِلَى الآنَ، مَمْلَكَةُ السَّمَاوَاتِ تَتَكَبَّدُ عُنْفًا، وَالْعُنُفَةُ تَخْتَطِفُهَا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "ar-SA",
+      "text": "أَنَا أَسْتَمِرُّ فِي السَّعْيِ نَحْوَ الْغَايَةِ لِكَيْ أَحْصُلَ عَلَى جَائِزَةِ الدَّعْوَةِ السَّامِيَةِ مِنَ اللهِ فِي الْمَسِيحِ يَسُوعَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "ar-SA",
+      "text": "وَسَيُسَلِّمُهُمْ إِلَى الْأُمَمِ لِيُهَزَأَ بِهِ، وَلِيُعَذَّبَ، وَلِيُصْلَبَ؛ وَفِي الْيَوْمِ الثَّالِثِ سَيُقَامُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "ar-SA",
+      "text": "لِيُعْطِيَ لَنَا أَنْ نَكُونَ مُنَجَّينَ مِنْ يَدِ أَعْدَائِنَا، وَنَخْدِمَهُ بِلا خَوْفٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "ar-SA",
+      "text": "إِلَى النِّهَايَةِ يُثَبِّتُ قُلُوبَكُمْ بِلَا لَوْمٍ فِي الْقُدْسِ أَمَامَ إِلَهِنَا وَأَبِينَا فِي مَجِيءِ رَبِّنَا يَسُوعَ مَعَ جَمِيعِ قِدِّيسِيه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "ar-SA",
+      "text": "فَفَرِحَ كُلُّ يَهُوذَا بِالْقَسَمِ، لأَنَّهُمْ قَسَمُوا بِكُلِّ قَلْبِهِمْ وَطَلَبُوا إِلَيْهِ بِكُلِّ رَغْبَتِهِمْ؛ فَوُجِدَ مِنْهُمْ. ثُمَّ أَعْطَى يَهْوَهُ لَهُمْ رَاحَةً مِنْ كُلِّ نَاحِيَةٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "ar-SA",
+      "text": "سَيَسْكُنُ النَّاسُ فِي ظِلِّهِ. سَيُحْيُونَ كَالْحَبِّ، وَيَزْهُرُونَ كَالْكَرْمِ. رَائِحَتُهُمْ كَخَمْرِ لُبْنَانَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "ar-SA",
+      "text": "فَاخْشَ يَهْوَهَ وَاخْدِمْهُ بِالْحَقِّ مِنْ كُلِّ قَلْبِكَ؛ لأَنَّكِ انْظُرِي مَا عَظِيمٌ قَدْ أَصْنَعَ لَكِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "ar-SA",
+      "text": "فِي السَّلاَمِ أَضْطَجِعُ وَأَنَامُ، لأَنَّكَ أَنْتَ وَحْدَكَ يَا يَهْوَهُ تُحَفِّظُنِي فِي أَمَانٍ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "ar-SA",
+      "text": "لَكِنْ إِنْ كُنَّا نَرْجُو مَا لَا نَرَى، فَبِالصَّبْرِ نَنتَظِرُهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "ar-SA",
+      "text": "لِيُعَلِّيَ الْمُتَوَاضِعِينَ، وَالَّذِينَ يَنُوحُونَ يُعَزُّونَ إِلَى الْخَلاصِ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "ar-SA",
+      "text": "إِنْ كُنْتُ أَسْلُكُ فِي وَسَطِ الشَّدَائِدِ، تُحْيِينِي. تَمُدُّ يَدَكَ عَلَى غَضَبِ أَعْدَائِي. يَمِينُكَ تُخَلِّصُنِي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "ar-SA",
+      "text": "قَالَ الرَّبُّ سِمْعَانُ، سِمْعَانُ، هَا قَدْ طَلَبَ الشَّيْطَانُ أَنْ يُغَربِلَكُمْ كَحَبٍّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "ar-SA",
+      "text": "فَتَطَلَّعَ إِلَيْهِ يَهْوَهُ، وَقَالَ اذْهَبْ بِقُوَّتِكَ هَذِهِ، وَخَلِّصْ إِسْرَائِيلَ مِنْ يَدِ مِدْيَانَ. أَلَمْ أُرْسِلْكَ؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "ar-SA",
+      "text": "سَأُقَوِّيَهُمْ فِي يَهْوَهَ. سَيَسِيرُونَ ذَاهِبِينَ وَمَجِيئًا بِاسْمِهِ، يَقُولُ يَهْوَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "ar-SA",
+      "text": "فَقَالَ يَسُوعُ لِتَلاَمِيذِهِ إِنْ أَرَادَ أَحَدٌ أَنْ يَأْتِيَ وَرَائِي، فَلْيُنْكِرْ نَفْسَهُ، وَيَحْمِلْ صَلِيبَهُ، وَيَتْبَعْنِي.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "ar-SA",
+      "text": "لِأَنَّكَ قَدْ أَعْطَيْتَنِي قُوَّةً لِلْمَعْرَكَةِ. قَدْ أَخْضَعْتَ تَحْتِي الَّذِينَ قَامُوا عَلَيَّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "ar-SA",
+      "text": "مَزْمُورٌ لِدَاوُدَ. يَهْوَهُ نُورِي وَخَلاَصِي. مِمَّنْ أَخَافُ؟ يَهْوَهُ قُوَّةُ حَيَاتِي. مِمَّنْ أَرْتَعِبُ؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "ar-SA",
+      "text": "فَتَكَلَّمَ حَجَّايُ رَسُولُ يَهْوَهَ، وَقَالَ أَنَا مَعَكُمْ، يَقُولُ يَهْوَهُ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "ar-SA",
+      "text": "مَنْ آمَنَ بِي كَمَا قَالَتِ الْكِتَابَةُ، تَجْرِي مِنْ بَطْنِهِ أَنْهَارُ مَاءٍ حَيٍّ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "ar-SA",
+      "text": "الَّذِي يَدْعُوكُمْ أَمِينٌ، الَّذِي سَيَفْعَلُ ذَلِكَ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "ar-SA",
+      "text": "الذين يعرفون اسمك يثقون بك، لأنك، يا رب، لم تترك الذين يطلبونك.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "ar-SA",
+      "text": "أما الذين في الأرض الجيدة، فهؤلاء هم الذين، إذ سمعوا الكلمة، يقبلونها بقلب جيد وصالح، ويثمرون بصبر.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

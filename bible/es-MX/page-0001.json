@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "es-MX",
+      "text": "Porque de tal manera amó Dios al mundo,que ha dado á su Hijo unigénito,para que todo aquel que en él cree,no se pierda,mas tenga vida eterna.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "es-MX",
+      "text": "Salmo de David.1JEHOVÁ es mi pastornada me faltará.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "es-MX",
+      "text": "Mas los que esperan á Jehová tendrán nuevas fuerzaslevantarán las alas como águilascorrerán,y no se cansaráncaminarán,y no se fatigarán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "es-MX",
+      "text": "Vosotros sois la luz del mundouna ciudad asentada sobre un monte no se puede esconder.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "es-MX",
+      "text": "Todo lo puedo en Cristo que me fortalece.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "es-MX",
+      "text": "EN el principio crió Dios los cielos y la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "es-MX",
+      "text": "BIENAVENTURADO el varón que no anduvo en consejo de malos,Ni estuvo en camino de pecadores,Ni en silla de escarnecedores se ha sentado",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "es-MX",
+      "text": "Porque yo sé los pensamientos que tengo acerca de vosotros,dice Jehová,pensamientos de paz,y no de mal,para daros el fin que esperáis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "es-MX",
+      "text": "Y hablóles Jesús otra vez,diciendoYo soy la luz del mundoel que me sigue,no andará en tinieblas,mas tendrá la lumbre de la vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "es-MX",
+      "text": "Y sabemos que á los que á Dios aman,todas las cosas les ayudan á bien,es á saber,á los que conforme al propósito son llamados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "es-MX",
+      "text": "Jehová peleará por vosotros,y vosotros estaréis quedos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "es-MX",
+      "text": "Salmo de David.1JEHOVÁ es mi luz y mi salvación¿de quién temeré?Jehová es la fortaleza de mi vida¿de quién he de atemorizarme?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "es-MX",
+      "text": "Tú le guardarás en completa paz,cuyo pensamiento en ti perseveraporque en ti se ha confiado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "es-MX",
+      "text": "Mas buscad primeramente el reino de Dios y su justicia,y todas estas cosas os serán añadidas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "es-MX",
+      "text": "ES pues la fe la sustancia de las cosas que se esperan,la demostración de las cosas que no se ven.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "es-MX",
+      "text": "Esforzaos y cobrad ánimono temáis,ni tengáis miedo de ellosque Jehová tu Dios es el que va contigono te dejará ni te desamparará.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "es-MX",
+      "text": "Fíate de Jehová de todo tu corazón,Y no estribes en tu prudencia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "es-MX",
+      "text": "No temas,que yo soy contigono desmayes,que yo soy tu Dios que te esfuerzosiempre te ayudaré,siempre te sustentaré con la diestra de mi justicia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "es-MX",
+      "text": "Jesús le diceYo soy el camino,y la verdad,y la vidanadie viene al Padre,sino por mí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "es-MX",
+      "text": "De modo que si alguno está en Cristo,nueva criatura eslas cosas viejas pasaronhe aquí todas son hechas nuevas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "es-MX",
+      "text": "Lámpara es á mis pies tu palabra,Y lumbrera á mi camino.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "es-MX",
+      "text": "Mas él herido fué por nuestras rebeliones,molido por nuestros pecadosel castigo de nuestra paz sobre ély por su llaga fuimos nosotros curados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "es-MX",
+      "text": "Venid á mí todos los que estáis trabajados y cargados,que yo os haré descansar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "es-MX",
+      "text": "Que si confesares con tu boca al Señor Jesús,y creyeres en tu corazón que Dios le levantó de los muertos,serás salvo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "es-MX",
+      "text": "Pon asimismo tu delicia en Jehová,Y él te dará las peticiones de tu corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "es-MX",
+      "text": "EL que habita al abrigo del Altísimo,Morará bajo la sombra del Omnipotente.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "es-MX",
+      "text": "Bendito el varón que se fía en Jehová,y cuya confianza es Jehová.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "es-MX",
+      "text": "Yo soy la vid,vosotros los pámpanosel que está en mí,y yo en él,éste lleva mucho frutoporque sin mí nada podéis hacer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "es-MX",
+      "text": "Porque por gracia sois salvos por la fey esto no de vosotros,pues es don de Dios",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "es-MX",
+      "text": "Entrad por sus puertas con reconocimiento,Por sus atrios con alabanzaAlabadle,bendecid su nombre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "es-MX",
+      "text": "Encomienda á Jehová tus obras,Y tus pensamientos serán afirmados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "es-MX",
+      "text": "Porque mis pensamientos no son vuestros pensamientos,ni vuestros caminos mis caminos,dijo Jehová.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "es-MX",
+      "text": "Pedid,y se os darábuscad,y hallaréisllamad,y se os abrirá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "es-MX",
+      "text": "Y ahora permanecen la fe,la esperanza,y la caridad,estas tresempero la mayor de ellas es la caridad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "es-MX",
+      "text": "Cántico gradual.1ALZARÉ mis ojos á los montes,De donde vendrá mi socorro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "es-MX",
+      "text": "Gustad,y ved que es bueno JehováDichoso el hombre que confiará en él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "es-MX",
+      "text": "El ladrón no viene sino para hurtar,y matar,y destruiryo he venido para que tengan vida,y para que la tengan en abundancia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "es-MX",
+      "text": "Y no os conforméis a este siglomas reformaos por la renovación de vuestro entendimiento,para que experimentéis cuál sea la buena voluntad de Dios,agradable y perfecta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "es-MX",
+      "text": "Jehová,roca mía y castillo mío,y mi libertadorDios mío,fuerte mío,en él confiaréEscudo mío,y el cuerno de mi salud,mi refugio.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "es-MX",
+      "text": "Te alabaréporque formidables,maravillosas son tus obrasEstoy maravillado,Y mi alma lo conoce mucho.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "es-MX",
+      "text": "Enseñándoles que guarden todas las cosas que os he mandadoy he aquí,yo estoy con vosotros todos los días,hasta el fin del mundo.Amén.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "es-MX",
+      "text": "Porque no nos ha dado Dios el espíritu de temor,sino el de fortaleza,y de amor,y de templanza.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "es-MX",
+      "text": "Torre fuerte es el nombre de JehováA él correrá el justo,y será levantado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "es-MX",
+      "text": "Estas cosas os he hablado,para que en mí tengáis paz.En el mundo tendréis aflicciónmas confiad,yo he vencido al mundo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "es-MX",
+      "text": "Mas el fruto del Espíritu escaridad,gozo,paz,tolerancia,benignidad,bondad,fe,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "es-MX",
+      "text": "Estos confían en carros,y aquéllos en caballosMas nosotros del nombre de Jehová nuestro Dios tendremos memoria.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "es-MX",
+      "text": "Porque sol y escudo es Jehová DiosGracia y gloria dará JehováNo quitará el bien á los que en integridad andan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "es-MX",
+      "text": "LEVÁNTATE,resplandeceque ha venido tu lumbre,y la gloria de Jehová ha nacido sobre ti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "es-MX",
+      "text": "Y Jesús le dijoAmarás al Señor tu Dios de todo tu corazón,y de toda tu alma,y de toda tu mente.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "es-MX",
+      "text": "Y todo lo que hagáis,hacedlo de ánimo,como al Señor,y no á los hombres",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "es-MX",
+      "text": "Cercano está Jehová á los quebrantados de corazónY salvará á los contritos de espíritu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "es-MX",
+      "text": "Mi socorro viene de Jehová,Que hizo los cielos y la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "es-MX",
+      "text": "Predicción de la2 ruina de Babilonia.2He aquí Dios es salud míaaseguraréme,y no temeréporque mi fortaleza y mi canción es JAH Jehová,el cual ha sido salud para mí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "es-MX",
+      "text": "Santifícalos en tu verdadtu palabra es verdad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "es-MX",
+      "text": "Adam y Cristo.2 El reinado de la gracia.8Mas Dios encarece su caridad para con nosotros,porque siendo aún pecadores,Cristo murió por nosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "es-MX",
+      "text": "Cercano está Jehová á todos los que le invocan,A todos los que le invocan de veras.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "es-MX",
+      "text": "Proverbios sobre2 diversos asuntos.10El temor de Jehová es el principio de la sabiduríaY la ciencia de los santos es inteligencia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "es-MX",
+      "text": "confesiones y súplicas.2 Promesas de salvación.8Ahora pues,Jehová,tú eres nuestro padrenosotros lodo,y tú el que nos formasteasí que obra de tus manos,todos nosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "es-MX",
+      "text": "Y mirándo los Jesús,les dijoPara con los hombres imposible es estomas para con Dios todo es posible.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "es-MX",
+      "text": "Vestíos de toda la armadura de Dios,para que podáis estar firmes contra las asechanzas del diablo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "es-MX",
+      "text": "Porque un momento será su furorMas en su voluntad está la vidaPor la tarde durará el lloró,Y á la mañana vendrá la alegría.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "es-MX",
+      "text": "Cuanto está lejos el oriente del occidente,Hizo alejar de nosotros nuestras rebeliones.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "es-MX",
+      "text": "Oh Jehová,ten misericordia de nosotros,a ti hemos esperadotú,brazo de ellos en la mañana,sé también nuestra salud en tiempo de la tribulación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "es-MX",
+      "text": "Por nada estéis afanosossino sean notorias vuestras peticiones delante de Dios en toda oración y ruego,con hacimiento de gracias.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "es-MX",
+      "text": "Porque tú,Señor,eres bueno y perdonador,Y grande en misericordia para con todos los que te invocan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "es-MX",
+      "text": "Porque donde están dos ó tres congregados en mi nombre,allí estoy en medio de ellos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "es-MX",
+      "text": "Lleguémonos pues confiadamente al trono de la gracia,para alcanzar misericordia,y hallar gracia para el oportuno socorro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "es-MX",
+      "text": "Porque mejor es un día en tus atrios que mil fuera de ellos escogería antes estar a la puerta de la casa de mi Dios que habitar en las moradas de maldad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "es-MX",
+      "text": "Sobre toda cosa guardada guarda tu corazónPorque de él mana la vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "es-MX",
+      "text": "Y el efecto de la justicia será pazy la labor de justicia,reposo y seguridad para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "es-MX",
+      "text": "No está aquíporque ha resucitado,como dijo.Venid,ved el lugar donde fué puesto el Señor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "es-MX",
+      "text": "Echando toda vuestra solicitud en él,porque él tiene cuidado de vosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "es-MX",
+      "text": "A Jehová he puesto siempre delante de míPorque está á mi diestra no seré conmovido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "es-MX",
+      "text": "ALABAD á Jehová,porque es buenoPorque para siempre es su misericordia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "es-MX",
+      "text": "Por tanto el mismo Señor os dará señalHe aquí que la virgen concebirá,y parirá hijo,y llamará su nombre Emmanuel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "es-MX",
+      "text": "Que os ha nacido hoy,en la ciudad de David,un Salvador,que es CRISTO el Señor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "es-MX",
+      "text": "Y el Dios de esperanza os llene de todo gozo y paz creyendo,para que abundéis en esperanza por la virtud del Espíritu Santo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "es-MX",
+      "text": "Jehová es mi fortaleza y mi escudoEn él esperó mi corazón,y fuí ayudadoPor lo que se gozó mi corazón,Y con mi canción le alabaré.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "es-MX",
+      "text": "Todo lo que respira alabe á JAH.Aleluya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "es-MX",
+      "text": "Mirad á mí,y sed salvos,todos los términos de la tierraporque yo soy Dios,y no hay más.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "es-MX",
+      "text": "Bienaventurados los pacificadoresporque ellos serán llamados hijos de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "es-MX",
+      "text": "Y será Jehová refugio al pobre,Refugio para el tiempo de angustia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "es-MX",
+      "text": "Este es el día que hizo JehováNos gozaremos y alegraremos en él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "es-MX",
+      "text": "Sécase la hierba,cáese la flormas la palabra del Dios nuestro permanece para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "es-MX",
+      "text": "Mas yo también te digo,que tú eres Pedro,y sobre esta piedra edificaré mi iglesiay las puertas del infierno no prevalecerán contra ella.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "es-MX",
+      "text": "En amor no hay temormas el perfecto amor echa fuera el temorporque el temor tiene pena.De donde el que teme,no está perfecto en el amor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "es-MX",
+      "text": "Bueno es Jehová para con todosY sus misericordia sobre todas sus obras.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "es-MX",
+      "text": "El alma liberal será engordadaY el que saciare,él también será saciado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "es-MX",
+      "text": "He aquí que en las palmas te tengo esculpidadelante de mí están siempre tus muros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "es-MX",
+      "text": "Porque el Hijo del hombre vino á buscar y á salvar lo que se había perdido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "es-MX",
+      "text": "Y á Aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos ó entendemos,por la potencia que obra en nosotros,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "es-MX",
+      "text": "Muéstrame,oh Jehová,tus caminosEnséñame tus sendas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "es-MX",
+      "text": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti,Oh Jehová,roca mía,y redentor mío",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "es-MX",
+      "text": "No harán mal ni dañarán en todo mi santo monteporque la tierra será llena del conocimiento de Jehová,como cubren la mar las aguas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "es-MX",
+      "text": "El cielo y la tierra pasarán,mas mis palabras no pasarán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "es-MX",
+      "text": "Jesucristo es el mismo ayer,y hoy,y por los siglos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "es-MX",
+      "text": "Estad quietos,y conoced que yo soy DiosEnsalzado he de ser entre las gentes,ensalzado seré en la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "es-MX",
+      "text": "Reconócelo en todos tus caminos,Y él enderezará tus veredas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "es-MX",
+      "text": "El da esfuerzo al cansado,y multiplica las fuerzas al que no tiene ningunas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "es-MX",
+      "text": "Así alumbre vuestra luz delante de los hombres,para que vean vuestras obras buenas,y glorifiquen á vuestro Padre que está en los cielos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "es-MX",
+      "text": "Ni lo alto,ni lo bajo,ni ninguna criatura nos podrá apartar del amor de Dios,que es en Cristo Jesús Señor nuestro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "es-MX",
+      "text": "Mira que te mando que te esfuerces y seas valienteno temas ni desmayes,porque Jehová tu Dios será contigo en donde quiera que fueres.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "es-MX",
+      "text": "Jehová guardará tu salida y tu entrada,Desde ahora y para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "es-MX",
+      "text": "El corazón del hombre piensa su caminoMas Jehová endereza sus pasos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "es-MX",
+      "text": "Y AHORA,así dice Jehová Criador tuyo,oh Jacob,y Formador tuyo,oh IsraelNo temas,porque yo te redimíte puse nombre,mío eres tú.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "es-MX",
+      "text": "Mas a todos los que le recibieron,dióles potestad de ser hechos hijos de Dios,á los que creen en su nombre",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "es-MX",
+      "text": "Y la paz de Dios,que sobrepuja todo entendimiento,guardará vuestros corazones y vuestros entendimientos en Cristo Jesús.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "es-MX",
+      "text": "Porque por fe andamos,no por vista",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "es-MX",
+      "text": "Pues que á sus ángeles mandará acerca de ti,Que te guarden en todos tus caminos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "es-MX",
+      "text": "Sabiduría ante todoadquiere sabiduríaY ante toda tu posesión adquiere inteligencia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "es-MX",
+      "text": "Porque ninguna cosa es imposible para Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "es-MX",
+      "text": "Porque somos hechura suya,criados en Cristo Jesús para buenas obras,las cuales Dios preparó para que anduviésemos en ellas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "es-MX",
+      "text": "Busqué á Jehová,y él me oyó,Y libróme de todos mis temores.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "es-MX",
+      "text": "El corazón alegre produce buena disposiciónMas el espíritu triste seca los huesos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "es-MX",
+      "text": "Clama á mí,y te responderé,y te enseñaré cosas grandes y dificultosas que tú no sabes.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "es-MX",
+      "text": "Llevad mi yugo sobre vosotros,y aprended de mí,que soy manso y humilde de corazóny hallaréis descanso para vuestras almas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "es-MX",
+      "text": "Mantengamos firme la profesión de nuestra fe sin fluctuarque fiel es el que prometió",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "es-MX",
+      "text": "Echa sobre Jehová tu carga,y él te sustentaráNo dejará para siempre caído al justo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "es-MX",
+      "text": "La muerte y la vida están en poder de la lenguaY el que la ama comerá de sus frutos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "es-MX",
+      "text": "Porque así dijo el Señor Jehová,el Santo de IsraelEn descanso y en reposo seréis salvosen quietud y en confianza será vuestra fortaleza.Y no quisisteis,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "es-MX",
+      "text": "Y Jesús les dijoYo soy el pan de vidael que á mí viene,nunca tendrá hambrey el que en mí cree,no tendrá sed jamás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "es-MX",
+      "text": "JUSTIFICADOS pues por la fe,tenemos paz para con Dios por medio de nuestro Señor Jesucristo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "es-MX",
+      "text": "Mi carne y mi corazón desfallecenMas la roca de mi corazón y mi porción es Dios para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "es-MX",
+      "text": "El cuidado congojoso en el corazón del hombre,lo abateMas la buena palabra lo alegra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "es-MX",
+      "text": "Confiad en Jehová perpetuamenteporque en el Señor Jehová está la fortaleza de los siglos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "es-MX",
+      "text": "Y Jesús le dijoSi puedes creer,al que cree todo es posible.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "es-MX",
+      "text": "Y él es antes de todas las cosas,y por él todas las cosas subsisten",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "es-MX",
+      "text": "Te haré entender,y te enseñaré el camino en que debes andarSobre ti fijaré mis ojos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "es-MX",
+      "text": "LA blanda respuesta quita la iraMas la palabra áspera hace subir el furor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "es-MX",
+      "text": "Porque yo Jehová soy tu Dios,que te ase de tu mano derecha,y te diceNo temas,yo te ayudé.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "es-MX",
+      "text": "Bienaventurados los pobres en espírituporque de ellos es el reino de los cielos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "es-MX",
+      "text": "La cual tenemos como segura y firme ancla del alma,y que entra hasta dentro del velo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "es-MX",
+      "text": "Misericordia y verdad no te desamparenAtalas á tu cuello,Escríbelas en la tabla de tu corazón",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "es-MX",
+      "text": "He aquí que yo soy Jehová,Dios de toda carne¿encubriráseme á mí alguna cosa?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "es-MX",
+      "text": "El que cree en el Hijo,tiene vida eternamas el que es incrédulo al Hijo,no verá la vida,sino que la ira de Dios está sobre él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "es-MX",
+      "text": "Gozosos en la esperanzasufridos en la tribulaciónconstantes en la oración",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "es-MX",
+      "text": "He peleado la buena batalla,he acabado la carrera,he guardado la fe.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "es-MX",
+      "text": "He aquí,yo estoy á la puerta y llamosi alguno oyere mi voz y abriere la puerta,entraré á él,y cenaré con él,y él conmigo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "es-MX",
+      "text": "Y si alguno de vosotros tiene falta de sabiduría,demándela á Dios,el cual da á todos abundantemente,y no zahierey le será dada.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "es-MX",
+      "text": "Toda buena dádiva y todo don perfecto es de lo alto,que desciende del Padre de las luces,en el cual no hay mudanza,ni sombra de variación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "es-MX",
+      "text": "Allegaos á Dios,y él se allegará á vosotros.Pecadores,limpiad las manosy vosotros de doblado ánimo,purificad los corazones.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "es-MX",
+      "text": "La caridad es sufrida,es benignala caridad no tiene envidia,la caridad no hace sinrazón,no se ensancha",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "es-MX",
+      "text": "En todo tiempo ama el amigoY el hermano para la angustia es nacido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "es-MX",
+      "text": "Porque misericordia quise,y no sacrificioy conocimiento de Dios más que holocaustos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "es-MX",
+      "text": "Nadie tiene mayor amor que este,que ponga alguno su vida por sus amigos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "es-MX",
+      "text": "Amándoos los unos á los otros con caridad fraternalpreviniéndoos con honra los unos á los otros",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "es-MX",
+      "text": "No es injuriosa,no busca lo suyo,no se irrita,no piensa el mal",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "es-MX",
+      "text": "Oh hombre,él te ha declarado qué sea lo bueno,y qué pida de ti Jehovásolamente hacer juicio,y amar misericordia,y humillarte para andar con tu Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "es-MX",
+      "text": "Mas yo os digoAmad á vuestros enemigos,bendecid á los que os maldicen,haced bien á los que os aborrecen,y orad por los que os ultrajan y os persiguen",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "es-MX",
+      "text": "Antes sed los unos con los otros benignos,misericordiosos,perdónandoos los unos á los otros,como también Dios os perdonó en Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "es-MX",
+      "text": "No se huelga de la injusticia,mas se huelga de la verdad",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "es-MX",
+      "text": "El odio despierta rencillasMas la caridad cubrirá todas las faltas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "es-MX",
+      "text": "Jehová en medio de ti,poderoso,él salvarágozaráse sobre ti con alegría,callará de amor,se regocijará sobre ti con cantar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "es-MX",
+      "text": "Y como queréis que os hagan los hombres,así hacedles también vosotros",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "es-MX",
+      "text": "Y sobre todo,tened entre vosotros ferviente caridadporque la caridad cubrirá multitud de pecados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "es-MX",
+      "text": "Todo lo sufre,todo lo cree,todo lo espera,todo lo soporta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "es-MX",
+      "text": "¡Cuán ilustre,oh Dios,es tu misericordia!Por eso los hijos de los hombres se amparan bajo la sombra de tus alas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "es-MX",
+      "text": "Aprended á hacer bienbuscad juicio,restituid al agraviado,oid en derecho al huérfano,amparad á la viuda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "es-MX",
+      "text": "Y el segundo es semejante á élAmarás á tu prójimo como á ti mismo.No hay otro mandamiento mayor que éstos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "es-MX",
+      "text": "Cuando yo era niño,hablaba como niño,pensaba como niño,juzgaba como niño,mas cuando ya fuí hombre hecho,dejé lo que era de niño.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "es-MX",
+      "text": "Mejor es la comida de legumbres donde hay amor,Que de buey engordado donde hay odio.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "es-MX",
+      "text": "Jehová se manifestó á mí ya mucho tiempo há,diciendoCon amor eterno te he amadopor tanto te soporté con misericordia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "es-MX",
+      "text": "En esto conocerán todos que sois mis discípulos,si tuviereis amor los unos con los otros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "es-MX",
+      "text": "Y sobre todas estas cosas vestíos de caridad,la cual es el vínculo de la perfección.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "es-MX",
+      "text": "Ahora vemos por espejo,en obscuridadmas entonces veremos cara á caraahora conozco en partemas entonces conoceré como soy conocido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "es-MX",
+      "text": "La misericordia y la verdad se encontraronLa justicia y la paz se besaron.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "es-MX",
+      "text": "Y te desposaré conmigo para siempredesposarte he conmigo en justicia,y juicio,y misericordia,y miseraciones.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "es-MX",
+      "text": "Así que,todas las cosas que quisierais que los hombres hiciesen con vosotros,así también haced vosotros con ellosporque esta es la ley y los profetas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "es-MX",
+      "text": "Y a vosotros multiplique el Señor,y haga abundar el amor entre vosotros,y para con todos,como es también de nosotros para con vosotros",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "es-MX",
+      "text": "Todas vuestras cosas sean hechas con caridad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "es-MX",
+      "text": "Contentamiento es á los hombres hacer misericordiaPero mejor es el pobre que el mentiroso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "es-MX",
+      "text": "Estas son las cosas que habéis de hacerHablad verdad cada cual con su prójimojuzgad en vuestras puertas verdad y juicio de paz",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "es-MX",
+      "text": "Y el segundo es semejante á ésteAmarás á tu prójimo como á ti mismo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "es-MX",
+      "text": "Porque toda la ley en aquesta sola palabra se cumpleAmarás á tu prójimo como á ti mismo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "es-MX",
+      "text": "Porque mejor es tu misericordia que la vidaMis labios te alabarán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "es-MX",
+      "text": "Porque yo Jehová,no me mudoy así vosotros,hijos de Jacob,no habéis sido consumidos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "es-MX",
+      "text": "Este es mi mandamientoQue os améis los unos á los otros,como yo os he amado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "es-MX",
+      "text": "Con toda humildad y mansedumbre,con paciencia soportando los unos á los otros en amor",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "es-MX",
+      "text": "Nosotros le amamos á él,porque él nos amó primero.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "es-MX",
+      "text": "Hierro con hierro se aguzaY el hombre aguza el rostro de su amigo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "es-MX",
+      "text": "Porque tu marido es tu HacedorJehová de los ejércitos es su nombrey tu redentor,el Santo de IsraelDios de toda la tierra será llamado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "es-MX",
+      "text": "Y él respondiendo,dijoAmarás al Señor tu Dios de todo tu corazón,y de toda tu alma,y de todas tus fuerzas,y de todo tu entendimientoy á tu prójimo como á ti mismo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "es-MX",
+      "text": "con los débiles en la fe.2 La obra entre los Gentiles.19Así que,sigamos lo que hace á la paz,y á la edificación de los unos á los otros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "es-MX",
+      "text": "Hijitos míos,no amemos de palabra ni de lengua,sino de obra y en verdad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "es-MX",
+      "text": "Como el padre se compadece de los hijos,Se compadece Jehová de los que le temen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "es-MX",
+      "text": "Porque en mis ojos fuiste de grande estima,fuiste honorable,y yo te amédaré pues hombres por ti,y naciones por tu alma.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "es-MX",
+      "text": "Y viéndolo Jesús,se enojó,y les dijoDejad los niños venir,y no se lo estorbéisporque de los tales es el reino de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "es-MX",
+      "text": "Por lo cual,consolaos los unos á los otros,y edificaos los unos á los otros,así como lo hacéis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "es-MX",
+      "text": "Y la esperanza no avergüenzaporque el amor de Dios está derramado en nuestros corazones por el Espíritu Santo que nos es dado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "es-MX",
+      "text": "La mujer virtuosa corona es de su maridoMas la mala,como carcoma en sus huesos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "es-MX",
+      "text": "Y si derramares tu alma al hambriento,y saciares el alma afligida,en las tinieblas nacerá tu luz,y tu oscuridad será como el medio día",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "es-MX",
+      "text": "Honra á tu padre y á tu madrey,Amarás á tu prójimo como á ti mismo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "es-MX",
+      "text": "Nada hagáis por contienda ó por vanagloriaantes bien en humildad,estimándoos inferiores los unos á los otros",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "es-MX",
+      "text": "No seas vencido de lo malomas vence con el bien el mal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "es-MX",
+      "text": "El que anda en chismes,descubre el secretoMas el de espíritu fiel encubre la cosa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "es-MX",
+      "text": "Así habló Jehová de los ejércitos,diciendoJuzgad juicio verdadero,y haced misericordia y piedad cada cual con su hermano",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "es-MX",
+      "text": "Y considerémonos los unos á los otros para provocarnos al amor y á las buenas obras",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "es-MX",
+      "text": "Por tanto,sobrellevaos los unos á los otros,como también Cristo nos sobrellevó,para gloria de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "es-MX",
+      "text": "El que anda con los sabios,sabio seráMas el que se allega á los necios,será quebrantado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "es-MX",
+      "text": "Mas el liberal pensará liberalidades,y por liberalidades subirá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "es-MX",
+      "text": "Ninguno busque su propio bien,sino el del otro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "es-MX",
+      "text": "Sobrellevad los unos las cargas de los otrosy cumplid así la ley de Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "es-MX",
+      "text": "Fieles son las heridas del que amaPero importunos los besos del que aborrece.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "es-MX",
+      "text": "Sed pues misericordiosos,como también vuestro Padre es misericordioso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "es-MX",
+      "text": "Maridos,amad á vuestras mujeres,así como Cristo amó á la iglesia,y se entregó á sí mismo por ella,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "es-MX",
+      "text": "Tan amadores de vosotros,que quisiéramos entregaros no sólo el evangelio de Dios,mas aun nuestras propias almasporque nos erais carísimos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "es-MX",
+      "text": "Todas las sendas de Jehová son misericordia y verdad,Para los que guardan su pacto y sus testimonios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "es-MX",
+      "text": "El que es el mayor de vosotros,sea vuestro siervo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "es-MX",
+      "text": "No mirando cada uno á lo suyo propio,sino cada cual también á lo de los otros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "es-MX",
+      "text": "Y finalmente,sed todos de un mismo corazón,compasivos,amándoos fraternalmente,misericordiosos,amigables",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "es-MX",
+      "text": "El que ama la limpieza de corazón,Por la gracia de sus labios su amigo será el rey.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "es-MX",
+      "text": "El convertirá el corazón de los padres á los hijos,y el corazón de los hijos á los padresno sea que yo venga,y con destrucción hiera la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "es-MX",
+      "text": "La paz os dejo,mi paz os doyno como el mundo la da,yo os la doy.No se turbe vuestro corazón,ni tenga miedo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "es-MX",
+      "text": "Unánimes entre vosotrosno altivos,mas acomodándoos á los humildes.No seáis sabios en vuestra opinión.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "es-MX",
+      "text": "Mas tú,oh hombre de Dios,huye de estas cosas,y sigue la justicia,la piedad,la fe,la caridad,la paciencia,la mansedumbre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "es-MX",
+      "text": "Mas tú,Señor,Dios misericordioso y clemente,Lento para la ira,y grande en misericordia y verdad",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "es-MX",
+      "text": "Jehová,tú nos depararás pazporque también obraste en nosotros todas nuestras obras.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "es-MX",
+      "text": "Como el Hijo del hombre no vino para ser servido,sino para servir,y para dar su vida en rescate por muchos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "es-MX",
+      "text": "PERMANEZCA el amor fraternal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "es-MX",
+      "text": "Resta,hermanos,que tengáis gozo,seáis perfectos,tengáis consolación,sintáis una misma cosa,tengáis pazy el Dios de paz y de caridad será con vosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "es-MX",
+      "text": "Muchos hombres publican cada uno su liberalidadMas hombre de verdad,¿quién lo hallará?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "es-MX",
+      "text": "Mas si mejorareis cumplidamente vuestros caminos y vuestras obrassi con exactitud hiciereis derecho entre el hombre y su prójimo,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "es-MX",
+      "text": "Mirad por vosotrossi pecare contra ti tu hermano,repréndeley si se arrepintiere,perdónale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "es-MX",
+      "text": "Y andad en amor,como también Cristo nos amó,y se entregó á sí mismo por nosotros,ofrenda y sacrificio á Dios en olor suave.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "es-MX",
+      "text": "Que a nadie infamen,que no sean pendencieros,sino modestos,mostrando toda mansedumbre para con todos los hombres.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "es-MX",
+      "text": "Peca el que menosprecia á su prójimoMas el que tiene misericordia de los pobres,es bienaventurado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "es-MX",
+      "text": "No agraviéis á la viuda,ni al huérfano,ni al extranjero,ni al pobreni ninguno piense mal en su corazón contra su hermano.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "es-MX",
+      "text": "Entonces sentándose,llamó á los doce,y les diceSi alguno quiere ser el primero,será el postrero de todos,y el servidor de todos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "es-MX",
+      "text": "ASÍ que,los que somos más firmes debemos sobrellevar las flaquezas de los flacos,y no agradarnos á nosotros mismos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "es-MX",
+      "text": "Y esto ruego,que vuestro amor abunde aun más y más en ciencia y en todo conocimiento,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "es-MX",
+      "text": "En aquel tiempo habrá altar para Jehová en medio de la tierra de Egipto,y el trofeo de Jehová junto á su término.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "es-MX",
+      "text": "Y yo les he manifestado tu nombre,y manifestaré lo aúnpara que el amor con que me has amado,esté en ellos,y yo en ellos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "es-MX",
+      "text": "Mas acerca de la caridad fraterna no habéis menester que os escribaporque vosotros mismos habéis aprendido de Dios que os améis los unos á los otros",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "es-MX",
+      "text": "Habiendo purificado vuestras almas en la obediencia de la verdad,por el Espíritu,en caridad hermanable sin fingimiento,amaos unos á otros entrañablemente de corazón puro",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "es-MX",
+      "text": "El que sigue la justicia y la misericordia,Hallará la vida,la justicia,y la honra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "es-MX",
+      "text": "Y levantándose,vino á su padre.Y como aun estuviese lejos,viólo su padre,y fué movido á misericordia,y corrió,y echóse sobre su cuello,y besóle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "es-MX",
+      "text": "Si se puede hacer,cuanto está en vosotros,tened paz con todos los hombres.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "es-MX",
+      "text": "El que ama á su hermano,está en luz,y no hay tropiezo en él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "es-MX",
+      "text": "El sana á los quebrantados de corazón,Y liga sus heridas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "es-MX",
+      "text": "Yo medicinaré su rebelión,amarélos de voluntadporque mi furor se apartó de ellos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "es-MX",
+      "text": "Andad pues,y aprended qué cosa esMisericordia quiero,y no sacrificioporque no he venido á llamar justos,sino pecadores á arrepentimiento.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "es-MX",
+      "text": "Porque recrearon mi espíritu y el vuestroreconoced pues á los tales.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "es-MX",
+      "text": "Si en verdad cumplís vosotros la ley real,conforme á la EscrituraAmarás á tu prójimo como á ti mismo,bien hacéis",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "es-MX",
+      "text": "El hombre que tiene amigos,ha de mostrarse amigoY amigo hay más conjunto que el hermano.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "es-MX",
+      "text": "Porque no envió Dios a su Hijo al mundo,para que condene al mundo,mas para que el mundo sea salvo por él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "es-MX",
+      "text": "No olvidéis la hospitalidad,porque por ésta algunos,sin saberlo,hospedaron ángeles.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "es-MX",
+      "text": "El principio de la sabiduría es el temor de JehováLos insensatos desprecian la sabiduría y la enseñanza.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "es-MX",
+      "text": "Entonces tus oídos oirán á tus espaldas palabra que digaEste es el camino,andad por ély no echéis á la mano derecha,ni tampoco torzáis á la mano izquierda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "es-MX",
+      "text": "Mas sed hacedores de la palabra,y no tan solamente oidores,engañándoos á vosotros mismos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "es-MX",
+      "text": "Enséñanos de tal modo á contar nuestros días,Que traigamos al corazón sabiduría.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "es-MX",
+      "text": "Excelencia y ventajas2 de la sabiduría.6Porque Jehová da la sabiduría,Y de su boca viene el conocimiento y la inteligencia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "es-MX",
+      "text": "Y yo os digoPedid,y se os darábuscad,y hallaréisllamad,y os será abierto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "es-MX",
+      "text": "En mi corazón he guardado tus dichos,Para no pecar contra ti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "es-MX",
+      "text": "Y reposará sobre él el espíritu de Jehováespíritu de sabiduría y de inteligencia,espíritu de consejo y de fortaleza,espíritu de conocimiento y de temor de Jehová.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "es-MX",
+      "text": "Y llamando á la gente con sus discípulos,les dijoCualquiera que quisiere venir en pos de mí,niéguese á sí mismo,y tome su cruz,y sígame.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "es-MX",
+      "text": "¿Quién es el hombre que teme á Jehová?El le enseñará el camino que ha de escoger.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "es-MX",
+      "text": "No seas sabio en tu opiniónTeme á Jehová,y apártate del mal",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "es-MX",
+      "text": "Buscad lo bueno,y no lo malo,para que viváisporque así Jehová Dios de los ejércitos será con vosotros,como decís.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "es-MX",
+      "text": "La lámpara del cuerpo es el ojoasí que,si tu ojo fuere sincero,todo tu cuerpo será luminoso",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "es-MX",
+      "text": "La ley de Jehová es perfecta,que vuelve el almaEl testimonio de Jehová,fiel,que hace sabio al pequeño.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "es-MX",
+      "text": "Examina la senda de tus pies,Y todos tus caminos sean ordenados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "es-MX",
+      "text": "Y los entendidos resplandecerán como el resplandor del firmamentoy los que enseñan á justicia la multitud,como las estrellas á perpetua eternidad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "es-MX",
+      "text": "Mirad,pues,cómo andéis avisadamenteno como necios,mas como sabios",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "es-MX",
+      "text": "El principio de la sabiduría es el temor de JehováBuen entendimiento tienen cuantos ponen aquéllos por obraSu loor permanece para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "es-MX",
+      "text": "EL que ama la corrección ama la sabiduríaMas el que aborrece la reprensión,es ignorante.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "es-MX",
+      "text": "Buscad á Jehová mientras puede ser hallado,llamadle en tanto que está cercano.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "es-MX",
+      "text": "Porque estrecha es la puerta,y angosto el camino que lleva á la vida,y pocos son los que la hallan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "es-MX",
+      "text": "Mas la sabiduría que es de lo alto,primeramente es pura,después pacífica,modesta,benigna,llena de misericordia y de buenos frutos,no juzgadora,no fingida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "es-MX",
+      "text": "Por Jehová son ordenados los pasos del hombre,Y aprueba su camino.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "es-MX",
+      "text": "Los pensamientos son frustrados donde no hay consejoMas en la multitud de consejeros se afirman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "es-MX",
+      "text": "Así dijo JehováNo se alabe el sabio en su sabiduría,ni en su valentía se alabe el valiente,ni el rico se alabe en sus riquezas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "es-MX",
+      "text": "El que quisiere hacer su voluntad,conocerá de la doctrina si viene de Dios,ó si yo hablo de mí mismo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "es-MX",
+      "text": "Examinadlo todoretened lo bueno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "es-MX",
+      "text": "El principio de tus palabras alumbraHace entender á los simples.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "es-MX",
+      "text": "El entendido en la palabra,hallará el bienY el que confía en Jehová,él es bienaventurado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "es-MX",
+      "text": "Porque donde está vuestro tesoro,allí también estará vuestro corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "es-MX",
+      "text": "Porque la intención de la carne es muertemas la intención del espíritu,vida y paz",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "es-MX",
+      "text": "Escucha el consejo,y recibe la corrección,Para que seas sabio en tu vejez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "es-MX",
+      "text": "Bien que todos los pueblos anduvieren cada uno en el nombre de sus dioses,nosotros con todo andaremos en el nombre de Jehová nuestro Dios para siempre y eternalmente.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "es-MX",
+      "text": "Bienaventurados los que tienen hambre y sed de justiciaporque ellos serán hartos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "es-MX",
+      "text": "Procura con diligencia presentarte á Dios aprobado,como obrero que no tiene de qué avergonzarse,que traza bien la palabra de verdad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "es-MX",
+      "text": "Abre mis ojos,y miraréLas maravillas de tu ley.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "es-MX",
+      "text": "Hay camino que al hombre parece derechoEmpero su fin son caminos de muerte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "es-MX",
+      "text": "Entonces respondió y hablóme,diciendoEsta es palabra de Jehová á Zorobabel,en que se diceNo con ejército,ni con fuerza,sino con mi espíritu,ha dicho Jehová de los ejércitos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "es-MX",
+      "text": "Mirad,velad y oradporque no sabéis cuándo será el tiempo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "es-MX",
+      "text": "Andad en sabiduría para con los extraños,redimiendo el tiempo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "es-MX",
+      "text": "Enséñame bondad de sentido y sabiduríaPorque tus mandamientos he creído.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "es-MX",
+      "text": "Porque mejor es la sabiduría que las piedras preciosasY todas las cosas que se pueden desear,no son de comparar con ella.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "es-MX",
+      "text": "Así ha dicho Jehová,Redentor tuyo,el Santo de IsraelYo Jehová Dios tuyo,que te enseña provechosamente,que te encamina por el camino que andas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "es-MX",
+      "text": "Mirad pues cómo oísporque á cualquiera que tuviere,le será dadoy á cualquiera que no tuviere,aun lo que parece tener le será quitado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "es-MX",
+      "text": "Someteos pues á Diosresistid al diablo,y de vosotros huirá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "es-MX",
+      "text": "Encamíname en tu verdad,y enséñamePorque tú eres el Dios de mi saludEn ti he esperado todo el día.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "es-MX",
+      "text": "El que confía en su corazón es necioMas el que camina en sabiduría,será salvo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "es-MX",
+      "text": "¡Cuánto amo yo tu ley!Todo el día es ella mi meditación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "es-MX",
+      "text": "Adquiere sabiduría,adquiere inteligenciaNo te olvides ni te apartes de las razones de mi boca",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "es-MX",
+      "text": "Yo la luz he venido al mundo,para que todo aquel que cree en mí no permanezca en tinieblas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "es-MX",
+      "text": "Ordena mis pasos con tu palabraY ninguna iniquidad se enseñoree de mí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "es-MX",
+      "text": "EL hijo sabio toma el consejo del padreMas el burlador no escucha las reprensiones.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "es-MX",
+      "text": "Velad y orad,para que no entréis en tentaciónel espíritu á la verdad está presto,mas la carne enferma.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "es-MX",
+      "text": "Mas la vianda firme es para los perfectos,para los que por la costumbre tienen los sentidos ejercitados en el discernimiento del bien y del mal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "es-MX",
+      "text": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti,Oh Jehová,roca mía,y redentor mío",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "es-MX",
+      "text": "Porque con ingenio harás la guerraY la salud está en la multitud de consejeros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "es-MX",
+      "text": "Buscad a Jehová todos los humildes de la tierra,que pusisteis en obra su juiciobuscad justicia,buscad mansedumbrequizás seréis guardados en el día del enojo de Jehová.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "es-MX",
+      "text": "Velad pues,orando en todo tiempo,que seáis tenidos por dignos de evitar todas estas cosas que han de venir,y de estar en pie delante del Hijo del hombre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "es-MX",
+      "text": "Uno hace diferencia entre día y díaotro juzga iguales todos los días.Cada uno esté asegurado en su ánimo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "es-MX",
+      "text": "En tus mandamientos meditaré,Consideraré tus caminos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "es-MX",
+      "text": "El que posee entendimiento,ama su almaEl que guarda la inteligencia,hallará el bien.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "es-MX",
+      "text": "Les dijo tambiénMirad lo que oíscon la medida que medís,os medirán otros,y será añadido á vosotros los que oís.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "es-MX",
+      "text": "Redimiendo el tiempo,porque los días son malos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "es-MX",
+      "text": "Dame entendimiento,y guardaré tu leyY la observaré de todo corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "es-MX",
+      "text": "El avisado ve el mal,y escóndeseMas los simples pasan,y reciben el daño.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "es-MX",
+      "text": "Y reinarán en tus tiempos la sabiduría y la ciencia,y la fuerza de la salvaciónel temor de Jehová será su tesoro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "es-MX",
+      "text": "Entonces los justos resplandecerán como el sol en el reino de su Padreel que tiene oídos para oir,oiga.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "es-MX",
+      "text": "Para que vuestra fe no esté fundada en sabiduría de hombres,mas en poder de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "es-MX",
+      "text": "Y dijo al hombreHe aquí que el temor del Señor es la sabiduría,Y el apartarse del mal la inteligencia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "es-MX",
+      "text": "Los pensamientos del solícito ciertamente van á abundanciaMas todo presuroso,indefectiblemente á pobreza.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "es-MX",
+      "text": "Engañoso es el corazón más que todas las cosas,y perverso¿quién lo conocerá?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "es-MX",
+      "text": "El que es fiel en lo muy poco,también en lo más es fiely el que en lo muy poco es injusto,también en lo más es injusto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "es-MX",
+      "text": "Vosotros también,poniendo toda diligencia por esto mismo,mostrad en vuestra fe virtud,y en la virtud ciencia",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "es-MX",
+      "text": "La ley de tu boca me es mejor que miles de oro y plata.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "es-MX",
+      "text": "Los pasos del hombre son del SEÑOR ¿cómo, pues, entenderá el hombre su camino?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "es-MX",
+      "text": "Esto también proviene del SEÑOR de los ejércitos, que es maravilloso en consejo y excelente en obra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "es-MX",
+      "text": "Velad y orad, para que no entréis en tentación. El espíritu a la verdad está dispuesto, pero la carne es débil.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "es-MX",
+      "text": "Antes de ser afligido, me descarrié pero ahora he guardado tu palabra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "es-MX",
+      "text": "Así será el conocimiento de la sabiduría para tu alma cuando lo hayas hallado, entonces habrá una recompensa, y tu expectativa no será cortada.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "es-MX",
+      "text": "¿De qué le sirve al hombre ganar el mundo entero, si pierde su alma? ¿O qué dará el hombre a cambio de su alma?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "es-MX",
+      "text": "Así que la fe es por el oír, y el oír por la palabra de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "es-MX",
+      "text": "Y andaré en libertad, porque busco tus mandamientos. 119.45 en libertad Heb. a gran escala",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "es-MX",
+      "text": "Cuando viene el orgullo, entonces viene la vergüenza pero con los humildes está la sabiduría.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "es-MX",
+      "text": "Él ha llenado de bienes a los hambrientos y a los ricos ha despedido vacíos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "es-MX",
+      "text": "Hermanos, no seáis niños en el entendimiento pero sed niños en malicia, mas en el entendimiento sed hombres cabales.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "es-MX",
+      "text": "Por tus mandamientos me has hecho más sabio que mis enemigos porque siempre están conmigo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "es-MX",
+      "text": "Escucha tú, hijo mío, y sé sabio, y guía tu corazón en el camino.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "es-MX",
+      "text": "Bienaventurados los de limpio corazón porque ellos verán a Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "es-MX",
+      "text": "Mas santificad a Dios el Señor en vuestros corazones y estad siempre prontos para presentar defensa con mansedumbre y reverencia ante todo el que os demande razón de la esperanza que hay en vosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "es-MX",
+      "text": "Entiendo más que los ancianos, porque guardo tus preceptos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "es-MX",
+      "text": "No hay sabiduría, ni entendimiento, ni consejo contra el SEÑOR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "es-MX",
+      "text": "Mírenme, y sed salvos, todos los términos de la tierra porque yo soy Dios, y no hay otro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "es-MX",
+      "text": "Entonces les abrió el entendimiento, para que pudieran entender las escrituras.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "es-MX",
+      "text": "Y poderoso es Dios para hacer que abunde en vosotros toda gracia, a fin de que, teniendo siempre en todas las cosas todo lo suficiente, abundéis para toda buena obra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "es-MX",
+      "text": "Hazme andar en el camino de tus mandamientos porque en él tengo mi deleite.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "es-MX",
+      "text": "Un hombre prudente ve el mal y se esconde pero los simples siguen adelante y son castigados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "es-MX",
+      "text": "Escuchadme, vosotros que conocéis la justicia, el pueblo en cuyo corazón está mi ley no temáis la reproche de los hombres, ni tengáis miedo de sus vituperios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "es-MX",
+      "text": "Y cualquiera que se exalte será humillado y el que se humille será exaltado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "es-MX",
+      "text": "Para que aprobéis lo excelente para que seáis sinceros e irreprensibles hasta el día de Cristo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "es-MX",
+      "text": "Este es mi consuelo en mi aflicción porque tu palabra me ha vivificado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "es-MX",
+      "text": "La sabiduría está delante del que tiene entendimiento pero los ojos del necio están en los confines de la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "es-MX",
+      "text": "¡Cuán hermosos son sobre los montes los pies del que trae buenas nuevas, del que publica paz del que trae buenas nuevas de bien, del que publica salvación del que dice a Sion ¡Tu Dios reina!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "es-MX",
+      "text": "Y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente, y con todas tus fuerzas este es el primer mandamiento.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "es-MX",
+      "text": "Bienaventurados los que guardan sus testimonios, y los que le buscan de todo corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "es-MX",
+      "text": "Asir con firmeza la instrucción no la dejes ir guárdala porque ella es tu vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "es-MX",
+      "text": "Pero Jesús los miró y les dijo Para los hombres esto es imposible mas para Dios todas las cosas son posibles.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "es-MX",
+      "text": "Jesús le dijo Yo soy la resurrección y la vida el que cree en mí, aunque esté muerto, vivirá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "es-MX",
+      "text": "Porque no dejarás mi alma en el infierno ni permitirás que tu Santo vea corrupción.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "es-MX",
+      "text": "No está aquí, sino que ha resucitado recordad cómo os habló cuando aún estaba en Galilea,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "es-MX",
+      "text": "Porque la paga del pecado es muerte mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "es-MX",
+      "text": "Porque primeramente os he enseñado lo que asimismo recibí que Cristo murió por nuestros pecados, conforme a las Escrituras",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "es-MX",
+      "text": "Pero contigo hay perdón, para que seas temido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "es-MX",
+      "text": "Los redimiré del poder de la tumba los rescataré de la muerte ¡Oh muerte, seré tus plagas oh tumba, seré tu destrucción! El arrepentimiento será escondido de mis ojos. 13.14 poder Heb. mano",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "es-MX",
+      "text": "Y les dice No os aflijáis buscáis a Jesús de Nazaret, el que fue crucificado ha resucitado no está aquí ved el lugar donde le pusieron.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "es-MX",
+      "text": "En quien tenemos redención por su sangre, el perdón de pecados, según las riquezas de su gracia",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "es-MX",
+      "text": "y que fue sepultado, y que resucitó al tercer día, conforme a las Escrituras",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "es-MX",
+      "text": "El que encubre sus pecados no prosperará mas el que los confiesa y se aparta de ellos tendrá misericordia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "es-MX",
+      "text": "El SEÑOR ha desnudado su santo brazo ante los ojos de todas las naciones y todos los confines de la tierra verán la salvación de nuestro Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "es-MX",
+      "text": "Porque esta es mi sangre del nuevo pacto, que es derramada por muchos para remisión de pecados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "es-MX",
+      "text": "Así que Cristo fue ofrecido una vez para llevar los pecados de muchos y a los que le esperan aparecerá por segunda vez sin pecado para salvación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "es-MX",
+      "text": "Ni hay salvación en ningún otro porque no hay otro nombre bajo el cielo dado a los hombres, en el cual debamos ser salvos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "es-MX",
+      "text": "He aquí, vienen días, dice el SEÑOR, en que haré un nuevo pacto con la casa de Israel y con la casa de Judá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "es-MX",
+      "text": "Y les dijo Así está escrito, y así era necesario que el Cristo padeciera, y resucitara de los muertos al tercer día.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "es-MX",
+      "text": "Cancelando el acta de los decretos que había contra nosotros, que nos era contraria, y la quitó de en medio, clavándola en su cruz",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "es-MX",
+      "text": "Mas ahora Cristo ha resucitado de los muertos primicias de los que durmieron es hecho.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "es-MX",
+      "text": "Ninguno de ellos puede, de ninguna manera, redimir a su hermano, ni dar a Dios un rescate por él",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "es-MX",
+      "text": "Y os daré un corazón nuevo, y pondré un espíritu nuevo dentro de vosotros y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "es-MX",
+      "text": "Jesús le dijo Tomás, porque me has visto, has creído bienaventurados los que no vieron y creyeron.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "es-MX",
+      "text": "Romanos 81  \nAhora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "es-MX",
+      "text": "Que fue entregado por nuestras ofensas, y resucitado para nuestra justificación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "es-MX",
+      "text": "Que perdona todas tus iniquidades que sana todas tus dolencias",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "es-MX",
+      "text": "Y se dijeron el uno al otro ¿No ardía nuestro corazón dentro de nosotros, mientras nos hablaba en el camino y nos abría las Escrituras?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "es-MX",
+      "text": "Él mismo llevó nuestros pecados en su cuerpo sobre el madero, para que nosotros, estando muertos a los pecados, vivamos a la justicia y por su herida fuisteis sanados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "es-MX",
+      "text": "Y este es el testimonio que Dios nos ha dado vida eterna, y esta vida está en su Hijo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "es-MX",
+      "text": "En Dios está mi salvación y mi gloria la roca de mi fuerza, y mi refugio, está en Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "es-MX",
+      "text": "Y muchos de los que duermen en el polvo de la tierra se despertarán, unos para vida eterna, y otros para vergüenza y desprecio eterno.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "es-MX",
+      "text": "Yo soy el buen pastor el buen pastor da su vida por las ovejas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "es-MX",
+      "text": "Cristo nos redimió de la maldición de la ley, hecho maldición por nosotros porque está escrito Maldito todo el que es colgado en un madero.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "es-MX",
+      "text": "El que tiene al Hijo, tiene la vida el que no tiene al Hijo de Dios, no tiene la vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "es-MX",
+      "text": "Por misericordia y verdad se purga la iniquidad y por el temor del SEÑOR los hombres se apartan del mal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "es-MX",
+      "text": "Él verá el fruto de la aflicción de su alma, y quedará satisfecho por su conocimiento mi siervo justo justificará a muchos porque él llevará sus iniquidades.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "es-MX",
+      "text": "Y cuando Jesús hubo clamado a gran voz, dijo Padre, en tus manos encomiendo mi espíritu y habiendo dicho esto, expiró.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "es-MX",
+      "text": "No por obras de justicia que nosotros hayamos hecho, sino por su misericordia nos salvó, por el lavamiento de la regeneración y la renovación del Espíritu Santo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "es-MX",
+      "text": "Mas si andamos en la luz, como él está en la luz, tenemos comunión unos con otros, y la sangre de Jesucristo su Hijo nos limpia de todo pecado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "es-MX",
+      "text": "Has perdonado la iniquidad de tu pueblo, has cubierto todos sus pecados. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "es-MX",
+      "text": "Y Moisés hizo una serpiente de bronce, y la puso sobre un asta y sucedió que si una serpiente mordía a algún hombre, cuando miraba a la serpiente de bronce, vivía.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "es-MX",
+      "text": "Y esta es la voluntad de aquel que me envió, que todo aquel que ve al Hijo y cree en él, tenga vida eterna y yo le resucitaré en el último día.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "es-MX",
+      "text": "Pero ahora en Cristo Jesús, vosotros que en otro tiempo estabais lejos, habéis sido hechos cercanos por la sangre de Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "es-MX",
+      "text": "Siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "es-MX",
+      "text": "La piedra que desecharon los edificadores ha venido a ser la cabeza del ángulo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "es-MX",
+      "text": "Y Jesús se acercó y les habló, diciendo Toda potestad me es dada en el cielo y en la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "es-MX",
+      "text": "Porque hay un solo Dios, y un solo mediador entre Dios y los hombres, Jesucristo hombre,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "es-MX",
+      "text": "porque también Cristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios, siendo a la verdad muerto en la carne, mas vivificado en espíritu",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "es-MX",
+      "text": "Y puso en mi boca un cántico nuevo, alabanza a nuestro Dios muchos verán esto, y temerán, y confiarán en el SEÑOR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "es-MX",
+      "text": "Y Abraham llamó el nombre de aquel lugar Jehová-proveerá como se dice hasta el día de hoy En el monte de Jehová será visto. Jehová-proveerá es decir, El Señor verá, o, proveerá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "es-MX",
+      "text": "Cuando Jesús, pues, hubo recibido el vinagre, dijo Consumado es y habiendo inclinado la cabeza, entregó el espíritu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "es-MX",
+      "text": "Por lo cual puede también salvar perpetuamente a los que por él se acercan a Dios, viviendo siempre para interceder por ellos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "es-MX",
+      "text": "Un poco más, y el mundo ya no me verá pero vosotros me veréis porque yo vivo, vosotros también viviréis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "es-MX",
+      "text": "Salmo 2713  \nHubiera desmayado, si no hubiera creído que veré la bondad del SEÑOR en la tierra de los vivientes.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "es-MX",
+      "text": "Así dice el Señor DIOS a estos huesos He aquí, haré entrar aliento en vosotros, y viviréis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "es-MX",
+      "text": "Diciendo Es necesario que el Hijo del Hombre sea entregado en manos de hombres pecadores, y sea crucificado, y al tercer día resucite.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "es-MX",
+      "text": "Para que yo le conozca, y la potencia de su resurrección, y la comunión de sus padecimientos, siendo hecho conforme a su muerte",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "es-MX",
+      "text": "Yo soy el que vive, y estuvo muerto y he aquí, estoy vivo por los siglos de los siglos, Amén y tengo las llaves del infierno y de la muerte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "es-MX",
+      "text": "El SEÑOR redime el alma de sus siervos y ninguno de los que en él confían será desolado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "es-MX",
+      "text": "He borrado, como una nube espesa, tus transgresiones, y, como una nube, tus pecados vuélvete a mí porque te he redimido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "es-MX",
+      "text": "Pero estas cosas han sido escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios y para que, creyendo, tengáis vida en su nombre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "es-MX",
+      "text": "Mucho más, estando ya justificados por su sangre, seremos salvos de la ira por medio de él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "es-MX",
+      "text": "Por la cual voluntad somos santificados mediante la ofrenda del cuerpo de Jesucristo, una vez para siempre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "es-MX",
+      "text": "Crea en mí, oh Dios, un corazón limpio y renueva un espíritu recto dentro de mí.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "es-MX",
+      "text": "Y comenzando desde Moisés y todos los profetas, les interpretó en todas las escrituras las cosas que de él eran.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "es-MX",
+      "text": "Y por todos murió, para que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "es-MX",
+      "text": "Y, habiendo hecho paz mediante la sangre de su cruz, por él reconciliar todas las cosas consigo mismo por él, digo, ya sean cosas en la tierra, o cosas en los cielos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "es-MX",
+      "text": "Porque grande es tu misericordia para conmigo y has librado mi alma del infierno más bajo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "es-MX",
+      "text": "Porque ni aun el Hijo del Hombre vino para ser servido, sino para servir, y para dar su vida en rescate por muchos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "es-MX",
+      "text": "Aun cuando estábamos muertos en pecados, nos dio vida juntamente con Cristo, por gracia sois salvos",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "es-MX",
+      "text": "¿Quién es el que condena? Cristo es el que murió, sí, más bien, el que ha resucitado, el que está a la diestra de Dios, el que también intercede por nosotros.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "es-MX",
+      "text": "Porque no ha menospreciado ni aborrecido la aflicción del afligido ni ha escondido de él su rostro sino que cuando clamó a él, oyó.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "es-MX",
+      "text": "Ciertamente llevó nuestras enfermedades, y cargó con nuestros dolores y nosotros le tuvimos por azotado, por herido de Dios y afligido.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "es-MX",
+      "text": "De cierto, de cierto os digo El que oye mi palabra, y cree en el que me envió, tiene vida eterna, y no vendrá a condenación mas ha pasado de muerte a vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "es-MX",
+      "text": "mas que ahora ha sido manifestada por la aparición de nuestro Salvador Jesucristo, el cual quitó la muerte y sacó a luz la vida y la inmortalidad por el evangelio.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "es-MX",
+      "text": "Tú, que me has mostrado grandes y graves tribulaciones, me darás vida de nuevo, y me levantarás de las profundidades de la tierra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "es-MX",
+      "text": "Vengan, y volvamos al SEÑOR porque él nos ha desgarrado, y nos sanará nos ha herido, y nos vendará.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "es-MX",
+      "text": "Y les fueron abiertos los ojos, y le conocieron y él desapareció de su vista.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "es-MX",
+      "text": "Porque con el corazón se cree para justicia y con la boca se hace confesión para salvación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "es-MX",
+      "text": "Porque la palabra de la cruz es locura a los que se pierden mas a los que se salvan, esto es, a nosotros, es poder de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "es-MX",
+      "text": "El fruto del justo es un árbol de vida y el que gana almas es sabio.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "es-MX",
+      "text": "Por tanto, con gozo sacaréis agua de las fuentes de la salvación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "es-MX",
+      "text": "Y así como Moisés levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "es-MX",
+      "text": "El que no escatimó a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "es-MX",
+      "text": "Porque tú has librado mi alma de la muerte, mis ojos de lágrimas y mis pies de resbalar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "es-MX",
+      "text": "Y Jesús le dijo De cierto te digo que hoy estarás conmigo en el paraíso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "es-MX",
+      "text": "sabiendo que fuisteis redimidos de vuestra vana manera de vivir, la cual recibisteis de vuestros padres, no con cosas corruptibles, como oro o plata,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "es-MX",
+      "text": "En tu mano encomiendo mi espíritu me has redimido, oh Jehová, Dios de verdad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "es-MX",
+      "text": "Y cuando hubo dicho esto, les mostró las manos y el costado. Entonces los discípulos se regocijaron al ver al Señor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "es-MX",
+      "text": "Mas gracias sean dadas a Dios, que nos da la victoria por medio de nuestro Señor Jesucristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "es-MX",
+      "text": "El SEÑOR es mi fuerza y mi cántico, y ha sido mi salvación.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "es-MX",
+      "text": "Y mientras iban a dar las nuevas a sus discípulos, he aquí, Jesús les salió al encuentro, diciendo ¡Salve! Y ellas se acercaron y le abrazaron los pies, y le adoraron.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "es-MX",
+      "text": "En quien también vosotros, habiendo oído la palabra de verdad, el evangelio de vuestra salvación, y habiendo creído en él, fuisteis sellados con el Espíritu Santo de la promesa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "es-MX",
+      "text": "A quien Dios levantó, habiendo soltado los dolores de la muerte porque no era posible que fuese retenido por ella.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "es-MX",
+      "text": "Canten al SEÑOR un cántico nuevo porque ha hecho cosas maravillosas su mano derecha y su santo brazo le han dado la victoria.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "es-MX",
+      "text": "En ese día habrá una fuente abierta para la casa de David y para los habitantes de Jerusalén por el pecado y por la impureza.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "es-MX",
+      "text": "Y él les dijo ¿Por qué estáis turbados? ¿y por qué surgen pensamientos en vuestros corazones?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "es-MX",
+      "text": "Porque no me avergüenzo del evangelio de Cristo porque es poder de Dios para salvación a todo aquel que cree al judío primeramente, y también al griego.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "es-MX",
+      "text": "Porque si, cuando éramos enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más, estando reconciliados, seremos salvos por su vida.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "es-MX",
+      "text": "Que redime tu vida de la destrucción que te corona de bondad y misericordias tiernas",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "es-MX",
+      "text": "Sepultados con él en el bautismo, en el cual también sois resucitados con él por la fe en la operación de Dios, que le levantó de los muertos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "es-MX",
+      "text": "Y a vosotros, estando muertos en vuestros pecados y en la incircuncisión de vuestra carne, os dio vida juntamente con él, perdonándoos todos los pecados",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "es-MX",
+      "text": "Los sacrificios de Dios son un espíritu quebrantado un corazón quebrantado y contrito, oh Dios, no despreciarás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "es-MX",
+      "text": "Y les dijo Id por todo el mundo y predicad el evangelio a toda criatura.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "es-MX",
+      "text": "Quien se dio a sí mismo por nosotros, para redimirnos de toda iniquidad, y purificarnos para sí mismo un pueblo peculiar, celoso de buenas obras.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "es-MX",
+      "text": "En esto consiste el amor no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros, y envió a su Hijo en propiciación por nuestros pecados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "es-MX",
+      "text": "Salmo 1307  \nEspere Israel en el SEÑOR porque con el SEÑOR hay misericordia, y con él hay abundante redención.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "es-MX",
+      "text": "Ahora, cuando el centurión y los que estaban con él, vigilando a Jesús, vieron el terremoto y las cosas que habían sucedido, temieron en gran manera, diciendo Verdaderamente este era el Hijo de Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "es-MX",
+      "text": "A quien Dios ha propuesto como propiciación por medio de la fe en su sangre, para manifestar su justicia a causa de la remisión de los pecados pasados, por la paciencia de Dios",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "es-MX",
+      "text": "El Señor no retarda su promesa, según algunos la tienen por tardanza, sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "es-MX",
+      "text": "Espera en el SEÑOR sé de buen ánimo, y él fortalecerá tu corazón espera, digo, en el SEÑOR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "es-MX",
+      "text": "Porque no tengo placer en la muerte del que muere, dice el Señor Dios por tanto, convertíos y vivid.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "es-MX",
+      "text": "Yo soy la puerta por mí, si alguno entra, será salvo y entrará y saldrá, y hallará pasto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "es-MX",
+      "text": "Palabra fiel y digna de ser recibida por todos que Cristo Jesús vino al mundo para salvar a los pecadores, de los cuales yo soy el primero.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "es-MX",
+      "text": "Porque estoy persuadido de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "es-MX",
+      "text": "Porque tú has librado mi alma de la muerte ¿no librarás mis pies de caer, para que ande delante de Dios en la luz de los vivientes?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "es-MX",
+      "text": "Yo, yo mismo, soy el que borra tus transgresiones por amor de mí mismo, y no recordaré tus pecados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "es-MX",
+      "text": "Asimismo, después de haber cenado, tomó la copa, diciendo Esta copa es el nuevo pacto en mi sangre, que por vosotros es derramada.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "es-MX",
+      "text": "Y declarado Hijo de Dios con poder, según el espíritu de santidad, por la resurrección de los muertos",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "es-MX",
+      "text": "Él que es nuestro Dios es el Dios de salvación y a Dios el Señor pertenecen las salidas de la muerte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "es-MX",
+      "text": "En cuanto a ti también, por la sangre de tu pacto he enviado a tus prisioneros fuera del pozo donde no hay agua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "es-MX",
+      "text": "Y les dijo Echad la red a la derecha de la barca, y hallaréis. La echaron, y ya no la podían sacar por la multitud de peces.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "es-MX",
+      "text": "Y Dios levantó al Señor, y también a nosotros levantará con su poder.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "es-MX",
+      "text": "Porque así como en Adán todos mueren, así también en Cristo todos serán vivificados.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "es-MX",
+      "text": "Pero Dios redimirá mi alma del poder de la sepultura porque él me recibirá. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "es-MX",
+      "text": "Pero yo te sacrificaré con voz de acción de gracias pagaré lo que he prometido. La salvación es del SEÑOR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "es-MX",
+      "text": "Y los sacó hasta Betania, y alzó sus manos, y los bendijo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "es-MX",
+      "text": "Y clamaron a gran voz, diciendo ¡La salvación pertenece a nuestro Dios que está sentado en el trono, y al Cordero!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "es-MX",
+      "text": "La salvación pertenece al SEÑOR tu bendición está sobre tu pueblo. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "es-MX",
+      "text": "Porque el SEÑOR es nuestro juez, el SEÑOR es nuestro legislador, el SEÑOR es nuestro rey él nos salvará.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "es-MX",
+      "text": "Porque la gracia de Dios que trae salvación se ha manifestado a todos los hombres,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "es-MX",
+      "text": "Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer y serán una sola carne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "es-MX",
+      "text": "Y todos tus hijos serán enseñados por el SEÑOR y grande será la paz de tus hijos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "es-MX",
+      "text": "Y dijo Por esta causa dejará el hombre a su padre y a su madre, y se unirá a su mujer y los dos serán una sola carne.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "es-MX",
+      "text": "Hijos, obedeced a vuestros padres en el Señor, porque esto es justo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "es-MX",
+      "text": "Honra a tu padre y a tu madre para que tus días sean prolongados en la tierra que el SEÑOR tu Dios te da.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "es-MX",
+      "text": "Instruye al niño en su camino, y aun cuando fuere viejo, no se apartará de él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "es-MX",
+      "text": "Y les daré un corazón para que me conozcan, que yo soy el SEÑOR y ellos serán mi pueblo, y yo seré su Dios porque volverán a mí con todo su corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "es-MX",
+      "text": "Y descendió con ellos, y vino a Nazaret, y estaba sujeto a ellos pero su madre guardaba todas estas cosas en su corazón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "es-MX",
+      "text": "Padres, no exasperen a sus hijos, para que no se desanimen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "es-MX",
+      "text": "Y mi pueblo habitará en morada de paz, y en habitaciones seguras, y en lugares de reposo tranquilos",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "es-MX",
+      "text": "Porque cualquiera que hiciere la voluntad de Dios, ese es mi hermano, y mi hermana, y madre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "es-MX",
+      "text": "Y las enseñarás diligentemente a tus hijos, y hablarás de ellas cuando te sientes en tu casa, y cuando andes por el camino, y cuando te acuestes, y cuando te levantes.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "es-MX",
+      "text": "Y las calles de la ciudad estarán llenas de niños y niñas jugando en sus calles.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "es-MX",
+      "text": "Si vosotros, pues, siendo malos, sabéis dar buenas dádivas a vuestros hijos ¿cuánto más vuestro Padre celestial dará el Espíritu Santo a los que se lo pidan?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "es-MX",
+      "text": "Mas nosotros fuimos tiernos entre vosotros, como la madre que cuida a sus propios hijos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "es-MX",
+      "text": "Dios hace habitar en familia a los solitarios saca a los cautivos con cadenas pero los rebeldes habitan en tierra seca.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "es-MX",
+      "text": "Los hijos de los hijos son la corona de los ancianos y la gloria de los hijos son sus padres.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "es-MX",
+      "text": "Si vosotros, pues, siendo malos, sabéis dar buenas dádivas a vuestros hijos, ¿cuánto más vuestro Padre que está en los cielos dará buenas cosas a los que le pidan?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

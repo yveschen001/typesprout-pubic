@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "ko-KR",
+      "text": "내가 감사의 소리를 내어 주의 모든 놀라운 일을 전하리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "ko-KR",
+      "text": "아버지께 감사하되, 그가 우리를 성도들의 유업에 참여하게 하신 분이시니.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "ko-KR",
+      "text": "그는 겸손한 자를 정의로 인도하시고, 겸손한 자에게 그의 길을 가르치시리로다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "ko-KR",
+      "text": "그러나 그는 더 큰 은혜를 주시나니, 그러므로 말하기를, 하나님은 교만한 자를 대적하시고, 겸손한 자에게 은혜를 주신다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "ko-KR",
+      "text": "여호와를 경외하는 것이 지혜를 가르치고, honor 앞에 겸손이 있느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "ko-KR",
+      "text": "자기를 높이는 자는 낮아질 것이요, 자기를 낮추는 자는 높아지리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "ko-KR",
+      "text": "그리스도를 경외함으로 서로 복종하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "ko-KR",
+      "text": "그러므로 하나님의 강한 손 아래에서 겸손하라. 그가 때가 이르면 너희를 높이시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "ko-KR",
+      "text": "파멸에 이르기 전에 사람의 마음은 교만하나, honor 앞에 겸손이 있느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "ko-KR",
+      "text": "너희가 만일 기꺼이 순종하면, 너희는 그 땅의 좋은 것을 먹으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "ko-KR",
+      "text": "그러므로 누구든지 이 어린아이와 같이 자기를 낮추는 자가 천국에서 가장 큰 자니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "ko-KR",
+      "text": "너희 안에 이 마음을 품으라. 이는 그리스도 예수 안에도 있었던 것이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "ko-KR",
+      "text": "그러므로 하나님께서 선택한 거룩하고 사랑받는 자들로서, 긍휼과 친절과 겸손과 온유와 인내의 마음을 입으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "ko-KR",
+      "text": "주 앞에서 겸손하라. 그리하면 그가 너희를 높이시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "ko-KR",
+      "text": "사람의 교만은 그를 낮추고, 겸손한 자는 honor를 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "ko-KR",
+      "text": "너희 중에 큰 자가 되려거든, 너희를 섬기는 자가 되라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "ko-KR",
+      "text": "여호와께서 겸손한 자를 붙드시고, 악한 자를 땅에 엎드리게 하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "ko-KR",
+      "text": "겸손한 자는 여호와 안에서 기쁨이 더할 것이요, 사람 중에 가난한 자는 이스라엘의 거룩하신 이로 인하여 기뻐하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "ko-KR",
+      "text": "너희 중에 첫째가 되고자 하는 자는 너희의 종이 될지니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "ko-KR",
+      "text": "그러므로 모든 더러운 것과 넘치는 악을 버리고, 너희 영혼을 구원할 수 있는 말씀을 겸손으로 받으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "ko-KR",
+      "text": "그러나 겸손한 자들은 땅을 차지하며, 평안의 풍성함을 즐길 것이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "ko-KR",
+      "text": "다른 사람이 너를 칭찬하게 하고, 너의 입이 아니라 낯선 자가 칭찬하게 하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "ko-KR",
+      "text": "온유한 자는 복이 있나니 그들이 땅을 기업으로 받을 것임이요.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "ko-KR",
+      "text": "왕 앞에서 스스로 높이지 말고, 귀인들 가운데 자리를 차지하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "ko-KR",
+      "text": "너희 중에 누구든지 첫째가 되고자 하는 자는 모든 사람의 종이 되어야 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "ko-KR",
+      "text": "내가 너희에게 이르노니, 이 사람이 다른 사람보다 의롭다 하여 집으로 내려갔느니라. 자기를 높이는 자는 낮아질 것이요, 자기를 낮추는 자는 높아질 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "ko-KR",
+      "text": "여호와는 그를 경외하는 자와 그의 인자하심을 바라는 자를 기뻐하시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "ko-KR",
+      "text": "그러나 그들은 듣지 아니하고 귀를 기울이지 아니하고, 자기의 계획과 악한 마음의 완고함을 따라 행하며, 뒤로 물러가고 앞으로 나아가지 아니하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "ko-KR",
+      "text": "시온의 딸에게 이르기를, 보라, 네 왕이 너에게 오신다. 그는 겸손하여 나귀, 곧 나귀의 새끼를 타고 오신다 하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "ko-KR",
+      "text": "그러므로 너희는 주를 위하여 사람의 모든 제도를 복종하라. 최고 권세자인 왕에게도.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "ko-KR",
+      "text": "그는 반드시 증가해야 하겠고, 나는 감소해야 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "ko-KR",
+      "text": "복된 소망과 우리 큰 하나님이요 구주이신 예수 그리스도의 영광의 나타나심을 기다리노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "ko-KR",
+      "text": "그가 아들을 낳으리니, 너는 그의 이름을 예수라 하라. 그는 자기 백성을 그들의 죄에서 구원할 자이심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "ko-KR",
+      "text": "내가 여호와를 기다리며, 내 영혼이 기다리며, 그의 말씀을 바라는도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "ko-KR",
+      "text": "어둠에 행하던 백성이 큰 빛을 보았고, 사망의 그늘에 거하던 자들에게 빛이 비추었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "ko-KR",
+      "text": "말씀이 육신이 되어 우리 가운데 거하시매, 우리가 그의 영광을 보니, 아버지의 독생자의 영광이요, 은혜와 진리가 충만하더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "ko-KR",
+      "text": "천사가 그들에게 이르되, 두려워하지 말라. 보라, 내가 너희에게 온 백성을 위한 큰 기쁨의 좋은 소식을 전하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "ko-KR",
+      "text": "그러나 나는 항상 소망하며, 주의 모든 찬양에 더하리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "ko-KR",
+      "text": "모든 사람을 비추는 참 빛이 세상에 오셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "ko-KR",
+      "text": "죄의 삯은 사망이요, 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "ko-KR",
+      "text": "여호와를 기다리라. 강하고 담대하라. 여호와를 기다리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "ko-KR",
+      "text": "그러나 내 이름을 경외하는 너희에게는 의의 해가 떠올라서 그 날개에 치료가 있겠고, 너희는 나가서 외양간의 송아지처럼 뛰리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "ko-KR",
+      "text": "지극히 높은 곳에서는 하나님께 영광이요, 땅에서는 평화요, 사람에게는 기쁨이로다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "ko-KR",
+      "text": "외치는 자의 소리가 이르기를, 여호와의 길을 예비하라. 광야에서 우리 하나님을 위하여 평탄한 길을 만들라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "ko-KR",
+      "text": "너희 믿음의 결과, 곧 너희 영혼의 구원을 받으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "ko-KR",
+      "text": "별을 보고 매우 큰 기쁨으로 기뻐하더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "ko-KR",
+      "text": "너는 지혜가 네 영혼에 유익함을 알게 될 것이요. 만일 그것을 발견하면, 보상이 있으리니, 너의 소망이 끊어지지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "ko-KR",
+      "text": "여호와의 말씀이니라. 보라, 날이 이르리니, 내가 다윗에게 의로운 가지를 일으키리라. 그가 왕이 되어 지혜롭게 다스리며, 땅에서 정의와 공의를 실행하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "ko-KR",
+      "text": "그러나 우리 구주 하나님의 인자하심과 인류에 대한 그의 사랑이 나타날 때에.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "ko-KR",
+      "text": "보라, 처녀가 잉태하여 아들을 낳으리니, 그의 이름을 임마누엘이라 하리라. 해석하면 하나님이 우리와 함께 계시다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "ko-KR",
+      "text": "우리 마음이 그를 기뻐하나니, 이는 우리가 그의 거룩한 이름을 의뢰하였음이니이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "ko-KR",
+      "text": "목자들이 돌아가며, 그들이 듣고 본 모든 것에 대하여 하나님께 영광을 돌리며 찬양하였더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "ko-KR",
+      "text": "우리의 시민권은 하늘에 있는지라. 거기서도 구주, 곧 주 예수 그리스도를 기다리노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "ko-KR",
+      "text": "그러나 의인의 구원은 여호와께로부터 오는 것이라. 그는 환난 날에 그들의 피난처가 되시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "ko-KR",
+      "text": "우리 하나님이신 자비로운 인자 때문에, 높은 곳에서 떠오르는 아침이 우리에게 임하실 것이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "ko-KR",
+      "text": "이르시며, 때가 찼고, 하나님의 나라가 가까이 왔으니, 회개하고 복음을 믿으라 하시더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "ko-KR",
+      "text": "하나님이 내 영혼을 스올의 권세에서 구속하시리니, 그가 나를 받으시리라. 셀라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "ko-KR",
+      "text": "그 날들과 그 때에 내가 다윗에게 의로운 가지를 일으키리니, 그가 땅에서 정의와 공의를 실행하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "ko-KR",
+      "text": "내가 그들에게 영생을 주노니, 그들은 결코 멸망하지 아니할 것이요, 아무도 그들을 내 손에서 빼앗지 못하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "ko-KR",
+      "text": "우리가 소망으로 구원을 얻었으니, 보이는 소망은 소망이 아니니, 보이는 것을 누가 바라리요?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "ko-KR",
+      "text": "내 눈이 주의 구원을 보았나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "ko-KR",
+      "text": "그의 이름은 영원히 지속되며, 그의 이름은 해가 있는 한 계속되리니, 사람들이 그로 말미암아 복을 받을 것이요, 모든 민족이 그를 복되다 할 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "ko-KR",
+      "text": "어둠에 앉은 백성이 큰 빛을 보았고, 사망의 그늘에 앉은 자들에게 빛이 비추었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "ko-KR",
+      "text": "때가 차매 하나님이 그의 아들을 보내셨으니, 여인에게서 나시고, 율법 아래 나신 자라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "ko-KR",
+      "text": "그에게 이르기를, 만군의 여호와가 이르노라. 보라, 그의 이름이 가지라. 그는 그의 곳에서 자라나서 여호와의 성전을 건축하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "ko-KR",
+      "text": "찬송하리로다. 주 이스라엘의 하나님이여, 그가 그의 백성을 방문하시고 구속하셨으니.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "ko-KR",
+      "text": "그를 통하여 하나님을 믿는 자들이니, 그를 죽은 자 가운데서 일으키시고 영광을 주사, 너희의 믿음과 소망이 하나님 안에 있게 하려 하심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "ko-KR",
+      "text": "예수께서 지혜와 키가 자라가시고, 하나님과 사람에게 은총을 더하셨더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "ko-KR",
+      "text": "그 날에 그들이 다시는 이르기를, 아버지들이 신 신 포도를 먹었으므로 자식들의 이가 시리다 하지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "ko-KR",
+      "text": "예수께서 이르시되, 어린 아이들을 내게 오게 하라. 금하지 말라. 천국은 이런 자의 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "ko-KR",
+      "text": "자녀들아, 모든 일에 부모에게 순종하라. 이것이 주를 기쁘시게 하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "ko-KR",
+      "text": "오늘 내가 너희에게 명하는 이 말씀을 너희의 마음에 두고.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "ko-KR",
+      "text": "그때에 우리의 아들들은 잘 자란 나무 같고, 우리의 딸들은 궁전을 장식하는 기둥 같으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "ko-KR",
+      "text": "내가 너희에게 새 계명을 주노니, 서로 사랑하라. 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "ko-KR",
+      "text": "사람의 지혜는 그를 더디게 하게 하며, 범죄를 용서하는 것이 그의 영광이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "ko-KR",
+      "text": "그러나 내가 너희 중에 가난하고 고난당하는 백성을 남기리니, 그들이 여호와의 이름을 의뢰하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "ko-KR",
+      "text": "내게 오는 자와 내 말을 듣고 행하는 자를 내가 너희에게 비유하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "ko-KR",
+      "text": "주여, 나에게 선한 판단과 지식을 가르치소서. 내가 주의 계명들을 믿나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "ko-KR",
+      "text": "이 네 젊은이들에게는 하나님이 모든 학문과 지혜에 대한 지식과 재능을 주셨고, 다니엘은 모든 환상과 꿈을 깨닫는 명철을 가졌더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "ko-KR",
+      "text": "그러므로 너희는 어리석지 말고, 주의 뜻이 무엇인지 깨달으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "ko-KR",
+      "text": "주여, 주의 진리로 나를 인도하시고, 나를 가르치소서. 주는 나의 구원의 하나님이시니, 내가 종일 주를 기다립니다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "ko-KR",
+      "text": "구하는 자마다 받으며, 찾는 자가 찾고, 두드리는 자에게 열릴 것입니다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "ko-KR",
+      "text": "지혜로운 지도자가 없으면 백성이 망하고, 많은 상담자들 가운데서 승리가 있습니다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "ko-KR",
+      "text": "주께서 나를 당신의 상담으로 인도하시고, 후에 나를 영광에 받으시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "ko-KR",
+      "text": "하늘이 땅보다 높음 같이, 나의 길은 너의 길보다 높고, 나의 생각은 너의 생각보다 높으니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "ko-KR",
+      "text": "그러나 그가 대답하여 이르되, 오히려 하나님의 말씀을 듣고 지키는 자가 복이 있느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "ko-KR",
+      "text": "여호와여, 나는 사람이 자기 스스로의 길을 알지 못함을 아나이다. 걸어가는 자에게 그의 발을 인도할 수 있는 것이 없습니다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "ko-KR",
+      "text": "미련한 자의 길은 자기 눈에 옳으나, 지혜로운 자는 상담을 듣느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "ko-KR",
+      "text": "너희는 스스로 무엇이 옳은지를 판단하지 아니하느냐?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "ko-KR",
+      "text": "우리 주 예수 그리스도의 하나님, 영광의 아버지께서 너희에게 지혜와 계시의 영을 주사 그를 아는 지식이 있게 하시기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "ko-KR",
+      "text": "사람의 마음에는 많은 계획이 있으나, 여호와의 뜻이 이루어지리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "ko-KR",
+      "text": "나는 나의 파수대에 서고, 성벽에 나를 세우고, 그가 내게 무엇을 말씀하실지, 나의 불평에 대하여 무엇이라고 대답할지를 보리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "ko-KR",
+      "text": "모든 사람의 길은 자기 눈에 옳으나, 여호와께서 마음을 감찰하시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "ko-KR",
+      "text": "여호와를 찾으라, 땅의 모든 겸손한 자들아, 그의 규례를 지킨 자들아. 의를 구하고, 겸손을 구하라. 여호와의 분노의 날에 숨겨질 수 있기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "ko-KR",
+      "text": "너희는 마땅히 이르기를, 주께서 원하시면, 우리가 살고, 이것이나 저것을 하리라. 하여야 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "ko-KR",
+      "text": "아침에 주의 인자하심을 내게 들려 주시고, 내가 주를 의뢰하오니, 내가 걸어야 할 길을 알게 하소서. 내 영혼을 주께 올리나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "ko-KR",
+      "text": "내게 부르짖으라, 그리하면 내가 너에게 응답하겠고, 네가 알지 못하는 크고 비밀한 일을 보이리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "ko-KR",
+      "text": "그러나 보혜사, 곧 아버지께서 내 이름으로 보내실 성령이 너희에게 모든 것을 가르치시고, 내가 너희에게 말한 모든 것을 생각나게 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "ko-KR",
+      "text": "여호와께서 의인의 길을 아시나, 악인의 길은 멸망하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "ko-KR",
+      "text": "영적인 자는 모든 것을 분별하나, 그는 아무에게도 판단을 받지 아니하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "ko-KR",
+      "text": "그러므로 이제 만군의 여호와께서 이같이 말씀하시기를, 너희의 길을 살펴보라. 하셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "ko-KR",
+      "text": "구하는 자마다 받으며, 찾는 자가 찾고, 두드리는 자에게 열릴 것입니다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "ko-KR",
+      "text": "누구든지 나를 섬기려면, 나를 따르라. 내가 있는 곳에 나의 종도 있을 것이요. 누구든지 나를 섬기면, 아버지께서 그를 존귀히 여기시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "ko-KR",
+      "text": "하나님의 영에 인도받는 자들은 곧 하나님의 아들이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "ko-KR",
+      "text": "예수께서 대답하여 이르시되, 기록된 바, 사람이 떡으로만 살 것이 아니요, 하나님의 입에서 나오는 모든 말씀으로 살 것이라. 하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "ko-KR",
+      "text": "우리를 위하여 기도하라. 우리는 모든 일에 양심이 선하다고 확신하며, 모든 일에 정직하게 살기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "ko-KR",
+      "text": "지혜로 집이 세워지고, 명철로 그것이 견고하게 되느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "ko-KR",
+      "text": "여호와여, 주의 길을 내게 가르치소서. 내가 주의 진리 안에서 행하리이다. 내 마음을 주의 이름을 경외하게 하소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "ko-KR",
+      "text": "그 날과 그 때에, 내가 다윗에게 의의 가지가 나게 하리니, 그가 땅에서 정의와 의를 행하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "ko-KR",
+      "text": "그러나 필요한 것은 한 가지라. 마리아가 좋은 부분을 택하였으니, 그것은 빼앗기지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "ko-KR",
+      "text": "여호와 안에서 쉬고, 그를 기다리라. 그 길에서 형통한 자로 인하여 불평하지 말라. 악한 꾀를 꾸미는 자로 인하여 불안해하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "ko-KR",
+      "text": "너희가 이러한 것을 알거든, 그것을 행하는 자가 복이 있느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "ko-KR",
+      "text": "너희 마음의 눈이 밝아져서, 그의 부르심의 소망이 무엇이며, 성도들 가운데 그의 유업의 영광의 풍성함이 무엇인지 알게 하시기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "ko-KR",
+      "text": "내 아들아, 그것들이 네 눈에서 떠나지 않게 하라. 건전한 지혜와 분별을 지키라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "ko-KR",
+      "text": "너희의 순종이 모든 사람에게 알려졌으니, 그러므로 내가 너희를 기뻐하노라. 그러나 나는 너희가 선한 것에 대하여 지혜롭고, 악한 것에 대하여 무죄하기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "ko-KR",
+      "text": "듣기 전에 대답하는 자는 미련하고 수치스러운 자니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "ko-KR",
+      "text": "여호와여, 주께서 겸손한 자의 소원을 들으셨나이다. 그들의 마음을 준비하시고, 주의 귀를 열어 주시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "ko-KR",
+      "text": "내가 급히 주의 계명을 지키고 지체하지 아니하리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "ko-KR",
+      "text": "우리에게 가르치고, 경건하지 않은 것과 세상의 정욕을 부인하게 하여, 이 현재의 세대에서 신중하고 의롭게 경건하게 살게 하려 하심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "ko-KR",
+      "text": "여호와의 친밀함은 그를 경외하는 자와 함께 하시고, 그들의 언약을 그들에게 보이시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "ko-KR",
+      "text": "내가 네 명령을 들었더라면, 네 평안이 강과 같고, 네 의가 바다의 물결 같았으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "ko-KR",
+      "text": "여호와를 신뢰하는 자는 복이 있나니, 여호와를 의뢰하는 자는 복이 있도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "ko-KR",
+      "text": "너희가 나를 사랑하면, 나의 계명을 지키라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "ko-KR",
+      "text": "내가 나에게 상담을 주신 여호와를 찬송하리니, 내 마음이 밤에 나를 교훈하도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "ko-KR",
+      "text": "말을 아끼는 자는 지혜가 있고, 온유한 자는 명철한 자니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "ko-KR",
+      "text": "보라, 내가 새 일을 행하리니, 이제 나타나리라. 너희가 알지 못하느냐? 내가 광야에 길을 내고, 사막에 강을 내리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "ko-KR",
+      "text": "우리가 성령으로 살면, 성령으로 행할지니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "ko-KR",
+      "text": "그러므로 나는 주의 모든 규례가 옳다고 생각하나이다. 나는 모든 거짓된 길을 미워하나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "ko-KR",
+      "text": "그러나 사랑 안에서 진리를 말하여, 우리가 모든 일에 그에게까지 자라게 하여, 그는 머리 곧 그리스도시라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "ko-KR",
+      "text": "지혜를 얻는 자는 복이 있나니, 명철을 얻는 자는 복이 있도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "ko-KR",
+      "text": "여호와여, 주께서 겸손한 자의 소원을 들으셨나이다. 그들의 마음을 준비하시고, 주의 귀를 열어 주시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "ko-KR",
+      "text": "내가 급히 주의 계명을 지키고 지체하지 아니하리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "ko-KR",
+      "text": "모든 성경은 하나님의 감동으로 된 것으로, 가르침과 책망과 교훈과 의의 훈련에 유익하니,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "ko-KR",
+      "text": "정직한 자의 정직함이 그들을 인도하겠고, 패역한 자의 패역함이 그들을 멸망하게 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "ko-KR",
+      "text": "젊은이가 어떻게 그의 길을 깨끗하게 하리요? 주의 말씀에 따라 행함으로다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "ko-KR",
+      "text": "믿음이 없이는 하나님을 기쁘시게 할 수 없나니, 하나님께 나아가는 자는 그가 계신 것과, 자기를 찾는 자에게 상 주시는 이심을 믿어야 할지니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "ko-KR",
+      "text": "법을 지키는 자는 지혜로운 아들이요, 폭식하는 자의 친구는 아버지를 부끄럽게 하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "ko-KR",
+      "text": "내 눈은 항상 여호와를 바라보나니, 그는 내 발을 그물에서 건져내시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "ko-KR",
+      "text": "육신을 따라 사는 자는 육신의 일을 생각하고, 영을 따라 사는 자는 영의 일을 생각하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "ko-KR",
+      "text": "단순한 자는 모든 것을 믿으나, 신중한 자는 그의 길을 살펴보느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "ko-KR",
+      "text": "내가 온 마음으로 주를 찾았사오니 주의 계명에서 나를 떠나게 하지 마옵소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "ko-KR",
+      "text": "명철의 길에서 떠나는 자는 사망의 모임에 편안히 쉬리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "ko-KR",
+      "text": "그들은 그의 가르침에 놀라니 이는 그가 서기관들과 같이 가르치지 아니하고 권위 있는 자와 같이 가르치심이더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "ko-KR",
+      "text": "우리는 모두 많은 일에 실족하나니 말에 실족하지 아니하는 자는 완전한 자요, 온 몸도 제어할 수 있는 자니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "ko-KR",
+      "text": "내 아들아, 훈계를 듣기를 그치면 지식의 말씀에서 떠나리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "ko-KR",
+      "text": "내가 주의 규례를 영원히 행하기로 내 마음을 정하였나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "ko-KR",
+      "text": "너희 중에 누가 여호와를 경외하며 그의 종의 말을 듣는 자냐? 어두운 데 행하며 빛이 없는 자는 여호와의 이름을 의뢰하고 그의 하나님을 의지할지어다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "ko-KR",
+      "text": "그러면 충성되고 지혜로운 종이 누구냐? 주인이 그를 세워 자기 집에 두고 제때에 양식을 나누게 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "ko-KR",
+      "text": "너희가 흠 없고 순전한 하나님의 자녀가 되어 비뚤고 굽은 세대 가운데서 흠 없는 자로 나타나게 하려 함이니, 너희는 세상에서 빛으로 나타나느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "ko-KR",
+      "text": "교훈을 받는 자는 생명의 길에 있으나, 책망을 버리는 자는 다른 사람을 미혹하게 하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "ko-KR",
+      "text": "너는 말들을 가지고 여호와께로 돌아오고, 그에게 이르기를, 우리의 모든 죄를 용서하시고, 선한 것을 받아 주시옵소서. 그러므로 우리가 입술의 맹세대로 수소를 드리리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "ko-KR",
+      "text": "너희 중에 누가 탑을 세우고자 할진대, 먼저 앉아 그 비용을 계산하여 완공할 만한 것이 있는가 살펴보지 않겠느냐?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "ko-KR",
+      "text": "주께서 내게 말씀하신 바, 내 말이 발견되었고, 내가 그것을 먹었나이다. 주의 말씀이 내게 기쁨과 내 마음의 즐거움이 되었나이다. 이는 내가 주의 이름을 부름이니이다, 만군의 여호와여.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "ko-KR",
+      "text": "여호와는 선하고 정직하시니, 그러므로 그는 죄인에게 길을 가르치시리로다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "ko-KR",
+      "text": "보라, 내 종이 지혜롭게 행하리니, 그는 높임을 받고 높아지며 매우 높아지리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "ko-KR",
+      "text": "모든 지혜로운 자는 지식으로 행하나, 미련한 자는 어리석음을 드러내느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "ko-KR",
+      "text": "주의 말씀으로 내 발을 정하시고, 어떤 악도 나를 지배하지 못하게 하소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "ko-KR",
+      "text": "몸의 등불은 눈이니, 그러므로 네 눈이 성하면 온 몸이 빛으로 가득할 것이요, 눈이 나쁘면 몸도 어둠으로 가득하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "ko-KR",
+      "text": "이제 평강의 하나님이신 예수의 피로 영원한 언약의 큰 목자이신 우리 주 예수를 죽은 자 가운데서 다시 살리신 하나님이시여,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "ko-KR",
+      "text": "명철한 자의 마음은 지식을 구하나, 미련한 자의 입은 어리석음을 먹느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "ko-KR",
+      "text": "주 여호와께서 아무 일도 행하지 아니하시고, 그의 종 선지자들에게 그의 비밀을 나타내지 아니하시고는 아무 일도 행하지 아니하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "ko-KR",
+      "text": "내 양은 내 음성을 듣고, 나는 그들을 알고, 그들은 나를 따르느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "ko-KR",
+      "text": "성령을 소멸하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "ko-KR",
+      "text": "사람의 마음에 있는 계획은 깊은 물과 같으나, 명철한 자는 그것을 끌어내느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "ko-KR",
+      "text": "이르시되, 때가 찼고 하나님의 나라가 가까이 왔으니, 회개하고 복음을 믿으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "ko-KR",
+      "text": "그러나 자유의 온전한 법을 들여다보고 잊어버리는 자가 아니라, 그 일을 행하는 자가 되면 이 사람은 자기가 행하는 일에 복을 받으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "ko-KR",
+      "text": "폭력의 사람을 부러워하지 말고 그의 모든 길을 택하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "ko-KR",
+      "text": "또한 주의 종은 그들로 말미암아 경고를 받나니, 그것을 지킴으로 큰 보상이 있느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "ko-KR",
+      "text": "여호와를 알자, 여호와를 알기 위하여 힘쓰자. 해가 떠오르는 것 같이 여호와께서 우리에게 임하시리니, 그는 비처럼, 땅을 적시는 봄비처럼 우리에게 임하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "ko-KR",
+      "text": "귀 있는 자는 들을지어다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "ko-KR",
+      "text": "노하기를 더디하는 자는 큰 명철이 있으나, 성급한 자는 어리석음을 드러내느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "ko-KR",
+      "text": "예수께서 대답하여 이르시되, 기록되었으되, 사람이 떡으로만 살 것이 아니요, 하나님의 모든 말씀으로 살 것이라. 하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "ko-KR",
+      "text": "지식이 없는 열심은 좋지 아니하며, 발이 급하여 길을 잃는 것도 좋지 아니하니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "ko-KR",
+      "text": "내가 내 길을 생각하고 주의 규례로 내 발을 돌이켰나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "ko-KR",
+      "text": "누가 은밀한 곳에 스스로 숨을 수 있느냐? 내가 그를 보지 못하겠느냐? 여호와의 말씀이니라. 내가 하늘과 땅을 채우지 아니하겠느냐? 여호와의 말씀이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "ko-KR",
+      "text": "형제들아, 내가 아직 잡은 것으로 여기지 아니하고 오직 한 가지, 뒤에 있는 것은 잊어버리고 앞에 있는 것을 향하여 나아가노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "ko-KR",
+      "text": "의의 길에는 생명이 있고, 그 길에는 사망이 없느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "ko-KR",
+      "text": "보라, 내가 주의 규례를 사모하나이다! 주의 의로 나를 소생시키소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "ko-KR",
+      "text": "여호와여, 주는 나의 하나님이시니 내가 주를 높이고, 주의 이름을 찬양하리니, 주께서 놀라운 일을 행하셨고, 오래 전에 계획하신 일들을 신실하게 이루셨음이니이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "ko-KR",
+      "text": "우리는 다 양 같아서 그릇 행하였고, 각기 제 길로 갔거늘 여호와께서는 우리 모두의 죄악을 그에게 담당시키셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "ko-KR",
+      "text": "행위로 말미암지 아니하나니, 이는 누구든지 자랑하지 못하게 하려 함이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "ko-KR",
+      "text": "모든 사람이 죄를 범하였으매 하나님의 영광에 이르지 못하더니,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "ko-KR",
+      "text": "여호와를 경외하는 것은 생명의 샘이니, 사람을 사망의 올무에서 벗어나게 하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "ko-KR",
+      "text": "이튿날 요한이 예수께서 자기에게 오시는 것을 보고 이르되, 보라, 세상의 죄를 지고 가는 하나님의 어린 양이로다!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "ko-KR",
+      "text": "그가 나를 심히 깊은 웅덩이에서, 진흙에서 끌어올리시고, 내 발을 반석 위에 두사 내 걸음을 견고하게 하셨도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "ko-KR",
+      "text": "이틀 후에 그가 우리를 소생시키시리니, 제삼일에 우리를 일으키시고, 우리가 그의 앞에서 살리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "ko-KR",
+      "text": "그가 우리를 어둠의 권세에서 건져내시고 그의 사랑의 아들의 나라로 옮기셨으니,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "ko-KR",
+      "text": "내가 하나님의 은혜를 폐하지 아니하노니, 만일 의가 율법으로 말미암으면 그리스도께서 헛되이 죽으셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "ko-KR",
+      "text": "그러므로 형제들아, 우리가 예수의 피로 성소에 들어갈 담대함을 가지자.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "ko-KR",
+      "text": "나에게 주의 구원의 기쁨을 회복시켜 주시고, 자원하는 심령으로 나를 붙드소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "ko-KR",
+      "text": "재물은 진노의 날에 유익하지 못하나, 의는 사망에서 건져내느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "ko-KR",
+      "text": "우리의 마음을 진실한 마음으로 가득 채우고, 악한 양심에서 뿌림을 받고, 몸을 깨끗한 물로 씻어 성소에 가까이 나아가자.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "ko-KR",
+      "text": "예수 그리스도와, 신실한 증인과, 죽은 자들 가운데서 먼저 나신 자와, 땅의 왕들의 주께서, 우리를 사랑하시고, 그의 피로 우리의 죄에서 씻으신 이에게",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "ko-KR",
+      "text": "백부장이 예수의 곁에 서서 그가 이렇게 외치고 숨을 거두는 것을 보고 이르되, 진실로 이 사람은 하나님의 아들이었도다!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "ko-KR",
+      "text": "죄를 알지 못하신 이를 우리를 위하여 죄로 삼으신 것은, 우리로 하여금 그 안에서 하나님의 의가 되게 하려 하심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "ko-KR",
+      "text": "회오리 바람이 지나가면 악인은 더 이상 없으나, 의인은 영원히 굳게 서리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "ko-KR",
+      "text": "염소와 송아지의 피로 말미암지 아니하고, 오직 자기의 피로 단번에 성소에 들어가서 영원한 속죄를 얻으셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "ko-KR",
+      "text": "그들은 어린 양의 피와 그들의 증거의 말씀으로 그를 이기었고, 그들은 죽기까지 자기의 생명을 사랑하지 아니하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "ko-KR",
+      "text": "재물에 의지하는 자는 넘어질 것이나, 의인은 푸른 잎과 같이 번성하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "ko-KR",
+      "text": "온전하게 행하는 자는 안전할 것이나, 비뚤어진 길을 걷는 자는 갑자기 넘어지리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "ko-KR",
+      "text": "그리고 그의 이름으로 모든 민족에게 회개와 죄 사함이 전파되어야 하리라. 예루살렘에서 시작하여.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "ko-KR",
+      "text": "그가 율법 아래 있는 자들을 구속하시고, 우리가 자녀의 입양을 받게 하려 하심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "ko-KR",
+      "text": "보라, 보좌에 앉으신 이가 말씀하시되, 보라, 내가 모든 것을 새롭게 하노라. 또 말씀하시되, 이 말은 신실하고 참된 하나님의 말씀이라. 기록하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "ko-KR",
+      "text": "아, 주 여호와여! 보소서, 주께서 큰 능력과 편 팔로 하늘과 땅을 만드셨나이다. 주께는 어려운 일이 없나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "ko-KR",
+      "text": "누가 하나님의 택하신 자를 고발하리요? 하나님이 의롭다 하시니.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "ko-KR",
+      "text": "그 안에서 발견되려 하며, 내 의가 아니라, 율법에서 난 것이 아니라, 그리스도 안에서 믿음으로 말미암아 난 의, 곧 하나님으로부터 난 의를 가지려 하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "ko-KR",
+      "text": "지혜자의 교훈은 생명의 샘이라, 사망의 올무에서 벗어나게 하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "ko-KR",
+      "text": "그가 한 제물로 거룩하게 되는 자들을 영원히 온전하게 하셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "ko-KR",
+      "text": "하나님의 모든 말씀은 순전하니, 그를 의뢰하는 자에게 방패가 되시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "ko-KR",
+      "text": "보라, 그의 마음은 교만하니, 그의 속은 정직하지 아니하나, 의인은 그의 믿음으로 말미암아 살리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "ko-KR",
+      "text": "그리고 내가 만일 땅에서 들리면 모든 사람을 내게로 이끌리라 하시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "ko-KR",
+      "text": "우리를 구원하시고 거룩한 부르심으로 부르신 이는 우리의 행위에 따라 하신 것이 아니요, 오직 자기의 뜻과 은혜에 따라 하신 것이라. 이 은혜는 영원 전 그리스도 예수 안에서 우리에게 주어진 것이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "ko-KR",
+      "text": "너는 여호와를 네 마음을 다하여 신뢰하고, 네 명철에 의지하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "ko-KR",
+      "text": "그러므로 그리스도께서 우리를 자유롭게 하신 그 자유 안에 굳게 서서, 다시는 종의 멍에를 메지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "ko-KR",
+      "text": "그가 내게 말씀하시되, 나는 알파와 오메가요, 처음과 나중이라. 내가 목마른 자에게 생명수의 샘에서 값없이 주리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "ko-KR",
+      "text": "소원이 이루어지면 영혼에 달콤하나, 악에서 돌이키는 것을 미워하는 자는 미련한 자니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "ko-KR",
+      "text": "우리가 그의 죽으심의 형체와 연합한 자가 되었으면, 또한 그의 부활의 형체와 연합할 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "ko-KR",
+      "text": "죽음으로 끌려가는 자를 구원하라! 도살로 비틀거리는 자를 붙잡으라!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "ko-KR",
+      "text": "여호와께서 너의 판단을 제거하셨고, 너의 원수를 쫓아내셨느니라. 이스라엘의 왕 여호와가 너희 중에 계시니, 너희는 다시는 악을 두려워하지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "ko-KR",
+      "text": "그는 우리의 죄를 위한 화목제물이며, 우리의 죄만을 위한 것이 아니요, 온 세상의 죄를 위한 것이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "ko-KR",
+      "text": "누가 말할 수 있으리요, 내 마음을 깨끗하게 하였노라. 나는 깨끗하고 죄가 없노라?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "ko-KR",
+      "text": "그의 은혜로 의롭다 하심을 받아, 영생의 소망에 따라 상속자가 되게 하려 하심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "ko-KR",
+      "text": "영과 신부가 말하되, 오라! 듣는 자도 말하되, 오라! 목마른 자도 오라. 원하는 자는 값없이 생명수를 받으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "ko-KR",
+      "text": "내 아들아, 내 마음을 내게 주고, 네 눈으로 내 길을 지키라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "ko-KR",
+      "text": "그러나 내가 그에게 주는 물을 마시는 자는 결코 목마르지 아니하리니, 내가 그에게 주는 물은 그 속에서 솟아나는 생명수의 샘이 되리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "ko-KR",
+      "text": "그러나 그리스도의 십자가 외에는 자랑할 것이 없노라. 그로 말미암아 세상이 나에게 십자가에 못 박히고, 나도 세상에 대하여 그러하니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "ko-KR",
+      "text": "그러나 너희가 인자가 땅에서 죄를 사하는 권세가 있음을 알게 하려 하노라 하시고, 중풍병자에게 말씀하시되,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "ko-KR",
+      "text": "누구든지 주의 이름을 부르는 자는 구원을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "ko-KR",
+      "text": "내가 가서 너희를 위하여 처소를 예비하면, 다시 와서 너희를 내게로 영접하여, 내가 있는 곳에 너희도 있게 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "ko-KR",
+      "text": "그러므로 너희가 그리스도와 함께 일으켜졌으면, 위의 것을 찾으라. 거기는 그리스도께서 하나님 우편에 앉아 계시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "ko-KR",
+      "text": "흠 없고 점 없는 어린 양의 피, 곧 그리스도의 피로써.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "ko-KR",
+      "text": "여호와의 이름은 강한 망대라. 의인이 그에게로 나아가 안전하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "ko-KR",
+      "text": "그의 계명을 지키는 자는 복이 있나니, 그들이 생명나무에 대한 권리를 얻고, 성에 들어가리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "ko-KR",
+      "text": "그러나 의인의 길은 새벽 빛과 같아서 점점 밝아져서 완전한 날이 이르리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "ko-KR",
+      "text": "영생은 곧 그들이 유일하신 참 하나님과 그가 보내신 자 예수 그리스도를 아는 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "ko-KR",
+      "text": "이는 그리스도 예수 안에 있는 생명의 성령의 법이 나를 죄와 사망의 법에서 해방하였음이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "ko-KR",
+      "text": "하물며 영원한 성령으로 하나님께 흠 없는 제물로 자기를 드린 그리스도의 피가, 죽은 행위에서 너희의 양심을 깨끗하게 하여 살아계신 하나님을 섬기게 하겠느냐?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "ko-KR",
+      "text": "진실로 의로운 자는 생명을 얻고, 악을 쫓는 자는 사망을 얻느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "ko-KR",
+      "text": "내가 그들을 스올의 권세에서 구속하고, 죽음에서 구속하리라! 죽음아, 네 재앙이 어디 있느냐? 스올아, 네 멸망이 어디 있느냐? 내 눈에서 긍휼이 숨겨지리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "ko-KR",
+      "text": "이는 곧 많은 사람을 위하여 흘리는 나의 피, 새 언약의 피니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "ko-KR",
+      "text": "그가 다시 우리에게 긍휼을 베푸시리니, 우리의 죄악을 발 아래에 짓밟으시고, 그들의 모든 죄를 바다 깊은 곳에 던지시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "ko-KR",
+      "text": "그러므로 우리는 사람이 율법의 행위와 관계없이 믿음으로 의롭다 하심을 받는다고 주장하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "ko-KR",
+      "text": "그가 사람의 모양으로 나타나셨고, 자기를 낮추시고, 죽기까지 복종하셨으니, 곧 십자가의 죽음이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "ko-KR",
+      "text": "진리를 사고 팔지 말고, 지혜와 훈계와 명철을 사라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "ko-KR",
+      "text": "여호와 그들의 하나님이 그 날에 그의 백성의 양 떼를 구원하시리니, 그들은 그의 땅 위에 높이 들린 왕관의 보석 같으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "ko-KR",
+      "text": "내가 너희에게 이르노니, 이와 같이 회개하는 한 죄인으로 인하여 하늘에서는 기쁨이 더하리라. 의인 아흔 아홉이 회개할 필요가 없음에 비하여.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "ko-KR",
+      "text": "죄가 사망 안에서 왕 노릇한 것 같이, 은혜도 의를 통하여 영생에 이르게 하시리라. 우리 주 예수 그리스도를 통하여.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "ko-KR",
+      "text": "곧 하나님이 그리스도 안에서 세상을 자기와 화목하게 하시고, 그들의 죄를 헤아리지 아니하시고, 화목의 말씀을 우리에게 맡기셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "ko-KR",
+      "text": "그의 옷과 허리에 왕 중의 왕이요, 주 중의 주라는 이름이 기록되어 있더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "ko-KR",
+      "text": "악인은 그의 길을 버리고, 불의한 자는 그의 생각을 버릴지어다. 여호와께로 돌아오라, 그리하면 그가 그에게 긍휼을 베푸시리라. 우리 하나님께로 돌아오라, 그가 너희를 넉넉히 용서하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "ko-KR",
+      "text": "아무도 나에게 올 수 없으니, 나를 보내신 아버지가 이끌지 아니하면, 마지막 날에 내가 그를 일으키리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "ko-KR",
+      "text": "그는 우리 평화시니, 둘을 하나로 만드시고, 중간에 막힌 담을 허물어뜨리셨느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "ko-KR",
+      "text": "너는 네 눈에 스스로 지혜롭지 말고, 여호와를 경외하며 악에서 떠나라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "ko-KR",
+      "text": "내가 악인의 손에서 너를 구원하고, 잔인한 자의 손에서 너를 구속하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "ko-KR",
+      "text": "너희는 그리스도 예수 안에서 믿음으로 하나님의 자녀가 되었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "ko-KR",
+      "text": "너희가 전에는 백성이 아니더니, 이제는 하나님의 백성이요, 긍휼을 얻지 못하였더니, 이제는 긍휼을 얻었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "ko-KR",
+      "text": "주여, 들으소서. 주여, 용서하소서. 주여, 들으시고 행하소서. 나의 하나님이여, 당신의 이름으로 내 성과 내 백성을 부르셨으니, 지체하지 마옵소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "ko-KR",
+      "text": "예수께서 그녀에게 이르시되, 나는 부활이요 생명이니, 나를 믿는 자는 죽어도 살겠고,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "ko-KR",
+      "text": "우리가 그 안에서 구속 곧 죄 사함을 얻었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "ko-KR",
+      "text": "그러므로 우리는 담대히 은혜의 보좌에 나아가, 긍휼을 받고, 필요할 때에 도움을 얻기 위하여 은혜를 찾으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "ko-KR",
+      "text": "여호와를 경외하는 것은 생명으로 인도하나니, 그가 만족하여 재난에 닿지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "ko-KR",
+      "text": "그들이 무덤에서 돌이 굴려진 것을 발견하였더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "ko-KR",
+      "text": "그러나 너희는 육신에 있지 아니하고 영에 있나니, 하나님의 영이 너희 안에 거하시면 너희는 그리스도의 영이 없는 자가 아니니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "ko-KR",
+      "text": "또 그의 능력의 힘의 역사에 따라 우리에게 믿는 자에게 향하신 그의 능력의 지극히 큰 것이 무엇인지.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "ko-KR",
+      "text": "그가 우리를 왕국과 그의 하나님 아버지의 제사장으로 삼으셨으니, 그에게 영광과 권세가 세세토록 있기를 원하노라. 아멘.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "ko-KR",
+      "text": "의인의 열매는 생명의 나무라. 지혜로운 자는 영혼을 얻느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "ko-KR",
+      "text": "시몬 베드로가 대답하여 이르되, 주는 그리스도시요, 살아 계신 하나님의 아들이시니이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "ko-KR",
+      "text": "주 예수 그리스도의 은혜가 너희 모든 사람과 함께 있을지어다. 아멘.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "ko-KR",
+      "text": "악인은 결코 벌을 면하지 못할 것이요, 의인의 자손은 구원을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "ko-KR",
+      "text": "그러나 그를 영접한 자들에게는 하나님의 자녀가 되는 권세를 주셨으니, 곧 그의 이름을 믿는 자들에게라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "ko-KR",
+      "text": "주 예수님을 일으키신 그가 우리도 예수와 함께 일으키시고, 너희와 함께 하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "ko-KR",
+      "text": "하나님이 우리를 진노에 이르게 하신 것이 아니요, 우리 주 예수 그리스도로 말미암아 구원을 얻게 하신 것이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "ko-KR",
+      "text": "더러운 것과 가증한 것과 거짓을 일으키는 자는 결코 그 안에 들어오지 못할 것이요, 오직 어린 양의 생명책에 기록된 자들만 들어가리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "ko-KR",
+      "text": "아이에게 징계를 아끼지 말라. 그를 매로 치면 죽지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "ko-KR",
+      "text": "그가 그녀에게 이르시되, 네 죄가 사함을 받았느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "ko-KR",
+      "text": "이제 때가 되었음을 알고, 너희가 잠에서 깨어날 때가 되었으니, 구원이 처음 믿을 때보다 가까워졌느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "ko-KR",
+      "text": "그러므로 이제 너희는 더 이상 낯선 자도 외국인도 아니요, 성도들과 함께 시민이요, 하나님의 집안이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "ko-KR",
+      "text": "다음 세대가 알게 하려 함이요, 태어날 자녀들이 일어나 그들의 자녀에게 말하게 하려 함이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "ko-KR",
+      "text": "내가 너희를 사로잡혀 간 성읍의 평안을 구하라. 그를 위하여 여호와께 기도하라. 그 평안 중에 너희가 평안을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "ko-KR",
+      "text": "아내들아, 너희 남편에게 복종하라. 이는 주 안에서 마땅한 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "ko-KR",
+      "text": "그 성읍의 거리에는 아이들이 뛰놀며 놀고 있을 것이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "ko-KR",
+      "text": "그가 제자에게 이르시되, 보라, 네 어머니라! 그때부터 그 제자가 자기 집에 모시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "ko-KR",
+      "text": "의인의 아버지는 큰 기쁨이요, 지혜로운 자를 낳는 자는 그로 인하여 기뻐하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "ko-KR",
+      "text": "여인이 젖먹이는 자식을 잊겠느냐? 그녀가 자기 태에서 난 아들에게 긍휼을 베풀지 않겠느냐? 그들은 잊을지라도 나는 너를 잊지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "ko-KR",
+      "text": "네 부모를 공경하라. 이는 약속이 있는 첫 계명이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "ko-KR",
+      "text": "내가 너희에게 내 마음에 맞는 목자들을 주리니, 그들이 너희를 지식과 명철로 먹이리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "ko-KR",
+      "text": "만일 어떤 과부에게 자녀나 손자가 있으면, 먼저 자기 가족에게 경건을 배우고 부모에게 보답하라. 이는 하나님 보시기에 합당하니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "ko-KR",
+      "text": "그 여인은 자기 집안의 길을 잘 살피며, 게으름의 떡을 먹지 아니하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "ko-KR",
+      "text": "만일 집이 서로 나뉘면 그 집은 설 수 없느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "ko-KR",
+      "text": "남편들아, 너희 아내를 사랑하고, 그들에게 악을 품지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "ko-KR",
+      "text": "성도들의 필요를 공급하며, 대접하기를 힘쓰라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "ko-KR",
+      "text": "조용한 것과 함께 마른 떡이 나은즉, 다툼이 있는 집에서의 잔치보다 나으니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "ko-KR",
+      "text": "그의 자녀들이 일어나서 그를 복되다 하며, 그의 남편도 그를 칭찬하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "ko-KR",
+      "text": "여호와 너의 하나님이 너희 중에 계시니, 구원할 강한 자시라. 그가 너희를 기뻐하시며, 그의 사랑으로 너희를 평안케 하시며, 노래로 너희를 기뻐하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "ko-KR",
+      "text": "하나님이 노아와 그의 아들들을 축복하시며 그들에게 이르시되, 생육하고 번성하여 땅에 충만하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "ko-KR",
+      "text": "그가 그들에게 이르시되, 오늘 내가 너희에게 증거하는 모든 말씀에 너희 마음을 두고, 너희 자녀에게 명하여 이 법의 모든 말씀을 지키게 하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "ko-KR",
+      "text": "의인에게는 좋으리니, 그들이 자기 행위의 열매를 먹으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "ko-KR",
+      "text": "너는 네 집으로 돌아가서 하나님이 네게 행하신 큰 일을 전하라. 그가 가서 온 성에 예수께서 자기를 위하여 행하신 큰 일을 전파하니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "ko-KR",
+      "text": "지혜로운 아들은 아버지를 기쁘게 하나, 미련한 자는 어머니를 멸시하느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "ko-KR",
+      "text": "너희가 할 일은 이러하니, 각 사람이 이웃에게 진리를 말하고, 너희 문에서 진리와 평화의 판단을 실행하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "ko-KR",
+      "text": "아무도 악을 악으로 갚지 말고, 항상 서로와 모든 사람을 위하여 선을 따르라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "ko-KR",
+      "text": "여호와께서 너의 일을 갚으시고, 이스라엘의 하나님 여호와께서 너에게 온전한 상을 주시기를 원하노라. 너는 그의 날개 아래로 피하러 왔느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "ko-KR",
+      "text": "너희의 관용을 모든 사람에게 알게 하라. 주께서 가까우시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "ko-KR",
+      "text": "여호와는 선하시며, 환난 날에 피난처가 되시며, 그를 의지하는 자들을 아신다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "ko-KR",
+      "text": "그가 그들에게 이르시되, 너희가 어찌하여 두려워하느냐? 어찌하여 믿음이 없느냐?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "ko-KR",
+      "text": "너희는 인내가 필요하니, 하나님의 뜻을 행한 후에 약속을 받게 하려 함이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "ko-KR",
+      "text": "여호와 하나님은 나의 힘이시라. 그가 내 발을 사슴의 발과 같게 하시고, 나를 높은 곳으로 다니게 하시리라. 악기 감독을 위하여.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "ko-KR",
+      "text": "야곱의 하나님을 자기 도움으로 삼는 자는 복이 있나니, 그의 소망이 여호와 그의 하나님에 있도다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "ko-KR",
+      "text": "주께서 너희의 마음을 하나님의 사랑과 그리스도의 인내에로 인도하시기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "ko-KR",
+      "text": "그러나 나는 여호와의 영으로 충만하였고, 판단과 능력으로 충만하였으니, 야곱에게 그의 불순종을, 이스라엘에게 그의 죄를 선포하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "ko-KR",
+      "text": "너희는 경주하는 자들이 다 경주하되, 오직 한 사람이 상을 받는 줄을 알지 못하느냐? 너희도 상을 받도록 이와 같이 경주하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "ko-KR",
+      "text": "너희는 강하고 손을 놓지 말라. 너희의 일이 보상을 받으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "ko-KR",
+      "text": "여호와의 사자가 그에게 나타나 이르되, 여호와가 너와 함께 하시나니, 용감한 용사여!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "ko-KR",
+      "text": "모든 이 회중이 여호와가 칼과 창으로 구원하지 아니하신다는 것을 알게 하려 함이니, 전쟁은 여호와의 것이니라. 그가 너희를 우리 손에 넘기시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "ko-KR",
+      "text": "그가 대답하되, 두려워하지 말라. 우리와 함께하는 자가 그들과 함께하는 자보다 많으니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "ko-KR",
+      "text": "여호와를 대적하여 무엇을 꾀하느냐? 그가 완전히 끝내리라. 환난이 두 번째로 일어나지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "ko-KR",
+      "text": "내가 그들에게 사자를 보내어 이르되, 나는 큰 일을 하고 있으니 내려갈 수 없노라. 내가 너희에게 내려가면 일이 중단될 이유가 무엇이냐?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "ko-KR",
+      "text": "그러나 끝까지 견디는 자는 구원을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "ko-KR",
+      "text": "내가 이스라엘 가운데에서 무릎을 꿇지 아니한 칠천 명을 남겨 두었노라. 그들은 바알에게 무릎을 꿇지 아니하였고, 그에게 입맞추지 아니하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "ko-KR",
+      "text": "이 집의 나중 영광이 처음 것보다 더 크리라. 만군의 여호와가 말하노라. 이 곳에 내가 평화를 주리라. 만군의 여호와가 말하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "ko-KR",
+      "text": "너희가 내 이름을 인하여 모든 사람에게 미움을 받을 것이나 끝까지 견디는 자는 구원을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "ko-KR",
+      "text": "이 환난에 의해 아무도 흔들리지 않게 하려 함이라. 너희가 아는 바와 같이 우리는 이 일을 위하여 정해진 자들임이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "ko-KR",
+      "text": "그가 죄인들의 반대에 대해 견디신 것을 생각하라. 그리하여 너희의 마음이 낙심하지 않게 하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "ko-KR",
+      "text": "하나님은 완전한 길을 가지셨고 여호와의 말씀은 시험을 받으셨으며 그를 피하는 모든 자에게 방패가 되신다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "ko-KR",
+      "text": "좁은 문으로 들어가기를 힘쓰라. 내가 너희에게 말하노니, 많은 사람들이 들어가고자 하나 능히 못하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "ko-KR",
+      "text": "강하고 담대하라. 아수르 왕과 그와 함께하는 무리로 인하여 두려워하지 말고 놀라지 말라. 우리와 함께 하시는 분이 그와 함께 하시는 자보다 크심이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "ko-KR",
+      "text": "이제 내 마음이 괴로우니 내가 무엇을 말하리요? 아버지여, 이 때에서 나를 구하소서? 그러나 내가 이 때를 위하여 왔나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "ko-KR",
+      "text": "그러므로 하나님의 뜻을 따라 선을 행하며 고난을 받는 자들은 그들의 영혼을 신실한 창조주께 맡기라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "ko-KR",
+      "text": "그러므로 너희는 너희 하나님께로 돌아오고 인애와 공의를 지키며 너희 하나님을 항상 기다리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "ko-KR",
+      "text": "주께서 내 발을 넓히셨으므로 내 발이 미끄러지지 아니하리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "ko-KR",
+      "text": "그들이 너희를 회당과 통치자와 권세자 앞에 끌고 갈 때에 너희는 어떻게 대답할까 염려하지 말라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "ko-KR",
+      "text": "여호와를 구하고 그의 능력을 구하라. 그의 얼굴을 항상 구하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "ko-KR",
+      "text": "의인은 일곱 번 넘어져도 다시 일어나거니와 악인은 재앙에 엎드러지느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "ko-KR",
+      "text": "인내는 연단을, 연단은 소망을 이루느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "ko-KR",
+      "text": "천명이 네 왼편에 엎드러지고 만명이 네 오른편에 엎드러지나 너에게는 가까이 오지 못하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "ko-KR",
+      "text": "너희가 내 이름을 인하여 모든 사람에게 미움을 받을 것이나 끝까지 견디는 자는 구원을 얻으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "ko-KR",
+      "text": "유다의 지도자들이 마음속으로 말하기를 예루살렘의 거민들이 만군의 여호와 그들의 하나님 안에서 나의 힘이 되리라. 하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "ko-KR",
+      "text": "하늘로부터 한 천사가 그에게 나타나 그를 힘 있게 하더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "ko-KR",
+      "text": "너희가 게으르지 말고 믿음과 인내로 약속을 상속받는 자들을 본받으라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "ko-KR",
+      "text": "나는 온 땅의 길을 가노니 너는 강하고 담대하여 남자답게 하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "ko-KR",
+      "text": "내가 나를 대적하여 사방에서 일어선 만 명의 사람들을 두려워하지 아니하리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "ko-KR",
+      "text": "여호와께서 큰 물고기를 예비하사 요나를 삼키게 하셨고 요나는 물고기 배 속에서 삼 일 삼 밤을 있었더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "ko-KR",
+      "text": "베드로가 예수께서 자기를 두고 하신 말씀을 기억하니 닭이 울기 전에 네가 세 번 나를 부인하리라. 하시니 그가 밖에 나가서 통곡하니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "ko-KR",
+      "text": "여호와는 질투하는 하나님이시요 보복하시는 하나님이시라. 여호와는 보복하시며 진노가 가득하시며 그의 대적에게 보복하시고 그의 원수에게 진노를 보이시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "ko-KR",
+      "text": "밤이 깊고 낮이 가까웠으니 그러므로 어둠의 일을 벗어버리고 빛의 갑옷을 입자.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "ko-KR",
+      "text": "주께서 나로 하여금 무리로 통과하게 하시고 내 하나님으로 말미암아 성을 뛰어넘게 하시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "ko-KR",
+      "text": "강한 성으로 돌아오라, 소망의 포로들아! 오늘 내가 너희에게 두 배로 회복하리라 선언하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "ko-KR",
+      "text": "보라, 우리는 인내한 자들을 복되다 하노라. 너희가 욥의 인내를 들었고 주께서 그 결과를 보신 것을 보았으며 주께서 극률과 자비가 풍성하신 것을 보았느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "ko-KR",
+      "text": "주께서 나의 은신처가 되시니 나를 환난에서 지키시고 나를 구원의 노래로 둘러싸시리이다. 셀라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "ko-KR",
+      "text": "너희는 우리와 주를 본받는 자가 되어 많은 환난 가운데 성령의 기쁨으로 말씀을 받았느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "ko-KR",
+      "text": "그는 여호와 이스라엘의 하나님을 신뢰하였으므로 그 후에 유다의 모든 왕들 중에 그와 같은 자가 없었고 그 이전에도 없었느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "ko-KR",
+      "text": "이제 내 딸아, 두려워하지 말라. 내가 너에게 말한 모든 것을 행하리니 내 백성의 모든 성읍이 너는 유력한 여인인 줄 아느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "ko-KR",
+      "text": "광야에서 외치는 자의 소리여, 주님의 길을 예비하라! 그의 길을 곧게 하라! 하였느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "ko-KR",
+      "text": "그러나 그는 내가 가는 길을 아시나니 나를 단련하신 후에는 내가 정금같이 나오리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "ko-KR",
+      "text": "길을 열고 나아가는 자가 그들보다 먼저 올라가며 그들이 문을 뚫고 나가고 그들의 왕이 그들 앞에 지나가시며 여호와가 그들의 머리 위에 계시느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "ko-KR",
+      "text": "너는 남의 종을 판단하는 자냐? 그의 주 앞에 서거나 넘어지느니라. 그가 서게 될 것은 하나님이 그를 세우실 수 있음이라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "ko-KR",
+      "text": "우리 하나님 여호와께서 우리와 함께 계시기를 우리 조상들과 같이 하신 것 같이 하시기를 원하노라. 그를 우리를 버리지도 아니하시고 떠나지도 않게 하소서.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "ko-KR",
+      "text": "여덟 날 후에 제자들이 다시 집 안에 모였고 도마가 그들과 함께하더니 예수께서 오사 문이 닫힌 중에 서서 너희에게 평강이 있을지어다. 하시니.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "ko-KR",
+      "text": "그러나 주께서는 고통과 슬픔을 보시고 그것을 손에 담으시며 고난당하는 자와 고아를 도우시나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "ko-KR",
+      "text": "세례 요한의 날부터 지금까지 천국은 침노를 당하고 침노하는 자들이 그것을 빼앗느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "ko-KR",
+      "text": "나는 그리스도 예수 안에서 하나님의 높은 부르심의 상을 위하여 목표를 향하여 나아가노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "ko-KR",
+      "text": "그를 이방인에게 넘겨 조롱하고 채찍질하고 십자가에 못 박게 하리니 제삼일에 다시 살아나리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "ko-KR",
+      "text": "원수의 손에서 구원받아 그를 두려움 없이 섬기게 하시려고.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "ko-KR",
+      "text": "우리 주 예수의 강림하실 때에 모든 성도와 함께 너희의 마음을 흠 없이 거룩하게 세우시기를 원하노라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "ko-KR",
+      "text": "온 유다가 그 맹세로 기뻐하였으니 그들이 온 마음으로 그를 찾았고 그가 그들에게 발견되었으므로 여호와께서 그들에게 사방으로 평안을 주셨더라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "ko-KR",
+      "text": "사람들이 그의 그늘에 거하며 곡식처럼 소생하고 포도나무처럼 꽃을 피우리니 그들의 향기는 레바논의 포도주 같으리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "ko-KR",
+      "text": "오직 여호와를 경외하며 진실한 마음으로 그를 섬기라. 그가 너희를 위하여 행하신 큰 일을 생각하라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "ko-KR",
+      "text": "내가 평안히 눕고 자리니 오직 여호와만이 나를 안전히 살게 하시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "ko-KR",
+      "text": "우리가 보지 못하는 것을 바라면 인내로 기다리느니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "ko-KR",
+      "text": "그가 낮은 자를 높이 세우시고 슬퍼하는 자를 안전하게 하시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "ko-KR",
+      "text": "내가 환난 가운데 걸을지라도 주께서 나를 소생하게 하시고 내 원수의 진노에 대하여 주의 손을 펼치시리니 주의 오른손이 나를 구원하시리이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "ko-KR",
+      "text": "주께서 말씀하시기를 시몬아, 시몬아, 보라, 사탄이 너희를 밀가루처럼 체질하고자 하였으나, 하시니.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "ko-KR",
+      "text": "여호와께서 그를 보시고 이르시되 이 너의 힘으로 가서 미디안의 손에서 이스라엘을 구원하라. 내가 너를 보냈지 아니하냐? 하시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "ko-KR",
+      "text": "내가 여호와 안에서 그들을 강하게 하리니 그들이 그의 이름으로 왕래하리라. 여호와의 말씀이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "ko-KR",
+      "text": "이에 예수께서 제자들에게 이르시되 누구든지 나를 따르려거든 자기를 부인하고 자기 십자가를 지고 나를 따르라. 하시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "ko-KR",
+      "text": "주께서 나를 전쟁을 위하여 힘으로 무장하게 하셨고 나를 대적하는 자들을 내 아래에 복종하게 하셨나이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "ko-KR",
+      "text": "다윗의 시. 여호와는 나의 빛이요 나의 구원이시니 내가 누구를 두려워하리요? 여호와는 내 생명의 힘이시니 내가 누구를 무서워하리요?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "ko-KR",
+      "text": "그때에 여호와의 사자 하가가 여호와의 말씀을 백성에게 전하여 이르되 내가 너희와 함께 하노라. 하시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "ko-KR",
+      "text": "나를 믿는 자는 성경에 기록된 바와 같이 그의 배에서 생수의 강이 흘러나오리라 하시니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "ko-KR",
+      "text": "너희를 부르시는 이는 신실하시니 그가 또한 이루시리라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "ko-KR",
+      "text": "주를 아는 자들은 주를 의뢰하리니 주를 찾는 자들을 주께서 버리지 아니하셨음이니이다.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "ko-KR",
+      "text": "좋은 땅에 있는 자들은 착하고 좋은 마음으로 말씀을 듣고 지켜 인내로 열매를 맺는 자들이니라.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

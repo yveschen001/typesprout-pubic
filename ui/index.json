@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "supportedLanguages": [
+    "zh-TW",
+    "zh-CN",
+    "en-US",
+    "es-MX",
+    "pt-BR",
+    "ja-JP",
+    "ko-KR",
+    "fr-FR",
+    "de-DE",
+    "it-IT",
+    "id-ID",
+    "vi-VN",
+    "th-TH",
+    "ru-RU",
+    "ar-SA",
+    "fil-PH",
+    "nl-NL",
+    "pl-PL",
+    "sv-SE",
+    "nb-NO",
+    "da-DK",
+    "fi-FI",
+    "ro-RO",
+    "el-GR",
+    "cs-CZ",
+    "hu-HU",
+    "uk-UA",
+    "ms-MY",
+    "hi-IN",
+    "bn-BD",
+    "he-IL",
+    "fa-IR",
+    "ur-PK",
+    "tr-TR\r"
+  ],
+  "totalKeys": 504,
+  "lastUpdated": "2025-09-29T05:22:21.765Z",
+  "structure": {
+    "description": "分語言UI翻譯架構",
+    "format": "每種語言獨立CSV文件",
+    "location": "public/ui/{lang}/ui-strings.csv",
+    "columns": [
+      "key",
+      "description",
+      "text"
+    ]
+  }
+}

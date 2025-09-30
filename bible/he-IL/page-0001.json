@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "he-IL",
+      "text": "כי כך אהב אלוהים את העולם, עד שנתן את בנו היחיד, כדי שכל המאמין בו לא יאבד, אלא יהיה לו חיים נצחיים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "he-IL",
+      "text": "מִזְמ֥וֹר לְדָוִ֑ד יְהוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "he-IL",
+      "text": "וְקוֹיֵ֤ יְהוָה֙ יַחֲלִ֣יפוּ כֹ֔חַ יַעֲל֥וּ אֵ֖בֶר כַּנְּשָׁרִ֑ים יָר֨וּצוּ֙ וְלֹ֣א יִיגָ֔עוּ יֵלְכ֖וּ וְלֹ֥א יִיעָֽפוּ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "he-IL",
+      "text": "אתם אור העולם. עיר אשר על הר נבנית לא תוכל להסתתר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "he-IL",
+      "text": "אני יכול לעשות כל דבר דרך המשיח שמחזק אותי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "he-IL",
+      "text": "בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "he-IL",
+      "text": "אַ֥שְֽׁרֵי־הָאִ֗ישׁ אֲשֶׁ֤ר ׀ לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "he-IL",
+      "text": "כִּי֩ אָנֹכִ֨י יָדַ֜עְתִּי אֶת־הַמַּחֲשָׁבֹ֗ת אֲשֶׁ֧ר אָנֹכִ֛י חֹשֵׁ֥ב עֲלֵיכֶ֖ם נְאֻם־יְהוָ֑ה מַחְשְׁב֤וֹת שָׁלוֹם֙ וְלֹ֣א לְרָעָ֔ה לָתֵ֥ת לָכֶ֖ם אַחֲרִ֥ית וְתִקְוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "he-IL",
+      "text": "אז דיבר ישוע שוב אליהם, ואמר, אני אור העולם מי שעוקב אחרי לא ילך בחשך, אלא יהיה לו אור החיים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "he-IL",
+      "text": "ואנחנו יודעים כי כל הדברים פועלים יחד לטובה לאלה שאוהבים את אלוהים, לאלה שנקראו לפי תכליתו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "he-IL",
+      "text": "יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "he-IL",
+      "text": "לְדָוִ֨ד ׀ יְהוָ֤ה ׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהוָ֥ה מָֽעוֹז־חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "he-IL",
+      "text": "יֵ֣צֶר סָמ֔וּךְ תִּצֹּ֖ר שָׁל֣וֹם ׀ שָׁל֑וֹם כִּ֥י בְךָ֖ בָּטֽוּחַ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "he-IL",
+      "text": "אבל חִפְּשוּ רִאשׁוֹן אֶת מַמְלֶכֶת אֱלֹהִים וְאֶת צִדְקָתוֹ וְכָל הַדְּבָרִים הָאֵלֶּה יִתוֹסְפוּ לָכֶם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "he-IL",
+      "text": "עַכְשָׁיו אֱמוּנָה הִיא הַתָּכְנִית שֶׁל דְּבָרִים שֶׁמְקוֹוִים לָהֶן, הָעֵדָה שֶׁל דְּבָרִים שֶׁאֵין רוֹאִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "he-IL",
+      "text": "חִזְק֣וּ וְאִמְצ֔וּ אַל־תִּֽירְא֥וּ וְאַל־תַּעַרְצ֖וּ מִפְּנֵיהֶ֑ם כִּ֣י ׀ יְהוָ֣ה אֱלֹהֶ֗יךָ ה֚וּא הַהֹלֵ֣ךְ עִמָּ֔ךְ לֹ֥א יַרְפְּךָ֖ וְלֹ֥א יַעַזְבֶֽךָּ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "he-IL",
+      "text": "בְּטַ֣ח אֶל־יְ֭הוָה בְּכָל־לִבֶּ֑ךָ וְאֶל־בִּֽ֝ינָתְךָ֗ אַל־תִּשָּׁעֵֽן׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "he-IL",
+      "text": "אַל־תִּירָא֙ כִּ֣י עִמְּךָ־אָ֔נִי אַל־תִּשְׁתָּ֖ע כִּֽי־אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֨יךָ֙ אַף־עֲזַרְתִּ֔יךָ אַף־תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ אָמַר אֵלָיו, אֲנִי הַדֶּרֶךְ, הָאֱמֶת, וְהַחַיִּים לֹא יָבוֹא אִישׁ אֶל הָאָב, כִּי אִם בִּי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "he-IL",
+      "text": "לָכֵן אִם מִישֶׁהוּ בַּמָּשִׁיחַ, הוּא נִבְרָא חָדָשׁ. הַדְּבָרִים הַיְשָׁנִים עָבְרוּ. הִנֵּה, הַכֹּל נִהְיָה חָדָשׁ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "he-IL",
+      "text": "נֵר־לְרַגְלִ֥י דְבָרֶ֑ךָ וְ֝א֗וֹר לִנְתִיבָתִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "he-IL",
+      "text": "וְהוּא֙ מְחֹלָ֣ל מִפְּשָׁעֵ֔נוּ מְדֻכָּ֖א מֵעֲוֺנֹתֵ֑ינוּ מוּסַ֤ר שְׁלוֹמֵ֨נוּ֙ עָלָ֔יו וּבַחֲבֻרָת֖וֹ נִרְפָּא־לָֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "he-IL",
+      "text": "בּוֹאוּ אֵלַי, כָּל-אֲשֶׁר-עֲמָלִים וְכָבֵדִים, וַאֲנִי אֶנָּחֵם אֶתְכֶן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "he-IL",
+      "text": "אִם-תַּכִּיר בְּפִיךָ אֶת-אֲדוֹן יֵשׁוּעַ, וּבְלִבֶּךָ תַּאֲמִין שֶׁאֱלֹהִים הִקִּים אוֹתוֹ מִן-הַמֵּתִים, תִּוָּשֵׁעַ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "he-IL",
+      "text": "וְהִתְעַנַּ֥ג עַל־יְהוָ֑ה וְיִֽתֶּן־לְ֝ךָ֗ מִשְׁאֲלֹ֥ת לִבֶּֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "he-IL",
+      "text": "יֹ֭שֵׁב בְּסֵ֣תֶר עֶלְי֑וֹן בְּצֵ֥ל שַׁ֝דַּ֗י יִתְלוֹנָֽן׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "he-IL",
+      "text": "בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְהָיָ֥ה יְהוָ֖ה מִבְטַחֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "he-IL",
+      "text": "אני הגפן, ואתם הענפים מי שמתחבר בי, ואני בו, הוא זה שמביא הרבה פרי כי בלעדיי אינכם יכולים לעשות דבר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "he-IL",
+      "text": "כי בחסד אתם נושעים דרך אמונה וזה לא מעצמכם זה מתנת אלוהים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "he-IL",
+      "text": "בֹּ֤אוּ שְׁעָרָ֨יו ׀ בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ־ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "he-IL",
+      "text": "גֹּ֣ל אֶל־יְהוָ֣ה מַעֲשֶׂ֑יךָ וְ֝יִכֹּ֗נוּ מַחְשְׁבֹתֶֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "he-IL",
+      "text": "כִּ֣י לֹ֤א מַחְשְׁבוֹתַי֙ מַחְשְׁב֣וֹתֵיכֶ֔ם וְלֹ֥א דַרְכֵיכֶ֖ם דְּרָכָ֑י נְאֻ֖ם יְהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "he-IL",
+      "text": "שאלו, וינתן לכם חפשו, ותמצאו דפקו, וייפתח לכם",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "he-IL",
+      "text": "ועַתָּה שִׁירָה, אֱמוּנָה, תִּקְוָה, וָאַהֲבָה, וְהַגְּדוֹלָה מִבֵּינֵיהֶן הִיא אַהֲבָה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "he-IL",
+      "text": "שִׁ֗יר לַֽמַּ֫עֲל֥וֹת אֶשָּׂ֣א עֵ֭ינַי אֶל־הֶהָרִ֑ים מֵ֝אַ֗יִן יָבֹ֥א עֶזְרִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "he-IL",
+      "text": "חֹנֶ֤ה מַלְאַךְ־יְהוָ֓ה סָ֘בִ֤יב לִֽירֵאָ֗יו וַֽיְחַלְּצֵֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "he-IL",
+      "text": "הגנב אינו בא אלא כדי לגנוב, להרוג ולהשמיד אני באתי כדי שיהיה להם חיים, ושיהיה להם יותר בשפע.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "he-IL",
+      "text": "ואל תתאמו את העולם הזה, אלא התחדשו ברוח מחשבתכם, למען תבחינו מה היא הרצון הטוב, והמועיל, והשלם של אלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "he-IL",
+      "text": "וַיֹּאמַ֡ר אֶרְחָמְךָ֖ יְהוָ֣ה חִזְקִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "he-IL",
+      "text": "אֽוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "he-IL",
+      "text": "מלמדים אותם לשמור על כל הדברים אשר צויתי אתכם והנה, אני עמכם תמיד, עד סוף העולם. אמן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "he-IL",
+      "text": "כִּי לֹא נָתַן אֱלֹהִים רוּחַ פַּחַד, כִּי אִם רוּחַ גְּבוּרָה וְאַהֲבָה וְמוּסָר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "he-IL",
+      "text": "מִגְדַּל־עֹ֭ז שֵׁ֣ם יְהוָ֑ה בּֽוֹ־יָר֖וּץ צַדִּ֣יק וְנִשְׂגָּֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "he-IL",
+      "text": "אֵלֶּה הַדְּבָרִים דִּבַּרְתִּי אֲלֵיכֶן, כְּדֵי שֶׁבִּי יִהְיֶה לָכֶן שָׁלוֹם. בָּעוֹלָם תִּהְיֶה לָכֶן צָרוֹת אֲבָל תִּשְׂמְחוּ אֲנִי נִצַּחְתִּי אֶת הָעוֹלָם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "he-IL",
+      "text": "אבל פרי הרוח הוא אהבה, שמחה, שלום, סבלנות, עדינות, טוב, אמונה,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "he-IL",
+      "text": "עַתָּ֤ה יָדַ֗עְתִּי כִּ֤י הוֹשִׁ֥יעַ ׀ יְהוָ֗ה מְשִׁ֫יח֥וֹ יַ֭עֲנֵהוּ מִשְּׁמֵ֣י קָדְשׁ֑וֹ בִּ֝גְבֻר֗וֹת יֵ֣שַׁע יְמִינֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "he-IL",
+      "text": "כִּ֤י טֽוֹב־י֥וֹם בַּחֲצֵרֶ֗יךָ מֵ֫אָ֥לֶף בָּחַ֗רְתִּי הִ֭סְתּוֹפֵף בְּבֵ֣ית אֱלֹהַ֑י מִ֝דּ֗וּר בְּאָהֳלֵי־רֶֽשַׁע׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "he-IL",
+      "text": "ק֥וּמִי א֖וֹרִי כִּ֣י בָ֣א אוֹרֵ֑ךְ וּכְב֥וֹד יְהוָ֖ה עָלַ֥יִךְ זָרָֽח׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ אָמַר אֵלָיו, וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל-לִבֶּךָ, וּבְכָל-נַפְשֶׁךָ, וּבְכָל-מְאֹדֶךָ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "he-IL",
+      "text": "וְכָל-אֲשֶׁר תַּעֲשׂוּ, עֲשׂוּ בְּכָל-לֵב, כְּאִלּוּ לַאדֹנָי, וְלֹא לַבָּנָדִים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "he-IL",
+      "text": "צָעֲק֣וּ וַיהוָ֣ה שָׁמֵ֑עַ וּמִכָּל־צָ֝רוֹתָ֗ם הִצִּילָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "he-IL",
+      "text": "עֶ֭זְרִי מֵעִ֣ם יְהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "he-IL",
+      "text": "הִנֵּ֨ה אֵ֧ל יְשׁוּעָתִ֛י אֶבְטַ֖ח וְלֹ֣א אֶפְחָ֑ד כִּֽי־עָזִּ֤י וְזִמְרָת֙ יָ֣הּ יְהוָ֔ה וַֽיְהִי־לִ֖י לִֽישׁוּעָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "he-IL",
+      "text": "קדש אותם באמיתך דברך אמת.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "he-IL",
+      "text": "אבל אלוהים מראה את אהבתו כלפינו, בכך, שכאשר עדיין היינו חוטאים, המשיח מת עבורנו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "he-IL",
+      "text": "קָר֣וֹב יְ֭הוָה לְכָל־קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "he-IL",
+      "text": "תְּחִלַּ֣ת חָ֭כְמָה יִרְאַ֣ת יְהוָ֑ה וְדַ֖עַת קְדֹשִׁ֣ים בִּינָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "he-IL",
+      "text": "אַל־תִּקְצֹ֤ף יְהוָה֙ עַד־מְאֹ֔ד וְאַל־לָעַ֖ד תִּזְכֹּ֣ר עָוֺ֑ן הֵ֥ן הַבֶּט־נָ֖א עַמְּךָ֥ כֻלָּֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "he-IL",
+      "text": "וַיַּבֵּט יֵשׁוּעַ אֲלֵיהֶן, וַיֹּאמֶר אֲלֵיהֶן, עִם אֲנָשִׁים זֶה אֵין אֶפְשָׁר אֲבָל עִם אֱלֹהִים הַכֹּל אֶפְשָׁר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "he-IL",
+      "text": "שימו עליכם את כל השריון של אלוהים, כדי שתוכלו לעמוד נגד תחבולות השטן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "he-IL",
+      "text": "זַמְּר֣וּ לַיהוָ֣ה חֲסִידָ֑יו וְ֝הוֹד֗וּ לְזֵ֣כֶר קָדְשֽׁוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "he-IL",
+      "text": "כִּרְחֹ֣ק מִ֭זְרָח מִֽמַּֽעֲרָ֑ב הִֽרְחִ֥יק מִ֝מֶּ֗נּוּ אֶת־פְּשָׁעֵֽינוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "he-IL",
+      "text": "יְהוָ֥ה חָנֵּ֖נוּ לְךָ֣ קִוִּ֑ינוּ הֱיֵ֤ה זְרֹעָם֙ לַבְּקָרִ֔ים אַף־יְשׁוּעָתֵ֖נוּ בְּעֵ֥ת צָרָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "he-IL",
+      "text": "אל תדאגו לשום דבר אלא בכל דבר בתפילה ובתחינה עם תודה יידעו את בקשותיכם לפני אלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "he-IL",
+      "text": "כִּֽי־אַתָּ֣ה אֲ֭דֹנָי ט֣וֹב וְסַלָּ֑ח וְרַב־חֶ֝֗סֶד לְכָל־קֹרְאֶֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "he-IL",
+      "text": "כי היכן שיש שניים או שלושה שנאספו יחד בשמי, שם אני בתוכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "he-IL",
+      "text": "בואו אם כן בביטחון אל כסא החסד, כדי שנקבל רחמים ונמצא חסד לעזרה בעת צרה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "he-IL",
+      "text": "מָ֭גִנֵּנוּ רְאֵ֣ה אֱלֹהִ֑ים וְ֝הַבֵּ֗ט פְּנֵ֣י מְשִׁיחֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "he-IL",
+      "text": "מִֽכָּל־מִ֭שְׁמָר נְצֹ֣ר לִבֶּ֑ךָ כִּֽי־מִ֝מֶּ֗נּוּ תּוֹצְא֥וֹת חַיִּֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "he-IL",
+      "text": "וְהָיָ֛ה מַעֲשֵׂ֥ה הַצְּדָקָ֖ה שָׁל֑וֹם וַֽעֲבֹדַת֙ הַצְּדָקָ֔ה הַשְׁקֵ֥ט וָבֶ֖טַח עַד־עוֹלָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "he-IL",
+      "text": "אֵין הוּא פֹּה כִּי קָם מִן הַמֵּתִים, כַּאֲשֶׁר דִּבֵּר. בּוֹא, רְאֵה אֶת הַמָּקוֹם אֲשֶׁר שָׁם שָׁכַב הָאָדוֹן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "he-IL",
+      "text": "השליכו עליו את כל דאגותיכם, כי הוא דואג לכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "he-IL",
+      "text": "שִׁוִּ֬יתִי יְהוָ֣ה לְנֶגְדִּ֣י תָמִ֑יד כִּ֥י מִֽ֝ימִינִ֗י בַּל־אֶמּֽוֹט׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "he-IL",
+      "text": "הוֹד֣וּ לַיהוָ֣ה כִּי־ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "he-IL",
+      "text": "לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "he-IL",
+      "text": "כי היום נולד לכם בעיר דוד מושיע, שהוא המשיח, האדון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "he-IL",
+      "text": "עַתָּה אֱלֹהֵי הַתִּקְוָה יְמַלֵּא אֶתְכֶן בְּכָל-שִׂמְחָה וְשָׁלוֹם בַּאֱמוּנָה, לְמַעַן תִּשְׁפְּכוּ בַּתִּקְוָה, בְּכֹחַ רוּחַ הַקֹּדֶשׁ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "he-IL",
+      "text": "יְהוָ֤ה ׀ עֻזִּ֥י וּמָגִנִּי֮ בּ֤וֹ בָטַ֥ח לִבִּ֗י וְֽנֶ֫עֱזָ֥רְתִּי וַיַּעֲלֹ֥ז לִבִּ֑י וּֽמִשִּׁירִ֥י אֲהוֹדֶֽנּוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "he-IL",
+      "text": "כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ־יָֽהּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "he-IL",
+      "text": "פְּנוּ־אֵלַ֥י וְהִוָּשְׁע֖וּ כָּל־אַפְסֵי־אָ֑רֶץ כִּ֥י אֲנִי־אֵ֖ל וְאֵ֥ין עֽוֹד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "he-IL",
+      "text": "אֲשֶׁרִים הַשֹּׁלְמִים כִּי בָנֵי אֱלֹהִים יִקָּרוּ לָהֶם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "he-IL",
+      "text": "וְה֗וּא יִשְׁפֹּֽט־תֵּבֵ֥ל בְּצֶ֑דֶק יָדִ֥ין לְ֝אֻמִּ֗ים בְּמֵישָׁרִֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "he-IL",
+      "text": "זֶה־הַ֭יּוֹם עָשָׂ֣ה יְהוָ֑ה נָגִ֖ילָה וְנִשְׂמְחָ֣ה בֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "he-IL",
+      "text": "יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר־אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "he-IL",
+      "text": "ואני אומר לך גם כן, כי אתה פטרוס, ועל הסלע הזה אבנה את כנסייתי ושערי הגיהנום לא יגברו עליה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "he-IL",
+      "text": "אין פחד באהבה, כי אם אהבה שלמה גודלת פחד, כי הפחד יש לו עונש והירא לא הושלם באהבה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "he-IL",
+      "text": "טוֹב־יְהוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל־כָּל־מַעֲשָֽׂיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "he-IL",
+      "text": "נֶֽפֶשׁ־בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם־ה֥וּא יוֹרֶֽא׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "he-IL",
+      "text": "הֵ֥ן עַל־כַּפַּ֖יִם חַקֹּתִ֑יךְ חוֹמֹתַ֥יִךְ נֶגְדִּ֖י תָּמִֽיד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "he-IL",
+      "text": "כי בן האדם בא לחפש ול救 את האובד.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "he-IL",
+      "text": "עַכְשָׁיו לַמְּסוּר שֶׁיָּכוֹל לַעֲשׂוֹת מֵעֵבֶר לְכָל אֲשֶׁר נְבַקֵּשׁ אוֹ נַחְשֹׁב, כְּפִי הַכֹּחַ הַעֹשֶׂה בָּנוּ,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "he-IL",
+      "text": "דְּרָכֶ֣יךָ יְ֭הוָה הוֹדִיעֵ֑נִי אֹ֖רְחוֹתֶ֣יךָ לַמְּדֵֽנִי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "he-IL",
+      "text": "גַּ֤ם מִזֵּדִ֨ים ׀ חֲשֹׂ֬ךְ עַבְדֶּ֗ךָ אַֽל־יִמְשְׁלוּ־בִ֣י אָ֣ז אֵיתָ֑ם וְ֝נִקֵּ֗יתִי מִפֶּ֥שַֽׁע רָֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "he-IL",
+      "text": "לֹֽא־יָרֵ֥עוּ וְלֹֽא־יַשְׁחִ֖יתוּ בְּכָל־הַ֣ר קָדְשִׁ֑י כִּֽי־מָלְאָ֣ה הָאָ֗רֶץ דֵּעָה֙ אֶת־יְהוָ֔ה כַּמַּ֖יִם לַיָּ֥ם מְכַסִּֽים׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "he-IL",
+      "text": "שָׁמַיִם וָאָרֶץ יַעֲבֹרוּ, וְדִבְרֵי לא יַעֲבֹרוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ הַמָּשִׁיחַ הוּא הַבּוֹרֵא אֶתְמוֹל, וְהַיּוֹם, וְלְעוֹלָם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "he-IL",
+      "text": "מַשְׁבִּ֥ית מִלְחָמוֹת֮ עַד־קְצֵ֪ה הָ֫אָ֥רֶץ קֶ֣שֶׁת יְ֭שַׁבֵּר וְקִצֵּ֣ץ חֲנִ֑ית עֲ֝גָל֗וֹת יִשְׂרֹ֥ף בָּאֵֽשׁ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "he-IL",
+      "text": "בְּכָל־דְּרָכֶ֥יךָ דָעֵ֑הוּ וְ֝ה֗וּא יְיַשֵּׁ֥ר אֹֽרְחֹתֶֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "he-IL",
+      "text": "נֹתֵ֥ן לַיָּעֵ֖ף כֹּ֑חַ וּלְאֵ֥ין אוֹנִ֖ים עָצְמָ֥ה יַרְבֶּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "he-IL",
+      "text": "יָרוּץ אוֹרְכֶם לִפְנֵי הָאֲנָשִׁים, כִּי יִרְאוּ אֶת מַעֲשֵׂי הַטּוֹב שֶׁלָּכֶם, וּמְהַלְּלוּ אֶת אָבִיכם שֶׁבַשָּׁמַיִם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "he-IL",
+      "text": "ולא גובה, ולא עומק, ולא שום יצור אחר, לא יוכל להפריד אותנו מאהבת אלוהים, שהיא במשיח ישוע אדוננו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "he-IL",
+      "text": "הֲל֤וֹא צִוִּיתִ֨יךָ֙ חֲזַ֣ק וֶאֱמָ֔ץ אַֽל־תַּעֲרֹ֖ץ וְאַל־תֵּחָ֑ת כִּ֤י עִמְּךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תֵּלֵֽךְ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "he-IL",
+      "text": "יְֽהוָ֗ה יִשְׁמָר־צֵאתְךָ֥ וּבוֹאֶ֑ךָ מֵֽ֝עַתָּ֗ה וְעַד־עוֹלָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "he-IL",
+      "text": "לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "he-IL",
+      "text": "וְעַתָּ֞ה כֹּֽה־אָמַ֤ר יְהוָה֙ בֹּרַאֲךָ֣ יַעֲקֹ֔ב וְיֹצֶרְךָ֖ יִשְׂרָאֵ֑ל אַל־תִּירָא֙ כִּ֣י גְאַלְתִּ֔יךָ קָרָ֥אתִי בְשִׁמְךָ֖ לִי־אָֽתָּה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "he-IL",
+      "text": "אבל לכל המי שקיבלו אותו, נתן להם סמכות להיות בני אלוהים, לכל המאמינים בשמו",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "he-IL",
+      "text": "וְשַׁלוֹם אֱלֹהִים, אֲשֶׁר עוֹבֵר כָּל הַשָּׂכָל, יִשְׁמֹר אֶת לִבְּכֶם וְאֶת מֹחֲכֶם בַּמָּשִׁיחַ יֵשׁוּעַ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "he-IL",
+      "text": "כי אנחנו מהלכים באמונה, ולא בראיה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "he-IL",
+      "text": "כִּ֣י מַ֭לְאָכָיו יְצַוֶּה־לָּ֑ךְ לִ֝שְׁמָרְךָ֗ בְּכָל־דְּרָכֶֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "he-IL",
+      "text": "רֵאשִׁ֣ית חָ֭כְמָה קְנֵ֣ה חָכְמָ֑ה וּבְכָל־קִ֝נְיָנְךָ֗ קְנֵ֣ה בִינָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "he-IL",
+      "text": "כי עם אלוהים לא יהיה דבר בלתי אפשרי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "he-IL",
+      "text": "כי אנחנו מעשה ידיו, נבראנו במשיח ישוע למעשים טובים, אשר אלוהים הכין מראש כדי שנלך בהם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "he-IL",
+      "text": "גַּדְּל֣וּ לַיהוָ֣ה אִתִּ֑י וּנְרוֹמְמָ֖ה שְׁמ֣וֹ יַחְדָּֽו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "he-IL",
+      "text": "לֵ֣ב שָׂ֭מֵחַ יֵיטִ֣ב גֵּהָ֑ה וְר֥וּחַ נְ֝כֵאָ֗ה תְּיַבֶּשׁ־גָּֽרֶם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "he-IL",
+      "text": "קְרָ֥א אֵלַ֖י וְאֶעֱנֶ֑ךָּ וְאַגִּ֧ידָה לְּךָ֛ גְּדֹל֥וֹת וּבְצֻר֖וֹת לֹ֥א יְדַעְתָּֽם׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "he-IL",
+      "text": "שאו את עול שלי עליכם ולמדו ממני, כי אני עני רוח ונשוא פנים, ומצאו מנוחה לנפשותיכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "he-IL",
+      "text": "נַחֲזִיק בַּבָּרוּת בַּמַּעֲרָכָה שֶׁל אֱמוּנָתֵנוּ בְּלִי לְהִתְנַדֵּד כִּי הוּא נֶאֱמָן אֲשֶׁר הִבִּטִּיחַ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "he-IL",
+      "text": "חָלְק֤וּ ׀ מַחְמָאֹ֣ת פִּיו֮ וּֽקֲרָב־לִ֫בּ֥וֹ רַכּ֖וּ דְבָרָ֥יו מִשֶּׁ֗מֶן וְהֵ֣מָּה פְתִחֽוֹת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "he-IL",
+      "text": "מָ֣וֶת וְ֭חַיִּים בְּיַד־לָשׁ֑וֹן וְ֝אֹהֲבֶ֗יהָ יֹאכַ֥ל פִּרְיָֽהּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "he-IL",
+      "text": "כִּ֣י כֹֽה־אָמַר֩ אֲדֹנָ֨י יְהוִ֜ה קְד֣וֹשׁ יִשְׂרָאֵ֗ל בְּשׁוּבָ֤ה וָנַ֨חַת֙ תִּוָּ֣שֵׁע֔וּן בְּהַשְׁקֵט֙ וּבְבִטְחָ֔ה תִּהְיֶ֖ה גְּבֽוּרַתְכֶ֑ם וְלֹ֖א אֲבִיתֶֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "he-IL",
+      "text": "ואמר להם ישוע, אני לחם החיים הבא אלי לא י hunger לעולם והמאמין בי לא י thirst לעולם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "he-IL",
+      "text": "אֲבוֹתֵינוּ, מִשּׁוּם שֶׁנִּצְדַּקְנוּ בֶּאֱמוּנָה, יֵשׁ לָנוּ שָׁלוֹם עִם אֱלֹהִים בְּאֶמְצָעוּת אֲדוֹנֵנוּ יֵשׁוּעַ הַמָּשִׁיחַ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "he-IL",
+      "text": "כָּלָ֥ה שְׁאֵרִ֗י וּלְבָ֫בִ֥י צוּר־לְבָבִ֥י וְחֶלְקִ֗י אֱלֹהִ֥ים לְעוֹלָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "he-IL",
+      "text": "דְּאָגָ֣ה בְלֶב־אִ֣ישׁ יַשְׁחֶ֑נָּה וְדָבָ֖ר ט֣וֹב יְשַׂמְּחֶֽנָּה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "he-IL",
+      "text": "בִּטְח֥וּ בַֽיהוָ֖ה עֲדֵי־עַ֑ד כִּ֚י בְּיָ֣הּ יְהוָ֔ה צ֖וּר עוֹלָמִֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ אָמַר אֵלָיו, אִם תּוּכַל לְהַאֲמִין, כָּל הַדְּבָרִים אֶפְשָׁרִים לַמַּאֲמִין.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "he-IL",
+      "text": "והוא לפני כל הדברים, ובו כל הדברים מתקיימים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "he-IL",
+      "text": "אַשְׂכִּֽילְךָ֨ ׀ וְֽאוֹרְךָ֗ בְּדֶֽרֶךְ־ז֥וּ תֵלֵ֑ךְ אִֽיעֲצָ֖ה עָלֶ֣יךָ עֵינִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "he-IL",
+      "text": "מַֽעֲנֶה־רַּ֭ךְ יָשִׁ֣יב חֵמָ֑ה וּדְבַר־עֶ֝֗צֶב יַעֲלֶה־אָֽף׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "he-IL",
+      "text": "כִּ֗י אֲנִ֛י יְהוָ֥ה אֱלֹהֶ֖יךָ מַחֲזִ֣יק יְמִינֶ֑ךָ הָאֹמֵ֥ר לְךָ֛ אַל־תִּירָ֖א אֲנִ֥י עֲזַרְתִּֽיךָ׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "he-IL",
+      "text": "אֲשֶׁרִי הָעֲנָוִים בָּרוּחַ כִּי לָהֶם מַמְלֶכֶת הַשָּׁמַיִם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר תִּקְוָתֵנוּ הִיא כַּעֲגֵן לַנֶּפֶשׁ, בָּטוּחָה וּמְבֻסָּסָה, וְהַנִּכְנֶסֶת אֶל מַה שֶּׁמֵּעַל לַוֵּל.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "he-IL",
+      "text": "חֶ֥סֶד וֶאֱמֶ֗ת אַֽל־יַעַ֫זְבֻ֥ךָ קָשְׁרֵ֥ם עַל־גַּרְגְּרוֹתֶ֑יךָ כָּ֝תְבֵ֗ם עַל־ל֥וּחַ לִבֶּֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "he-IL",
+      "text": "הִנֵּה֙ אֲנִ֣י יְהוָ֔ה אֱלֹהֵ֖י כָּל־בָּשָׂ֑ר הֲֽמִמֶּ֔נִּי יִפָּלֵ֖א כָּל־דָּבָֽר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "he-IL",
+      "text": "המאמין בבן יש לו חיים everlasting והמאמין לא בבן לא יראה חיים אבל חמת אלוהים נשארת עליו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "he-IL",
+      "text": "שָׂמֵחַ בַּתִּקְוָה סוֹבל בַּצָּרוֹת מִתְמַקֵּד בַּתְּפִלָּה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "he-IL",
+      "text": "אני נלחמתי את המלחמה הטובה. סיימתי את המסלול. שמרתי על האמונה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "he-IL",
+      "text": "הִנֵּה, אֲנִי עוֹמֵד בַּדֶּלֶת וּמַכָּה אִם יִשְׁמַע אִישׁ אֶת קוֹלִי וּפָתַח אֶת הַדֶּלֶת, אָבוֹא אֵלָיו וְאֹכַל עִמּוֹ וְהוּא עִמָּדִי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "he-IL",
+      "text": "אם חסר לאחד מכם חוכמה, יבקש מאלוהים, הנותן לכולם בנדיבות ואינו מגדף והיא תינתן לו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "he-IL",
+      "text": "כל מתנה טובה וכל מתנה מושלמת היא מלמעלה, ויורדת מהאב של האורות, שאין אצלו שינוי, ולא צל של שינוי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "he-IL",
+      "text": "קרבו אל אלוהים, והוא יקרב אליכם. טהרו ידיכם, חטאים וטהרו את לבבכם, אנשי רוח כפולה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "he-IL",
+      "text": "האהבה סבלנית וחסידה. האהבה אינה מקנאה. האהבה אינה מתפארת, אינה מתנשאת,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "he-IL",
+      "text": "בְּכָל־עֵ֭ת אֹהֵ֣ב הָרֵ֑עַ וְאָ֥ח לְ֝צָרָ֗ה יִוָּלֵֽד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "he-IL",
+      "text": "כִּ֛י חֶ֥סֶד חָפַ֖צְתִּי וְלֹא־זָ֑בַח וְדַ֥עַת אֱלֹהִ֖ים מֵעֹלֽוֹת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "he-IL",
+      "text": "אין אהבה גדולה מזו, שיביא אדם את חייו למען חבריו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "he-IL",
+      "text": "בְּאַהֲבָה אֲחָיָּה, בְּכָבוֹד זֶה אֶת זֶה תַּעֲדִיפוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "he-IL",
+      "text": "אינה מתנהגת שלא כראוי, אינה מחפשת את טובתה שלה, אינה מתעצבנת, אינה סופרת רעה",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "he-IL",
+      "text": "הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה־טּ֑וֹב וּמָֽה־יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם־עֲשׂ֤וֹת מִשְׁפָּט֙ וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם־אֱלֹהֶֽיךָ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "he-IL",
+      "text": "אבל אני אומר לכם, אהבו את אויביכם, ברכו את המקלים עליכם, עשו טוב לשונאים אתכם, והתפללו עבור המעליבים אתכם ורודפים אתכם",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "he-IL",
+      "text": "והיו נדיבים זה לזה, רחומי לב, סולחים זה לזה, כפי שאלוהים סלח לכם למען המשיח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "he-IL",
+      "text": "אינה שמחה ברשע, אלא שמחה עם האמת",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "he-IL",
+      "text": "שִׂ֭נְאָה תְּעוֹרֵ֣ר מְדָנִ֑ים וְעַ֥ל כָּל־פְּ֝שָׁעִ֗ים תְּכַסֶּ֥ה אַהֲבָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "he-IL",
+      "text": "יְהוָ֧ה אֱלֹהַ֛יִךְ בְּקִרְבֵּ֖ך גִּבּ֣וֹר יוֹשִׁ֑יעַ יָשִׂ֨ישׂ עָלַ֜יִךְ בְּשִׂמְחָ֗ה יַחֲרִישׁ֙ בְּאַ֣הֲבָת֔וֹ יָגִ֥יל עָלַ֖יִךְ בְּרִנָּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "he-IL",
+      "text": "ואתן תעשו להם גם כן כן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "he-IL",
+      "text": "ובעיקר, היו חרוצים באהבתכם זה לזה, כי האהבה מכסה על המון חטאים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "he-IL",
+      "text": "סובלת כל דבר, מאמינה בכל דבר, מקווה בכל דבר, וסובלת כל דבר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "he-IL",
+      "text": "צִדְקָֽתְךָ֨ ׀ כְּֽהַרְרֵי־אֵ֗ל מִ֭שְׁפָּטֶךָ תְּה֣וֹם רַבָּ֑ה אָ֤דָֽם־וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "he-IL",
+      "text": "לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "he-IL",
+      "text": "והשנייה היא כזאת ואהבת לרעך כמוך. אין מצווה גדולה מזו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "he-IL",
+      "text": "כאשר הייתי ילד, דיברתי כילד, הרגשתי כילד, חשבתי כילד. עכשיו כשאני גבר, הנחתי את הדברים הילדותיים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "he-IL",
+      "text": "ט֤וֹב אֲרֻחַ֣ת יָ֭רָק וְאַהֲבָה־שָׁ֑ם מִשּׁ֥וֹר אָ֝ב֗וּס וְשִׂנְאָה־בֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "he-IL",
+      "text": "מֵרָח֕וֹק יְהוָ֖ה נִרְאָ֣ה לִ֑י וְאַהֲבַ֤ת עוֹלָם֙ אֲהַבְתִּ֔יךְ עַל־כֵּ֖ן מְשַׁכְתִּ֥יךְ חָֽסֶד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "he-IL",
+      "text": "בְּזֹאת יֵדְעוּ כָּל-הָאֲנָשִׁים כִּי-תַּלְמִידֵי אֲנִי, אִם-תִּהְיֶה לָכֶם אַהֲבָה אִישׁ אֶל-רֵעֵהוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "he-IL",
+      "text": "ומעל לכל אלה, לבשו אהבה, שהיא הקשר של שלמות.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "he-IL",
+      "text": "כי עכשיו אנו רואים במראה, מעורפל, אבל אז פנים אל פנים. עכשיו אני יודע חלקית, אבל אז אדע במלואו, כמו שגם הייתי ידוע במלואו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "he-IL",
+      "text": "אַ֤ךְ ׀ קָר֣וֹב לִירֵאָ֣יו יִשְׁע֑וֹ לִשְׁכֹּ֖ן כָּב֣וֹד בְּאַרְצֵֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "he-IL",
+      "text": "וַהֲסִרֹתִ֛י אֶת־שְׁמ֥וֹת הַבְּעָלִ֖ים מִפִּ֑יהָ וְלֹֽא־יִזָּכְר֥וּ ע֖וֹד בִּשְׁמָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "he-IL",
+      "text": "לָכֵן, כָּל-דָּבָר אֲשֶׁר תַּאֲבוּ שֶׁיָּעֲשׂוּ לָכֶם הַבָּנָיָם, כֵּן תַּעֲשׂוּ לָהֶם כִּי זֶהוּ הַתּוֹרָה וְהַנְּבִיאִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "he-IL",
+      "text": "יהי ה יגדיל אתכם וימלא אתכם באהבה זה לזה ולכל בני האדם, כמו שאנחנו גם עושים לכם,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "he-IL",
+      "text": "שיהיה כל מה שאתם עושים נעשה באהבה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "he-IL",
+      "text": "תַּאֲוַ֣ת אָדָ֣ם חַסְדּ֑וֹ וְטֽוֹב־רָ֝שׁ מֵאִ֥ישׁ כָּזָֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "he-IL",
+      "text": "אֵ֥לֶּה הַדְּבָרִ֖ים אֲשֶׁ֣ר תַּֽעֲשׂ֑וּ דַּבְּר֤וּ אֱמֶת֙ אִ֣ישׁ אֶת־רֵעֵ֔הוּ אֱמֶת֙ וּמִשְׁפַּ֣ט שָׁל֔וֹם שִׁפְט֖וּ בְּשַׁעֲרֵיכֶֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "he-IL",
+      "text": "והשנייה היא כמוה, ואהבת לרעך כמוך.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "he-IL",
+      "text": "כי כל התורה מתממשת במילה אחת, והיא זו ואהבת לרעך כמוך.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "he-IL",
+      "text": "כֵּ֭ן בַּקֹּ֣דֶשׁ חֲזִיתִ֑יךָ לִרְא֥וֹת עֻ֝זְּךָ֗ וּכְבוֹדֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "he-IL",
+      "text": "כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי־יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "he-IL",
+      "text": "זֶה הוּא צִוּוּי שֶׁלִּי, שֶׁתֶּאֱהֲבוּ זֶה אֶת זֶה, כַּאֲשֶׁר אֲנִי אֲהַבְתִּי אֶתְכֶן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "he-IL",
+      "text": "בְּכָל-שְׁפָלוּת וְעָנָוָה, בְּסִבְלָנוּת, סוֹבְלִים זֶה אֶת-זֶה בָּאַהֲבָה",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "he-IL",
+      "text": "אנחנו אוהבים אותו, כי הוא אהב אותנו ראשון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "he-IL",
+      "text": "בַּרְזֶ֣ל בְּבַרְזֶ֣ל יָ֑חַד וְ֝אִ֗ישׁ יַ֣חַד פְּנֵֽי־רֵעֵֽהוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "he-IL",
+      "text": "כִּ֤י בֹעֲלַ֨יִךְ֙ עֹשַׂ֔יִךְ יְהוָ֥ה צְבָא֖וֹת שְׁמ֑וֹ וְגֹֽאֲלֵךְ֙ קְד֣וֹשׁ יִשְׂרָאֵ֔ל אֱלֹהֵ֥י כָל־הָאָ֖רֶץ יִקָּרֵֽא׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "he-IL",
+      "text": "וַיַּעַן וַיֹּאמֶר, וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל-לִבֶּךָ וּבְכָל-נַפְשֶׁךָ וּבְכָל-מְאֹדֶךָ וּבְכָל-מַחֲשָׁבָתֶךָ וְאֵת רֵעֲךָ כָּמוֹךָ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "he-IL",
+      "text": "לָכֵן נִרְדֹּף אַחֲרֵי הַדְּבָרִים הַמֵּבִיאִים לְשָׁלוֹם, וְאֵת הַדְּבָרִים שֶׁבָּם יָכוֹל לְבַנוֹת אֶת הַזָּעִיר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "he-IL",
+      "text": "ילדיי הקטנים, אל נאהב בדבר בלבד, או בלשון בלבד, אלא במעשה ובאמת.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "he-IL",
+      "text": "כְּרַחֵ֣ם אָ֭ב עַל־בָּנִ֑ים רִחַ֥ם יְ֝הוָ֗ה עַל־יְרֵאָֽיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "he-IL",
+      "text": "מֵאֲשֶׁ֨ר יָקַ֧רְתָּ בְעֵינַ֛י נִכְבַּ֖דְתָּ וַאֲנִ֣י אֲהַבְתִּ֑יךָ וְאֶתֵּ֤ן אָדָם֙ תַּחְתֶּ֔יךָ וּלְאֻמִּ֖ים תַּ֥חַת נַפְשֶֽׁךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "he-IL",
+      "text": "אבל כאשר ראה זאת ישו, הוא התעצב מאוד, ואמר להם הניחו לילדים הקטנים לבוא אלי, ואל תמנעו מהם כי למען כאלה הוא מלכות האלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "he-IL",
+      "text": "לכן, עודדו זה את זה, ובנו זה את זה, כמו שאתם גם עושים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "he-IL",
+      "text": "ואֵין הַתִּקְוָה מֵבִישָׁה כִּי אֱהָבַת אֱלֹהִים נִשְׁפַּכַת בַּלֵּבָבוֹתֵינוּ עַל-יְדֵי הָרוּחַ הַקֹּדֶשׁ הַנִּתָּן לָנוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "he-IL",
+      "text": "אֵֽשֶׁת־חַ֭יִל עֲטֶ֣רֶת בַּעְלָ֑הּ וּכְרָקָ֖ב בְּעַצְמוֹתָ֣יו מְבִישָֽׁה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "he-IL",
+      "text": "וְתָפֵ֤ק לָֽרָעֵב֙ נַפְשֶׁ֔ךָ וְנֶ֥פֶשׁ נַעֲנָ֖ה תַּשְׂבִּ֑יעַ וְזָרַ֤ח בַּחֹ֨שֶׁךְ֙ אוֹרֶ֔ךָ וַאֲפֵלָתְךָ֖ כַּֽצָּהֳרָֽיִם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "he-IL",
+      "text": "כַּבֵּד אֶת-אָבִיךָ וְאֵת-אִמֶּךָ וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "he-IL",
+      "text": "אל יעשה דבר מתוך ריב או תהילה שוא אלא בענווה יחשוב כל אחד את רעהו טוב ממנו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "he-IL",
+      "text": "אַל-תִּתְגָּבֵר עַל-רָע, כִּי-אִם-תַּגֵּב רָע בְּטוֹב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "he-IL",
+      "text": "הוֹלֵ֣ךְ רָ֭כִיל מְגַלֶּה־סּ֑וֹד וְנֶאֱמַן־ר֝֗וּחַ מְכַסֶּ֥ה דָבָֽר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "he-IL",
+      "text": "כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר מִשְׁפַּ֤ט אֱמֶת֙ שְׁפֹ֔טוּ וְחֶ֣סֶד וְרַֽחֲמִ֔ים עֲשׂ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "he-IL",
+      "text": "ונשקול זה את זה לעורר לאהבה ולמעשים טובים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "he-IL",
+      "text": "לָכֵן קִבְּלוּ זֶה אֶת זֶה, כַּאֲשֶׁר מָשִׁיחַ גַּם קִבֵּל אוֹתָנוּ לִכְבוֹד אֱלֹהִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "he-IL",
+      "text": "הלוך אֶת־חֲכָמִ֣ים וחכם וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "he-IL",
+      "text": "וְנָדִ֖יב נְדִיב֣וֹת יָעָ֑ץ וְה֖וּא עַל־נְדִיב֥וֹת יָקֽוּם׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "he-IL",
+      "text": "אל ידרוש איש את טובתו שלו, אלא כל אחד את טובת רעהו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "he-IL",
+      "text": "שאו זה את זה את משאותיכם, וכך תמלאו את חוק המשיח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "he-IL",
+      "text": "נֶ֭אֱמָנִים פִּצְעֵ֣י אוֹהֵ֑ב וְ֝נַעְתָּר֗וֹת נְשִׁיק֥וֹת שׂוֹנֵֽא׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "he-IL",
+      "text": "היו רחמנים, כפי שאביכם גם הוא רחמן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "he-IL",
+      "text": "אֲנָשִׁים, אֲהַבּוּ אֶת נָשֵׁיכֶן, כְּמוֹ שֶׁאֲהַב יֵשׁוּעַ אֶת הַכְּנֶסֶת, וּבִּשְׁבִילָהּ נָתַן אֶת עַצְמוֹ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "he-IL",
+      "text": "גם כן, באהבה רבה אליכם, היינו מרוצים להעניק לכם לא רק את הבשורה של אלוהים, אלא גם את נשמותינו, כי הפכתם יקרים לנו מאוד.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "he-IL",
+      "text": "כָּל־אָרְח֣וֹת יְ֭הוָה חֶ֣סֶד וֶאֱמֶ֑ת לְנֹצְרֵ֥י בְ֝רִית֗וֹ וְעֵדֹתָֽיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "he-IL",
+      "text": "אבל מי שהוא הגדול מכם יהיה לכם עבד.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "he-IL",
+      "text": "אל יסתכל כל אדם על הדברים שלו בלבד, אלא גם על הדברים של אחרים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "he-IL",
+      "text": "ולסוף, כולכם היו בעלי מחשבה אחת, רחמנים, אוהבים כאחים, רגישים, מנומסים,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "he-IL",
+      "text": "אֹהֵ֥ב טהור־לֵ֑ב חֵ֥ן שְׂ֝פָתָ֗יו רֵעֵ֥הוּ מֶֽלֶךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "he-IL",
+      "text": "וְהֵשִׁיב לֵב אֲבוֹת עַל-בָּנִים וְלֵב בָּנִים עַל-אֲבוֹתָם, פֶּן-אָבוֹא וְהִכֵּיתִי אֶת-הָאָרֶץ חֵרֶם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "he-IL",
+      "text": "שָׁלוֹם אֲנִי מַשְׁאִיר לָכֶם, שָׁלוֹם שֶׁלִּי אֲנִי נוֹתֵן לָכֶם לֹא כַּאֲשֶׁר הָעוֹלָם נוֹתֵן, אֲנִי נוֹתֵן לָכֶם. אַל יִהְיֶה לְבָבְכֶם מְבֻהָל וְאַל יִירָא.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "he-IL",
+      "text": "יהיו באותו דעת זה כלפי זה. אל תשימו לב לדברים גבוהים, אלא התייחסו לעניים. אל תהיו חכמים בעיני עצמכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "he-IL",
+      "text": "אבל אתה, איש אלוהים, ברח מהדברים האלה, ורדוף אחרי צדק, חסידות, אמונה, אהבה, סבלנות, ועידון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "he-IL",
+      "text": "וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "he-IL",
+      "text": "יְהוָ֕ה תִּשְׁפֹּ֥ת שָׁל֖וֹם לָ֑נוּ כִּ֛י גַּ֥ם כָּֽל־מַעֲשֵׂ֖ינוּ פָּעַ֥לְתָּ לָּֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "he-IL",
+      "text": "כְּמוֹ שֶׁבָּא בֶּן-האדם לֹא לְהִשָּׁרֵת, כִּי-אִם לְשָׁרֵת, וּלְתֵן אֶת-נַפְשׁוֹ כְּפִדְיוֹן רַבִּים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "he-IL",
+      "text": "יהי אהבת האחים נמשכת.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "he-IL",
+      "text": "ולסוף, אחים, שמחו! היו מושלמים. היו מנחמים. היו באותו מחשבה. חיו בשלום, ואלוהי האהבה והשלום יהיה אתכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "he-IL",
+      "text": "רָב־אָדָ֗ם יִ֭קְרָא אִ֣ישׁ חַסְדּ֑וֹ וְאִ֥ישׁ אֱ֝מוּנִ֗ים מִ֣י יִמְצָֽא׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "he-IL",
+      "text": "כִּ֤י אִם־הֵיטֵיב֙ תֵּיטִ֔יבוּ אֶת־דַּרְכֵיכֶ֖ם וְאֶת־מַֽעַלְלֵיכֶ֑ם אִם־עָשׂ֤וֹ תַֽעֲשׂוּ֙ מִשְׁפָּ֔ט בֵּ֥ין אִ֖ישׁ וּבֵ֥ין רֵעֵֽהוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "he-IL",
+      "text": "שָׁמוֹר לְנַפְשׁוֹתֵיכֶן אִם יֶחֱטָא אָחִיךָ בָּךְ, הוֹכֵחַ אוֹתוֹ וְאִם יָשׁוּב, סְלַח לוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "he-IL",
+      "text": "והלכו באהבה, כפי שגם המשיח אהב אותנו, ונתן את עצמו בעדנו מנחה וזבח לאלוהים לריח ניחוח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "he-IL",
+      "text": "לְדַבֵּר רָע עַל אִישׁ, לֹא לִהְיוֹת רַבָּנִים, אֲבָל רַךְ, מַרְאֶה אֶת כָּל עֲנָוָה לְכָל אֲנָשִׁים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "he-IL",
+      "text": "בָּז־לְרֵעֵ֥הוּ חוֹטֵ֑א וּמְחוֹנֵ֖ן עניים אַשְׁרָֽיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "he-IL",
+      "text": "וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל־תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל־תַּחְשְׁב֖וּ בִּלְבַבְכֶֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "he-IL",
+      "text": "וַיֵּשֶׁב וַיְקָרֵא לַשְּׁנֵים עָשָׂר וַיֹּאמֶר אֲלֵיהֶן, אִם יֵשׁ לְמִי שֶׁיָּחֵל לִהְיוֹת רִאשׁוֹן, יִהְיֶה אַחֲרוֹן מִכֹּל וְשֵׁרֵת לַכֹּל.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "he-IL",
+      "text": "אֲנַחְנוּ הַחֲזָקִים חַיָּבִים לָשֵׂאת אֶת-חֲלוּשׁוֹת הַחֲלָשִׁים, וְלֹא לְרַצות אֶת-עַצְמֵנוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "he-IL",
+      "text": "ואת זה אני מתפלל, שכְּבוֹדְכֶן יִרְבֶּה וְיָתוּר בְּדַעַת וּבְכָל שִׁפְטָה",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "he-IL",
+      "text": "בַּיּ֣וֹם הַה֗וּא יִֽהְיֶ֤ה מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה בְּת֖וֹךְ אֶ֣רֶץ מִצְרָ֑יִם וּמַצֵּבָ֥ה אֵֽצֶל־גְּבוּלָ֖הּ לַֽיהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "he-IL",
+      "text": "ואני גיליתי להם את שמך, ואגלה אותו כדי שהאהבה אשר אהבת אותי תהיה בהם, ואני בהם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "he-IL",
+      "text": "אבל לגבי אהבת אחים, אין לכם צורך שיכתוב לכם איש. כי אתם עצמכם מלמדים על ידי אלוהים לאהוב זה את זה,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "he-IL",
+      "text": "כשהתארתם את נשמותיכם בציותכם לאמת דרך הרוח באהבה אחים כנה, אהבו זה את זה מהלב בהתלהבות,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "he-IL",
+      "text": "רֹ֭דֵף צְדָקָ֣ה וָחָ֑סֶד יִמְצָ֥א חַ֝יִּ֗ים צְדָקָ֥ה וְכָבֽוֹד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "he-IL",
+      "text": "וַיָּקָם וַיָּבֹא אֶל-אָבִיו. וּכְשֶׁרָּאֲהוּ מֵרָחֹוק, וַיָּחֶמְלָהוּ, וַיָּרָץ וַיְּכַּר-בְּצַוָּארוֹ, וַיְּנַשֵּׁקוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "he-IL",
+      "text": "אם אפשר, ככל אשר בכם, היו בשקט עם כל האנשים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "he-IL",
+      "text": "המי שאוהב את אחיו נשאר באור, ואין בו מכשול.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "he-IL",
+      "text": "הָ֭רֹפֵא לִשְׁב֣וּרֵי לֵ֑ב וּ֝מְחַבֵּ֗שׁ לְעַצְּבוֹתָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "he-IL",
+      "text": "אַשּׁ֣וּר ׀ לֹ֣א יוֹשִׁיעֵ֗נוּ עַל־סוּס֙ לֹ֣א נִרְכָּ֔ב וְלֹא־נֹ֥אמַר ע֛וֹד אֱלֹהֵ֖ינוּ לְמַעֲשֵׂ֣ה יָדֵ֑ינוּ אֲשֶׁר־בְּךָ֖ יְרֻחַ֥ם יָתֽוֹם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "he-IL",
+      "text": "אבל לכו ולמדו מה זה אומר, חסד אני רוצה ולא זבח כי לא באתי לקרוא לצדיקים, אלא לחוטאים לתשובה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "he-IL",
+      "text": "כי הם רעננו את רוחי ואת רוחכם. לכן הכירו את אלה שהם כאלה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "he-IL",
+      "text": "אם תעשו את החוק המלכותי לפי הכתוב, ואהבת לרעך כמוך, טוב תעשו",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "he-IL",
+      "text": "אִ֣ישׁ רֵ֭עִים לְהִתְרֹעֵ֑עַ וְיֵ֥שׁ אֹ֝הֵ֗ב דָּבֵ֥ק מֵאָֽח׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "he-IL",
+      "text": "כי אלוהים לא שלח את בנו לעולם כדי להוקיע את העולם אלא כדי שהעולם דרכו יוכל להיוושע.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "he-IL",
+      "text": "אל תשכחו לארח זרים כי על ידי כך חלקם אירחו מלאכים מבלי לדעת.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "he-IL",
+      "text": "יִרְאַ֣ת יְ֭הוָה רֵאשִׁ֣ית דָּ֑עַת חָכְמָ֥ה וּ֝מוּסָ֗ר אֱוִילִ֥ים בָּֽזוּ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "he-IL",
+      "text": "וְאָזְנֶ֨יךָ֙ תִּשְׁמַ֣עְנָה דָבָ֔ר מֵֽאַחֲרֶ֖יךָ לֵאמֹ֑ר זֶ֤ה הַדֶּ֨רֶךְ֙ לְכ֣וּ ב֔וֹ כִּ֥י תַאֲמִ֖ינוּ וְכִ֥י תַשְׂמְאִֽילוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "he-IL",
+      "text": "אבל היו עושים את המילה, ולא שומעים בלבד, מטעים את עצמכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "he-IL",
+      "text": "לִמְנ֣וֹת יָ֭מֵינוּ כֵּ֣ן הוֹדַ֑ע וְ֝נָבִ֗א לְבַ֣ב חָכְמָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "he-IL",
+      "text": "כִּֽי־יְ֭הוָה יִתֵּ֣ן חָכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "he-IL",
+      "text": "ואני אומר לכם, בקשו, וינתן לכם חפשו, ותמצאו דפקו, וייפתח לכם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "he-IL",
+      "text": "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶֽחֱטָא־לָֽךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "he-IL",
+      "text": "וְנָחָ֥ה עָלָ֖יו ר֣וּחַ יְהוָ֑ה ר֧וּחַ חָכְמָ֣ה וּבִינָ֗ה ר֤וּחַ עֵצָה֙ וּגְבוּרָ֔ה ר֥וּחַ דַּ֖עַת וְיִרְאַ֥ת יְהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "he-IL",
+      "text": "ואז כאשר קרא אל העם עם תלמידיו גם, אמר להם כל מי שירצה לבוא אחרי, יכחיש את עצמו, וייקח את צלבו, וילך אחרי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "he-IL",
+      "text": "מִי־זֶ֣ה הָ֭אִישׁ יְרֵ֣א יְהוָ֑ה י֝וֹרֶ֗נּוּ בְּדֶ֣רֶךְ יִבְחָֽר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "he-IL",
+      "text": "אַל־תְּהִ֣י חָכָ֣ם בְּעֵינֶ֑יךָ יְרָ֥א אֶת־יְ֝הוָ֗ה וְס֣וּר מֵרָֽע׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "he-IL",
+      "text": "דִּרְשׁוּ־ט֥וֹב וְאַל־רָ֖ע לְמַ֣עַן תִּֽחְי֑וּ וִיהִי־כֵ֞ן יְהוָ֧ה אֱלֹהֵֽי־צְבָא֛וֹת אִתְּכֶ֖ם כַּאֲשֶׁ֥ר אֲמַרְתֶּֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "he-IL",
+      "text": "אור הגוף הוא העין אם לכן עינך תהיה טובה, כל גופך יהיה מלא אור.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "he-IL",
+      "text": "מִקְצֵ֤ה הַשָּׁמַ֨יִם ׀ מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל־קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "he-IL",
+      "text": "פַּ֭לֵּס מַעְגַּ֣ל רַגְלֶ֑ךָ וְֽכָל־דְּרָכֶ֥יךָ יִכֹּֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "he-IL",
+      "text": "וְהַ֨מַּשְׂכִּלִ֔ים יַזְהִ֖רוּ כְּזֹ֣הַר הָרָקִ֑יעַ וּמַצְדִּיקֵי֙ הָֽרַבִּ֔ים כַּכּוֹכָבִ֖ים לְעוֹלָ֥ם וָעֶֽד׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "he-IL",
+      "text": "הִרְאֵה, אֲשֶׁר תֵּלֵךְ בְּחָכְמָה, וְלאֹ כְּכְסִילִים, כְּמוֹ חֲכָמִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "he-IL",
+      "text": "רֵ֘אשִׁ֤ית חָכְמָ֨ה ׀ יִרְאַ֬ת יְהוָ֗ה שֵׂ֣כֶל ט֭וֹב לְכָל־עֹשֵׂיהֶ֑ם תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת לָעַֽד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "he-IL",
+      "text": "אֹהֵ֣ב מ֭וּסָר אֹ֣הֵֽב דָּ֑עַת וְשֹׂנֵ֖א תוֹכַ֣חַת בָּֽעַר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "he-IL",
+      "text": "דִּרְשׁ֥וּ יְהוָ֖ה בְּהִמָּצְא֑וֹ קְרָאֻ֖הוּ בִּֽהְיוֹת֥וֹ קָרֽוֹב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "he-IL",
+      "text": "כי צר הוא השער, וצרה היא הדרך, המובילה אל החיים, ומעטים הם המוצאים אותה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "he-IL",
+      "text": "אבל החכמה שהיא מלמעלה היא קודם כל טהורה, ואז שלמה, עדינה, וקלה להיענות, מלאה רחמים ופירות טובים, ללא הטיית פנים וללא צביעות.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "he-IL",
+      "text": "מֵ֭יְהוָה מִֽצְעֲדֵי־גֶ֥בֶר כּוֹנָ֗נוּ וְדַרְכּ֥וֹ יֶחְפָּֽץ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "he-IL",
+      "text": "הָפֵ֣ר מַ֭חֲשָׁבוֹת בְּאֵ֣ין ס֑וֹד וּבְרֹ֖ב יוֹעֲצִ֣ים תָּקֽוּם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "he-IL",
+      "text": "כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהוָֽה׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "he-IL",
+      "text": "אם מישהו יעשה את רצונו, הוא ידע על הדוקטרינה, אם היא מאלוהים, או אם אני מדבר מעצמי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "he-IL",
+      "text": "בחנו את כל הדברים, והחזיקו חזק במה שטוב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "he-IL",
+      "text": "פֵּ֖תַח דְּבָרֶ֥יךָ יָאִ֗יר מֵבִ֥ין פְּתָיִֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "he-IL",
+      "text": "מַשְׂכִּ֣יל עַל־דָּ֭בָר יִמְצָא־ט֑וֹב וּבוֹטֵ֖חַ בַּיהוָ֣ה אַשְׁרָֽיו׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "he-IL",
+      "text": "כי היכן treasure שלך, שם יהיה גם הלב שלך.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "he-IL",
+      "text": "כי להיות שולי דעת הוא מוות אבל להיות רוחני דעת הוא חיים ושלום.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "he-IL",
+      "text": "שְׁמַ֣ע עֵ֭צָה וְקַבֵּ֣ל מוּסָ֑ר לְ֝מַ֗עַן תֶּחְכַּ֥ם בְּאַחֲרִיתֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "he-IL",
+      "text": "כִּ֚י כָּל־הָ֣עַמִּ֔ים יֵלְכ֕וּ אִ֖ישׁ בְּשֵׁ֣ם אֱלֹהָ֑יו וַאֲנַ֗חְנוּ נֵלֵ֛ךְ בְּשֵׁם־יְהוָ֥ה אֱלֹהֵ֖ינוּ לְעוֹלָ֥ם וָעֶֽד׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "he-IL",
+      "text": "אֲשֶׁרִים הַרְעֵבִים וְהַצּוֹמְאִים לְצִדְקָה כִּי הֵמָּה יִשְׂבָּעוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "he-IL",
+      "text": "השתדל להציג את עצמך מאושר לפני אלוהים, עובד שאינו צריך להתבייש, המנהל כראוי את דבר האמת.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "he-IL",
+      "text": "גַּל־עֵינַ֥י וְאַבִּ֑יטָה נִ֝פְלָא֗וֹת מִתּוֹרָתֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "he-IL",
+      "text": "יֵ֤שׁ דֶּ֣רֶךְ יָ֭שָׁר לִפְנֵי־אִ֑ישׁ וְ֝אַחֲרִיתָ֗הּ דַּרְכֵי־מָֽוֶת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "he-IL",
+      "text": "וַיַּ֜עַן וַיֹּ֤אמֶר אֵלַי֙ לֵאמֹ֔ר זֶ֚ה דְּבַר־יְהוָ֔ה אֶל־זְרֻבָּבֶ֖ל לֵאמֹ֑ר לֹ֤א בְחַ֨יִל֙ וְלֹ֣א בְכֹ֔חַ כִּ֣י אִם־בְּרוּחִ֔י אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "he-IL",
+      "text": "הִשָּׁמְרוּ, שִׁימוּ עֵין וּתְפִלָּה כִּי אֵינְכֶם יוֹדְעִים מָתַי הַזְּמָן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "he-IL",
+      "text": "הָלַךְ בַּחָכְמָה אֶל-אֲשֶׁר מִחּוּץ, גּוֹאֵל אֶת-הַזְּמַן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "he-IL",
+      "text": "ט֤וּב טַ֣עַם וָדַ֣עַת לַמְּדֵ֑נִי כִּ֖י בְמִצְוֺתֶ֣יךָ הֶאֱמָֽנְתִּי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "he-IL",
+      "text": "כִּֽי־טוֹבָ֣ה חָ֭כְמָה מִפְּנִינִ֑ים וְכָל־חֲ֝פָצִ֗ים לֹ֣א יִֽשְׁווּ־בָֽהּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "he-IL",
+      "text": "כֹּֽה־אָמַ֧ר יְהוָ֛ה גֹּאַלְךָ֖ קְד֣וֹשׁ יִשְׂרָאֵ֑ל אֲנִ֨י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ מְלַמֶּדְךָ֣ לְהוֹעִ֔יל מַדְרִֽיכֲךָ֖ בְּדֶ֥רֶךְ תֵּלֵֽךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "he-IL",
+      "text": "שימו לב אפוא כיצד אתם שומעים כי כל מי שיש לו, יינתן לו ומי שאין לו, אף מה שנראה שיש לו, יילקח ממנו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "he-IL",
+      "text": "הִתְעַנּוּ לָכֵן לֵאלֹהִים. הִתְנַגְּדוּ לַשָּׂטָן, וְיָנוּס מִמְּךָ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "he-IL",
+      "text": "הַדְרִ֘יכֵ֤נִי בַאֲמִתֶּ֨ךָ ׀ וְֽלַמְּדֵ֗נִי כִּֽי־אַ֭תָּה אֱלֹהֵ֣י יִשְׁעִ֑י אוֹתְךָ֥ קִ֝וִּ֗יתִי כָּל־הַיּֽוֹם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "he-IL",
+      "text": "בּוֹטֵ֣חַ בְּ֭לִבּוֹ ה֣וּא כְסִ֑יל וְהוֹלֵ֥ךְ בְּ֝חָכְמָ֗ה ה֣וּא יִמָּלֵֽט׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "he-IL",
+      "text": "מָֽה־אָהַ֥בְתִּי תוֹרָתֶ֑ךָ כָּל־הַ֝יּ֗וֹם הִ֣יא שִׂיחָתִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "he-IL",
+      "text": "קְנֵ֣ה חָ֭כְמָה קְנֵ֣ה בִינָ֑ה אַל־תִּשְׁכַּ֥ח וְאַל־תֵּ֝֗ט מֵֽאִמְרֵי־פִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "he-IL",
+      "text": "אני באתי אור אל העולם, כדי שכל מי שמאמין בי לא יישאר בחושך.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "he-IL",
+      "text": "פְּ֭עָמַי הָכֵ֣ן בְּאִמְרָתֶ֑ךָ וְֽאַל־תַּשְׁלֶט־בִּ֥י כָל־אָֽוֶן׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "he-IL",
+      "text": "בֵּ֣ן חָ֭כָם מ֣וּסַר אָ֑ב וְ֝לֵ֗ץ לֹא־שָׁמַ֥ע גְּעָרָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "he-IL",
+      "text": "שמרו והתפללו, שלא תיכנסו לניסיון הרוח אכן מוכנה, אבל הבשר חלש.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "he-IL",
+      "text": "אבל מזון חזק שייך לאלה שהם בגיל מלא, אפילו לאלה אשר על ידי השימוש יש להם חושים מאומנים להבחין בין טוב לרע.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "he-IL",
+      "text": "גַּ֤ם מִזֵּדִ֨ים ׀ חֲשֹׂ֬ךְ עַבְדֶּ֗ךָ אַֽל־יִמְשְׁלוּ־בִ֣י אָ֣ז אֵיתָ֑ם וְ֝נִקֵּ֗יתִי מִפֶּ֥שַֽׁע רָֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "he-IL",
+      "text": "כִּ֣י בְ֭תַחְבֻּלוֹת תַּעֲשֶׂה־לְּךָ֣ מִלְחָמָ֑ה וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "he-IL",
+      "text": "בַּקְּשׁ֤וּ אֶת־יְהוָה֙ כָּל־עַנְוֵ֣י הָאָ֔רֶץ אֲשֶׁ֥ר מִשְׁפָּט֖וֹ פָּעָ֑לוּ בַּקְּשׁוּ־צֶ֨דֶק֙ בַּקְּשׁ֣וּ עֲנָוָ֔ה אוּלַי֙ תִּסָּ֣תְר֔וּ בְּי֖וֹם אַף־יְהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "he-IL",
+      "text": "שמרו אפוא, והתפללו תמיד, כדי שתהיו נחשבים ראויים להימלט מכל הדברים האלה שיבואו, ולעמוד לפני בן האדם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "he-IL",
+      "text": "אִישׁ מַכִּיר יוֹם אֶחָד מִיּוֹם אַחֵר וְאִישׁ אַחֵר מַכִּיר כָּל־הַיָּמִים שָׁוֶה. יִהְיֶה לְכָל־אִישׁ מָלֵא בַּמַּחֲשָׁבוֹת שֶׁלּוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "he-IL",
+      "text": "בְּפִקֻּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹרְחֹתֶֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "he-IL",
+      "text": "קֹֽנֶה־לֵּ֭ב אֹהֵ֣ב נַפְשׁ֑וֹ שֹׁמֵ֥ר תְּ֝בוּנָ֗ה לִמְצֹא־טֽוֹב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "he-IL",
+      "text": "והוא אמר אליהם, שימו לב מה אתם שומעים באיזו מידה שאתם מודדים, כך יימדד לכם ולכם השומעים יינתן יותר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "he-IL",
+      "text": "מְגַלֵּי אֶת הַזְּמַן, כִּי הַיָּמִים רָעִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "he-IL",
+      "text": "הֲ֭בִינֵנִי וְאֶצְּרָ֥ה תֽוֹרָתֶ֗ךָ וְאֶשְׁמְרֶ֥נָּה בְכָל־לֵֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "he-IL",
+      "text": "עָר֤וּם ׀ רָאָ֣ה רָעָ֣ה ויסתר וּ֝פְתָיִ֗ים עָבְר֥וּ וְֽנֶעֱנָֽשׁוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "he-IL",
+      "text": "וְהָיָה֙ אֱמוּנַ֣ת עִתֶּ֔יךָ חֹ֥סֶן יְשׁוּעֹ֖ת חָכְמַ֣ת וָדָ֑עַת יִרְאַ֥ת יְהוָ֖ה הִ֥יא אוֹצָרֽוֹ׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "he-IL",
+      "text": "אז הצדיקים יזהרו כמו השמש בממלכת אביהם. מי שיש לו אוזניים לשמוע, שיישמע.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "he-IL",
+      "text": "שאמונתכם לא תעמוד בחוכמת אנשים, אלא בכוח אלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "he-IL",
+      "text": "וַיֹּ֤אמֶר ׀ לָֽאָדָ֗ם הֵ֤ן יִרְאַ֣ת אֲ֭דֹנָי הִ֣יא חָכְמָ֑ה וְס֖וּר מֵרָ֣ע בִּינָֽה׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "he-IL",
+      "text": "מַחְשְׁב֣וֹת חָ֭רוּץ אַךְ־לְמוֹתָ֑ר וְכָל־אָ֝֗ץ אַךְ־לְמַחְסֽוֹר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "he-IL",
+      "text": "עָקֹ֥ב הַלֵּ֛ב מִכֹּ֖ל וְאָנֻ֣שׁ ה֑וּא מִ֖י יֵדָעֶֽנּוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "he-IL",
+      "text": "הַנֶּאֱמָן בַּמְּעַט נֶאֱמָן גַּם בַּרָּב וְהַרָּשָׁע בַּמְּעַט רָשָׁע גַּם בַּרָּב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "he-IL",
+      "text": "כן, ובעבור הסיבה הזו הוסיפו מצידכם כל השתדלות, באמונתכם ספקו מצוינות מוסרית ובמצוינות מוסרית, ידע",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "he-IL",
+      "text": "טֽוֹב־לִ֥י תֽוֹרַת־פִּ֑יךָ מֵ֝אַלְפֵ֗י זָהָ֥ב וָכָֽסֶף׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "he-IL",
+      "text": "מֵיהוָ֥ה מִצְעֲדֵי־גָ֑בֶר וְ֝אָדָ֗ם מַה־יָּבִ֥ין דַּרְכּֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "he-IL",
+      "text": "גַּם־זֹ֕את מֵעִ֛ם יְהוָ֥ה צְבָא֖וֹת יָצָ֑אָה הִפְלִ֣יא עֵצָ֔ה הִגְדִּ֖יל תּוּשִׁיָּֽה׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "he-IL",
+      "text": "שָׁמְרוּ וּתְפַלּוּ, פֶּן תָּבוֹאוּ לִנְסָיוֹן. הָרוּחַ אֲמִתִּי מָכוּן, וְהַבָּשָׂר רָךְ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "he-IL",
+      "text": "טֶ֣רֶם אֶ֭עֱנֶה אֲנִ֣י שֹׁגֵ֑ג וְ֝עַתָּ֗ה אִמְרָתְךָ֥ שָׁמָֽרְתִּי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "he-IL",
+      "text": "כֵּ֤ן ׀ דְּעֶ֥ה חָכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם־מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "he-IL",
+      "text": "מה יועיל לאדם אם ירוויח את כל העולם, ויאבד את נשמתו? או מה ייתן אדם תמורת נשמתו?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "he-IL",
+      "text": "אם כן, האמונה באה משמיעה, והשמיעה בדבר אלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "he-IL",
+      "text": "וְאֶתְהַלְּכָ֥ה בָרְחָבָ֑ה כִּ֖י פִקֻּדֶ֣יךָ דָרָֽשְׁתִּי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "he-IL",
+      "text": "בָּֽא־זָ֭דוֹן וַיָּבֹ֣א קָל֑וֹן וְֽאֶת־צְנוּעִ֥ים חָכְמָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "he-IL",
+      "text": "הוא מלא את הרעבים בדברים טובים ואת העשירים שלח ריקם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "he-IL",
+      "text": "אחים, אל תהיו ילדים במחשבות, אך ברע תישארו תינוקות, ובמחשבות היו בוגרים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "he-IL",
+      "text": "מֵ֭אֹ֣יְבַי תְּחַכְּמֵ֣נִי מִצְוֺתֶ֑ךָ כִּ֖י לְעוֹלָ֣ם הִיא־לִֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "he-IL",
+      "text": "שְׁמַע־אַתָּ֣ה בְנִ֣י וַחֲכָ֑ם וְאַשֵּׁ֖ר בַּדֶּ֣רֶךְ לִבֶּֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "he-IL",
+      "text": "אֲשֶׁרִי הַבְּרוּרִים בַּלֵּב כִּי הֵמָּה יִרְאוּ אֶת-אֱלֹהִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "he-IL",
+      "text": "אבל קדשו את אדוני אלוהיכם בלבבכם ותהיו תמיד מוכנים לתת תשובה לכל שואל אתכם על אודות התקווה שבכם, בענווה וביראה,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "he-IL",
+      "text": "מִזְּקֵנִ֥ים אֶתְבּוֹנָ֑ן כִּ֖י פִקּוּדֶ֣יךָ נָצָֽרְתִּי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "he-IL",
+      "text": "אֵ֣ין חָ֭כְמָה וְאֵ֣ין תְּבוּנָ֑ה וְאֵ֥ין עֵ֝צָ֗ה לְנֶ֣גֶד יְהוָֽה׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "he-IL",
+      "text": "פְּנוּ־אֵלַ֥י וְהִוָּשְׁע֖וּ כָּל־אַפְסֵי־אָ֑רֶץ כִּ֥י אֲנִי־אֵ֖ל וְאֵ֥ין עֽוֹד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "he-IL",
+      "text": "אז פתח את הבנתם, כדי שיבינו את הכתובים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "he-IL",
+      "text": "ואלוהים יכול לגרום לכל חסד לזרום אליכם, שאתם, תמיד שיש לכם כל דיוק בכל דבר, תגדלו בכל מעשה טוב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "he-IL",
+      "text": "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֺתֶ֑יךָ כִּי־ב֥וֹ חָפָֽצְתִּי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "he-IL",
+      "text": "עָר֤וּם רָאָ֣ה רָעָ֣ה נִסְתָּ֑ר פְּ֝תָאיִ֗ם עָבְר֥וּ נֶעֱנָֽשׁוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "he-IL",
+      "text": "שִׁמְע֤וּ אֵלַי֙ יֹ֣דְעֵי צֶ֔דֶק עַ֖ם תּוֹרָתִ֣י בְלִבָּ֑ם אַל־תִּֽירְאוּ֙ חֶרְפַּ֣ת אֱנ֔וֹשׁ וּמִגִּדֻּפֹתָ֖ם אַל־תֵּחָֽתּוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "he-IL",
+      "text": "וְכָל־הַמַּרְבֶּה אֶת־עַצְמוֹ יְשֻׁפָּל וְהַמַּשְׁפִּיל אֶת־עַצְמוֹ יִגָּבֵה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר תַּאֲשִׁרוּ אֶת הַדְּבָרִים הַמְּצוּיָּנִים שֶׁתִּהְיוּ בְּלִי תָּכְנִית וְלֹא בְּמִקְרֶה עַד יוֹם הַמָּשִׁיחַ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "he-IL",
+      "text": "זֹ֣את נֶחָמָתִ֣י בְעָנְיִ֑י כִּ֖י אִמְרָתְךָ֣ חִיָּֽתְנִי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "he-IL",
+      "text": "אֶת־פְּנֵ֣י מֵבִ֣ין חָכְמָ֑ה וְעֵינֵ֥י כְ֝סִ֗יל בִּקְצֵה־אָֽרֶץ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "he-IL",
+      "text": "מַה־נָּאו֨וּ עַל־הֶהָרִ֜ים רַגְלֵ֣י מְבַשֵּׂ֗ר מַשְׁמִ֧יעַ שָׁל֛וֹם מְבַשֵּׂ֥ר ט֖וֹב מַשְׁמִ֣יעַ יְשׁוּעָ֑ה אֹמֵ֥ר לְצִיּ֖וֹן מָלַ֥ךְ אֱלֹהָֽיִךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "he-IL",
+      "text": "ואהבת את יהוה אלוהיך בכל לבבך ובכל נפשך ובכל מאודך זהו המצווה הראשונה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "he-IL",
+      "text": "אַ֭שְׁרֵי נֹצְרֵ֥י עֵדֹתָ֗יו בְּכָל־לֵ֥ב יִדְרְשֽׁוּהוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "he-IL",
+      "text": "הַחֲזֵ֣ק בַּמּוּסָ֣ר אַל־תֶּ֑רֶף נִ֝צְּרֶ֗הָ כִּי־הִ֥יא חַיֶּֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "he-IL",
+      "text": "וַיַּבֵּט יֵשׁוּעַ אֲלֵיהֶן, וַיֹּאמֶר אֲלֵיהֶן, אֶתָּם אִיֵּן אֶת הָאָדָם זֶה אֵין אֶפְשָׁר וְאֶל הָאֱלֹהִים כָּל הַדְּבָרִים אֶפְשָׁרִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ אָמַר אֵלֶיהָ, אֲנִי הַתְּחִיָּה וְהַחַיִּים הַמַּאֲמִין בִּי, גַּם אִם יָמוּת, יִחְיֶה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "he-IL",
+      "text": "כִּ֤י ׀ לֹא־תַעֲזֹ֣ב נַפְשִׁ֣י לִשְׁא֑וֹל לֹֽא־תִתֵּ֥ן חֲ֝סִידְךָ֗ לִרְא֥וֹת שָֽׁחַת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "he-IL",
+      "text": "אֵין הוּא פֹּה, כִּי קָם מִן הַמֵּתִים זִכְּרוּ אֵיךְ דִּבֵּר אֲלֵיהֶן בְּגַלִּיל.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "he-IL",
+      "text": "כי שכר החטא הוא מוות אבל מתנת אלוהים היא חיים נצחיים דרך ישו המשיח, אדוננו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "he-IL",
+      "text": "כי מסרתי לכם קודם כל את מה שגם קיבלתי כי המשיח מת עבור חטאינו לפי הכתובים,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "he-IL",
+      "text": "כִּֽי־עִמְּךָ֥ הַסְּלִיחָ֑ה לְ֝מַ֗עַן תִּוָּרֵֽא׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "he-IL",
+      "text": "מִיַּ֤ד שְׁאוֹל֙ אֶפְדֵּ֔ם מִמָּ֖וֶת אֶגְאָלֵ֑ם אֱהִ֨י דְבָרֶיךָ֜ מָ֗וֶת אֱהִ֤י קָֽטָבְךָ֙ שְׁא֔וֹל נֹ֖חַם יִסָּתֵ֥ר מֵעֵינָֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר אֲלֵיהֶן, אַל תִּפְחָדוּ אֶת יֵשׁוּעַ מִנָּצְרַת, אֲשֶׁר נָשָׁא עַל הַצּוּלָב קָם מִן הַמֵּתִים אֵינֶנּוּ פֹּה רְאוּ אֵת הַמָּקוֹם אֲשֶׁר שָׂמוּ אֹתוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר בּוֹ יֵשׁ לָנוּ גְּאֻלָּה בְּדָמוֹ, סְלִיחַת חֲטָאִים, כְּפֹר בְּעֹשֶׁר חַסְדּוֹ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "he-IL",
+      "text": "שנקבר, ושקם ביום השלישי לפי הכתובים,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "he-IL",
+      "text": "מְכַסֶּ֣ה פְ֭שָׁעָיו לֹ֣א יַצְלִ֑יחַ וּמוֹדֶ֖ה וְעֹזֵ֣ב יְרֻחָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "he-IL",
+      "text": "חָשַׂ֤ף יְהוָה֙ אֶת־זְר֣וֹעַ קָדְשׁ֔וֹ לְעֵינֵ֖י כָּל־הַגּוֹיִ֑ם וְרָאוּ֙ כָּל־אַפְסֵי־אָ֔רֶץ אֵ֖ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "he-IL",
+      "text": "כי זהו דמי של הברית החדשה, הנשפך עבור רבים למחילת חטאים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "he-IL",
+      "text": "כך גם המשיח הוצע פעם אחת לשאת את חטאי רבים ולמי שמצפים לו יופיע בפעם השנייה ללא חטא לשם ישועה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "he-IL",
+      "text": "אֵין בּוֹ שִׁעוּתָה בְּשֵׁם אַחֵר כִּי אֵין שֵׁם אֲשֶׁר נִתַּן בַּשָּׁמַיִם בֵּין אֲנָשִׁים, אֲשֶׁר בּוֹ עַלֵּינוּ לְהִשָּׁעֵן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "he-IL",
+      "text": "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־יְהוָ֑ה וְכָרַתִּ֗י אֶת־בֵּ֧ית יִשְׂרָאֵ֛ל וְאֶת־בֵּ֥ית יְהוּדָ֖ה בְּרִ֥ית חֲדָשָֽׁה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר אֲלֵיהֶן, כֵּן כָּתוּב, וְכֵן הָיָה לְמָשִׁיחַ לִסְבּוֹל, וְלָקוּם מִן הַמֵּתִים בַּיּוֹם הַשְּׁלִישִׁי",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "he-IL",
+      "text": "מְחַקּוֹת אֶת-כְּתוֹבוֹת הַמִּצְוֹת שֶׁהָיוּ בְּעָדֵינוּ, שֶׁהָיוּ נֶגֶד-לָנוּ, וְהוֹצִיא אוֹתָן מִן-הַדֶּרֶךְ, מַעֲלֶה אוֹתָן עַל-צּוּרוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "he-IL",
+      "text": "אבל עכשיו המשיח קם מן המתים. הוא היה הפרי הראשון של אלה שישנים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "he-IL",
+      "text": "הַבֹּטְחִ֥ים עַל־חֵילָ֑ם וּבְרֹ֥ב עָ֝שְׁרָ֗ם יִתְהַלָּֽלוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "he-IL",
+      "text": "וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת־לֵ֤ב הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "he-IL",
+      "text": "יֵשׁוּעַ אָמַר אֵלָיו, תּוֹמָס, בַּעֲבוּר שֶׁרָאִיתָ אֹתִי, הֶאֱמַנְתָּ אַשְׁרֵי הַמַּאֲמִינִים שֶׁלֹּא רָאוּ, וְעַדַּיִן הֶאֱמִינוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "he-IL",
+      "text": "אין עתה שום גזר דין על אלה שהם במשיח ישו, ההולכים לא אחרי הבשר, אלא אחרי הרוח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר נִתַּן בַּשְּׁבָעֹתֵינוּ וְהוּא קוּם מִן הַמֵּתִים לְצַדֵּקָתֵנוּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "he-IL",
+      "text": "הַסֹּלֵ֥חַ לְכָל־עֲוֺנֵ֑כִי הָ֝רֹפֵ֗א לְכָל־תַּחֲלֻאָֽיְכִי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "he-IL",
+      "text": "וַיֹּאמְרוּ אִישׁ אֶל רֵעֵהוּ, הֲלֹא בְּלִבֵּנוּ בָּעֲרוּ, בְּדַבְּרוֹ אִתָּנוּ בַּדֶּרֶךְ, וּבְפָתְחוֹ לָנוּ אֶת הַכְּתוּבוֹת?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "he-IL",
+      "text": "הוא עצמו נשא את חטאינו בגופו על העץ, כדי שאנחנו, לאחר שמתנו לחטאים, נחיה לצדק. נרפאתם על ידי פצעיו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "he-IL",
+      "text": "העדות היא זו כי אלוהים נתן לנו חיים נצחיים, וחיים אלה הם בבנו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "he-IL",
+      "text": "אַךְ־ה֣וּא צ֭וּרִי וִֽישׁוּעָתִ֑י מִ֝שְׂגַּבִּ֗י לֹ֣א אֶמּֽוֹט׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "he-IL",
+      "text": "וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת־עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת לְדִרְא֥וֹן עוֹלָֽם׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "he-IL",
+      "text": "אני הרועה הטוב הרועה הטוב נותן את חייו עבור הצאן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "he-IL",
+      "text": "משיח גאל אותנו מקללת התורה, בהיותו קללה בעדנו כי כתוב, ארור כל הנישא על עץ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "he-IL",
+      "text": "המי שיש לו את הבן יש לו את החיים. המי שאין לו את בן אלוהים אין לו את החיים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "he-IL",
+      "text": "בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "he-IL",
+      "text": "מֵעֲמַ֤ל נַפְשׁוֹ֙ יִרְאֶ֣ה יִשְׂבָּ֔ע בְּדַעְתּ֗וֹ יַצְדִּ֥יק צַדִּ֛יק עַבְדִּ֖י לָֽרַבִּ֑ים וַעֲוֺנֹתָ֖ם ה֥וּא יִסְבֹּֽל׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "he-IL",
+      "text": "וְכַאֲשֶׁר צָעַק יֵשׁוּעַ בְּקוֹל גָּדוֹל, אָמַר, אָבָא, בְּיָדֶיךָ אֲנִי מַסְגִּיר אֶת רוּחִי וְכַאֲשֶׁר אָמַר כֵּן, נָשָׁם אֶת רוּחוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "he-IL",
+      "text": "לא על פי מעשי צדקה שעשינו, אלא לפי רחמיו הוא הציל אותנו, על ידי רחיצת התחדשות ורענון רוח הקודש",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "he-IL",
+      "text": "אבל אם נלך באור כמו שהוא באור, יש לנו שותפות זה עם זה, ודמו של ישו המשיח בנו, מנקה אותנו מכל חטא.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "he-IL",
+      "text": "רָצִ֣יתָ יְהוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ שבות יַעֲקֹֽב׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "he-IL",
+      "text": "וַיַּ֤עַשׂ מֹשֶׁה֙ נְחַ֣שׁ נְחֹ֔שֶׁת וַיְשִׂמֵ֖הוּ עַל־הַנֵּ֑ס וְהָיָ֗ה אִם־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "he-IL",
+      "text": "וזה רצון השולח אותי, שכל רואה את הבן ומאמין בו, שיהיה לו חיים נצחיים ואני אקים אותו ביום האחרון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "he-IL",
+      "text": "אבל עכשיו במשיח ישו, אתם שהייתם רחוקים לפנים, קרבתם בדם המשיח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "he-IL",
+      "text": "מְצֻדָּקִים חִנָּם בְּחֶסֶדֹו עַל-יְדֵי הַגְּאֻלָּה אֲשֶׁר בַּמָּשִׁיחַ יֵשׁוּעַ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "he-IL",
+      "text": "אֶ֭בֶן מָאֲס֣וּ הַבּוֹנִ֑ים הָ֝יְתָ֗ה לְרֹ֣אשׁ פִּנָּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "he-IL",
+      "text": "וַיָּבֹא יֵשׁוּעַ וַיֹּאמֶר אֲלֵיהֶן, כָּל הַשָּׁלְטָן נִתַּן לִּי בַּשָּׁמַיִם וּבָאָרֶץ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "he-IL",
+      "text": "כי יש אל אחד ומתווך אחד בין אלוהים ואנשים, האדם ישו המשיח,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "he-IL",
+      "text": "כי גם המשיח סבל עבור חטאים פעם אחת, הצדיק עבור הרשעים, כדי להביא אתכם לאלוהים, כשהוא מת בגוף, אך חי ברוח,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "he-IL",
+      "text": "וַיַּעֲלֵ֤נִי ׀ מִבּ֥וֹר שָׁאוֹן֮ מִטִּ֪יט הַיָּ֫וֵ֥ן וַיָּ֖קֶם עַל־סֶ֥לַע רַגְלַ֗י כּוֹנֵ֥ן אֲשֻׁרָֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "he-IL",
+      "text": "וַיִּקְרָ֧א אַבְרָהָ֛ם שֵֽׁם־הַמָּק֥וֹם הַה֖וּא יְהוָ֣ה ׀ יִרְאֶ֑ה אֲשֶׁר֙ יֵאָמֵ֣ר הַיּ֔וֹם בְּהַ֥ר יְהוָ֖ה יֵרָאֶֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "he-IL",
+      "text": "כאשר ישו קיבל את החומץ, הוא אמר זה נגמר והוא כיפף את ראשו, ונפח את נשמתו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "he-IL",
+      "text": "לָכֵן, הוא יכול גם להציל עד הסוף את הבאים אל אֱלֹהִים דרכו, כי הוא חי תמיד כדי להתפלל בעדם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "he-IL",
+      "text": "עוד מעט, והעולם לא יראה אותי עוד אבל אתם רואים אותי כי אני חי, גם אתם תחיו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "he-IL",
+      "text": "לׅׄוּלֵׅׄ֗אׅׄ הֶ֭אֱמַנְתִּי לִרְא֥וֹת בְּֽטוּב־יְהוָ֗ה בְּאֶ֣רֶץ חַיִּֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "he-IL",
+      "text": "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "he-IL",
+      "text": "אומר, כי בן האדם חייב להימסר לידיהם של אנשים חטאים, ולהצלב, ויום השלישי לקום שוב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "he-IL",
+      "text": "כְּדֵי שֶׁאֲנִי אֵדָע אוֹתוֹ, וְאֶת-כֹּחַ תַּחֲיוֹתוֹ, וְאֶת-חֲבֵרוּת סִבְלֹתָיו, בְּהִתְמוֹדֵד עִם-מָוֶת שֶׁלּוֹ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "he-IL",
+      "text": "אני הוא החי, והייתי מת והנה, אני חי לעד ועד, אמן ויש לי את המפתחות של שאול ושל המוות.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "he-IL",
+      "text": "תְּמוֹתֵ֣ת רָשָׁ֣ע רָעָ֑ה וְשֹׂנְאֵ֖י צַדִּ֣יק יֶאְשָֽׁמוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "he-IL",
+      "text": "מָחִ֤יתִי כָעָב֙ פְּשָׁעֶ֔יךָ וְכֶעָנָ֖ן חַטֹּאותֶ֑יךָ שׁוּבָ֥ה אֵלַ֖י כִּ֥י גְאַלְתִּֽיךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "he-IL",
+      "text": "אבל אלה נכתבו, כדי שתאמינו שישו הוא המשיח, בן האלוהים וכאשר תאמינו, שיהיה לכם חיים בשמו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "he-IL",
+      "text": "אֲבָל עַכְשָׁיו, מִכְּיוָן שֶׁנִּצְדַּקְנוּ בַּדָּם שֶׁלּוֹ, נִמְצָא שֶׁנִּוָּשֵׁע מֵעֶצֶב בַּעֲבוּר שֶׁהוּא.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "he-IL",
+      "text": "בָּזֶה הָרָצוֹן אֲנַחְנוּ מְקֻדָּשִׁים בְּעַצָּתוֹת גּוּף יֵשׁוּעַ הַמָּשִׁיחַ פַּעַם אֶחָד לְעַד.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "he-IL",
+      "text": "תַּ֭שְׁמִיעֵנִי שָׂשׂ֣וֹן וְשִׂמְחָ֑ה תָּ֝גֵ֗לְנָה עֲצָמ֥וֹת דִּכִּֽיתָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "he-IL",
+      "text": "וַיַּחֵל מִמֹּשֶׁה וּמִכָּל הַנְּבִיאִים וַיַּבְעֵר לָהֶם בְּכָל הַכְּתוּבוֹת אֵת הַדְּבָרִים אֲשֶׁר לּוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "he-IL",
+      "text": "הוא מת עבור כולם, כדי שהחיים שיחיו לא יחיו יותר לעצמם, אלא לו שעבורם מת וקם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "he-IL",
+      "text": "ואחרי שעשה שלום באמצעות דם צליבתו, כדי לְכַלֵּל את כל הדברים אליו על ידו, אני אומר, בין אם הם דברים בארץ, או דברים בשמים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "he-IL",
+      "text": "כִּֽי־חַ֭סְדְּךָ גָּד֣וֹל עָלָ֑י וְהִצַּ֥לְתָּ נַ֝פְשִׁ֗י מִשְּׁא֥וֹל תַּחְתִּיָּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "he-IL",
+      "text": "כִּי גַּם בֶּן-האדם בָּא לֹא לְהִשָּׁרֵת, כִּי אם לְשָׁרֵת, וּלְתֵן אֶת-חַיָּיו כְּפִדְיוֹן רַבִּים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "he-IL",
+      "text": "אף על פי שהיינו מתים בחטאים, החיה אותנו יחד עם המשיח, על ידי חסד אתם נושעים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "he-IL",
+      "text": "מי הוא זה המֵרַשֵּׁעַ? המשיח הוא זה שמֵת, ואף יותר, הוא קם לתחייה, והוא אף יושב לימין אלוהים, והוא גם מתפלל בעדנו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "he-IL",
+      "text": "יִרְאֵ֤י יְהוָ֨ה ׀ הַֽלְל֗וּהוּ כָּל־זֶ֣רַע יַעֲקֹ֣ב כַּבְּד֑וּהוּ וְג֥וּרוּ מִ֝מֶּ֗נּוּ כָּל־זֶ֥רַע יִשְׂרָאֵֽל׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "he-IL",
+      "text": "אָכֵ֤ן חֳלָיֵ֨נוּ֙ ה֣וּא נָשָׂ֔א וּמַכְאֹבֵ֖ינוּ סְבָלָ֑ם וַאֲנַ֣חְנוּ חֲשַׁבְנֻ֔הוּ נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּמְעֻנֶּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "he-IL",
+      "text": "אמן, אמן, אני אומר לכם, מי ששומע את דברי ומאמין באותו ששלח אותי, יש לו חיים נצחיים, ולא יבוא למשפט אלא עבר ממוות לחיים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "he-IL",
+      "text": "אבל עכשיו נחשף על ידי הופעת מושיענו, ישו המשיח, שהשמיד את המוות, והביא חיים וחיי נצח לאור דרך הבשורה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "he-IL",
+      "text": "אֲשֶׁ֤ר הראיתנו ׀ צָר֥וֹת רַבּ֗וֹת וְרָ֫ע֥וֹת תָּשׁ֥וּב תחיינו וּֽמִתְּהֹמ֥וֹת הָ֝אָ֗רֶץ תָּשׁ֥וּב תַּעֲלֵֽנִי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "he-IL",
+      "text": "לְכוּ֙ וְנָשׁ֣וּבָה אֶל־יְהוָ֔ה כִּ֛י ה֥וּא טָרָ֖ף וְיִרְפָּאֵ֑נוּ יַ֖ךְ וְיַחְבְּשֵֽׁנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "he-IL",
+      "text": "וַיִּפָּתוּ עֲינֵיהֶן, וַיַּכִּירוּ אֹתוֹ וַיִּפָּלֵג מִן הַמַּבָּט מֵהֶן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "he-IL",
+      "text": "כי בלב מאמין האדם לצידקness ובפה ההודאה נעשית לישועה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "he-IL",
+      "text": "כי דבר הצלב הוא טיפשות עבור אלה שמתים, אבל עבורנו הנושעים זהו כוח אלוהים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "he-IL",
+      "text": "פְּֽרִי־צַ֭דִּיק עֵ֣ץ חַיִּ֑ים וְלֹקֵ֖חַ נְפָשׂ֣וֹת חָכָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "he-IL",
+      "text": "וּשְׁאַבְתֶּם־מַ֖יִם בְּשָׂשׂ֑וֹן מִמַּעַיְנֵ֖י הַיְשׁוּעָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "he-IL",
+      "text": "וכמו שמשה הרים את הנחושת במדבר, כך חייב גם בן האדם להיות מורם",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "he-IL",
+      "text": "הָאֹמֵר לֹא חָשַׁךְ אֶת בּנוֹ, אֶלָּא נָתַן אֹתוֹ בַּעֲדֵנוּ כֻּלָּנוּ, אֵיךְ לֹא יִתֵּן גַּם אִתּוֹ אֶת כָּל הַדְּבָרִים?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "he-IL",
+      "text": "כִּ֤י חִלַּ֥צְתָּ נַפְשִׁ֗י מִ֫מָּ֥וֶת אֶת־עֵינִ֥י מִן־דִּמְעָ֑ה אֶת־רַגְלִ֥י מִדֶּֽחִי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר יֵשׁוּעַ אֵלָיו, אֲמֵן אֲנִי אוֹמֵר לְךָ, הַיּוֹם תִּהְיֶה עִמָּדִי בַּגַּן עֵדֶן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "he-IL",
+      "text": "יודעים שאתם נגאלתם, לא בדברים מושחתים כמו כסף או זהב, מהדרך חסרת התועלת שהועברה לכם מאבותיכם,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "he-IL",
+      "text": "תּוֹצִיאֵ֗נִי מֵרֶ֣שֶׁת ז֭וּ טָ֣מְנוּ לִ֑י כִּֽי־אַ֝תָּה מָֽעוּזִּֽי׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "he-IL",
+      "text": "וכאשר אמר זאת, הראה להם את ידיו ואת צדו. אז שמחו התלמידים כאשר ראו את האדון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "he-IL",
+      "text": "אבל תודה לאלוהים, שנותן לנו את הניצחון דרך אדוננו ישו המשיח.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "he-IL",
+      "text": "עָזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽיְהִי־לִ֝֗י לִֽישׁוּעָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "he-IL",
+      "text": "ואך כאשר הלכו לספר לתלמידיו, הנה ישו פגש אותם, ואמר שלום לכם. והם ניגשו, חזו ברגליו, והשתחוו לו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר בּוֹ גַּם אַתֶּם אֲמַנְתֶּם, אַחַר שֶׁשָּׁמַעְתֶּם אֶת דְּבַר הָאֱמֶת, אֶת בְּשֹׂרַת יְשׁוּעָתְכֶם וּבְבוֹ אֲשֶׁר אַחַר שֶׁאֲמַנְתֶּם, נִחְתַּמְתֶּם בְּרוּחַ הַקֹּדֶשׁ אֲשֶׁר נִשְׁבַּע.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר הָקִים אֱלֹהִים, מִשְׁעָרֵי הַמָּוֶת, כִּי לֹא יָכֹל לְהִתְמַשֵּׁךְ בּוֹ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "he-IL",
+      "text": "מִזְמ֡וֹר שִׁ֤ירוּ לַֽיהוָ֨ה ׀ שִׁ֣יר חָ֭דָשׁ כִּֽי־נִפְלָא֣וֹת עָשָׂ֑ה הוֹשִֽׁיעָה־לּ֥וֹ יְ֝מִינ֗וֹ וּזְר֥וֹעַ קָדְשֽׁוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "he-IL",
+      "text": "בַּיּ֣וֹם הַה֗וּא יִֽהְיֶה֙ מָק֣וֹר נִפְתָּ֔ח לְבֵ֥ית דָּוִ֖יד וּלְיֹשְׁבֵ֣י יְרֽוּשָׁלִָ֑ם לְחַטַּ֖את וּלְנִדָּֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר אֲלֵיהֶן, מַדּוּעַ אַתֶּן נִצָּבוֹת? וּמַדּוּעַ עֲלוּבוֹת עַל-לִבֵּכֶן?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "he-IL",
+      "text": "כי איני מתבייש בבשורת המשיח כי היא כוחו של אלוהים לישועה לכל המאמין ליהודי ראשון, וגם ליווני.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "he-IL",
+      "text": "כִּי אִם, בְּהָיוֹתֵנוּ אוֹיְבִים, הוּכַרְנוּ לֵאלֹהִים בְּמוֹת בְּנוֹ עַד כַּמָּה, בְּהָיוֹתֵנוּ מוּכָּרִים, נִוָּשֵׁעַ בְּחַיָּיו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "he-IL",
+      "text": "הַגּוֹאֵ֣ל מִשַּׁ֣חַת חַיָּ֑יְכִי הַֽ֝מְעַטְּרֵ֗כִי חֶ֣סֶד וְרַחֲמִֽים׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "he-IL",
+      "text": "קֻבָּרוּ עִמּוֹ בַּמִּקְוֶה, וּבָזֶה גַּם עָלוּתֶם עִמּוֹ בֶּאֱמוּנָה בְּעֲבוֹדַת אֱלֹהִים, אֲשֶׁר הֵקִים אֹתוֹ מִן הַמֵּתִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "he-IL",
+      "text": "ואתם, שהייתם מתים בחטאותיכם ובערלת בשרכם, החיה יחד אתכם עמו, וסלח לכם על כל העוונות",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "he-IL",
+      "text": "אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר אֲלֵיהֶן, לֵכוּ אֶל-כָּל-עָלְמָה, וּקְרוּ אֶת-בְּשׂוֹרַת הַמָּשִׁיחַ לְכָל-בָּשָׂר.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר נָתַן אֶת עַצְמוֹ בַּעֲדֵנוּ, לְמַעַן יַגְּאִיל אֹתָנוּ מִכָּל-עָוֹן, וּלְטַהֵר לְעַצְמוֹ עַם סְגֻלָּה, קִנְאַת מַעֲשֵׂי טוֹב.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "he-IL",
+      "text": "בזה היא האהבה, לא שאנחנו אהבנו את אלוהים, אלא שהוא אהב אותנו, ושלח את בנו כקורבן כפרה עבור חטאינו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "he-IL",
+      "text": "יַחֵ֥ל יִשְׂרָאֵ֗ל אֶל־יְה֫וָה כִּֽי־עִם־יְהוָ֥ה הַחֶ֑סֶד וְהַרְבֵּ֖ה עִמּ֣וֹ פְדֽוּת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "he-IL",
+      "text": "וְכַאֲשֶׁר רָאָה הַסֶּנְטוּרְיוֹן וְאֵלֶּה שֶׁאִתּוֹ מִשְׁמָרִים אֶת יֵשׁוּעַ, אֶת הָרַעַשׁ וְאֵת הַדְּבָרִים שֶׁנַּעֲשׂוּ, נִבְהֲלוּ מְאֹד, וַיֹּאמְרוּ, אֲמַר אֱמֶת, זֶה בֶּן אֱלֹהִים הָיָה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר הָקָבָּה הִצִּיב לִפְנֵי הַמַּשְׁפָּט לִהְיוֹת כַּפָּרָה בְּאֶמְצָעַת אֱמוּנָה בְּדָמוֹ, לְהַגִּיד אֶת-צִדְקָתוֹ לְמַחֲלַת חֲטָאִים שֶׁהָיוּ בְּעֶבְרָה, בְּסוֹבלָנוּ שֶׁל אֱלֹהִים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "he-IL",
+      "text": "ה אינו מאחר לגבי הבטחתו, כמו שחלק סופרים את האיחור אלא הוא סבלני כלפינו, ואינו רוצה שאיש ייאבד, אלא שכולם יבואו לתשובה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "he-IL",
+      "text": "קַוֵּ֗ה אֶל־יְה֫וָ֥ה חֲ֭זַק וְיַאֲמֵ֣ץ לִבֶּ֑ךָ וְ֝קַוֵּ֗ה אֶל־יְהוָֽה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "he-IL",
+      "text": "כִּ֣י לֹ֤א אֶחְפֹּץ֙ בְּמ֣וֹת הַמֵּ֔ת נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה וְהָשִׁ֖יבוּ וִֽחְיֽוּ׃ פ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "he-IL",
+      "text": "אני הדלת אם מישהו ייכנס דרכי, הוא יינצל, וייכנס ויצא, וימצא מרעה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "he-IL",
+      "text": "האמירה היא נאמנה וראויה לכל קבלה, כי ישו המשיח בא לעולם כדי להציל חוטאים, ואני הראשון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "he-IL",
+      "text": "כי אני משוכנע, כי לא מוות, ולא חיים, ולא מלאכים, ולא רשות, ולא כוחות, ולא דברים נוכחים, ולא דברים עתידים,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "he-IL",
+      "text": "עָלַ֣י אֱלֹהִ֣ים נְדָרֶ֑יךָ אֲשַׁלֵּ֖ם תּוֹדֹ֣ת לָֽךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "he-IL",
+      "text": "אָנֹכִ֨י אָנֹכִ֥י ה֛וּא מֹחֶ֥ה פְשָׁעֶ֖יךָ לְמַעֲנִ֑י וְחַטֹּאתֶ֖יךָ לֹ֥א אֶזְכֹּֽר׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "he-IL",
+      "text": "כְּמוֹתָן גַּם הַכּוֹס אַחַר הַסּוּעָה, אֹמֵר, זֹאת הַכּוֹס הַבְּרִית הַחֲדָשָׁה בְּדָמִי, אֲשֶׁר נִשְׁפַּךְ בַּעֲדֵכֶן.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "he-IL",
+      "text": "וּנִכְרַז לִהְיוֹת בֶּן-אֱלֹהִים בְּכֹחַ, לְפִי רוּחַ הַקֹּדֶשׁ, בַּתְּחִיָּה מִן-הַמֵּתִים",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "he-IL",
+      "text": "בָּ֤ר֣וּךְ אֲדֹנָי֮ י֤וֹם ׀ י֥וֹם יַֽעֲמָס־לָ֗נוּ הָ֘אֵ֤ל יְֽשׁוּעָתֵ֬נוּ סֶֽלָה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "he-IL",
+      "text": "גַּם־אַ֣תְּ בְּדַם־בְּרִיתֵ֗ךְ שִׁלַּ֤חְתִּי אֲסִירַ֨יִךְ֙ מִבּ֔וֹר אֵ֥ין מַ֖יִם בּֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "he-IL",
+      "text": "וַיֹּאמֶר אֲלֵיהֶן, שִׁימוּ אֶת הָרֶשֶׁת מִן הַיָּמִין שֶׁל הַסְּפִינָה, וּתְמָצְאוּ. וַיָּשִׁימוּ, וְעַתָּה לֹא יָכֹלוּ לִמְשֹׁךְ מִן רֹב הַדָּגִים.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "he-IL",
+      "text": "ועכשיו אלוהים הקים את האדון, וגם יקים אותנו על ידי כוחו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "he-IL",
+      "text": "כי כמו באדם כולם מתים, כך גם במשיח כולם יחיו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "he-IL",
+      "text": "כַּצֹּ֤אן ׀ לִֽשְׁא֣וֹל שַׁתּוּ֮ מָ֤וֶת יִ֫רְעֵ֥ם וַיִּרְדּ֘וּ בָ֤ם יְשָׁרִ֨ים ׀ לַבֹּ֗קֶר וצירם לְבַלּ֥וֹת שְׁא֗וֹל מִזְּבֻ֥ל לֽוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "he-IL",
+      "text": "מְשַׁמְּרִ֖ים הַבְלֵי־שָׁ֑וְא חַסְדָּ֖ם יַעֲזֹֽבוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "he-IL",
+      "text": "וַיּוֹצִיא אֹתָם עַד בֵּית-עַנְיָה, וַיָּשֶׂם אֶת-יָדָיו, וַיְבָרֶךְ אֹתָם.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "he-IL",
+      "text": "וְקָרָא בְּקוֹל גָּדוֹל, לֵאמֹר, הַשּׁ salvation לֵאלֹהֵינוּ הַיּוֹשֵׁב עַל הַכִּסֵּא, וְלַשֶּׂה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "he-IL",
+      "text": "ק֘וּמָ֤ה יְהוָ֨ה ׀ הוֹשִׁ֘יעֵ֤נִי אֱלֹהַ֗י כִּֽי־הִכִּ֣יתָ אֶת־כָּל־אֹיְבַ֣י לֶ֑חִי שִׁנֵּ֖י רְשָׁעִ֣ים שִׁבַּֽרְתָּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "he-IL",
+      "text": "כִּ֤י יְהוָה֙ שֹׁפְטֵ֔נוּ יְהוָ֖ה מְחֹקְקֵ֑נוּ יְהוָ֥ה מַלְכֵּ֖נוּ ה֥וּא יוֹשִׁיעֵֽנוּ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "he-IL",
+      "text": "כי חסד אלוהים המביא ישועה הופיע לכל האנשים,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "he-IL",
+      "text": "עַל־כֵּן֙ יַֽעֲזָב־אִ֔ישׁ אֶת־אָבִ֖יו וְאֶת־אִמּ֑וֹ וְדָבַ֣ק בְּאִשְׁתּ֔וֹ וְהָי֖וּ לְבָשָׂ֥ר אֶחָֽד׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "he-IL",
+      "text": "וְכָל־בָּנַ֖יִךְ לִמּוּדֵ֣י יְהוָ֑ה וְרַ֖ב שְׁל֥וֹם בָּנָֽיִךְ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "he-IL",
+      "text": "ואמר, על כן יעזוב איש את אביו ואת אמו, ודבק באשתו והיו לבשר אחד?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "he-IL",
+      "text": "ילדים, צייתו להוריכם באדון כי זה נכון.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "he-IL",
+      "text": "כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "he-IL",
+      "text": "חֲנֹ֣ךְ לַ֭נַּעַר עַל־פִּ֣י דַרְכּ֑וֹ גַּ֥ם כִּֽי־יַ֝זְקִ֗ין לֹֽא־יָס֥וּר מִמֶּֽנָּה׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "he-IL",
+      "text": "וְנָתַתִּי֩ לָהֶ֨ם לֵ֜ב לָדַ֣עַת אֹתִ֗י כִּ֚י אֲנִ֣י יְהוָ֔ה וְהָיוּ־לִ֣י לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָהֶ֖ם לֵאלֹהִ֑ים כִּֽי־יָשֻׁ֥בוּ אֵלַ֖י בְּכָל־לִבָּֽם׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "he-IL",
+      "text": "וַיֵּרֶד עִמָּם, וַיָּבֹא נָצְרַת, וַיְהִי בְּתַחְתָּם וְאִמּוֹ שָׁמְרָה אֵת כָּל-הַדְּבָרִים הָאֵלֶּה בְּלִבָּהּ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "he-IL",
+      "text": "אבות, אל תכעיסו את ילדיכם, פן יתייאשו.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "he-IL",
+      "text": "וְיָשַׁ֥ב עַמִּ֖י בִּנְוֵ֣ה שָׁל֑וֹם וּֽבְמִשְׁכְּנוֹת֙ מִבְטַחִ֔ים וּבִמְנוּחֹ֖ת שַׁאֲנַנּֽוֹת׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "he-IL",
+      "text": "אֲשֶׁר יַעֲשֶׂה אֶת רְצוֹן אֱלֹהִים, הוּא אֲחִי, וְאֲחוֹתִי, וְאִמָּי.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "he-IL",
+      "text": "וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "he-IL",
+      "text": "וּרְחֹב֤וֹת הָעִיר֙ יִמָּ֣לְא֔וּ יְלָדִ֖ים וִֽילָד֑וֹת מְשַׂחֲקִ֖ים בִּרְחֹֽבֹתֶֽיהָ׃ ס",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "he-IL",
+      "text": "אם אתם, הרעים, יודעים לתת מתנות טובות לילדיכם, כמה יותר אביכם שבשמים יתן רוח קודש למבקשים ממנו?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "he-IL",
+      "text": "אבל היינו רכים ביניכם, כמו אם מניקה מחבקת את ילדיה.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "he-IL",
+      "text": "אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קָדְשֽׁוֹ׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "he-IL",
+      "text": "עֲטֶ֣רֶת זְ֭קֵנִים בְּנֵ֣י בָנִ֑ים וְתִפְאֶ֖רֶת בָּנִ֣ים אֲבוֹתָֽם׃",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "he-IL",
+      "text": "אם אתם, הרעים, יודעים לתת מתנות טובות לילדיכם, כמה יותר אביכם שבשמים יתן דברים טובים למבקשים ממנו?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-HEB-013-004",
+      "lang": "tr-TR",
+      "text": "Evlilik herkesin gözünde onurlu olsun ve yatak kirlenmesin çünkü Tanrı, fuhuş yapanları ve zina edenleri yargılayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-003",
+      "lang": "tr-TR",
+      "text": "Bakın, çocuklar, Yehovanın mirasıdır. Rahmin meyvesi onun ödülüdür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-003",
+      "lang": "tr-TR",
+      "text": "Çünkü ben susuz olanın üzerine su dökeceğim ve kuru toprağa akıntılar. Soylarınıza Ruhumu dökeceğim ve nesillerinize bereketimi vereceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-016",
+      "lang": "tr-TR",
+      "text": "İsa, onlara seslenerek, Küçük çocukların bana gelmesine izin verin, onları engellemeyin çünkü Tanrının Krallığı, böyle olanlarındır, dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-004",
+      "lang": "tr-TR",
+      "text": "Ey babalar, çocuklarınızı öfkelendirmeyin, ama onları Rabbin terbiye ve öğretiyle yetiştirin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-001",
+      "lang": "tr-TR",
+      "text": "Her akıllı kadın evini inşa eder, ama ahmak olan kendi elleriyle onu yıkar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-039",
+      "lang": "tr-TR",
+      "text": "Onlara bir kalp ve bir yol vereceğim ki, sonsuza dek benden korksunlar, kendileri ve çocukları için hayır olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-026",
+      "lang": "tr-TR",
+      "text": "İsa, annesini ve sevdiği öğrenciyi orada görünce annesine, Kadın, işte oğlun! dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-008",
+      "lang": "tr-TR",
+      "text": "Ama biri kendi yakınlarına, özellikle kendi evine bakmazsa, imanı inkar etmiş olur ve bir inanmayanlardan daha kötü olur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-001-017",
+      "lang": "tr-TR",
+      "text": "Ama ebeler Tanrıdan korktular ve Mısır kralının kendilerine emrettiğini yapmadılar, ama bebek erkekleri yaşattılar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013B",
+      "lang": "tr-TR",
+      "text": "Ama Yehovanın merhameti, kendisinden korkanlarla, çocukların çocuklarına kadar, ebeden ebede sürer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-061-009",
+      "lang": "tr-TR",
+      "text": "Onların nesilleri uluslar arasında tanınacak, halklar arasında da nesilleri. Onları gören herkes, Yehovanın kutsadığı nesil olduklarını kabul edecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-009",
+      "lang": "tr-TR",
+      "text": "O halde Tanrının bir araya getirdiğini, hiç kimse ayırmasın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-010B",
+      "lang": "tr-TR",
+      "text": "Sevgi, komşuya zarar vermez. Bu nedenle sevgi, yasanın yerine getirilmesidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-050-021",
+      "lang": "tr-TR",
+      "text": "Şimdi korkmayın. Size ve çocuklarınıza bakacağım. Onları teselli etti ve onlara nazikçe konuştu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-029",
+      "lang": "tr-TR",
+      "text": "Kendi evini rahatsız eden rüzgarı miras alır. Aptallar, akıllı olanların hizmetkarı olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-007",
+      "lang": "tr-TR",
+      "text": "Efrayim, güçlü bir adam gibi olacak, yürekleri şarap gibi sevinçle dolacak. Evet, çocukları bunu görecek ve sevinecek. Yürekleri Yahwehde mutlu olacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-026B",
+      "lang": "tr-TR",
+      "text": "Eğer biri bana gelirse ve kendi babasını, annesini, karısını, çocuklarını, kardeşlerini ve kız kardeşlerini, evet, kendi hayatını da göz ardı etmezse, o benim öğrencim olamaz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-003",
+      "lang": "tr-TR",
+      "text": "Koca, karısına vermesi gereken sevgiyi versin aynı şekilde, karısı da kocasına.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-001-027",
+      "lang": "tr-TR",
+      "text": "Bu çocuk için dua ettim ve Yahweh, benden istediğim dileğimi bana verdi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-003",
+      "lang": "tr-TR",
+      "text": "Karın, evinin en iç kısımlarında verimli bir asma gibi olacak çocukların, masanın etrafında zeytin filizleri gibi olacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012B",
+      "lang": "tr-TR",
+      "text": "Yahweh, bizim için barış sağlayacaksın çünkü sen de bizim için bütün işlerimizi yaptın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-006",
+      "lang": "tr-TR",
+      "text": "Artık iki değil, bir et olacaklar. O halde Tanrının bir araya getirdiğini, insan ayırmasın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014B",
+      "lang": "tr-TR",
+      "text": "Her şeyi şikayet etmeden ve tartışmadan yapın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LEV-019-018",
+      "lang": "tr-TR",
+      "text": "İntikam almayacaksınız, halkınızın çocuklarına karşı kin beslemeyeceksiniz ama komşunuzu kendiniz gibi seveceksiniz. Ben Yahwehim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014",
+      "lang": "tr-TR",
+      "text": "Ev ve zenginlik babalardan bir mirastır, fakat akıllı bir kadın Yahwehden gelir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-065-023",
+      "lang": "tr-TR",
+      "text": "Onlar boşuna çalışmayacaklar ve felaket için doğurmayacaklar çünkü onlar, Yahwehnin kutsadığı neslin çocuklarıdır ve onların soyları da onlarla birlikte olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-012-025",
+      "lang": "tr-TR",
+      "text": "Düşüncelerini bilen İsa onlara dedi ki Her krallık kendi içinde bölünürse, harabe olur her şehir veya ev kendi içinde bölünürse, ayakta kalamaz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-010",
+      "lang": "tr-TR",
+      "text": "O halde, fırsat buldukça, herkes için iyi olanı yapalım, özellikle de inanç ailesinin mensupları için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-005-016",
+      "lang": "tr-TR",
+      "text": "Babanı ve anneni onurlandır, Yahweh Tanrının sana emrettiği gibi, böylece günlerin uzun olur ve Yahweh Tanrının sana vereceği toprakta iyi geçinirsen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-025",
+      "lang": "tr-TR",
+      "text": "Gençtim, şimdi yaşlıyım, ama ben hiç doğru olanın terk edildiğini, çocuklarının ekmek için dilendiğini görmedim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011",
+      "lang": "tr-TR",
+      "text": "O, koyunlarını bir çoban gibi besleyecek. Kuzuları kollarında toplayacak ve göğsünde taşıyacak. Genç olanları nazikçe yönlendirecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-009",
+      "lang": "tr-TR",
+      "text": "İsa ona dedi ki Bugün, bu eve kurtuluş geldi, çünkü o da İbrahimin bir oğludur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-009B",
+      "lang": "tr-TR",
+      "text": "Birbirinize şikayet etmeden misafirperver olun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-021-006",
+      "lang": "tr-TR",
+      "text": "Sara dedi ki Tanrı beni güldürdü. Duyan herkes benimle gülecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004B",
+      "lang": "tr-TR",
+      "text": "Değerli bir kadın, kocasının taçıdır ama utanç verici bir kadın, kemiklerinde çürümeye benzer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-002-001",
+      "lang": "tr-TR",
+      "text": "Üçüncü gün, Galiledeki Kanada bir düğün vardı. İsanın annesi oradaydı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001B",
+      "lang": "tr-TR",
+      "text": "Şimdi biz güçlü olanlar, zayıflıklarını taşımalıyız ve kendimizi memnun etmemeliyiz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-003",
+      "lang": "tr-TR",
+      "text": "Ey Yahwehi benimle yüceltin. Onun adını birlikte yüceltelim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-004",
+      "lang": "tr-TR",
+      "text": "Ama her adam, kendi asmalarının ve incir ağaçlarının altında oturacak. Hiç kimse onları korkutmayacak, çünkü orduların Yahwehsinin ağzı bunu söyledi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-017",
+      "lang": "tr-TR",
+      "text": "Ama o, onların düşüncelerini bildiği için onlara dedi ki Her krallık kendi içinde bölünürse, o krallık harabe olur. Her ev kendi içinde bölünürse, o ev düşer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015B",
+      "lang": "tr-TR",
+      "text": "Kimse kimseye kötülük için kötülük yapmasın, ama her zaman birbirinize ve herkese iyilik peşinde koşun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-022",
+      "lang": "tr-TR",
+      "text": "Hayatını sana veren babanı dinle, yaşlıyken anneni küçümseme.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-005",
+      "lang": "tr-TR",
+      "text": "Benden biri böyle bir çocuğu benim adıma kabul ederse, beni kabul etmiş olur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-033-004",
+      "lang": "tr-TR",
+      "text": "Esav ona doğru koştu, onu kucakladı, boynuna düştü, onu öptü ve ağladılar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-132-012",
+      "lang": "tr-TR",
+      "text": "Eğer çocukların benim antlaşmamı, onlara öğreteceğim tanıklığımı tutarlarsa, onların çocukları da sonsuza dek senin tahtında oturacaklar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-053",
+      "lang": "tr-TR",
+      "text": "Baba, İsanın ona dediği saatin o saat olduğunu bildi. O, inandı, bütün eviyle birlikte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-033B",
+      "lang": "tr-TR",
+      "text": "Yine de her biriniz kendi karısını kendisi gibi sevmelidir ve kadın da kocasına saygı göstersin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-004-030",
+      "lang": "tr-TR",
+      "text": "Çocuğun annesi dedi ki Yahweh yaşar, ve senin ruhun yaşar, seni bırakmayacağım. Böylece o kalktı ve onu takip etti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-022",
+      "lang": "tr-TR",
+      "text": "Kim karısını bulursa, iyi bir şey bulmuş olur ve Yahwehden lütuf alır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-058",
+      "lang": "tr-TR",
+      "text": "Komşuları ve akrabaları, Rabbin ona merhametini büyüttüğünü duyunca onunla birlikte sevindiler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-004",
+      "lang": "tr-TR",
+      "text": "Genç kadınları kocalarını sevmeye, çocuklarını sevmeye eğitmeleri için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-011",
+      "lang": "tr-TR",
+      "text": "Orada sana bakacağım çünkü daha beş yıl kıtlık var yoksa sen, evin ve sahip olduğun her şeyle birlikte yoksul düşersin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-005",
+      "lang": "tr-TR",
+      "text": "Okları dolu olan adam mutludur. Düşmanlarıyla kapıda konuştuğunda hayal kırıklığına uğramazlar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014B",
+      "lang": "tr-TR",
+      "text": "Ama İsa dedi ki Küçük çocukların gelmesine izin verin, onlara engel olmayın çünkü göklerin Krallığı, bunlar gibi olanlarındır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013B",
+      "lang": "tr-TR",
+      "text": "Azizlerin ihtiyaçlarına katkıda bulunarak, misafirperverliğe de açık olun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-017",
+      "lang": "tr-TR",
+      "text": "Oğlunu düzelt, sana huzur verecektir evet, ruhuna sevinç getirecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-019",
+      "lang": "tr-TR",
+      "text": "Yaşayan, yaşayan, seni övecek ben bugün yaptığım gibi. Baba, gerçeğini çocuklara bildirecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-002",
+      "lang": "tr-TR",
+      "text": "Babamın evinde birçok konut var. Öyle olmasaydı, size söylerdim. Sizin için bir yer hazırlamaya gidiyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010B",
+      "lang": "tr-TR",
+      "text": "Herkes bir hediye aldığında, onu birbirinize hizmet etmekte kullanın Tanrının çeşitli lütuflarının iyi yöneticileri olarak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-133-003",
+      "lang": "tr-TR",
+      "text": "Hermonun çiyi gibi, Siyon dağlarının üzerine inen orada Yahweh, bereketi verir, sonsuza dek yaşamı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-024",
+      "lang": "tr-TR",
+      "text": "Çünkü bu, benim oğlum, ölüydü ve yeniden yaşadı. Kaybolmuştu ve bulundu. O zaman kutlamaya başladılar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005B",
+      "lang": "tr-TR",
+      "text": "Yumuşaklığınız tüm insanlara bilinsin. Rab yakındır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-031-049",
+      "lang": "tr-TR",
+      "text": "Ve Mizpah, çünkü dedi ki Yahweh, ben ve senin aranda gözetlesin, birbirimizden uzak olduğumuzda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-004",
+      "lang": "tr-TR",
+      "text": "Onları çocuklarından gizlemeyeceğiz, gelecek nesle Yahwehin övgülerini, gücünü ve yaptığı harika işleri anlatacağız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-014",
+      "lang": "tr-TR",
+      "text": "Eğer ben, Rab ve Öğretmen, ayaklarınızı yıkadıysam, siz de birbirinizin ayaklarını yıkamalısınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024B",
+      "lang": "tr-TR",
+      "text": "Birbirimizi sevgiye ve iyi işlere teşvik etmenin yollarını düşünelim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057",
+      "lang": "tr-TR",
+      "text": "Yahweh, Tanrımız, atalarımızla olduğu gibi bizimle de olsun. Bizi bırakmasın ve terk etmesin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-033",
+      "lang": "tr-TR",
+      "text": "Yahwehin laneti kötülerin evindedir, ama o, doğru olanların konutunu kutsar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009B",
+      "lang": "tr-TR",
+      "text": "Barış yapanlar ne mutlu, çünkü Tanrının çocukları olarak anılacaklar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019B",
+      "lang": "tr-TR",
+      "text": "O halde, barışa ve birbirimizi inşa etmeye yönelik şeyleri takip edelim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-014",
+      "lang": "tr-TR",
+      "text": "Yahweh sizi daha da artıracak, siz ve çocuklarınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-011-004",
+      "lang": "tr-TR",
+      "text": "Onları bir adamın ipleriyle, sevgi bağlarıyla çektim ve onlara, boyunlarındaki yükü kaldıranlar gibi oldum ve ona eğildim ve onu besledim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-015",
+      "lang": "tr-TR",
+      "text": "Tüm kardeşlerini öptü ve onlara ağladı. Sonra kardeşleri onunla konuştu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-026",
+      "lang": "tr-TR",
+      "text": "Ağzını hikmetle açar. Dilinde nazik öğüt vardır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017B",
+      "lang": "tr-TR",
+      "text": "Yahweh, Tanrınız, aranızda, kurtaracak güçlü birisidir. Sizi sevinçle sevindirecek. Sizi sevgisinde sakinleştirecek. Sizi şarkıyla sevindirecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012B",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, insanların size ne yapmasını istiyorsanız, siz de onlara öyle yapın çünkü bu, yasa ve peygamberlerdir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-016",
+      "lang": "tr-TR",
+      "text": "Bundan dolayı sevginin ne olduğunu biliyoruz, çünkü o bizim için hayatını feda etti. Biz de kardeşlerimiz için hayatlarımızı feda etmeliyiz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-001",
+      "lang": "tr-TR",
+      "text": "Hallelujah! Yahwehden korkan, buyruklarına büyük bir sevinçle uyan adam mutludur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008B",
+      "lang": "tr-TR",
+      "text": "O, ey insan, sana neyin iyi olduğunu gösterdi. Yahweh senden ne ister, ama adaletle davranmak, merhameti sevmek ve Tanrınla alçakgönüllü yürümek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-009",
+      "lang": "tr-TR",
+      "text": "Babanın beni sevdiği gibi, ben de sizi sevdim. Benim sevgimde kalın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007B",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, herkesin borcunu verin eğer vergi borcunuz varsa, vergi verin eğer gümrükse, gümrük eğer saygıysa, saygı eğer onursa, onur verin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-024",
+      "lang": "tr-TR",
+      "text": "Sopa kullanmayan, oğlunu sevmez ama onu seven, onu disipline etmekte dikkatli olur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017B",
+      "lang": "tr-TR",
+      "text": "Doğruluğun işi barış olacak, doğruluğun etkisi, sonsuza dek huzur ve güven olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-015",
+      "lang": "tr-TR",
+      "text": "Onlara dedi ki Dikkat edin! Açgözlülükten sakının, çünkü bir adamın hayatı, sahip olduğu şeylerin bolluğunda değildir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-018",
+      "lang": "tr-TR",
+      "text": "İyilik yapsınlar, iyi işlerde zengin olsunlar, dağıtmaya hazır, paylaşmaya istekli olsunlar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-043-014",
+      "lang": "tr-TR",
+      "text": "Tanrının her şeye gücü yeten, adamın önünde sana merhamet vermesini dilerim ki, diğer kardeşini ve Benyamini sana serbest bıraksın. Eğer çocuklarımın kaybına uğrarsam, kaybederim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-122-007",
+      "lang": "tr-TR",
+      "text": "Duvarlarınızda barış, saraylarınızda refah olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-019",
+      "lang": "tr-TR",
+      "text": "Şükran, neşelenenlerin sesiyle onlardan çıkacak. Onları artıracağım, az olmayacaklar onları da yücelteceğim, küçük olmayacaklar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-015",
+      "lang": "tr-TR",
+      "text": "Onların dünyadan alınmalarını değil, kötü olandan korunmalarını dilerim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-031",
+      "lang": "tr-TR",
+      "text": "Ağır saç, bir onur tacıdır. Doğrulukla geçirilen bir yaşamla elde edilir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018",
+      "lang": "tr-TR",
+      "text": "Yine de Yahwehde sevinç duyacağım. Kurtuluşumun Tanrısında sevinçli olacağım!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019B",
+      "lang": "tr-TR",
+      "text": "Babanı ve anneni onurlandır. Ve, Komşunu kendin gibi seveceksin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013B",
+      "lang": "tr-TR",
+      "text": "Şimdi umudun Tanrısı, size tüm sevinç ve barışla dolsun, inançta bol bol umudun gücüyle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-024",
+      "lang": "tr-TR",
+      "text": "Güçlü olun ve yüreklerinizi cesaretlendirin, ey Yahwehde umut edenler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-004",
+      "lang": "tr-TR",
+      "text": "Korkulu bir kalbi olanlara söyle Güçlü olun! Korkmayın! Bakın, Tanrınız intikamla gelecek, Tanrının karşılığını verecek. Gelip sizi kurtaracak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-027",
+      "lang": "tr-TR",
+      "text": "Ama hemen İsa onlara dedi Cesaretlenin! Benim! Korkmayın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-008",
+      "lang": "tr-TR",
+      "text": "Yahweh, önünüzde giden kişidir. O sizinle olacaktır. Sizi bırakmayacak ve terk etmeyecektir. Korkmayın. Cesaretinizi kaybetmeyin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-001",
+      "lang": "tr-TR",
+      "text": "Kötüler, kimse peşlerinden koşmadığı zaman kaçar ama doğrular, aslan kadar cesurdur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-036",
+      "lang": "tr-TR",
+      "text": "Ama İsa, söylenen mesajı duyduğunda, hemen sinagogun yöneticisine dedi ki Korkma, sadece inan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-004",
+      "lang": "tr-TR",
+      "text": "Öl gölünden geçerken bile, ben kötüden korkmam çünkü sen benimlesin. Senin değneğin ve sopan, beni teselli eder.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-007",
+      "lang": "tr-TR",
+      "text": "Kötü haberden korkmayacak. Kalbi sağlamdır, Rabbe güveniyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-020",
+      "lang": "tr-TR",
+      "text": "Ama onlara, Benim, korkmayın dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-013",
+      "lang": "tr-TR",
+      "text": "Ama siz, kardeşler, doğru olanı yapmaktan yorulmayın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-006",
+      "lang": "tr-TR",
+      "text": "Böylece cesaretle deriz Rab benim yardımcım. Korkmayacağım. İnsan bana ne yapabilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-010",
+      "lang": "tr-TR",
+      "text": "Eğer sıkıntı zamanında sarsılırsan, gücün küçüktür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-008",
+      "lang": "tr-TR",
+      "text": "Onlardan korkma, çünkü ben seninle birlikteyim, seni kurtaracağım, diyor Rab.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-032",
+      "lang": "tr-TR",
+      "text": "Küçük sürü, korkma çünkü Babanın, size Krallığı vermesi hoşuna gitti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003",
+      "lang": "tr-TR",
+      "text": "Bununla kalmayıp, sıkıntılarımızda da sevinç duyarız çünkü sıkıntı, sabrı üretir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-010-025",
+      "lang": "tr-TR",
+      "text": "Yuşa onlara, Korkmayın, ne de olsa cesaretlenin çünkü Rab, düşmanlarınızın hepsine karşı size bunu yapacak dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-003",
+      "lang": "tr-TR",
+      "text": "Korktuğumda, sana güveneceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-028",
+      "lang": "tr-TR",
+      "text": "Bedeni öldürenlerden korkmayın, ama ruhu öldüremeyenlerden korkun. Aksine, hem ruhu hem bedeni cehennemde yok edebilen olandan korkun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-010",
+      "lang": "tr-TR",
+      "text": "Ama her lütuf sahibi Tanrı, sizi Mesih İsa aracılığıyla ebedi görkemine çağırdıktan sonra, bir süre sıkıntı çektikten sonra, sizi mükemmel kılacak, sağlamlaştıracak, güçlendirecek ve yerleştirecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-003",
+      "lang": "tr-TR",
+      "text": "Bir ordu benimle karşılaşsa bile, kalbim korkmayacak. Savaş benimle yükselse bile, yine de güvenle olacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-026",
+      "lang": "tr-TR",
+      "text": "Çünkü Rab, senin güvenin olacak ve ayağını yakalanmaktan koruyacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-011",
+      "lang": "tr-TR",
+      "text": "Bak, sana karşı öfkelenenlerin hepsi hayal kırıklığına uğrayacak ve mahvolacak. Seninle mücadele edenler, hiçbir şey gibi olacak ve yok olacaklar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-006-050",
+      "lang": "tr-TR",
+      "text": "Çünkü hepsi onu gördüler ve korktular. Ama o hemen onlarla konuştu ve onlara, Cesaretlenin! Benim! Korkmayın! dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016",
+      "lang": "tr-TR",
+      "text": "Bu nedenle pes etmiyoruz dış görünüşümüz çürüyorsa da, iç görünüşümüz her gün yenileniyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-017",
+      "lang": "tr-TR",
+      "text": "Eğer olursa, biz hizmet ettiğimiz Tanrı, bizi ateşli fırından kurtarabilir ve seni elinden kurtaracaktır, ey kral.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-006",
+      "lang": "tr-TR",
+      "text": "Rab benim yanımdadır. Korkmayacağım. İnsan bana ne yapabilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-016",
+      "lang": "tr-TR",
+      "text": "O günde, Yeruşalime, Korkma, Siyon. Ellerin zayıf olmasın denilecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-001",
+      "lang": "tr-TR",
+      "text": "Kalbiniz sıkıntıya düşmesin. Tanrıya inanın. Bana da inanın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-004",
+      "lang": "tr-TR",
+      "text": "Siz Tanrıdansınız, küçük çocuklar, ve onları yendiniz çünkü sizde olan, dünyada olandan büyüktür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-006",
+      "lang": "tr-TR",
+      "text": "O yalnızca benim kayam ve kurtuluşum, kalesimdir. Sarsılmayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-025",
+      "lang": "tr-TR",
+      "text": "İnsan korkusu bir tuzak olur, ama Rabbe güvenen korunur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-007",
+      "lang": "tr-TR",
+      "text": "Çünkü Rab Tanrı bana yardım edecek. Bu nedenle hayal kırıklığına uğramadım. Yüzümü bir sert taş gibi ayarladım ve hayal kırıklığına uğramayacağımı biliyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-050",
+      "lang": "tr-TR",
+      "text": "Ama İsa bunu duyunca, ona, Korkma. Sadece inan, o iyileşecek dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-035",
+      "lang": "tr-TR",
+      "text": "Bu nedenle cesaretinizi kaybetmeyin çünkü büyük bir ödülü vardır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-004",
+      "lang": "tr-TR",
+      "text": "Tanrıda, onun sözünü övüyorum. Tanrıda, güveniyorum. Korkmayacağım. Et insan bana ne yapabilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-014",
+      "lang": "tr-TR",
+      "text": "Korkma, sen solucan Yakup, sen İsrailin adamları. Ben sana yardım edeceğim, diyor Rab. Kurtarıcın, İsrailin Kutsalıdır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022",
+      "lang": "tr-TR",
+      "text": "Ama İsa, arkasını döndü ve onu görünce, Kızım, cesaretlen! İnancın seni iyi kıldı dedi. Ve kadın o saatten itibaren iyi oldu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-028",
+      "lang": "tr-TR",
+      "text": "Ve hiçbir şeyle düşmanlardan korkmayın bu, onların yok oluşunun bir kanıtıdır, ama sizin kurtuluşunuzun ve bu Tanrıdandır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-037",
+      "lang": "tr-TR",
+      "text": "Hayır, bu şeylerin hepsinde, bizi seven aracılığıyla daha fazlasıyız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-031",
+      "lang": "tr-TR",
+      "text": "At savaş günü için hazırlanır ama zafer Rabbedir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-015-002",
+      "lang": "tr-TR",
+      "text": "Rab benim gücüm ve şarkımdır. O benim kurtuluşum oldu. Bu benim Tanrım, onu öveceğim babamın Tanrısı, onu yüceltip yüceltirim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-002",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, yeryüzü değişse bile, dağlar denizlerin ortasına sarsılsa bile korkmayacağız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-005",
+      "lang": "tr-TR",
+      "text": "Korkma, çünkü ben seninleyim. Doğudan soyunu getireceğim, batıdan seni toplayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-019",
+      "lang": "tr-TR",
+      "text": "Sabrınızla hayatınızı kazanacaksınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-012",
+      "lang": "tr-TR",
+      "text": "Denemeye dayanacak kişi kutsaldır çünkü onaylandığında, Rabbin kendisine vaad ettiği yaşam tacını alacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-013-030",
+      "lang": "tr-TR",
+      "text": "Kaleb, Musanın önünde halkı susturdu ve dedi ki Hemen çıkalım ve onu alalım çünkü onu aşacak gücümüz var!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-009",
+      "lang": "tr-TR",
+      "text": "Kusursuz yürüyen kişi güvenle yürür, ama yollarını saptıran kişi açığa çıkacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-010",
+      "lang": "tr-TR",
+      "text": "Hakkı için zulme uğrayanlar ne mutlu, çünkü göklerin Egemenliği onlara aittir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-058",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, sevgili kardeşlerim, sabit kalın, sarsılmaz olun, her zaman Rabbin işinde bol bol bulunun çünkü bilirsiniz ki, emekleriniz Rabde boşa gitmeyecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-017",
+      "lang": "tr-TR",
+      "text": "Ölmeyeceğim, yaşayacağım ve Rabbin işlerini ilan edeceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-003",
+      "lang": "tr-TR",
+      "text": "Çünkü sen benim için bir sığınak oldun, düşmandan güçlü bir kule.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-034",
+      "lang": "tr-TR",
+      "text": "O ona dedi Kızım, imanın seni kurtardı. Barış içinde git ve hastalığından kurtul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-016",
+      "lang": "tr-TR",
+      "text": "O, zenginliğinin ihtişamına göre size, iç kişiliğinizde güçle güçlenmeniz için ruhu aracılığıyla lütfedecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-008",
+      "lang": "tr-TR",
+      "text": "Kalbi sağlamdır. Düşmanlarını görünce korkmayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-025",
+      "lang": "tr-TR",
+      "text": "Gözlerin doğrudan ileriye baksın. Bakışlarını doğrudan önüne sabitle.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-008-013",
+      "lang": "tr-TR",
+      "text": "Güçlerin Rabbi, kutsal olarak sayılmalıdır. Korkulması gereken Odur. Korkulması gereken Odur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-001",
+      "lang": "tr-TR",
+      "text": "Onlara her zaman dua etmeleri ve pes etmemeleri gerektiğini anlatan bir benzetme de söyledi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-008",
+      "lang": "tr-TR",
+      "text": "Sakin ve kendini kontrol eden olun. Dikkatli olun. Düşmanınız, şeytan, avlayacak kimi bulmak için kükreyen bir aslan gibi dolaşıyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-004",
+      "lang": "tr-TR",
+      "text": "Doğru olanlar için karanlıkta ışık doğar, merhametli ve adil olanlar için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019",
+      "lang": "tr-TR",
+      "text": "Rab, benim gücüm. Ayaklarımı dağların ayakları gibi yapar ve yüksek yerlerde yürümemi sağlar. Müzik şefi için, telli çalgılarımda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-031",
+      "lang": "tr-TR",
+      "text": "Bu nedenle korkmayın. Siz birçok serçeden daha değerlisiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-013",
+      "lang": "tr-TR",
+      "text": "Bu nedenle Tanrının bütün zırhını giyin ki, kötü günde dayanabilin ve her şeyi yaptıktan sonra ayakta durun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-011",
+      "lang": "tr-TR",
+      "text": "Tanrıya güvenimi koydum. Korkmayacağım. İnsan bana ne yapabilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-025",
+      "lang": "tr-TR",
+      "text": "Ani korkudan ve kötülerin yıkımından korkma, geldiğinde",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007",
+      "lang": "tr-TR",
+      "text": "Ama ben Rabbe bakacağım. Kurtuluşumun Tanrısı için bekleyeceğim. Tanrım beni duyacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-027",
+      "lang": "tr-TR",
+      "text": "İsa, onlara bakarak dedi ki İnsanlar için bu imkansızdır, ama Tanrı için değil çünkü Tanrı ile her şey mümkündür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-003",
+      "lang": "tr-TR",
+      "text": "O halde, Mesih İsanın iyi bir askeri olarak zorluğa katlanmalısın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-018",
+      "lang": "tr-TR",
+      "text": "Çünkü ben, bu zamanın sıkıntılarının, bize açılacak olan görkemle karşılaştırılacak kadar değerli olmadığını düşünüyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016",
+      "lang": "tr-TR",
+      "text": "Çünkü doğru kişi yedi kez düşer ve yeniden kalkar ama kötülerin başına felaket gelir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-021",
+      "lang": "tr-TR",
+      "text": "İsa onlara tekrar dedi Size barış olsun. Beni nasıl göndermişse, ben de sizi öyle gönderiyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-003-006",
+      "lang": "tr-TR",
+      "text": "Ama Mesih, evinin üzerinde bir Oğul olarak sadıktır. Biz de, güvenimizi ve umudumuzun övüncünü sona kadar sağlam tutarsak, onun eviyiz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-020-004",
+      "lang": "tr-TR",
+      "text": "Çünkü Rab, Tanrınız, sizinle birlikte giden, düşmanlarınızla savaşan ve sizi kurtaran Odur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-002",
+      "lang": "tr-TR",
+      "text": "Dünyanın ucundan, kalbim sıkıştığında sana sesleneceğim. Beni, benden yüksek olan kayaya götür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-016",
+      "lang": "tr-TR",
+      "text": "Rab, denizde bir yol açan ve güçlü sularda bir yol yapan Odur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-022",
+      "lang": "tr-TR",
+      "text": "İsa onlara cevap verdi Tanrıya iman edin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009",
+      "lang": "tr-TR",
+      "text": "İyilik yapmaktan yorulmayalım çünkü zamanında biçmeden vazgeçmezsek, hasat alacağız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-023-006",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, Musanın yasası kitabında yazılı olan her şeyi tutmak ve yapmak için çok cesur olun ne sağa ne de sola sapmayın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-005",
+      "lang": "tr-TR",
+      "text": "Bilge bir adamın büyük gücü vardır. Bilgili bir adam, gücünü artırır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-013",
+      "lang": "tr-TR",
+      "text": "Beni arayacak ve bulacaksınız bütün yüreğinizle ararsanız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-027",
+      "lang": "tr-TR",
+      "text": "Ama o dedi İnsanlarla imkansız olan şeyler, Tanrı ile mümkündür.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-008",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, Rabbimizin tanıklığından ve benim mahkumumdan utanma ama Tanrının gücüne göre Müjde için zorluğa katlan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-020",
+      "lang": "tr-TR",
+      "text": "Sadık bir adam, bereketlerle zengindir ama zengin olmaya heves eden, cezasız kalmayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012",
+      "lang": "tr-TR",
+      "text": "Ben, sizi teselli edenim. Sen kimsin ki, ölecek insandan ve ot gibi olacak insandan korkuyorsun?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-039",
+      "lang": "tr-TR",
+      "text": "O, uyandı ve rüzgârı azarladı, denize dedi Sakin ol! Dur! Rüzgâr durdu ve büyük bir sükunet oldu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-007",
+      "lang": "tr-TR",
+      "text": "Ama biz bu hazineyi toprak kaplarda taşıyoruz ki, gücün büyüklüğü Tanrıdan ve kendimizden olmasın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-008",
+      "lang": "tr-TR",
+      "text": "Rabde sığınmak, insana güvenmekten daha iyidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-032",
+      "lang": "tr-TR",
+      "text": "Öfkeye yavaş olan, güçlüden daha iyidir ruhunu yöneten, bir şehri fetheden kişiden daha iyidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-019",
+      "lang": "tr-TR",
+      "text": "Sana karşı savaşacaklar, ama sana galip gelemezler çünkü ben seninleyim, der Rab, seni kurtarmak için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-031",
+      "lang": "tr-TR",
+      "text": "Hemen İsa elini uzattı, onu tuttu ve ona dedi Ey az imanlı, neden şüphe ettin?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-014",
+      "lang": "tr-TR",
+      "text": "Kardeşler, sizi uyarıyoruz Düzensiz olanları uyarın cesareti kırılanları teşvik edin zayıflara destek olun hepsine karşı sabırlı olun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-033",
+      "lang": "tr-TR",
+      "text": "Tanrı benim güçlü kalesidir. O, yollarımı mükemmel kılar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-059-016",
+      "lang": "tr-TR",
+      "text": "Ama ben senin gücünü şarkılayacağım. Evet, sabahları sevginle yüksek sesle şarkı söyleyeceğim. Çünkü sen benim yüksek kulesin, sıkıntı günümde bir sığınaksın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-050",
+      "lang": "tr-TR",
+      "text": "O, kadına dedi İmanın seni kurtardı. Barış içinde git.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-006",
+      "lang": "tr-TR",
+      "text": "Bunda çok sevinç duyuyorum, şimdi bir süre için, gerekirse, çeşitli denemelerle üzüldünüz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-003",
+      "lang": "tr-TR",
+      "text": "O gün seni çağırdığımda, sen bana cevap verdin. Ruhumda bana güç verdin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-026",
+      "lang": "tr-TR",
+      "text": "Rab korkusunda güvenli bir kale vardır ve O, çocukları için bir sığınak olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-013",
+      "lang": "tr-TR",
+      "text": "Evet, gün başladığından beri ben varım. Elimden kurtaracak kimse yoktur. Ben çalışacağım, kim engelleyebilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-049",
+      "lang": "tr-TR",
+      "text": "İsa durdu ve dedi Onu çağırın. Kör adamı çağırdılar, ona dediler Cesaretlen! Kalk, seni çağırıyor!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-012",
+      "lang": "tr-TR",
+      "text": "İyi iman savaşını savaş. Çağrıldığın sonsuz hayata sahip ol ve birçok tanık önünde iyi itirafı yaptın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-005",
+      "lang": "tr-TR",
+      "text": "Hiçbir insan, hayatının her günü önünde duramayacak. Ben Musa ile nasıl birlikte olduysam, seninle de öyle olacağım. Seni asla terk etmeyeceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-005",
+      "lang": "tr-TR",
+      "text": "Çünkü sıkıntı gününde beni gizlice pavyonunda saklayacak. Kutsal yerinin gizli yerinde beni saklayacak. Beni bir kayada yükseltecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-009",
+      "lang": "tr-TR",
+      "text": "O zaman çağıracaksın, Rab cevap verecek. Yardım için bağıracaksın, O da diyecek İşte buradayım. Eğer aranızdan yükü, parmakla gösterme ve kötü konuşmayı kaldırırsanız",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-027",
+      "lang": "tr-TR",
+      "text": "Sonra ona dedi Parmağını buraya uzat ve ellerimi gör. Elini buraya uzat ve yanıma koy. İnanmaz olma, ama inan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-012",
+      "lang": "tr-TR",
+      "text": "Onda cesaret ve güvenle, Ona olan imanımız aracılığıyla erişimimiz vardır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-018",
+      "lang": "tr-TR",
+      "text": "Ama eğer değilse, bil ki, ey kral, tanrılarınıza hizmet etmeyeceğiz ve kurduğunuz altın imaja tapmayacağız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-004",
+      "lang": "tr-TR",
+      "text": "Sonsuza dek çadırında kalacağım. Kanatlarının gölgesinde sığınacağım. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019",
+      "lang": "tr-TR",
+      "text": "Bak, yeni bir şey yapacağım. Şimdi çıkıyor. Bunu bilmiyor musun? Çölde bir yol, çölün ortasında nehirler yapacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-025",
+      "lang": "tr-TR",
+      "text": "Onlara dedi İmanınız nerede? Korkarak, birbirlerine hayret ettiler, O halde bu kim ki, rüzgârları ve suyu emrediyor, ve bunlar Ona itaat ediyor?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-004",
+      "lang": "tr-TR",
+      "text": "Çünkü Tanrıdan doğan her şey dünyayı yener. Bu, dünyayı yenen zaferdir imanınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-008",
+      "lang": "tr-TR",
+      "text": "Bana karşı sevinmeyin, düşmanım. Düşersem, kalkacağım. Karanlıkta oturursam, Rab benim için bir ışık olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-023",
+      "lang": "tr-TR",
+      "text": "O zaman güvenli bir şekilde yürüyacaksın. Ayağın tökezlemeyecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-017",
+      "lang": "tr-TR",
+      "text": "Fakirler ve muhtaçlar su arar, ama yoktur. Dilleri susuzluktan kurur. Ben, Rab, onlara cevap vereceğim. Ben, İsrailin Tanrısı, onları terk etmeyeceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-034",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, yarın için endişelenmeyin çünkü yarın kendisi için endişelenecektir. Her günün kendi kötülüğü yeter.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-001",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, bu hizmete sahip olduğumuz için, merhamet bulduğumuz gibi, yılmıyoruz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-004",
+      "lang": "tr-TR",
+      "text": "Bizi her sıkıntımızda teselli eden, böylece her sıkıntıda teselli edebilelim diye, Tanrı tarafından teselli edilenleriz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-019",
+      "lang": "tr-TR",
+      "text": "Doğruların birçok sıkıntısı vardır, ama Rab hepsinden kurtarır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-057-018",
+      "lang": "tr-TR",
+      "text": "Onun yollarını gördüm ve onu iyileştireceğim. Onu da yönlendireceğim ve yas tutanlara teselli vereceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-030",
+      "lang": "tr-TR",
+      "text": "Çünkü benim boynum hafif, yüküm ise hafif.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-018",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, birbirinizi bu sözlerle teselli edin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-003",
+      "lang": "tr-TR",
+      "text": "Ruhumu yeniliyor. Adı için doğruluk yollarında beni yönlendiriyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-024",
+      "lang": "tr-TR",
+      "text": "Hoş sözler, bir bal peteği gibidir ruh için tatlı, kemikler için sağlık.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-006",
+      "lang": "tr-TR",
+      "text": "Bak, ona sağlık ve şifa getireceğim onları iyileştireceğim onlara barış ve gerçek bolluğunu açıklayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-048",
+      "lang": "tr-TR",
+      "text": "O, ona dedi Kızım, cesaretlen. İmanın seni iyi etti. Barış içinde git.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-015",
+      "lang": "tr-TR",
+      "text": "Ve iman duası hasta olanı iyileştirecek, Rab onu kaldıracak. Eğer günah işlemişse, affedilecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-004",
+      "lang": "tr-TR",
+      "text": "Ağlayanlar, çünkü teselli bulacaklardır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-002",
+      "lang": "tr-TR",
+      "text": "Rab benim Tanrım, sana seslendim ve beni iyileştirdin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-013",
+      "lang": "tr-TR",
+      "text": "Gökler, şarkı söyleyin, yeryüzü, sevinçle dolsun! Dağlar, şarkı söylemeye başlayın! Çünkü Yahweh, halkını teselli etti ve sıkıntı çekenlere merhamet edecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-022",
+      "lang": "tr-TR",
+      "text": "Şimdi sizde bir üzüntü var, ama ben sizi tekrar göreceğim ve yüreğiniz sevinçle dolacak kimse sevinçlerinizi sizden almayacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-005",
+      "lang": "tr-TR",
+      "text": "Şimdi sabır ve teselli Tanrısı, sizi Mesih İsaya göre birbirinizle aynı düşüncede olmaya lütfetsin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-002",
+      "lang": "tr-TR",
+      "text": "Yahweh hakkında şöyle diyeceğim O benim sığınağım ve kalesimdir benim Tanrım, ona güveniyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-076",
+      "lang": "tr-TR",
+      "text": "Lütfen, lütfun benim tesellim olsun, kuluna verdiğin söz gereği.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-066-013",
+      "lang": "tr-TR",
+      "text": "Annesinin teselli ettiği gibi, ben de sizi teselli edeceğim. Yeruşalimde teselli olacaksınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-003",
+      "lang": "tr-TR",
+      "text": "Rab İsa Mesihin Tanrısı ve Babası, merhametlerin Babası ve her teselli Tanrısı, kutsansın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-035",
+      "lang": "tr-TR",
+      "text": "Bizi Mesihin sevgisinden kim ayırabilir? Sıkıntı mı, yoksa keder mi, zulüm mü, açlık mı, çıplaklık mı, tehlike mi, kılıç mı?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-094-019",
+      "lang": "tr-TR",
+      "text": "İçimdeki düşüncelerimin çokluğunda, senin tesellilerin ruhumu sevindiriyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-013",
+      "lang": "tr-TR",
+      "text": "O zaman bakire dansla sevinç duyacak, gençler ve yaşlılar bir arada çünkü ben onların yasını sevinçle değiştireceğim, onları teselli edeceğim ve kederlerinden sevinçle dolduracağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-041",
+      "lang": "tr-TR",
+      "text": "Merhametle hareket ederek, elini uzattı, ona dokundu ve ona, İstiyorum. Temiz ol. dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-002-016",
+      "lang": "tr-TR",
+      "text": "Şimdi Rab İsa Mesih kendisi ve bizi seven, bize sonsuz teselli ve iyi umut veren Tanrımız, Babamız, olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-010",
+      "lang": "tr-TR",
+      "text": "Babam ve annem beni terk etse, Yahweh beni alacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-024",
+      "lang": "tr-TR",
+      "text": "Yattığında korkmayacaksın. Evet, yatacaksın ve uykun tatlı olacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-003",
+      "lang": "tr-TR",
+      "text": "Zayıf elleri güçlendirin, sarsak dizleri sağlamlaştırın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-024",
+      "lang": "tr-TR",
+      "text": "Hemen çocuğun babası gözyaşlarıyla haykırdı, İnanıyorum. İnanmazlığımı yardım et!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-015",
+      "lang": "tr-TR",
+      "text": "Çünkü bizim zayıflıklarımızla duygusal olarak etkilenmeyen bir başkâhimiz yoktur her noktada bizim gibi denenmiş, ama günahsız olan birisi vardır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-017",
+      "lang": "tr-TR",
+      "text": "Çünkü bizim hafif sıkıntımız, bir an için olan, bize sonsuz bir ağırlıkta yücelik kazandırıyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050B",
+      "lang": "tr-TR",
+      "text": "Lütfen, lütfun benim tesellim olsun, kuluna verdiğin söz gereği.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012B",
+      "lang": "tr-TR",
+      "text": "Ben, ben seni teselli edenim. Sen kimsin ki, ölecek insandan korkuyorsun, ve insan oğlundan ki, ot gibi olacak?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-018",
+      "lang": "tr-TR",
+      "text": "Sizi yetim bırakmayacağım. Size geleceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-007",
+      "lang": "tr-TR",
+      "text": "Dinlenmene dön, ruhum çünkü Yahweh sana bolca iyilik etti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025B",
+      "lang": "tr-TR",
+      "text": "Bir adamın yüreğindeki kaygı onu ağırlaştırır, ama nazik bir söz onu sevindirir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-013",
+      "lang": "tr-TR",
+      "text": "Ona ellerini koydu ve hemen doğruldu ve Tanrıyı yüceltti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-007-006",
+      "lang": "tr-TR",
+      "text": "Yine de, alçakgönüllüleri teselli eden Tanrı, Titusun gelişiyle bizi teselli etti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009B",
+      "lang": "tr-TR",
+      "text": "Senin adını bilenler sana güvenecek çünkü sen, Yahweh, seni arayanları terk etmedin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-014",
+      "lang": "tr-TR",
+      "text": "Bir adamın ruhu hastalıkta onu ayakta tutar, ama kırık bir ruhu kim taşıyabilir?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-019",
+      "lang": "tr-TR",
+      "text": "Ölüleriniz yaşayacak. Ölü bedenleri dirilecek. Toprağın içinde yatanlar, uyanın ve şarkı söyleyin çünkü sizin çiğniz, otların çiğni gibi olacak ve toprak, ayrılan ruhları dışarı atacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-008-017",
+      "lang": "tr-TR",
+      "text": "Bu, İsa peygamber aracılığıyla söylenenlerin yerine gelmesi içindir O, bizim zayıflıklarımızı üstlendi ve hastalıklarımızı taşıdı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024B",
+      "lang": "tr-TR",
+      "text": "O, ağaçta bizim günahlarımızı kendi bedeninde taşıdı ki, biz günahlara ölerek doğruluğa yaşayalım. Yaralarından şifa buldunuz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003B",
+      "lang": "tr-TR",
+      "text": "ve sabır, kanıtlanmış karakter ve kanıtlanmış karakter, umut",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-041-003",
+      "lang": "tr-TR",
+      "text": "Yahweh onu hastalık yatağında destekleyecek ve hastalık yatağından onu iyileştirecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-013",
+      "lang": "tr-TR",
+      "text": "Sevinçli bir kalp neşeli bir yüz yapar, ama acı bir kalp ruhu kırar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-014",
+      "lang": "tr-TR",
+      "text": "Beni iyileştir, ey Yahweh, ve ben iyileşeceğim. Beni kurtar, ve ben kurtulacağım çünkü sen benim övgümsün.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-034",
+      "lang": "tr-TR",
+      "text": "Birçok hastayı çeşitli hastalıklarla iyileştirdi ve birçok şeytana ruhları çıkardı. Şeytanların konuşmasına izin vermedi, çünkü onu tanıyorlardı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-003",
+      "lang": "tr-TR",
+      "text": "Ama Rab sadıktır, sizi sağlamlaştıracak ve kötü olandan koruyacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027B",
+      "lang": "tr-TR",
+      "text": "Yüreğiniz sıkılmasın. Tanrıya inanın. Bana da inanın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-006-009",
+      "lang": "tr-TR",
+      "text": "Yahweh benim dileğimi duydu. Yahweh benim duamı kabul etti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-016",
+      "lang": "tr-TR",
+      "text": "Rab, insanlar bunlarla yaşar ve ruhum bunların hepsinde hayat bulur. Beni yeniden canlandırıyorsun ve yaşamamı sağlıyorsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-019",
+      "lang": "tr-TR",
+      "text": "Sonra ona, Kalk, yoluna git. İmanın seni iyileştirdi. dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019",
+      "lang": "tr-TR",
+      "text": "Tanrım, Mesih İsadaki zenginliklerine göre her ihtiyacınızı karşılayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-005",
+      "lang": "tr-TR",
+      "text": "Çünkü Mesihin çektiği acılar bize bolca gelir, öyle de bizim tesellimiz de Mesih aracılığıyla bolca gelir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-042-011",
+      "lang": "tr-TR",
+      "text": "Neden umutsuzsun, ruhum? Neden içimde rahatsızsın? Tanrıya umut bağla! Çünkü onu yine öveceğim, yüzümün kurtuluşu ve Tanrım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-017",
+      "lang": "tr-TR",
+      "text": "Çünkü ben sana sağlık vereceğim ve yaralarını iyileştireceğim, diyor Yahweh, çünkü seni dışlanmış olarak çağırdılar, İşte, aranmayan Siyon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022B",
+      "lang": "tr-TR",
+      "text": "Ama İsa, arkasını döndü ve onu görünce, Kızım, cesaretlen! İmanın seni iyi etti. dedi. Ve kadın o saatten itibaren iyi oldu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019B",
+      "lang": "tr-TR",
+      "text": "İki değişmez şeyle, Tanrının yalan söylemesi imkânsızdır, güçlü bir cesaret bulalım, sığınmak için kaçtığımız umudu elde edelim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028B",
+      "lang": "tr-TR",
+      "text": "Biliyoruz ki, Tanrıyı sevenler için her şey bir araya gelir onun amacına göre çağrılanlar için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-114",
+      "lang": "tr-TR",
+      "text": "Sen benim saklanma yerim ve kalkanımsın. Ben senin sözüne umut bağlıyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011B",
+      "lang": "tr-TR",
+      "text": "Sürüsünü bir çoban gibi besleyecek. Kuzuları kollarında toplayacak ve göğsünde taşıyacak. Genç olanları nazikçe yönlendirecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-013",
+      "lang": "tr-TR",
+      "text": "Rab onu görünce, ona merhamet etti ve ona, Ağlama. dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-008",
+      "lang": "tr-TR",
+      "text": "Tanımadığınız, ama sevdiğiniz. Onda, şimdi Onu görmüyorsunuz, ama inanarak, tarifsiz ve yücelikle dolu bir sevinçle sevinç duyuyorsunuz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-008",
+      "lang": "tr-TR",
+      "text": "Her taraftan baskı altındayız, ama ezilmedik şaşkınlık içindeyiz, ama umutsuzluğa düşmedik",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-007",
+      "lang": "tr-TR",
+      "text": "Yahweh seni her kötülükten koruyacak. Ruhunu koruyacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011B",
+      "lang": "tr-TR",
+      "text": "Çünkü biliyorum ki, düşündüğüm düşünceler, diyor Yahweh, barış düşünceleri, kötülük düşünceleri değil, size umut ve bir gelecek vermek içindir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033B",
+      "lang": "tr-TR",
+      "text": "Kesinlikle size ağlayacak ve yas tutacaksınız, ama dünya sevinç duyacak. Siz kederli olacaksınız, ama kederiniz sevinçle değiştirilecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012B",
+      "lang": "tr-TR",
+      "text": "Umutta sevinçli, sıkıntılarda dayanıklı, dua konusunda sürekli devam eden.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-023",
+      "lang": "tr-TR",
+      "text": "Yine de, ben sürekli seninleyim. Sağ elini tuttun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-020",
+      "lang": "tr-TR",
+      "text": "Oğlum, sözlerime dikkat et. Söylemlerime kulak ver.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-019",
+      "lang": "tr-TR",
+      "text": "Ona izin vermedi, ama ona, Evine, arkadaşlarına git ve Rabbin senin için yaptığı büyük şeyleri ve sana merhamet ettiğini söyle. dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-007",
+      "lang": "tr-TR",
+      "text": "Sizin için umudumuz sabittir, çünkü acılara ortak olduğunuzu bildiğimiz gibi, teselliye de ortak olacaksınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-017",
+      "lang": "tr-TR",
+      "text": "Bana iyiliğinin bir işaretini göster, düşmanlarım onu görsün ve utansın, çünkü sen, Yahweh, bana yardım ettin ve teselli verdin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-012",
+      "lang": "tr-TR",
+      "text": "Umudun ertelenmesi kalbi hasta eder, ama özlem yerine geldiğinde, bu bir yaşam ağacıdır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-011",
+      "lang": "tr-TR",
+      "text": "Bak, on sekiz yıldır bir hastalık ruhu olan bir kadın vardı. O, eğilmişti ve kendisini hiçbir şekilde düzeltemiyordu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-007",
+      "lang": "tr-TR",
+      "text": "Bu sebeple, kardeşler, sizin inancınız sayesinde tüm sıkıntılarımız ve ıstıraplarımız içinde sizden teselli bulduk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007B",
+      "lang": "tr-TR",
+      "text": "Bende öğrendiğiniz, aldığınız, duyduğunuz ve gördüğünüz şeyleri yapın, o zaman barış Tanrısı sizinle olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-049",
+      "lang": "tr-TR",
+      "text": "ZAYİN49Kulluk ettiğin kuluna verdiğin sözü hatırla, çünkü bana umut verdin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-025",
+      "lang": "tr-TR",
+      "text": "Çünkü ben yorgun ruhu doyurdum ve her kederli ruhu yeniden canlandırdım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-035",
+      "lang": "tr-TR",
+      "text": "İsa ağladı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016B",
+      "lang": "tr-TR",
+      "text": "Bu nedenle yılmıyoruz, dış görünüşümüz çürüyorsa da, iç görünüşümüz her gün yenileniyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013C",
+      "lang": "tr-TR",
+      "text": "Şimdi umudun Tanrısı, sizi inançta her sevinç ve barışla doldursun, böylece Kutsal Ruhun gücünde umutta bol bol bulunasınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-092",
+      "lang": "tr-TR",
+      "text": "Eğer yasaların benim zevkim olmasaydı, ıstırap içinde yok olup gidecektim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017B",
+      "lang": "tr-TR",
+      "text": "Bir dost her zaman sever bir kardeş ise zorluk için doğar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-014",
+      "lang": "tr-TR",
+      "text": "İsa dışarı çıktı ve büyük bir kalabalık gördü. Onlara acıdı ve hasta olanları iyileştirdi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005",
+      "lang": "tr-TR",
+      "text": "Para sevgisinden uzak durun, sahip olduğunuz şeylerle yetinin, çünkü O şöyle dedi Seni asla terk etmeyeceğim, seni asla bırakmayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005B",
+      "lang": "tr-TR",
+      "text": "Denemeye dayanabilen kişi kutsaldır, çünkü onaylandığında, Rabbin kendisine vaad ettiği yaşam tacını alacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039",
+      "lang": "tr-TR",
+      "text": "Ama doğru kişilerin kurtuluşu Yahwehdendir. O, sıkıntı zamanında onların sığınağıdır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-007",
+      "lang": "tr-TR",
+      "text": "Tanrı, kendisine gece gündüz haykıran seçilmişlerini intikam almayacak mı? Ama onlara sabır gösteriyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005B",
+      "lang": "tr-TR",
+      "text": "Ve umut bizi hayal kırıklığına uğratmaz, çünkü Tanrının sevgisi, bize verilen Kutsal Ruh aracılığıyla kalplerimize döküldü.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-012-010",
+      "lang": "tr-TR",
+      "text": "Bu nedenle zayıflıklarda, yaralarda, ihtiyaçlarda, zulümlerde ve sıkıntılarda zevk alıyorum, çünkü Mesihin uğruna. Zayıf olduğumda, o zaman güçlüyüm.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-003",
+      "lang": "tr-TR",
+      "text": "Ayağının kaymasına izin vermeyecek. Seni koruyan uyumayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-037",
+      "lang": "tr-TR",
+      "text": "Bana verilenlerin hepsi bana gelecek. Bana geleni asla dışarı atmayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-013B",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, aklınızı harekete geçirmeye hazırlayın. Sakin olun ve İsa Mesihin açığa çıkmasında size getirilecek olan lütfa tamamen umut bağlayın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002B",
+      "lang": "tr-TR",
+      "text": "O halde, fırsat bulduğumuzda, herkes için iyi olanı yapalım, özellikle de inanç ailesinin mensupları için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-005",
+      "lang": "tr-TR",
+      "text": "Ruhum, yalnızca Tanrı için sessizce bekle, çünkü umudum Ondandır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-011",
+      "lang": "tr-TR",
+      "text": "Doğru olanların bereketiyle şehir yüceltilir, ama kötülerin ağzıyla yıkılır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015B",
+      "lang": "tr-TR",
+      "text": "Çünkü Rab Yahweh, İsrailin Kutsalı şöyle dedi Dönüş ve dinlenme ile kurtulacaksınız. Gücünüz sessizlikte ve güven içinde olacaktır. Ama siz reddettiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-052",
+      "lang": "tr-TR",
+      "text": "İsa ona dedi Git yoluna. İnancın seni iyi etti. Hemen görüşünü kazandı ve İsayı yolda takip etti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007B",
+      "lang": "tr-TR",
+      "text": "Çünkü Tanrı bize korku ruhu vermedi, ama güç, sevgi ve öz disiplin ruhu verdi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-029",
+      "lang": "tr-TR",
+      "text": "İşinde yetkin bir adamı görüyor musun? Krallara hizmet edecek. Gizli adamlara hizmet etmeyecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-008-018",
+      "lang": "tr-TR",
+      "text": "Ama Yahweh Tanrını hatırlayacaksın, çünkü O, sana zenginlik kazanma gücünü veren Odur atalarına yemin ettiği antlaşmasını kurmak için, bugünkü gibi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-011",
+      "lang": "tr-TR",
+      "text": "Ve sakin bir yaşam sürmeyi, kendi işinle meşgul olmayı ve kendi ellerinle çalışmayı hedefle, tıpkı sana öğrettiğimiz gibi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-004",
+      "lang": "tr-TR",
+      "text": "Tembel el ile çalışan yoksul olur, ama gayretli el zenginlik getirir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-017",
+      "lang": "tr-TR",
+      "text": "Rab Tanrımızın lütfu üzerimizde olsun. Evet, ellerimizin işini kur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-042",
+      "lang": "tr-TR",
+      "text": "Rab dedi ki O halde, sadık ve akıllı yönetici kimdir? Efendisi onu evinin üzerine koyacak, onlara zamanında yiyeceklerini verecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-028",
+      "lang": "tr-TR",
+      "text": "Hırsızlık yapan artık çalmamalıdır daha çok, elleriyle iyi bir şey üreterek çalışmalıdır ki, ihtiyacı olanlara verecek bir şey bulsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-011",
+      "lang": "tr-TR",
+      "text": "Toprağını işleyen bol ekmek bulur, ama hayalleri peşinde koşan anlayışsızdır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-021",
+      "lang": "tr-TR",
+      "text": "Efendisi ona dedi Aferin, iyi ve sadık kul. Az şeyde sadık kaldın, seni birçok şeyin üzerine koyacağım. Efendinin sevinçine gir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-010",
+      "lang": "tr-TR",
+      "text": "Çünkü sizinle birlikteyken, size şunu emrettik Eğer biri çalışmaya istekli değilse, onu yedirmeyin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-031",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, yediğiniz veya içtiğiniz veya yaptığınız her şeyde, her şeyi Tanrının yüceliği için yapın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-004",
+      "lang": "tr-TR",
+      "text": "Tembelin ruhu arzular, ama gayretlinin arzusu tam olarak tatmin edilir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-011",
+      "lang": "tr-TR",
+      "text": "Eğer adil olmayan mamonda sadık olmadıysanız, gerçek zenginlikleri kime emanet edecek?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-014",
+      "lang": "tr-TR",
+      "text": "Halkımızın da gerekli ihtiyaçları karşılamak için iyi işler yapmayı öğrenmesini sağlayalım ki, verimsiz olmasınlar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-003",
+      "lang": "tr-TR",
+      "text": "O, su kenarına dikilmiş bir ağaç gibi olacaktır, meyvesini zamanında verir, yaprağı da solmaz. Yaptığı her şeyde başarılı olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028",
+      "lang": "tr-TR",
+      "text": "Hanginiz bir kule inşa etmeyi arzuluyorsa, önce oturup maliyeti hesaplamaz mı, onu tamamlamak için yeterli olup olmadığını görmek için?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-006",
+      "lang": "tr-TR",
+      "text": "Ama dindarlıkla birlikte olan memnuniyet büyük kazançtır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014",
+      "lang": "tr-TR",
+      "text": "Her şeyi şikayet etmeden ve tartışmadan yapın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005B",
+      "lang": "tr-TR",
+      "text": "Gayretli olanın planları kesinlikle kazanca götürür aceleci olan ise kesinlikle yoksulluğa sürüklenir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-020",
+      "lang": "tr-TR",
+      "text": "Suların yanında tohum ekenler, öküz ve eşeğin ayaklarını gönderenler, sizler kutsanmışsınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-017",
+      "lang": "tr-TR",
+      "text": "İsa onlara cevap verdi Sezara Sezarın olanı, Tanrıya Tanrının olanı verin. Ona hayran kaldılar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-010",
+      "lang": "tr-TR",
+      "text": "Çünkü Tanrı, işinizi ve adını sevgiyle gösterdiğiniz emeği unutmamak için adaletsiz değildir çünkü siz, azizlere hizmet ettiniz ve hâlâ onlara hizmet ediyorsunuz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-010",
+      "lang": "tr-TR",
+      "text": "Ama Tanrının lütfuyla ben ne isem oyum. Bana verilen lütuf boşa gitmedi, ama onların hepsinden daha çok çalıştım ama ben değil, benimle olan Tanrının lütfu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-005",
+      "lang": "tr-TR",
+      "text": "Yolunu Yahwehe teslim et. Ona güven, o da bunu yapacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-012",
+      "lang": "tr-TR",
+      "text": "Çünkü kimseye sahip olan, ona verilecektir ve o bolca sahip olacaktır ama kimseye sahip olmayan, ondan sahip olduğu bile alınacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-019",
+      "lang": "tr-TR",
+      "text": "Toprağını işleyen, bolca yiyeceğe sahip olacaktır ama hayalleri peşinde koşan, yoksullukla dolacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010B",
+      "lang": "tr-TR",
+      "text": "Ve eğer ruhunu aç olanlara dökersen ve kederli ruhu doyurursan, o zaman ışığın karanlıkta yükselecek ve karanlığın ortası öğle gibi olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-020",
+      "lang": "tr-TR",
+      "text": "İyi toprağa ekilenler, kelimeyi işiten, kabul eden ve meyve verenlerdir bazıları otuz kat, bazıları altmış kat, bazıları da yüz kat verir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-011",
+      "lang": "tr-TR",
+      "text": "Gecikmeden, ruhu ateşli, Rabbe hizmet edenler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-024",
+      "lang": "tr-TR",
+      "text": "Saçan biri vardır, daha da artar uygun olandan fazlasını tutan biri vardır, ama yoksulluk kazanır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-005",
+      "lang": "tr-TR",
+      "text": "Evler inşa edin ve içinde oturun. Bahçeler dikin ve meyvelerini yiyin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-003-014",
+      "lang": "tr-TR",
+      "text": "Askerler de ona sordular Ya bizim için ne yapmalıyız? O onlara dedi Hiç kimseden zorla almayın, kimseyi haksız yere suçlamayın. Ücretlerinizle yetinin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010",
+      "lang": "tr-TR",
+      "text": "Her biri bir hediye aldı onu, Tanrının çeşitli biçimlerdeki lütfuna iyi yöneticiler olarak birbirinize hizmet etmekte kullanın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-004-002",
+      "lang": "tr-TR",
+      "text": "Burada, yöneticilerden sadık bulunmaları istenmektedir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-003",
+      "lang": "tr-TR",
+      "text": "Zenginlik ve servet onun evindedir. Onun doğruluğu sonsuza dek sürer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022B",
+      "lang": "tr-TR",
+      "text": "Tavsiyenin olmadığı yerde planlar başarısız olur ama çok sayıda danışmanla kurulan planlar gerçekleşir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-007B",
+      "lang": "tr-TR",
+      "text": "Ben ışığı yaratır ve karanlığı oluştururum. Barışı sağlar ve felaketi yaratırım. Ben, bu şeyleri yapan Yahwehim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-023",
+      "lang": "tr-TR",
+      "text": "Efendisi ona dedi ki Aferin, iyi ve sadık kul. Az şeyde sadık kaldın, seni çok şeyin üzerine atayım. Efendinin sevinciyle gir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-002",
+      "lang": "tr-TR",
+      "text": "Erken kalkmak, geç yatmak, emekle ekmek yemek boşunadır çünkü O, sevdiklerine uyku verir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-011",
+      "lang": "tr-TR",
+      "text": "Haksız kazanç azalır, ama el ile toplayan onu artırır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-008",
+      "lang": "tr-TR",
+      "text": "Dağa çık, odun getir ve evi inşa et. Ondan hoşnut olacağım ve yüceltilmiş olacağım, diyor Yahweh.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-013",
+      "lang": "tr-TR",
+      "text": "Hiçbir kul iki efendiye hizmet edemez çünkü ya birini sevecek, diğerini nefret edecek ya da birine sarılacak, diğerine küçümseyecektir. Tanrıya ve Mamona hizmet edemezsiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005B",
+      "lang": "tr-TR",
+      "text": "Para sevgisinden uzak durun, sahip olduğunuz şeylerle yetinin çünkü O, Seni asla terk etmeyeceğim, seni asla bırakmayacağım dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009B",
+      "lang": "tr-TR",
+      "text": "İyilik yapmaktan yorulmayalım çünkü zamanında biçmeden vazgeçmezsek, hasat alacağız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-009",
+      "lang": "tr-TR",
+      "text": "İşinde gevşek olan, yıkım ustasıyla kardeştir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-043",
+      "lang": "tr-TR",
+      "text": "Disiplerini yanına çağırdı ve onlara dedi ki Size kesinlikle söylüyorum, bu yoksul dul, hazineye koyanların hepsinden daha fazla verdi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, herkese borcunu verin Eğer vergi borcunuz varsa, vergi ödeyin gümrük borcunuz varsa, gümrük ödeyin saygı borcunuz varsa, saygı gösterin onur borcunuz varsa, onur gösterin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-008-021",
+      "lang": "tr-TR",
+      "text": "Onurlu şeylere dikkat ederek, yalnızca Rabbin gözünde değil, insanların gözünde de.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-006",
+      "lang": "tr-TR",
+      "text": "İntegritesiyle yürüyen yoksul, yollarında pervasız olan zengin olandan daha iyidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-024",
+      "lang": "tr-TR",
+      "text": "Ama adalet nehirler gibi aksın, ve doğruluk güçlü bir akıntı gibi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-021",
+      "lang": "tr-TR",
+      "text": "Çünkü hazine nerede ise, orada kalbiniz de olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-007",
+      "lang": "tr-TR",
+      "text": "İyilikle hizmet ederek, insanlara değil, Rabbe hizmet ediyormuş gibi yapın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-001",
+      "lang": "tr-TR",
+      "text": "Efendiler, hizmetçilerinize adil ve eşit olanı verin çünkü sizin de gökte bir Efendiniz olduğunu biliyorsunuz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-016",
+      "lang": "tr-TR",
+      "text": "Doğru olanın azı, birçok kötü olanın bolluğundan daha iyidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-001",
+      "lang": "tr-TR",
+      "text": "Sahte terazi, Yahweh için bir iğrençtir ama doğru ölçüler Onun hoşuna gider.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-011",
+      "lang": "tr-TR",
+      "text": "Hileli terazi ve aldatıcı ağırlıklar karşısında tahammül mü göstereceğim?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-013",
+      "lang": "tr-TR",
+      "text": "On, hizmetçisini çağırdı ve ona on mina parası verdi ve Gelişime devam et, ben gelene kadar dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-018",
+      "lang": "tr-TR",
+      "text": "Hizmetçiler, efendilerinize her saygıyla tabi olun yalnızca iyi ve nazik olanlara değil, kötü olanlara da.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-013",
+      "lang": "tr-TR",
+      "text": "Şimdi, Bugün veya yarın bu şehre gidelim ve orada bir yıl geçirelim, ticaret yapalım ve kâr elde edelim diyenler, gelin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-005",
+      "lang": "tr-TR",
+      "text": "İyilikle davranan ve borç veren adam için iyidir. O, yargıda davasını sürdürecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-029",
+      "lang": "tr-TR",
+      "text": "Çünkü herkese verilen, artacak ama elinde olmayan, elindekiler de alınacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014B",
+      "lang": "tr-TR",
+      "text": "Yaptığınız her şey sevgide olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-012",
+      "lang": "tr-TR",
+      "text": "Şimdi o şekilde olanlara, Rab İsa Mesihte emrediyoruz ve teşvik ediyoruz ki, sessizce çalışsınlar ve kendi ekmeklerini yesinler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-020",
+      "lang": "tr-TR",
+      "text": "Anlayışsız zenginliği olan bir adam, yok olan hayvanlar gibidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-004",
+      "lang": "tr-TR",
+      "text": "Zengin olmak için kendinizi yormayın. Bilgeliğinizle, kendinizi tutun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-019",
+      "lang": "tr-TR",
+      "text": "Tohum hala ambar mı? Evet, asma, incir ağacı, nar ve zeytin ağacı ürün vermedi. Bugünden itibaren sizi kutsayacağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-018",
+      "lang": "tr-TR",
+      "text": "Çünkü Kutsal Yazı der ki Tahılını elediğinde öküzü boğazlamayacaksın. Ve, Emekçi, ücretine layıktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-009",
+      "lang": "tr-TR",
+      "text": "O, akıl almaz büyük işler yapar, sayısız harika işler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-023",
+      "lang": "tr-TR",
+      "text": "Her zorlu çalışmada kazanç vardır, ama dudakların konuşması yalnızca yoksulluğa yol açar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045B",
+      "lang": "tr-TR",
+      "text": "Çünkü İnsan Oğlu, hizmet edilmek için değil, hizmet etmek ve birçokları için fidye olarak hayatını vermek üzere geldi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-017",
+      "lang": "tr-TR",
+      "text": "Kimseye kötülük için kötülükle karşılık vermeyin. Herkesin gözünde onurlu olanı saygı gösterin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-003",
+      "lang": "tr-TR",
+      "text": "Onda, tüm bilgelik ve bilgi hazineleri gizlenmiştir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-009",
+      "lang": "tr-TR",
+      "text": "O, dağıttı, yoksullara verdi. Onun doğruluğu sonsuza dek sürer. Onun boynuzu onurla yüceltilir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-027",
+      "lang": "tr-TR",
+      "text": "İyilik yapmaktan geri durmayın, hak edenlere, elinizin gücünde olduğunda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-026",
+      "lang": "tr-TR",
+      "text": "Aranızda böyle olmasın ama kim büyük olmak isterse, sizin hizmetçiniz olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-022",
+      "lang": "tr-TR",
+      "text": "Her türlü kötülükten uzak durun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008B",
+      "lang": "tr-TR",
+      "text": "Ve Tanrı, her lütfun size bolca akmasını sağlayabilir böylece her şeyde her zaman yeterli olasınız ve her iyi işte bolca bulunasınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-104-023",
+      "lang": "tr-TR",
+      "text": "İnsan, işine çıkar, akşam oluncaya kadar çalışır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-015",
+      "lang": "tr-TR",
+      "text": "Tembellik derin bir uykuya atar. Tembel ruh açlık çeker.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-016",
+      "lang": "tr-TR",
+      "text": "Ama iyilik yapmayı ve paylaşmayı unutmamak çünkü böyle kurbanlarla Tanrı hoşnut olur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-018",
+      "lang": "tr-TR",
+      "text": "Evet, bir adam Senin inancın var, benim de işlerim var diyecek. Bana inancını iş olmadan göster, ben de sana inancımı işlerimle göstereceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023B",
+      "lang": "tr-TR",
+      "text": "Bir adamın adımları Yahweh tarafından belirlenmiştir. O, onun yolunda sevinç duyar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-013",
+      "lang": "tr-TR",
+      "text": "Uykuyu sevmeyin, yoksa yoksulluğa düşersiniz. Gözlerinizi açın, ekmekle tatmin olacaksınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009B",
+      "lang": "tr-TR",
+      "text": "Yahweh ordularının şöyle dediği gibi Gerçek yargıyı yerine getirin ve her insan kardeşine merhamet ve şefkat gösterin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-009-004",
+      "lang": "tr-TR",
+      "text": "Gönderenin işlerini gündüz vakti yapmalıyım. Gece geliyor, o zaman hiç kimse çalışamaz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-012",
+      "lang": "tr-TR",
+      "text": "Öyleyse, her birimiz kendimizden Tanrıya hesap verecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-024",
+      "lang": "tr-TR",
+      "text": "Kardeşler, her biri, hangi durumda çağrıldıysa, Tanrı ile o durumda kalsın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-002",
+      "lang": "tr-TR",
+      "text": "Çünkü ellerinin emeğinden yiyeceksin. Mutlu olacaksın ve senin için iyi olacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-027",
+      "lang": "tr-TR",
+      "text": "Yoksula verenin bir eksikliği yoktur ama gözlerini kapatanın birçok laneti olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008C",
+      "lang": "tr-TR",
+      "text": "O, sana, ey insan, neyin iyi olduğunu göstermiştir. Yahwehin senden istediği, adaletle hareket etmek, merhameti sevmek ve Tanrınla alçakgönüllü yürümektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-024",
+      "lang": "tr-TR",
+      "text": "Hiç kimse iki efendiye hizmet edemez çünkü ya birini sevecek, diğerini nefret edecek, ya da birine bağlı kalacak, diğerine küçümseyecektir. Hem Tanrıya hem de Mamona hizmet edemezsiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-010",
+      "lang": "tr-TR",
+      "text": "Rabbi hoşnut etmek için her bakımdan layık bir şekilde yürüyebilmeniz için, her iyi işte meyve vererek ve Tanrının bilgisinde artarak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-012",
+      "lang": "tr-TR",
+      "text": "Yahweh bizi anımsar. Bizi kutsayacaktır. İsrail evini kutsayacaktır. Aaron evini kutsayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-023",
+      "lang": "tr-TR",
+      "text": "Koyunlarınızın durumunu iyi bilin ve sığırlarınızı dikkate alın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-003",
+      "lang": "tr-TR",
+      "text": "Çünkü görünüm belirlenen zaman içindir, sona doğru acele eder ve yalan çıkmaz. Zaman alırsa, bekle çünkü kesinlikle gelecektir. Gecikmeyecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-005-004",
+      "lang": "tr-TR",
+      "text": "Konuşmasını bitirdikten sonra, Simona dedi ki Derinlere açıl ve ağlarınızı tutun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019B",
+      "lang": "tr-TR",
+      "text": "Tanrım, Mesih İsadaki zenginliklerine göre her ihtiyacınızı karşılayacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018B",
+      "lang": "tr-TR",
+      "text": "Her şeyde şükredin çünkü bu, Mesih İsada sizin için Tanrının iradesidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-001-021B",
+      "lang": "tr-TR",
+      "text": "O dedi ki Ana rahmimden çıplak geldim, oraya çıplak döneceğim. Yahweh verdi, Yahweh aldı. Yahwehnin adı kutsansın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-008",
+      "lang": "tr-TR",
+      "text": "Benden uzaklaştır yalana ve sahtekârlığa. Beni ne yoksullukla ne de zenginlikle besle. Bana ihtiyaç duyduğum yiyeceği ver.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016B",
+      "lang": "tr-TR",
+      "text": "Bunlar yapacağınız şeylerdir Her adam komşusuyla gerçeği konuşsun. Kapılarınızda gerçeğin ve barışın hükmünü yerine getirin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-036",
+      "lang": "tr-TR",
+      "text": "Bir adamın bütün dünyayı kazanıp da canını kaybetmesi ona ne fayda sağlar?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-011",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, o istirahate girmek için dikkatli olalım yoksa kimse aynı itaatsizlik örneğinden düşmesin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-011",
+      "lang": "tr-TR",
+      "text": "Her şeyde zenginleşiyorsunuz, bu da bizim aracılığımızla Tanrıya şükürler üretiyor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-002",
+      "lang": "tr-TR",
+      "text": "Onun soyları ülkede güçlü olacak. Doğru olanların nesli kutsanacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-001",
+      "lang": "tr-TR",
+      "text": "İyi bir isim, büyük zenginlikten daha değerlidir sevgi dolu bir iyilik, gümüş ve altından daha iyidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006B",
+      "lang": "tr-TR",
+      "text": "Onlara dedi ki Ağınızı tekneye sağ taraftan atın, orada bir şey bulacaksınız. Onlar da attılar ve şimdi o kadar çok balık vardı ki, onu çekemediler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002B",
+      "lang": "tr-TR",
+      "text": "Bu dünyaya uyum sağlamayın, ama aklınızın yenilenmesiyle dönüşün ki, Tanrının iyi, hoş ve mükemmel iradesini kanıtlayabilesiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-006",
+      "lang": "tr-TR",
+      "text": "Haydi, onun huzuruna şükürle gelelim. Yahweh, Yaratıcımızın önünde diz çökelim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-009",
+      "lang": "tr-TR",
+      "text": "Böyle dua edin Göklerdeki Babamız, adın kutsal kılınsın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-017",
+      "lang": "tr-TR",
+      "text": "Sürekli dua edin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-004",
+      "lang": "tr-TR",
+      "text": "Bu yüzden seni yaşarken kutsayacağım. Adınla ellerimi kaldıracağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-029",
+      "lang": "tr-TR",
+      "text": "Yahweh, kötü olanlardan uzaktır, ama doğru olanların duasını işitir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-002",
+      "lang": "tr-TR",
+      "text": "Onlara dedi ki Dua ettiğinizde, şöyle deyin Göklerdeki Babamız, adın kutsal kılınsın. Krallığın gelsin. İradeni yeryüzünde, gökte olduğu gibi yap.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-002",
+      "lang": "tr-TR",
+      "text": "Dua içinde sürekli kalın, şükürle dikkatli olun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-001",
+      "lang": "tr-TR",
+      "text": "Davidden Abimelekin önünde deli gibi davrandığında, onu kovdu ve ayrıldı. Her zaman Yahwehyi öveceğim. Övgüsü ağzımda sürekli olacaktır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-009",
+      "lang": "tr-TR",
+      "text": "Yasayı dinlemekten kulağını çeviren, onun duası da bir iğrençliktir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007B",
+      "lang": "tr-TR",
+      "text": "Ama ben Yahwehe bakacağım. Kurtuluşumun Tanrısına bekleyeceğim. Tanrım beni duyacak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-024",
+      "lang": "tr-TR",
+      "text": "Tanrı ruhtur ve onu tapanlar ruh ve gerçeklikle tapmalıdır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-001",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, her yerde insanların dua etmesini, şükran dilekleri, dualar, araya girme ve teşekkürlerin yapılmasını istiyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-002",
+      "lang": "tr-TR",
+      "text": "Duam senin önünde tütsü gibi yükselsin ellerimin kaldırılması akşam kurbanı gibi olsun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-010",
+      "lang": "tr-TR",
+      "text": "Krallığın gelsin. İradeni yeryüzünde, gökte olduğu gibi yap.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-018",
+      "lang": "tr-TR",
+      "text": "Her türlü dua ve dilek ile, her zaman Ruhta dua edin ve bu amaçla her azim ve dilek için dikkatli olun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-029-002",
+      "lang": "tr-TR",
+      "text": "Yahwehye adıyla uygun olan görkemi verin. Kutsal giysi içinde Yahwehyi tapın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-002",
+      "lang": "tr-TR",
+      "text": "Çünkü o kulağını bana çevirdi, bu yüzden ben de yaşadıkça ona dua edeceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-004",
+      "lang": "tr-TR",
+      "text": "O günde, Yahwehye şükredin! Adını çağırın! Halklar arasında yaptıklarını ilan edin! Adının yüceltilmiş olduğunu duyurun! diyeceksiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-013",
+      "lang": "tr-TR",
+      "text": "Ama vergi toplayıcı, uzakta durarak, göğe bile gözlerini kaldırmadı, ama göğsüne vurup, Tanrım, bana merhamet et, bir günahkârım! diyordu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-020",
+      "lang": "tr-TR",
+      "text": "Şimdi Tanrımız ve Babamıza sonsuz ve ebedi görkem olsun! Amin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018B",
+      "lang": "tr-TR",
+      "text": "Yine de Yahwehde sevinç duyacağım. Kurtuluşumun Tanrısında sevinçli olacağım!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-013",
+      "lang": "tr-TR",
+      "text": "Adımda neyi isterseniz, onu yapacağım ki, Baba Oğulda yüceltilsin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018",
+      "lang": "tr-TR",
+      "text": "Her şeyde şükredin çünkü bu, Tanrının Mesih İsadaki iradesidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-002",
+      "lang": "tr-TR",
+      "text": "Haydi, onun huzuruna şükürle gelelim. Şarkılarla onu yüceltelim!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013B",
+      "lang": "tr-TR",
+      "text": "Günahlarını gizleyen başarılı olamaz, ama onları itiraf eden ve reddeden merhamet bulur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-008",
+      "lang": "tr-TR",
+      "text": "Bu nedenle, her yerdeki erkeklerin dua etmesini, öfke ve kuşku olmadan kutsal elleri kaldırmasını istiyorum.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-008",
+      "lang": "tr-TR",
+      "text": "Kötülerin yaptığı kurban, Yahweh için bir iğrençliktir, ama doğru olanların duası onun hoşuna gider.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-008",
+      "lang": "tr-TR",
+      "text": "Evet, yargılarının yolunda, Yahweh, seni bekledik. Adın ve şanının ruhumuzun arzusudur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041B",
+      "lang": "tr-TR",
+      "text": "Dikkat edin ve dua edin ki, denemeye girmeyesiniz. Ruh gerçekten isteklidir, ama et zayıftır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006B",
+      "lang": "tr-TR",
+      "text": "Hiçbir şey için endişelenmeyin, ama her şeyde, dua ve dilek ile şükürle, isteklerinizi Tanrıya bildirin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-012",
+      "lang": "tr-TR",
+      "text": "Seni, Tanrım, bütün kalbimle öveceğim. Adını sonsuza dek yücelteceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-017-006",
+      "lang": "tr-TR",
+      "text": "Sana seslendim, çünkü bana cevap vereceksin, Tanrım. Kulaklarını bana çevir. Konuşmamı işit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-023",
+      "lang": "tr-TR",
+      "text": "O günde bana hiçbir soru sormayacaksınız. Size kesinlikle söylüyorum, Babadan benim adımla neyi isterseniz, size verecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-099-005",
+      "lang": "tr-TR",
+      "text": "Yahweh Tanrımızı yüceltin. Ayaklarının altına tapının. O Kutsaldır!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021B",
+      "lang": "tr-TR",
+      "text": "Ölüm ve yaşam dilin gücündedir onu seven meyvesini yer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006B",
+      "lang": "tr-TR",
+      "text": "Bütün yollarında onu tanı ve o da yollarını düzeltecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006B",
+      "lang": "tr-TR",
+      "text": "Yahwehyi bulabileceği zaman arayın. O yakınken ona çağırın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-011",
+      "lang": "tr-TR",
+      "text": "Bize bugün günlük ekmeğimizi ver.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-025",
+      "lang": "tr-TR",
+      "text": "Kardeşler, bizim için dua edin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026B",
+      "lang": "tr-TR",
+      "text": "Ayaklarınızın yolunu düzeltin. Bütün yollarınızın sağlam olmasına izin verin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-020",
+      "lang": "tr-TR",
+      "text": "Ama Yahweh, kutsal tapınağındadır. Bütün dünya onun önünde sessiz olsun!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-007",
+      "lang": "tr-TR",
+      "text": "Eğer bende kalırsanız ve sözlerim sizde kalırsa, istediğiniz her şeyi isteyeceksiniz ve size verilecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002B",
+      "lang": "tr-TR",
+      "text": "Kibir geldiğinde, utanç gelir ama alçakgönüllülükle bilgelik gelir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-024",
+      "lang": "tr-TR",
+      "text": "Bu nedenle size şunu söylüyorum, dua ettiğiniz her şeyde, aldığınıza inanın, ve onları alacaksınız.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-020",
+      "lang": "tr-TR",
+      "text": "Her şey için her zaman, Rabbimiz İsa Mesihin adıyla, Tanrıya, Babaya şükredin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-003",
+      "lang": "tr-TR",
+      "text": "Yahweh, ağzımın önüne bir bekçi koy. Dudaklarımın kapısını koru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-006",
+      "lang": "tr-TR",
+      "text": "Zionun sakinleri, yüksek sesle haykırın ve sevinçle bağırın, çünkü İsrailin Kutsalı aranızda büyüktür!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013B",
+      "lang": "tr-TR",
+      "text": "Eğer siz, kötü olmanıza rağmen çocuklarınıza iyi hediyeler vermeyi biliyorsanız, göksel Babamız, kendisinden isteyenlere Kutsal Ruhu ne kadar daha fazla verecektir!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-022",
+      "lang": "tr-TR",
+      "text": "Her ne istersek, ondan alırız, çünkü onun buyruklarını tutuyoruz ve gözünde hoş olan şeyleri yapıyoruz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-005",
+      "lang": "tr-TR",
+      "text": "Korkuya kapıldılar, yüzlerini yere kapadılar. Adamlar onlara, Neden ölüler arasında yaşayanı arıyorsunuz? dediler.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-011",
+      "lang": "tr-TR",
+      "text": "Ağlamamı dansa çevirdin. Çuvalımı benden aldın, beni sevinçle giydirdin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-043",
+      "lang": "tr-TR",
+      "text": "Bunu söyledikten sonra yüksek sesle bağırdı, Lazarus, dışarı çık!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-015",
+      "lang": "tr-TR",
+      "text": "Şimdi Tanrıya, tarif edilemez hediyesi için şükürler olsun!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-034",
+      "lang": "tr-TR",
+      "text": "Yahwehe şükredin, çünkü O iyidir, merhameti sonsuza dek sürer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-015",
+      "lang": "tr-TR",
+      "text": "Onlardan biri, iyileştiğini görünce geri döndü, yüksek sesle Tanrıyı yücelterek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-017",
+      "lang": "tr-TR",
+      "text": "Yaptığınız her şeyde, sözle veya eylemle, hepsini Rabbimiz İsanın adıyla yapın, Tanrı Babaya onun aracılığıyla şükredin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-009",
+      "lang": "tr-TR",
+      "text": "Yahwehi malvarlığınızla, tüm kazancınızın ilk ürünleriyle onurlandırın.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-041",
+      "lang": "tr-TR",
+      "text": "Ölü adamın yattığı yerden taşı kaldırdılar. İsa gözlerini kaldırdı ve dedi ki, Baba, beni dinlediğin için sana teşekkür ederim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-002",
+      "lang": "tr-TR",
+      "text": "Her zaman Tanrıya şükrediyoruz, sizleri dualarımızda anarak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-004",
+      "lang": "tr-TR",
+      "text": "Alçakgönüllülüğün ve Yahweh korkusunun sonucu, zenginlik, onur ve hayattır.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-028",
+      "lang": "tr-TR",
+      "text": "Sonra onu kollarına aldı ve Tanrıyı kutsadı ve dedi ki,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-029-013",
+      "lang": "tr-TR",
+      "text": "Şimdi, Tanrımız, sana teşekkür ediyoruz ve yüce adını övüyoruz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-004",
+      "lang": "tr-TR",
+      "text": "Ne ahlaksızlık, ne boş söz, ne de şaka, bunlar uygun değildir, daha çok şükretmek gerekir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-106-001",
+      "lang": "tr-TR",
+      "text": "Yahwehi övün! Yahwehe şükredin, çünkü O iyidir, merhameti sonsuza dek sürer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-022",
+      "lang": "tr-TR",
+      "text": "Yahwehin bereketi zenginlik getirir, buna hiç bir sıkıntı eklemez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-015-036",
+      "lang": "tr-TR",
+      "text": "Yedi ekmeği ve balıkları aldı. Şükredip kırdı ve öğrencilerine verdi, öğrenciler de kalabalığa verdi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-015",
+      "lang": "tr-TR",
+      "text": "Her şey sizin iyiliğiniz içindir, çoklarınca çoğalan lütuf, Tanrının yüceliğine şükranları artırabilir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-019",
+      "lang": "tr-TR",
+      "text": "Ekmek aldı, şükredip kırdı ve onlara verdi, Bu, sizin için verilen bedenimdir. Bunu benim anısına yapın. dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-007",
+      "lang": "tr-TR",
+      "text": "Ona kök salmış ve inançta yükselmiş, size öğretilen gibi, şükürle dolmuş olarak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-008",
+      "lang": "tr-TR",
+      "text": "Yahwehe şükredin. Adını çağırın. Onun yaptıklarını halklar arasında duyurun.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-017",
+      "lang": "tr-TR",
+      "text": "Çünkü Onun iyiliği ne kadar büyük, güzelliği ne kadar büyüktür! Tahıl gençleri canlandıracak, yeni şarap bakireleri neşelendirecektir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-010",
+      "lang": "tr-TR",
+      "text": "Bütün eserlerin, Yahweh, sana şükredecek. Senin kutsalların seni yüceltecek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014B",
+      "lang": "tr-TR",
+      "text": "Ev ve zenginlik babalardan miras kalır, fakat akıllı bir eş Yahwehdendir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-023",
+      "lang": "tr-TR",
+      "text": "Kadehi aldı, şükredip onlara verdi. Hepsi ondan içti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-041",
+      "lang": "tr-TR",
+      "text": "Ve onlarla birlikte Heman, Jedutun ve isimleri belirtilen diğerleri, Yahwehe şükretmek için seçilmişlerdi, çünkü Onun merhameti sonsuza dek sürer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-012",
+      "lang": "tr-TR",
+      "text": "Kalbim sana övgü söylesin ve sessiz kalmasın. Yahweh, Tanrım, sana sonsuza dek şükredeceğim!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-016",
+      "lang": "tr-TR",
+      "text": "Yüzüstü düşerek İsanın ayaklarına kapandı, ona şükrediyordu o bir Samiriydi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-004-004",
+      "lang": "tr-TR",
+      "text": "Çünkü Tanrının her yaratığı iyidir ve şükranla kabul edilmedikçe hiçbir şey reddedilmemelidir.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-007-017",
+      "lang": "tr-TR",
+      "text": "Yahwehe, Onun doğruluğuna göre şükredeceğim ve Yahweh, En Yücenin adını öveceğim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-027",
+      "lang": "tr-TR",
+      "text": "Kadehi aldı, şükredip onlara verdi, Hepiniz bundan için, dedi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-017",
+      "lang": "tr-TR",
+      "text": "Ama Tanrıya şükürler olsun ki, siz günahın kölesi iken, kalpten o öğreti biçimine itaat ettiniz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-035",
+      "lang": "tr-TR",
+      "text": "De ki, Bizi kurtaran Tanrımız, bizi bir araya topla ve uluslardan kurtar, kutsal adını yüceltmek için, övgünde zafer kazanmak için.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-017",
+      "lang": "tr-TR",
+      "text": "Şükür kurbanını sana sunacağım ve Yahwehin adını çağıracağım.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-023",
+      "lang": "tr-TR",
+      "text": "Ancak Tiberiastan gelen tekneler, Rabbin şükrettiği ekmeği yedikleri yere yaklaştı.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 2,
+  "next": 3
+}
