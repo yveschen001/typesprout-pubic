@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "el-GR",
+      "text": "για να ακούγεται η φωνή της ευχαριστίας και να διηγηθώ όλα τα θαυμαστά σου έργα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "el-GR",
+      "text": "δίδοντας ευχαριστίες εις τον Πατέρα, ο οποίος μας κατέστησε ικανούς να είμεθα μέτοχοι της κληρονομίας των αγίων εν τοις φωτί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "el-GR",
+      "text": "Θα καθοδηγήσει τους ταπεινούς εν δικαιοσύνη. Θα διδάξει τους ταπεινούς την οδό του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "el-GR",
+      "text": "Αλλά δίδει περισσότερη χάρη. Διότι λέγει Ο Θεός αντιτάσσεται στους υπερήφανους, αλλά δίδει χάρη στους ταπεινούς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "el-GR",
+      "text": "Ο φόβος του Κυρίου διδάσκει σοφία. Πριν από την τιμή είναι η ταπεινότητα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "el-GR",
+      "text": "Διότι καθένας που υψώνει τον εαυτό του θα ταπεινωθεί, και όποιος ταπεινώνει τον εαυτό του θα υψωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "el-GR",
+      "text": "υποτάσσοντες αλλήλοις εν φόβω Χριστού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "el-GR",
+      "text": "Ταπεινώστε λοιπόν τους εαυτούς σας κάτω από την ισχυρή χείρα του Θεού, για να σας υψώσει εν καιρώ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "el-GR",
+      "text": "Πριν από την καταστροφή η καρδιά του ανθρώπου είναι υπερήφανη, αλλά πριν από την τιμή είναι η ταπεινότητα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "el-GR",
+      "text": "Εάν είστε πρόθυμοι και υπάκουοι, θα φάτε τα αγαθά της γης·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "el-GR",
+      "text": "Όποιος λοιπόν ταπεινώνει τον εαυτό του ως αυτό το μικρό παιδί είναι ο μεγαλύτερος εν τη βασιλεία των ουρανών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "el-GR",
+      "text": "Έχετε τούτο εν τη διάνοια σας, το οποίον ήτο και εν τω Χριστώ Ιησού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "el-GR",
+      "text": "Ντυθείτε λοιπόν, ως εκλεκτοί του Θεού, άγιοι και αγαπητοί, καρδίαν εκτιμήσεως, καλοσύνης, ταπεινοφροσύνης, πραότητας και μακροθυμίας·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "el-GR",
+      "text": "Ταπεινώστε τους εαυτούς σας ενώπιον του Κυρίου, και αυτός θα σας υψώσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "el-GR",
+      "text": "Η υπερηφάνεια του ανθρώπου τον ταπεινώνει, αλλά ο ταπεινός πνεύματος αποκτά τιμή.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "el-GR",
+      "text": "Αλλά όχι έτσι με εσάς. Αλλά ο μεγαλύτερος μεταξύ σας, ας γίνει ως ο νεώτερος, και ο κυβερνών, ως ο υπηρετών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "el-GR",
+      "text": "Ο Κύριος στηρίζει τους ταπεινούς. Φέρνει τους κακούς εις το χώμα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "el-GR",
+      "text": "Οι ταπεινοί θα αυξήσουν τη χαρά τους στον Κύριο, και οι φτωχοί μεταξύ των ανθρώπων θα χαρούν στον Άγιο του Ισραήλ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "el-GR",
+      "text": "Όποιος θέλει να είναι πρώτος μεταξύ σας, ας είναι δούλος σας,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "el-GR",
+      "text": "Διότι, απορρίπτοντας κάθε ακαθαρσία και περίσσεια κακίας, δεχθείτε με ταπεινοφροσύνη τον ενσπείροντα λόγο, ο οποίος είναι ικανός να σώσει τις ψυχές σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "el-GR",
+      "text": "Αλλά οι ταπεινοί θα κληρονομήσουν τη γη, και θα ευφρανθούν στην αφθονία της ειρήνης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "el-GR",
+      "text": "Ας επαινέσει άλλος σε σένα, και όχι το στόμα σου· ξένος, και όχι τα χείλη σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "el-GR",
+      "text": "Μακάριοι οι πραείς, διότι αυτοί θα κληρονομήσουν τη γη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "el-GR",
+      "text": "Μη υψώνεσαι ενώπιον του βασιλέως, ούτε να διεκδικείς τόπο μεταξύ των μεγάλων·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "el-GR",
+      "text": "Όποιος από σας θέλει να γίνει πρώτος μεταξύ σας, ας είναι δούλος όλων.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "el-GR",
+      "text": "Σας λέγω, ότι ο άνθρωπος αυτός κατέβηκε στο σπίτι του δικαιωμένος μάλλον παρά ο άλλος· διότι καθένας που υψώνει τον εαυτό του θα ταπεινωθεί, αλλά όποιος ταπεινώνει τον εαυτό του θα υψωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "el-GR",
+      "text": "Ο Κύριος ευχαριστεί αυτούς που τον φοβούνται, αυτούς που ελπίζουν στην αγαθότητά του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "el-GR",
+      "text": "Αλλά αυτοί δεν άκουσαν και δεν γύρισαν το αυτί τους, αλλά περιεπάτησαν εν ταις ιδίαις βουλαίς αυτών και εν τη σκληρότητι της πονηράς καρδίας αυτών, και επήγαν πίσω, και όχι μπροστά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "el-GR",
+      "text": "Πείτε στην θυγατέρα του Σιών, ιδού, ο βασιλεύς σου έρχεται προς σε, ταπεινός και καθήμενος επί όνου, επί κολλυβίον, το πουλάρι του όνου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "el-GR",
+      "text": "Υποτάσσεσθε λοιπόν εις κάθε ανθρώπινη εξουσίαν, δια τον Κύριον· είτε εις τον βασιλέα, ως υπέρτατον,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "el-GR",
+      "text": "Αυτός πρέπει να αυξάνεται, αλλά εγώ πρέπει να ελαττώνομαι.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "el-GR",
+      "text": "προσμένοντας την μακαρίαν ελπίδα και την επιφάνειαν της δόξης του μεγάλου Θεού και Σωτήρος ημών, Ιησού Χριστού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "el-GR",
+      "text": "Θα γεννήσει υιόν. Και θα καλέσεις το όνομά του Ιησού, διότι αυτός είναι ο οποίος θα σώσει τον λαόν του από τις αμαρτίες αυτού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "el-GR",
+      "text": "Περιμένω τον Κύριο. Η ψυχή μου περιμένει. Ελπίζω στον λόγο του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "el-GR",
+      "text": "Ο λαός που περιεπάτησε εν σκότει είδε φως μέγα. Το φως έλαμψε εις εκείνους που έζησαν εν τη γη της σκιάς του θανάτου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "el-GR",
+      "text": "Ο Λόγος έγινε σάρξ και εσκήνωσεν εν ημίν. Είδαμε την δόξαν αυτού, δόξαν ως του μονογενούς παρ του Πατρός, πλήρης χάριτος και αληθείας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "el-GR",
+      "text": "Ο άγγελος είπε προς αυτούς Μη φοβείσθε, διότι ιδού, σας φέρνω ευχάριστα νέα μεγάλης χαράς, τα οποία θα είναι εις πάντα τον λαόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "el-GR",
+      "text": "Αλλά εγώ θα ελπίζω πάντοτε, και θα προσθέσω εις όλην την δοξολογία σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "el-GR",
+      "text": "Το φως το αληθινόν, το οποίον φωτίζει πάντα άνθρωπον, ήρθε εις τον κόσμον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "el-GR",
+      "text": "Διότι ο μισθός της αμαρτίας είναι θάνατος, αλλά η δωρεά του Θεού είναι ζωή αιώνιος εν Χριστώ Ιησού τον Κύριόν μας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "el-GR",
+      "text": "Περίμενε τον Κύριο. Να είσαι δυνατός, και ας πάρει θάρρος η καρδιά σου. Ναι, περίμενε τον Κύριο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "el-GR",
+      "text": "Αλλά εις εσάς που φοβούνται το όνομά μου θα ανατείλει ο ήλιος της δικαιοσύνης με θεραπείαν εν ταις πτέρυγές του. Θα εξέλθετε και θα χορεύετε ως μοσχάρια εκ του σταύλου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "el-GR",
+      "text": "Δόξα εις τον Θεόν εν τοις υψίστοις, και επί γης ειρήνη, καλή θέλησις προς τους ανθρώπους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "el-GR",
+      "text": "Φωνὴ βοῶντος ἐν τῇ ἐρήμῳ, Ἑτοιμάσατε τὴν ὁδὸν τοῦ Κυρίου, εὐθείας ποιεῖτε τὰς τρίβους τοῦ Θεοῦ ἡμῶν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "el-GR",
+      "text": "λαμβάνοντες τὸ τέλος τῆς πίστεώς ὑμῶν, σωτηρίαν ψυχῶν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "el-GR",
+      "text": "ἰδόντες δὲ τὸν ἀστέρα ἐχάρησαν χαρᾷ μεγάλη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "el-GR",
+      "text": "καὶ γνώσῃ σοφίαν ἐπὶ τὴν ψυχήν σου. Ἐὰν εὕρῃς αὐτήν, ἔσται ἀνταμοιβὴ, ἡ ἐλπίς σου οὐκ ἀποκοπήσεται.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "el-GR",
+      "text": "Ἰδοὺ, ἔρχονται ἡμέραι, λέγει Κύριος, καὶ ἀναστήσω τῷ Δαυὶδ κλάδον δίκαιον, καὶ βασιλεύσει βασιλεὺς καὶ συνετίσει, καὶ ποιήσει κρίσιν καὶ δικαιοσύνην ἐν τῇ γῇ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "el-GR",
+      "text": "Ὅτε δὲ ἐφάνη ἡ χρηστότης τοῦ Θεοῦ ἡμῶν καὶ ἡ ἀγάπη εἰς ἀνθρώπους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "el-GR",
+      "text": "Ἰδοὺ, ἡ παρθένος ἐν γαστρὶ ἕξει, καὶ τὸν υἱὸν ἐκφέρει, καὶ καλέσουσι τὸ ὄνομα αὐτοῦ Ἐμμανουήλ, ὅ ἐστιν ἑρμηνευόμενον, ὁ Θεὸς μεθ ἡμῶν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "el-GR",
+      "text": "Ὅτι ἡ καρδία ἡμῶν ἐχαίρει ἐν αὐτῷ, ὅτι ἐπιστεύσαμεν ἐν τῷ ἁγίῳ ὀνόματί αὐτοῦ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "el-GR",
+      "text": "Καὶ ὑπέστρεψαν οἱ ποιμένες, δοξάζοντες καὶ αἰνοῦντες τὸν Θεὸν ἐπὶ πᾶσιν οἷς ἤκουσαν καὶ εἶδον, καθὼς ἐλαλήθη πρὸς αὐτούς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "el-GR",
+      "text": "Ἡ γὰρ πολιτεία ἡμῶν ἐν οὐρανοῖς ἐστίν, ὅθεν καὶ σωτῆρα προσδοκῶμεν, τὸν Κύριον Ἰησοῦν Χριστόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "el-GR",
+      "text": "Ἡ δὲ σωτηρία τῶν δικαίων ἐκ τοῦ Κυρίου, καὶ ὁ ὀχυρός αὐτῶν ἐν καιρῷ θλίψεως.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "el-GR",
+      "text": "διὰ τὴν σπλαγχνικὴν ἐλεημοσύνην τοῦ Θεοῦ ἡμῶν, ἐν ᾗ ἐπισκέψεται ἡμᾶς ἡ ἕω ἐκ ὑψίστου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "el-GR",
+      "text": "καὶ λέγων, Ὁ καιρός ἐκπλήρωται, καὶ ἤγγικεν ἡ βασιλεία τοῦ Θεοῦ. Μετανοεῖτε καὶ πιστεύετε ἐν τῷ εὐαγγελίῳ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "el-GR",
+      "text": "ὁ Θεὸς δὲ ἐκλύσει τὴν ψυχήν μου ἐκ χειρὸς ᾍδου, ὅτι ἐδέξεται με. Σέλα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "el-GR",
+      "text": "ἐν ταῖς ἡμέραις ἐκείναις καὶ ἐν τῷ καιρῷ ἐκείνῳ, ἀναστήσω κλάδον δικαιοσύνης τῷ Δαυὶδ, καὶ ποιήσει κρίσιν καὶ δικαιοσύνην ἐν τῇ γῇ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "el-GR",
+      "text": "ἐγὼ δίδωμι αὐτοῖς ζωὴν αἰώνιον, καὶ οὐ μὴ ἀπόληται, καὶ οὐδεὶς ἁρπάσει αὐτοὺς ἐκ τῆς χειρός μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "el-GR",
+      "text": "Ἐλπίδι γὰρ ἐσώθημεν, ἀλλ ἡ ἐλπίς ἡ βλεπομένη οὐκ ἔστιν ἐλπίς. Τίς γὰρ ἐλπίζει ἐπὶ τὸ βλεπόμενον",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "el-GR",
+      "text": "ὅτι εἶδόν μου τὴν σωτηρίαν σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "el-GR",
+      "text": "Ἐν τῷ ὀνόματί αὐτοῦ εὐλογηθήσονται, ἔθνη πάντα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "el-GR",
+      "text": "ὁ λαὸς ὁ καθήμενος ἐν σκότει εἶδεν φῶς μέγα, καὶ τοῖς καθήμενοις ἐν χώρᾳ καὶ σκιᾷ θανάτου, φῶς ἀνέτειλεν αὐτοῖς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "el-GR",
+      "text": "Ὅτε δὲ ἐπλήσθη ὁ καιρός, ἀπέστειλεν ὁ Θεὸς τὸν Υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "el-GR",
+      "text": "καὶ λαλήσεις πρὸς αὐτόν λέγων, Τάδε λέγει Κύριος τῶν δυνάμεων, Ἰδοὺ, ὁ ἄνθρωπος ὃς ὀνομάζεται ὁ Κλάδος! Ὁ ἀνατελῶν ἐκ τοῦ τόπου αὐτοῦ, καὶ οἰκοδομήσει τὸν ναὸν τοῦ Κυρίου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "el-GR",
+      "text": "Εὐλογητὸς ὁ Κύριος, ὁ Θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐλύτρωσεν τὸν λαόν αὐτοῦ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "el-GR",
+      "text": "οἵτινες δι αὐτοῦ πιστεύουσιν ἐν τῷ Θεῷ, τῷ ἐγείραντι αὐτὸν ἐκ νεκρῶν καὶ δοῦντι αὐτῷ δόξαν, ἵνα ἡ πίστις ὑμῶν καὶ ἡ ἐλπίς ᾖ ἐν τῷ Θεῷ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "el-GR",
+      "text": "Καὶ ἐπληθύνθη ὁ Ἰησοῦς ἐν σοφίᾳ καὶ ἡλικίᾳ καὶ χάριτι πρὸς τὸν Θεὸν καὶ ἀνθρώπους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "el-GR",
+      "text": "ἐν ταῖς ἡμέραις ἐκείναις οὐκ ἐροῦσιν ἔτι, Οἱ πατέρες ἔφαγον ὀξέα σταφυλῶν, καὶ τὰ δόντια τῶν τέκνων ἐσφραγίσθησαν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "el-GR",
+      "text": "ὁ δὲ Ἰησοῦς εἶπεν, Ἀφήκατε τὰ παιδία, καὶ μὴ κωλύετε αὐτὰ ἐλθεῖν πρὸς ἐμὲ, ὅτι τῶν τοιούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "el-GR",
+      "text": "Τέκνα, ὑπακούετε τοῖς γονεῦσιν ἐν πᾶσιν, ὅτι τοῦτο ἀρέσκει ἐν Κυρίῳ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "el-GR",
+      "text": "Καὶ ἔσονται αὐταὶ αἱ ῥήσεις, ἃς ἐντέλλομαι σήμερον, ἐπὶ τῇ καρδίᾳ σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "el-GR",
+      "text": "Τότε οἱ υἱοὶ ἡμῶν ἔσονται ὡς φυτεῖς καλοί, οἱ θυγατέρες ἡμῶν ὡς στήλαι ἐκτετμημέναι ἵνα κοσμήσωσιν παλάτιον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "el-GR",
+      "text": "Ἐντολὴν καινὴν δίδω ὑμῖν, ἵνα ἀγαπᾶτε ἀλλήλους. Καθὼς ἐγὼ ἠγάπησα ὑμᾶς, ὑμεῖς καὶ ἀγαπᾶτε ἀλλήλους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "el-GR",
+      "text": "ἡ δὲ ἀντίληψις ἀνθρώπου ἀργὴ ἐν θυμῷ. Ἐν δὲ τῷ ὑπερβαίνειν ἔστιν αὐτοῦ δόξα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "el-GR",
+      "text": "καὶ ἐγὼ ἀφήσω ἐν ὑμῖν λαόν ταλαιπωρημένον καὶ πτωχόν, καὶ ἐλπίσουσιν ἐν τῷ ὀνόματι τοῦ Κυρίου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "el-GR",
+      "text": "Πᾶς ὁ ἐρχόμενος πρὸς ἐμὲ καὶ ἀκούων τῶν ἐμῶν λόγων καὶ ποιῶν αὐτούς, ὑμῖν δείξω τίνι ὁμοιωθήσεται.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "el-GR",
+      "text": "Δίδαξόν με ἀγαθὴν κρίσιν καὶ γνῶσιν, ὅτι ἐγὼ ἐπίστευσα ἐν ταῖς ἐντολαῖς σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "el-GR",
+      "text": "Καὶ τοῖς τεσσάρων τούτων παίδας ἔδωκεν ὁ Θεὸς γνῶσιν καὶ ἱκανότητα ἐν πᾶσιν τοῖς μαθήμασιν καὶ σοφίᾳ, καὶ ἦν ὁ Δανιήλ ἐν πᾶσιν ὁράσεσι καὶ ὀνείροις.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "el-GR",
+      "text": "Διὸ μὴ γίνεσθε ἀφρονεῖς, ἀλλὰ συνίετε τὸ θέλημα τοῦ Κυρίου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "el-GR",
+      "text": "Κατεύθυνον με ἐν τῇ ἀληθείᾳ σου, καὶ δίδαξόν με, ὅτι σὺ εἶ ὁ Θεὸς τῆς σωτηρίας μου. Ἐλπίζω ἐπὶ σὲ ὅλην τὴν ἡμέραν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "el-GR",
+      "text": "Πᾶς γὰρ ὁ αἰτῶν λαμβάνει, καὶ ὁ ζητῶν εὑρίσκει, καὶ ὁ κρούων ἀνοιγήσεται.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "el-GR",
+      "text": "Ἐν ᾗ ἂν ἄνθρωπος ἔχῃ ἄγνοια, ἡ ἔθνος πίπτει, ἐν δὲ τῷ πλῆθει τῶν συμβούλων ἔστιν νίκη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "el-GR",
+      "text": "Ἐν τῷ ὁδηγῆσθαί με ἐν τῇ βουλῇ σου, καὶ ὕστερον ἐδέξῃ με εἰς δόξαν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "el-GR",
+      "text": "Ὅτι ὡς ὑψηλότερα τῶν οὐρανῶν ἐστὶν ἡ γῆ, οὕτως ὑψηλότεροι οἱ δρόμοί μου τῶν δρόμων ὑμῶν, καὶ αἱ σκέψεις μου τῶν σκέψεών σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "el-GR",
+      "text": "ὁ δὲ εἶπεν, Ἀλλ ὡς ἔχει, μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ Θεοῦ καὶ τηροῦντες αὐτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "el-GR",
+      "text": "Ἐγὼ ὁ Κύριος, οἶδα ὅτι ἡ ὁδὸς τοῦ ἀνθρώπου οὐκ ἐν αὐτῷ. Οὐκ ἐστὶν ἐν τῷ ἀνθρώπῳ ὃς πορεύεται ἵνα κατευθύνῃ τὰ βήματα αὐτοῦ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "el-GR",
+      "text": "ἡ ὁδὸς τοῦ ἀφρονοῦντος ὀρθή ἐν τοῖς ὀφθαλμοῖς αὐτοῦ, ὁ δὲ σοφὸς ἀκούει τὴν βουλήν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "el-GR",
+      "text": "Τί οὐ κρίνετε ἐν ἑαυτοῖς τὸ ὀρθόν",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "el-GR",
+      "text": "ὅπως ὁ Θεὸς τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ Πατὴρ τῆς δόξης, δῷ ὑμῖν πνεῦμα σοφίας καὶ ἀποκαλύψεως ἐν ἐπιγνώσει αὐτοῦ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "el-GR",
+      "text": "Πολλὰ γὰρ ἐν τῇ καρδίᾳ τοῦ ἀνθρώπου, ἡ δὲ βουλὴ τοῦ Κυρίου ἐν ἰσχύι.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "el-GR",
+      "text": "Ἐγὼ ἐστάθην ἐπὶ τῆς σκοπιάς μου καὶ ἔστησα ἐν τῷ πύργῳ, καὶ ἐθεώρησα ἵνα ἴδω τί ἂν λέγῃ ἐμοὶ, καὶ τί ἀποκριθῶ ἐπὶ τῷ παραπονήματί μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "el-GR",
+      "text": "Πᾶσα ὁδὸς ἀνθρώπου ὀρθή ἐν τοῖς ὀφθαλμοῖς αὐτοῦ, ὁ δὲ Κύριος ζυγίζει τὰς καρδίας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "el-GR",
+      "text": "Ζητεῖτε τὸν Κύριον, πάντες οἱ ταπεινοὶ τῆς γῆς, οἱ φυλάσσοντες τὰς ἐντολὰς αὐτοῦ. Ζητεῖτε δικαιοσύνην. Ζητεῖτε ταπεινοφροσύνην. ἴσως ἐν τῇ ἡμέρᾳ ὀργῆς τοῦ Κυρίου κρυφθήτε.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "el-GR",
+      "text": "Ἐν ὅτι ὑμεῖς λέγετε, Ἐὰν ὁ Κύριος θελήσῃ, ζήσομεν καὶ ποιήσομεν τοῦτο ἢ ἐκεῖνο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "el-GR",
+      "text": "Άκουσέ με το πρωί την αγαθή σου χάρη, διότι σε εμπιστεύομαι. Δείξε μου τον δρόμο στον οποίο πρέπει να περπατήσω, διότι σε υψώνω την ψυχή μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "el-GR",
+      "text": "Κάλεσέ με, και θα σου απαντήσω, και θα σου δείξω μεγάλα και δύσκολα πράγματα, τα οποία δεν γνωρίζεις.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "el-GR",
+      "text": "Αλλά ο Παράκλητος, το Άγιο Πνεύμα, το οποίο ο Πατέρας θα στείλει στο όνομά μου, θα σας διδάξει όλα και θα σας υπενθυμίσει όλα όσα σας είπα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "el-GR",
+      "text": "Διότι ο Κύριος γνωρίζει τον δρόμο των δικαίων, αλλά ο δρόμος των ασεβών θα χαθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "el-GR",
+      "text": "Αλλά ο πνευματικός διακρίνει όλα, και αυτός δεν κρίνεται από κανέναν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "el-GR",
+      "text": "Τώρα λοιπόν, αυτό λέει ο Κύριος των Δυνάμεων Σκεφτείτε τους δρόμους σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "el-GR",
+      "text": "Διότι καθένας που ζητά, λαμβάνει. Αυτός που αναζητά, βρίσκει. Σε αυτόν που χτυπά, θα ανοιχθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "el-GR",
+      "text": "Εάν κάποιος με υπηρετεί, ας με ακολουθήσει. Όπου είμαι εγώ, εκεί θα είναι και ο υπηρέτης μου. Εάν κάποιος με υπηρετεί, ο Πατέρας θα τον τιμήσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "el-GR",
+      "text": "Διότι όσοι οδηγούνται από το Πνεύμα του Θεού, αυτοί είναι γιοι του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "el-GR",
+      "text": "Αλλά αυτός απάντησε Είναι γραμμένο Ο άνθρωπος δεν θα ζήσει μόνο με άρτο, αλλά με κάθε λόγο που βγαίνει από το στόμα του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "el-GR",
+      "text": "Προσευχηθείτε για μας, διότι είμαστε πεπεισμένοι ότι έχουμε καλή συνείδηση, επιθυμώντας να ζούμε τιμητικά σε όλα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "el-GR",
+      "text": "Διαμέσου της σοφίας οικοδομείται ο οίκος· με την κατανόηση θεμελιώνεται.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "el-GR",
+      "text": "Δίδαξέ με τον δρόμο σου, Κύριε. Θα περπατήσω στην αλήθεια σου. Κάνε την καρδιά μου αδιαίρετη για να φοβηθεί το όνομά σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "el-GR",
+      "text": "Στις ημέρες εκείνες και κατά τον καιρό εκείνο, θα κάνω να ανατείλει ένα κλάδο δικαιοσύνης στον Δαβίδ. Αυτός θα εκτελέσει δικαιοσύνη και κρίση στη γη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "el-GR",
+      "text": "Αλλά ένα είναι αναγκαίο. Η Μαρία διάλεξε το καλό μέρος, το οποίο δεν θα αφαιρεθεί από αυτήν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "el-GR",
+      "text": "Αναπαύσου στον Κύριο και περίμενε υπομονετικά γι αυτόν. Μη σε ενοχλεί αυτός που ευημερεί στον δρόμο του, για τον άνθρωπο που κάνει πονηρά σχέδια.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "el-GR",
+      "text": "Εάν γνωρίζετε αυτά τα πράγματα, μακάριοι είστε αν τα κάνετε.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "el-GR",
+      "text": "έχοντας τους οφθαλμούς της καρδιάς σας φωτισμένους, ώστε να γνωρίσετε ποια είναι η ελπίδα της κλήσης του, και ποιοι είναι οι πλούτοι της δόξας της κληρονομίας του στους αγίους,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "el-GR",
+      "text": "Γιε μου, ας μην απομακρυνθούν από τα μάτια σου. Κράτησε τη σωστή σοφία και τη διάκριση,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "el-GR",
+      "text": "Διότι η υπακοή σας έγινε γνωστή σε όλους. Χαίρομαι λοιπόν για σας. Αλλά επιθυμώ να είστε σοφοί σε ό,τι είναι καλό, αλλά αθώοι σε ό,τι είναι κακό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "el-GR",
+      "text": "Όποιος απαντά πριν ακούσει, αυτό είναι ανοησία και ντροπή γι αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "el-GR",
+      "text": "Δίδαξέ με, Κύριε, τον δρόμο των διαταγών σου. Θα τις τηρήσω μέχρι το τέλος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "el-GR",
+      "text": "Αλλά αυτός είπε Αντίθετα, μακάριοι είναι αυτοί που ακούν τον λόγο του Θεού και τον τηρούν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "el-GR",
+      "text": "διδάσκοντας μας με σκοπό να αρνηθούμε την ασέβεια και τις κοσμικές επιθυμίες, να ζούμε σώφρονα, δικαίως και ευσεβώς στην παρούσα εποχή·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "el-GR",
+      "text": "Η φιλία του Κυρίου είναι με αυτούς που τον φοβούνται. Θα τους δείξει τη διαθήκη του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "el-GR",
+      "text": "Ω, αν είχες ακούσει τις εντολές μου! Τότε η ειρήνη σου θα ήταν σαν ποταμός και η δικαιοσύνη σου σαν τα κύματα της θάλασσας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "el-GR",
+      "text": "Μακάριος είναι ο άνθρωπος που εμπιστεύεται στον Κύριο και του οποίου η εμπιστοσύνη είναι στον Κύριο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "el-GR",
+      "text": "Εάν με αγαπάς, τήρησε τις εντολές μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "el-GR",
+      "text": "Θα ευλογήσω τον Κύριο, ο οποίος μου έδωσε συμβουλή. Ναι, η καρδιά μου με διδάσκει στις νυχτερινές περιόδους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "el-GR",
+      "text": "Όποιος περιορίζει τα λόγια του έχει γνώση. Όποιος είναι ήρεμος είναι άνθρωπος κατανόησης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "el-GR",
+      "text": "Ιδού, θα κάνω ένα νέο πράγμα. Αναβλύζει τώρα. Δεν το γνωρίζετε Θα κάνω ακόμη και δρόμο στην έρημο και ποτάμια στην έρημο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "el-GR",
+      "text": "Εάν ζούμε κατά το Πνεύμα, ας περπατήσουμε και κατά το Πνεύμα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "el-GR",
+      "text": "Γι αυτό θεωρώ όλες τις εντολές σου σωστές. Μισώ κάθε ψευδή οδό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "el-GR",
+      "text": "αλλά μιλώντας την αλήθεια με αγάπη, να μεγαλώνουμε σε όλα προς αυτόν που είναι η κεφαλή, Χριστός,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "el-GR",
+      "text": "Μακάριος είναι ο άνθρωπος που βρίσκει σοφία, ο άνθρωπος που αποκτά κατανόηση.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "el-GR",
+      "text": "Κύριε, άκουσες την επιθυμία του ταπεινού. Θα προετοιμάσεις την καρδιά τους. Θα κάνεις το αυτί σου να ακούσει,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "el-GR",
+      "text": "Θα βιαστώ και δεν θα καθυστερήσω, για να υπακούσω στις εντολές σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "el-GR",
+      "text": "Κάθε Γραφή είναι θεόπνευστη και ωφέλιμη για διδασκαλία, για έλεγχο, για διόρθωση και για εκπαίδευση στη δικαιοσύνη,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "el-GR",
+      "text": "Η ακεραιότητα των ευθείων θα τους καθοδηγήσει, αλλά η πονηρία των προδοτών θα τους καταστρέψει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "el-GR",
+      "text": "Πώς μπορεί ένας νέος να κρατήσει τον δρόμο του καθαρό Με το να ζει σύμφωνα με τον λόγο σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "el-GR",
+      "text": "Χωρίς πίστη είναι αδύνατο να ευαρεστήσεις αυτόν, διότι όποιος έρχεται στον Θεό πρέπει να πιστεύει ότι υπάρχει, και ότι είναι ανταποδότης σε αυτούς που τον ζητούν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "el-GR",
+      "text": "Όποιος τηρεί τον νόμο είναι σοφός γιος· αλλά όποιος είναι σύντροφος των γλεντιστών ντροπιάζει τον πατέρα του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "el-GR",
+      "text": "Τα μάτια μου είναι πάντοτε στον Κύριο, διότι αυτός θα με βγάλει από το δίχτυ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "el-GR",
+      "text": "Διότι αυτοί που ζουν σύμφωνα με τη σάρκα, σκέφτονται τα πράγματα της σάρκας, αλλά αυτοί που ζουν σύμφωνα με το Πνεύμα, τα πράγματα του Πνεύματος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "el-GR",
+      "text": "Ο απλός άνθρωπος πιστεύει τα πάντα, αλλά ο φρόνιμος άνθρωπος εξετάζει προσεκτικά τους δρόμους του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "el-GR",
+      "text": "Με όλη μου την καρδιά σε ζήτησα. Μη με αφήσεις να περιπλανηθώ από τις εντολές σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "el-GR",
+      "text": "Ο άνθρωπος που περιπλανιέται από τον δρόμο της κατανόησης θα αναπαυθεί στην συνέλευση των αποθανόντων πνευμάτων.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "el-GR",
+      "text": "Εξεπλάγησαν από τη διδασκαλία του, διότι τους δίδασκε ως έχων εξουσία και όχι όπως οι γραμματείς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "el-GR",
+      "text": "Διότι όλοι μας σκανδαλίζουμε σε πολλά πράγματα. Όποιος δεν σκανδαλίζει σε λόγο είναι τέλειος άνθρωπος, ικανός να χαλιναγωγήσει και το όλο σώμα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "el-GR",
+      "text": "Εάν σταματήσεις να ακούς τη διδασκαλία, γιε μου, θα απομακρυνθείς από τα λόγια της γνώσης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "el-GR",
+      "text": "Έχω θέσει την καρδιά μου να εκτελώ τις διατάξεις σου για πάντα, ακόμη και μέχρι το τέλος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "el-GR",
+      "text": "Ποιος από σας φοβάται τον Κύριο και υπακούει στη φωνή του δούλου του Αυτός που περπατά στο σκοτάδι και δεν έχει φως, ας εμπιστευθεί στο όνομα του Κυρίου και ας στηριχθεί στον Θεό του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "el-GR",
+      "text": "Ποιος λοιπόν είναι ο πιστός και φρόνιμος δούλος, τον οποίο ο κύριος του έχει θέσει επάνω στο νοικοκυριό του, για να τους δίνει την τροφή τους στην κατάλληλη στιγμή",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "el-GR",
+      "text": "ώστε να γίνετε άμεμπτοι και αθώοι, παιδιά του Θεού χωρίς ελάττωμα μέσα σε μια διεστραμμένη και πονηρή γενεά, ανάμεσα στους οποίους φαίνεστε ως φώτα στον κόσμο,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "el-GR",
+      "text": "Είναι στον δρόμο της ζωής αυτός που προσέχει τη διόρθωση, αλλά αυτός που παραμελεί την επιτίμηση οδηγεί άλλους σε πλάνη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "el-GR",
+      "text": "Πάρε λόγια μαζί σου και γύρισε στον Κύριο. Πες του Συγχώρεσε όλες τις αμαρτίες μας και δέξου αυτό που είναι καλό· έτσι προσφέρουμε ταύρους όπως υποσχεθήκαμε με τα χείλη μας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "el-GR",
+      "text": "Διότι ποιος από σας, επιθυμώντας να οικοδομήσει έναν πύργο, δεν κάθεται πρώτα να υπολογίσει το κόστος, για να δει αν έχει αρκετά για να τον ολοκληρώσει",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "el-GR",
+      "text": "Τα λόγια σου βρέθηκαν και τα έφαγα. Τα λόγια σου ήταν σε μένα χαρά και η ευφροσύνη της καρδιάς μου, διότι ονομάζομαι με το όνομά σου, Κύριε, Θεέ των Δυνάμεων.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "el-GR",
+      "text": "Καλός και δίκαιος είναι ο Κύριος, γι αυτό θα διδάξει τους αμαρτωλούς στον δρόμο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "el-GR",
+      "text": "Ιδού, ο δούλος μου θα ενεργήσει σοφά. Θα υψωθεί και θα υψωθεί και θα είναι πολύ ψηλός.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "el-GR",
+      "text": "Κάθε φρόνιμος άνθρωπος ενεργεί από γνώση, αλλά ο ανόητος εκθέτει την ανοησία.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "el-GR",
+      "text": "Καθόρισε τα βήματά μου στον λόγο σου. Μη αφήσεις καμία αμαρτία να έχει εξουσία επάνω μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "el-GR",
+      "text": "Ο φακός του σώματος είναι το μάτι. Επομένως, όταν το μάτι σου είναι καλό, όλο το σώμα σου είναι επίσης γεμάτο φως· αλλά όταν είναι κακό, το σώμα σου είναι επίσης γεμάτο σκοτάδι.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "el-GR",
+      "text": "Τώρα, ας είναι ο Θεός της ειρήνης, ο οποίος ανέστησε από τους νεκρούς τον μεγάλο ποιμένα των προβάτων με το αίμα της αιώνιας διαθήκης, ο Κύριος ημών Ιησούς,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "el-GR",
+      "text": "Η καρδιά αυτού που έχει κατανόηση ζητά γνώση, αλλά τα στόματα των ανόητων τρέφονται με ανοησία.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "el-GR",
+      "text": "Βεβαίως ο Κύριος Θεός δεν θα κάνει τίποτα, εκτός αν αποκαλύψει το μυστικό του στους δούλους του τους προφήτες.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "el-GR",
+      "text": "Τα πρόβατά μου ακούν τη φωνή μου, και τα γνωρίζω, και με ακολουθούν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "el-GR",
+      "text": "Μη σβήνετε το Πνεύμα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "el-GR",
+      "text": "Η συμβουλή στην καρδιά του ανθρώπου είναι σαν βαθιά νερά, αλλά ο άνθρωπος της κατανόησης θα την αντλήσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "el-GR",
+      "text": "και λέγοντας, Ο καιρός είναι εκπληρωμένος, και η βασιλεία του Θεού είναι κοντά! Μετανοείτε και πιστεύετε στο Ευαγγέλιο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "el-GR",
+      "text": "Αλλά όποιος εξετάζει τον τέλειο νόμο της ελευθερίας και συνεχίζει, μη είναι ακροατής που ξεχνά, αλλά εκτελεστής του έργου, αυτός ο άνθρωπος θα είναι ευλογημένος σε ό,τι κάνει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "el-GR",
+      "text": "Μη ζηλεύεις τον άνθρωπο της βίας. Μη διαλέγεις καμία από τις οδούς του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "el-GR",
+      "text": "Επιπλέον, ο δούλος σου προειδοποιείται από αυτά. Στην τήρηση τους υπάρχει μεγάλη ανταμοιβή.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "el-GR",
+      "text": "Ας αναγνωρίσουμε τον Γιαχβέ. Ας προχωρήσουμε να γνωρίσουμε τον Γιαχβέ. Όπως σίγουρα ανατέλλει ο ήλιος, ο Γιαχβέ θα φανερωθεί. Θα έρθει σε μας όπως η βροχή, όπως η πρώιμη βροχή που ποτίζει τη γη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "el-GR",
+      "text": "Όποιος έχει αυτιά να ακούει, ας ακούει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "el-GR",
+      "text": "Όποιος είναι αργός στην οργή έχει μεγάλη κατανόηση, αλλά όποιος έχει γρήγορη οργή δείχνει ανοησία.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "el-GR",
+      "text": "Ο Ιησούς του απάντησε, λέγοντας, Είναι γραμμένο, Ο άνθρωπος δεν θα ζήσει μόνο με άρτο, αλλά με κάθε λόγο του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "el-GR",
+      "text": "Δεν είναι καλό να έχεις ζήλο χωρίς γνώση, ούτε να είσαι βιαστικός με τα πόδια σου και να χάνεις τον δρόμο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "el-GR",
+      "text": "Σκέφτηκα τους δρόμους μου, και γύρισα τα βήματά μου στις διατάξεις σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "el-GR",
+      "text": "Μπορεί κανείς να κρυφτεί σε μυστικά μέρη ώστε να μην μπορώ να τον δω λέει ο Γιαχβέ. Δεν γεμίζω εγώ τον ουρανό και τη γη λέει ο Γιαχβέ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "el-GR",
+      "text": "Αδελφοί, δεν θεωρώ τον εαυτό μου ότι έχω πιάσει, αλλά ένα πράγμα κάνω λησμονώντας τα πίσω και προ stretching forward to the things which are before.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "el-GR",
+      "text": "Στον δρόμο της δικαιοσύνης είναι η ζωή στην οδό της δεν υπάρχει θάνατος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "el-GR",
+      "text": "Ιδού, επιθυμώ τις εντολές σου! Ζωντάνεψέ με στην δικαιοσύνη σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "el-GR",
+      "text": "Γιαχβέ, εσύ είσαι ο Θεός μου. Θα σε υψώσω! Θα δοξάσω το όνομά σου, διότι έχεις κάνει θαυμάσια πράγματα, πράγματα που σχεδιάστηκαν από παλιά, με πλήρη πίστη και αλήθεια.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "el-GR",
+      "text": "Όλοι εμείς, όπως τα πρόβατα, έχουμε αποστατήσει. Ο καθένας έχει γυρίσει στον δικό του δρόμο, και ο Γιαχβέ έχει επιβάλει σε αυτόν την ανομία όλων μας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "el-GR",
+      "text": "όχι από έργα, ώστε κανείς να μην καυχηθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "el-GR",
+      "text": "διότι όλοι έχουν αμαρτήσει και στερούνται της δόξας του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "el-GR",
+      "text": "Ο φόβος του Γιαχβέ είναι πηγή ζωής, απομακρύνοντας τους ανθρώπους από τις παγίδες του θανάτου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "el-GR",
+      "text": "Την επόμενη μέρα, είδε τον Ιησού να έρχεται προς αυτόν και είπε, Ιδού, το Αρνίον του Θεού, που αφαιρεί την αμαρτία του κόσμου!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "el-GR",
+      "text": "Με ανέβασε επίσης από μια τρομερή άβυσσο, από τον βούρκο της λάσπης. Έστησε τα πόδια μου σε βράχο και μου έδωσε μια σταθερή θέση να σταθώ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "el-GR",
+      "text": "Μετά από δύο ημέρες θα μας αναστήσει. Την τρίτη ημέρα θα μας αναστήσει και θα ζήσουμε μπροστά του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "el-GR",
+      "text": "ο οποίος μας ελευθέρωσε από την εξουσία του σκότους και μας μετέφερε στη βασιλεία του Υιού της αγάπης του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "el-GR",
+      "text": "Δεν απορρίπτω τη χάρη του Θεού. Διότι αν η δικαιοσύνη είναι μέσω του νόμου, τότε ο Χριστός πέθανε μάταια!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "el-GR",
+      "text": "Έχοντας λοιπόν, αδελφοί, παρρησία να εισέλθουμε στον άγιο τόπο δια του αίματος του Ιησού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "el-GR",
+      "text": "Ανάκτησέ μου τη χαρά της σωτηρίας σου. Στήριξέ με με πνεύμα πρόθυμο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "el-GR",
+      "text": "Οι πλούτοι δεν ωφελούν την ημέρα της οργής, αλλά η δικαιοσύνη σώζει από τον θάνατο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "el-GR",
+      "text": "ας πλησιάσουμε με αληθινή καρδιά σε πλήρη πίστη, έχοντας τις καρδιές μας ραντισμένες από κακή συνείδηση και το σώμα μας πλυμένο με καθαρό νερό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "el-GR",
+      "text": "και από τον Ιησού Χριστό, τον πιστό μάρτυρα, τον πρωτότοκο των νεκρών και τον άρχοντα των βασιλέων της γης. Σε αυτόν που μας αγαπά και μας πλύθηκε από τις αμαρτίες μας με το αίμα του—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "el-GR",
+      "text": "Όταν ο εκατόνταρχος, που στεκόταν απέναντί του, είδε ότι φώναξε έτσι και παρέδωσε το πνεύμα του, είπε, Αληθώς, αυτός ο άνθρωπος ήταν ο Υιός του Θεού!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "el-GR",
+      "text": "Διότι αυτός που δεν γνώρισε αμαρτία, τον έκανε αμαρτία για χάρη μας, ώστε να γίνουμε εμείς η δικαιοσύνη του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "el-GR",
+      "text": "Όταν περνά ο ανεμοστρόβιλος, ο κακός δεν είναι πια, αλλά οι δίκαιοι στέκονται σταθεροί για πάντα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "el-GR",
+      "text": "ούτε μέσω του αίματος κατσικιών και μοσχαριών, αλλά μέσω του δικού του αίματος, εισήλθε μία φορά για πάντα στον Άγιο Τόπο, έχοντας αποκτήσει αιώνια λύτρωση.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "el-GR",
+      "text": "Νίκησαν αυτόν λόγω του αίματος του Αρνίου και λόγω του λόγου της μαρτυρίας τους. Δεν αγάπησαν τη ζωή τους, ούτε μέχρι θανάτου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "el-GR",
+      "text": "Όποιος εμπιστεύεται στους πλούτους του θα πέσει, αλλά οι δίκαιοι θα ανθίσουν όπως το πράσινο φύλλο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "el-GR",
+      "text": "Όποιος περπατά αμετάκλητα διατηρείται ασφαλής, αλλά αυτός που έχει πονηρές οδούς θα πέσει ξαφνικά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "el-GR",
+      "text": "και ότι η μετάνοια και η άφεση των αμαρτιών πρέπει να κηρυχθούν στο όνομά του σε όλα τα έθνη, αρχίζοντας από την Ιερουσαλήμ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "el-GR",
+      "text": "ώστε να μπορέσει να εξαγοράσει αυτούς που ήταν υπό τον νόμο, ώστε να λάβουμε την υιοθεσία ως παιδιά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "el-GR",
+      "text": "Εκείνος που κάθεται στον θρόνο είπε, Ιδού, κάνω όλα τα πράγματα νέα. Είπε, Γράψε, διότι αυτά τα λόγια του Θεού είναι πιστά και αληθινά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "el-GR",
+      "text": "Αχ, Κύριε Γιαχβέ! Ιδού, εσύ έκανες τους ουρανούς και τη γη με τη μεγάλη σου δύναμη και με το εκτεταμένο σου χέρι. Δεν υπάρχει τίποτα δύσκολο για σένα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "el-GR",
+      "text": "Ποιος μπορεί να φέρει κατηγορία κατά των εκλεκτών του Θεού Είναι ο Θεός που δικαιώνει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "el-GR",
+      "text": "και να βρεθώ σε αυτόν, μη έχοντας δικαιοσύνη δική μου, αυτή που είναι από τον νόμο, αλλά αυτή που είναι μέσω της πίστης στον Χριστό, η δικαιοσύνη που είναι από τον Θεό μέσω της πίστης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "el-GR",
+      "text": "Η διδασκαλία των σοφών είναι πηγή ζωής, για να απομακρύνει από τις παγίδες του θανάτου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "el-GR",
+      "text": "Διότι με μία προσφορά έχει τελειοποιήσει για πάντα αυτούς που αγιάζονται.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "el-GR",
+      "text": "Κάθε λόγος του Θεού είναι άψογος. Είναι ασπίδα για αυτούς που καταφεύγουν σε αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "el-GR",
+      "text": "Ιδού, η ψυχή του είναι υπερήφανη. Δεν είναι ευθύς σε αυτόν, αλλά ο δίκαιος θα ζήσει από την πίστη του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "el-GR",
+      "text": "Και εγώ, αν υψωθώ από τη γη, θα προσελκύσω όλους τους ανθρώπους προς εμένα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "el-GR",
+      "text": "ο οποίος μας έσωσε και μας κάλεσε με άγιο κάλεσμα, όχι σύμφωνα με τα έργα μας, αλλά σύμφωνα με τον δικό του σκοπό και χάρη, που μας δόθηκε στον Χριστό Ιησού πριν από τους αιώνες.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "el-GR",
+      "text": "Εμπιστεύσου τον Γιαχβέ με όλη σου την καρδιά, και μην στηρίζεσαι στην κατανόησή σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "el-GR",
+      "text": "Σταθείτε λοιπόν σταθεροί στην ελευθερία με την οποία ο Χριστός μας ελευθέρωσε, και μην εμπλέκεστε πάλι με ζυγό δουλείας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "el-GR",
+      "text": "Μου είπε, Εγώ είμαι το Άλφα και το Ωμέγα, η Αρχή και το Τέλος. Θα δώσω δωρεάν σε αυτόν που διψά από την πηγή του ύδατος της ζωής.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "el-GR",
+      "text": "Η εκπλήρωση της επιθυμίας είναι γλυκιά στην ψυχή, αλλά οι ανόητοι απεχθάνονται την επιστροφή από το κακό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "el-GR",
+      "text": "Διότι αν έχουμε γίνει ενωμένοι με αυτόν στην ομοιότητα του θανάτου του, θα είμαστε επίσης μέτοχοι της ανάστασής του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "el-GR",
+      "text": "Διάσωσε αυτούς που οδηγούνται προς θάνατο! Πράγματι, κράτησε πίσω αυτούς που στέκονται προς τη σφαγή!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "el-GR",
+      "text": "Ο Γιαχβέ έχει αφαιρέσει τις κρίσεις σου. Έχει πετάξει τον εχθρό σου. Ο Βασιλιάς του Ισραήλ, ο Γιαχβέ, είναι ανάμεσά σας. Δεν θα φοβηθείτε πια το κακό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "el-GR",
+      "text": "Και αυτός είναι η εξιλέωση για τις αμαρτίες μας, και όχι μόνο για τις δικές μας, αλλά και για ολόκληρο τον κόσμο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "el-GR",
+      "text": "Ποιος μπορεί να πει, Έκανα την καρδιά μου καθαρή. Είμαι καθαρός και χωρίς αμαρτία",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "el-GR",
+      "text": "ώστε, δικαιωθέντες δια της χάρης του, να γίνουμε κληρονόμοι σύμφωνα με την ελπίδα της αιώνιας ζωής.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "el-GR",
+      "text": "Το Πνεύμα και η νύφη λένε, Έλα! Όποιος ακούει, ας πει, Έλα! Όποιος διψά, ας έρθει. Όποιος επιθυμεί, ας πάρει το ύδωρ της ζωής δωρεάν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "el-GR",
+      "text": "Υιέ μου, δος μοι την καρδίαν σου, και ας κρατώσιν οι οφθαλμοί σου τας οδούς μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "el-GR",
+      "text": "όποιος όμως πιεί από το ύδωρ το οποίο θα του δώσω, δεν θα διψήσει ποτέ πάλι, αλλά το ύδωρ το οποίο θα του δώσω θα γίνει μέσα του πηγή ύδατος αναβλύζουσα εις ζωήν αιώνιον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "el-GR",
+      "text": "Αλλά μακράν από εμού να καυχηθώ, παρά μόνον εις τον σταυρόν του Κυρίου ημών Ιησού Χριστού, δι ού ο κόσμος εσταυρώθη εις εμέ, και εγώ εις τον κόσμον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "el-GR",
+      "text": "Αλλά δια να γνωρίσετε ότι ο Υιός του ανθρώπου έχει εξουσίαν επί της γης να συγχωρεί αμαρτίας—είπε προς τον παραλυτικόν—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "el-GR",
+      "text": "Διότι, Όσοι επικαλεσθούν το όνομα του Κυρίου, θα σωθούν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "el-GR",
+      "text": "Εάν υπάγω και ετοιμάσω τόπον εις εσάς, πάλιν έρχομαι και θέλω σας παραλάβει προς εαυτόν, δια να είσθε και σεις όπου είμαι εγώ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "el-GR",
+      "text": "Εάν λοιπόν εσηκώθητε μαζί με τον Χριστόν, ζητείτε τα άνω, όπου είναι ο Χριστός, καθήμενος εκ δεξιών του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "el-GR",
+      "text": "αλλά με πολύτιμον αίμα, ως αμνός άμωμος και αμίαντος, το αίμα του Χριστού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "el-GR",
+      "text": "Το όνομα του Κυρίου είναι πύργος ισχυρός· ο δίκαιος τρέχει εις αυτόν και είναι ασφαλής.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "el-GR",
+      "text": "Μακάριοι οι φυλάσσοντες τας εντολάς αυτού, ότι αυτοί θέλουσιν έχωσιν εξουσίαν εις τον ξύλον της ζωής, και θέλουσιν εισέλθει δια των πυλών εις την πόλιν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "el-GR",
+      "text": "Αλλά η οδός των δικαίων είναι ως το φως της αυγής, το οποίον φωτίζει περισσότερον και περισσότερον έως της τελείας ημέρας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "el-GR",
+      "text": "Αυτή είναι η αιώνιος ζωή, να γνωρίσουν εσέ τον μόνον αληθινόν Θεόν, και τον οποίον απέστειλας, Ιησούν Χριστόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "el-GR",
+      "text": "Διότι ο νόμος του πνεύματος της ζωής εν Χριστώ Ιησού με ελευθέρωσε από τον νόμον της αμαρτίας και του θανάτου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "el-GR",
+      "text": "πόσον μάλλον το αίμα του Χριστού, το οποίον δια του αιωνίου Πνεύματος προσέφερε εαυτόν άμωμον εις τον Θεόν, θέλει καθαρίσει την συνείδησίν σας από νεκρών έργων, δια να λατρεύετε τον ζώντα Θεόν",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "el-GR",
+      "text": "Ο αληθώς δίκαιος αποκτά ζωή· ο επιδιώκων το κακόν αποκτά θάνατον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "el-GR",
+      "text": "Θέλω λυτρώσει αυτούς εκ της χειρός του Άδου, θέλω λυτρώσει αυτούς εκ του θανάτου! Θάνατε, πού είναι οι πληγές σου Άδη, πού είναι η καταστροφή σου Η συμπάθεια θέλει κρυφθεί από τους οφθαλμούς μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "el-GR",
+      "text": "διότι τούτο είναι το αίμα μου της νέας διαθήκης, το οποίον εκχέεται υπέρ πολλών προς άφεσιν αμαρτιών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "el-GR",
+      "text": "Θέλει πάλιν ελεήσει ημάς· θέλει καταπατήσει τας ανομίας ημών· θέλεις ρίψει όλα τας αμαρτίας αυτών εις τα βάθη της θαλάσσης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "el-GR",
+      "text": "Δια τούτο διατηρούμεν ότι ο άνθρωπος δικαιούται δια της πίστεως, χωρίς των έργων του νόμου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "el-GR",
+      "text": "Και ευρεθείς κατά την μορφήν του ανθρώπου, εταπείνωσεν εαυτόν, γενόμενος υπήκοος μέχρι θανάτου, ναι, θανάτου σταυρού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "el-GR",
+      "text": "Αγόρασον την αλήθειαν, και μη πωλήσεις αυτήν· απόκτησον σοφίαν, παιδείαν και σύνεσιν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "el-GR",
+      "text": "Ο Κύριος ο Θεός αυτών θέλει σώσει αυτούς εν τη ημέρα εκείνη, ως το ποίμνιον του λαού αυτού· διότι είναι ως τα διαμάντια του στέμματος, υψωμένα επάνω της γης αυτού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "el-GR",
+      "text": "Σας λέγω ότι ούτως θέλει είσθαι περισσότερη χαρά εν τω ουρανώ υπέρ ενός αμαρτωλού μετανοούντος, παρά υπέρ ενενήντα εννέα δικαίων, οι οποίοι δεν έχουν χρείαν μετανοίας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "el-GR",
+      "text": "ότι καθώς η αμαρτία εβασίλευσε εις τον θάνατον, ούτω και η χάρις να βασιλεύει δια της δικαιοσύνης εις ζωήν αιώνιον δια του Ιησού Χριστού του Κυρίου ημών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "el-GR",
+      "text": "δηλαδή, ότι ο Θεός ήτο εν Χριστώ, συμφιλιώνων τον κόσμον προς εαυτόν, μη λογιζόμενος εις αυτούς τας παραβάσεις αυτών, και έχων αναθέσει εις ημάς τον λόγον της συμφιλιώσεως.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "el-GR",
+      "text": "Έχει επί τον χιτώνα αυτού και επί τον μηρόν αυτού όνομα γεγραμμένον, ΒΑΣΙΛΕΥΣ ΒΑΣΙΛΕΩΝ ΚΑΙ ΚΥΡΙΟΣ ΚΥΡΙΩΝ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "el-GR",
+      "text": "Ας εγκαταλείψει ο πονηρός την οδόν αυτού, και ο άδικος τον συλλογισμόν αυτού· και ας επιστρέψει προς τον Κύριον, και θέλει ελεήσει αυτόν, και προς τον Θεόν ημών, διότι θέλει συγχωρήσει πλουσίως.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "el-GR",
+      "text": "Κανείς δεν μπορεί να έλθει προς εμέ, εάν δεν τον ελκύσει ο Πατήρ, ο οποίος με απέστειλε· και θέλω αναστήσει αυτόν την τελευταίαν ημέραν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "el-GR",
+      "text": "Διότι αυτός είναι η ειρήνη ημών, ο οποίος έκανε και τα δύο ένα, και κατέστρεψε το μεσότοιχον του φραγμού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "el-GR",
+      "text": "Μη γίνεσθε σοφοί εις τας ιδικάς σας οφθαλμούς· φοβείσθε τον Κύριον και απομακρύνεσθε από του κακού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "el-GR",
+      "text": "Θέλω σε ελευθερώσει εκ της χειρός των πονηρών, και θέλω σε λυτρώσει εκ της χειρός των φοβερών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "el-GR",
+      "text": "Διότι πάντες είσθε τέκνα Θεού, δια της πίστεως εν Χριστώ Ιησού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "el-GR",
+      "text": "Προ καιρού δεν ήσαστε λαός, αλλά τώρα είσθε λαός του Θεού, οι μη ελεηθέντες, αλλά τώρα ελεηθέντες.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "el-GR",
+      "text": "Κύριε, άκουσον. Κύριε, συγχώρησον. Κύριε, άκουσον και κάμε. Μη καθυστερήσης, δια την ιδικήν σου χάριν, Θεέ μου, διότι η πόλις σου και ο λαός σου είναι καλούμενοι δια το όνομά σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "el-GR",
+      "text": "Ο Ιησούς είπε προς αυτήν, Εγώ είμαι η ανάστασις και η ζωή. Όσοι πιστεύουν εις εμέ, θα ζήσουν, και αν αποθάνωσιν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "el-GR",
+      "text": "εν ω έχουμε την απολύτρωσιν, την άφεσιν των αμαρτιών ημών.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "el-GR",
+      "text": "Ας πλησιάσωμεν λοιπόν με παρρησίαν εις τον θρόνον της χάριτος, δια να λάβωμεν έλεος και να εύρωμεν χάριν εις καιρόν ανάγκης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "el-GR",
+      "text": "Ο φόβος του Κυρίου οδηγεί εις ζωήν, τότε η ευχαρίστησις· αναπαύεται και δεν θέλει θιγεί από κακόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "el-GR",
+      "text": "Εύρον τον λίθον απεκεκυλισμένον από του μνημείου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "el-GR",
+      "text": "Αλλά σεις δεν είσθε εν τη σαρξ, αλλά εν τω Πνεύματι, εάν το Πνεύμα του Θεού κατοικεί εν υμίν. Εάν δε τις δεν έχει το Πνεύμα του Χριστού, ούτος δεν είναι αυτού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "el-GR",
+      "text": "και ποία είναι η υπερβολή της δυνάμεως αυτού προς ημάς τους πιστεύοντας, κατά την ενέργειαν της δυνάμεως της ισχύος αυτού",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "el-GR",
+      "text": "και μας έκαμε βασιλείαν, ιερείς εις τον Θεόν και Πατέρα αυτού· εις αυτόν η δόξα και η εξουσία εις τους αιώνας των αιώνων. Αμήν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "el-GR",
+      "text": "Ο καρπός του δικαίου είναι δένδρον ζωής· ο σοφός κερδίζει ψυχάς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "el-GR",
+      "text": "Απεκρίθη ο Σίμων Πέτρος και είπε, Συ είσαι ο Χριστός, ο Υιός του Θεού του ζώντος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "el-GR",
+      "text": "Η χάρις του Κυρίου ημών Ιησού Χριστού να είναι με πάντας υμάς. Αμήν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "el-GR",
+      "text": "Πάντως, ο πονηρός δεν θέλει μείνει ατιμώρητος, αλλά οι σπέρνοντες τους δικαίους θέλουσιν ελευθερωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "el-GR",
+      "text": "Αλλά όσοι τον έλαβον, εις αυτούς έδωκε εξουσίαν να γίνωσιν τέκνα Θεού, εις τους πιστεύοντας εις το όνομά του·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "el-GR",
+      "text": "γνωρίζοντες ότι ο αναστήσας τον Κύριον Ιησούν, θέλει αναστήσει και ημάς μετά του Ιησού, και θέλει μας παραστήσει με υμάς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "el-GR",
+      "text": "Διότι ο Θεός δεν μας διόρισε εις οργήν, αλλά εις την απόκτησιν σωτηρίας δια του Κυρίου ημών Ιησού Χριστού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "el-GR",
+      "text": "Δεν θέλει εισέλθει εις αυτό οιοδήποτε βέβηλον, ή τις προκαλών ακαθαρσίαν ή ψεύδος, αλλά μόνον οι γεγραμμένοι εν τω βιβλίω της ζωής του Αρνίου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "el-GR",
+      "text": "Μη στερήσης την παιδείαν από του παιδός· εάν τον πλήξης με ράβδον, δεν θέλει αποθάνει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "el-GR",
+      "text": "Είπε προς αυτήν, Αι αμαρτίαι σου συγχωρήθησαν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "el-GR",
+      "text": "Κάμε τούτο, γνωρίζων τον καιρόν, ότι είναι ήδη καιρός να εγερθείς εκ του ύπνου, διότι η σωτηρία είναι πλησιέστερα εις ημάς παρά όταν πιστεύσαμεν πρώτον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "el-GR",
+      "text": "Άρα λοιπόν δεν είσθε πλέον ξένοι και πάροικοι, αλλά συμπολίτες των αγίων και του οίκου του Θεού,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "el-GR",
+      "text": "δια να γνωρίση η γενεά η ερχομένη, και τα τέκνα τα οποία θα γεννηθούν, να αναστήσουν και να διηγηθούν τα τέκνα αυτών,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "el-GR",
+      "text": "Ζητείτε την ειρήνην της πόλεως, εις την οποίαν σας έφερα αιχμαλώτους, και προσεύχεσθε προς τον Κύριον υπέρ αυτής· διότι εν τη ειρήνη αυτής θέλετε έχω ειρήνην.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "el-GR",
+      "text": "Οι γυναίκες, υποτασσόμεναι εις τους άνδρας σας, καθώς πρέπει εν Κυρίω.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "el-GR",
+      "text": "Οι δρόμοι της πόλεως θέλουσιν είσθαι γεμάτοι από αγόρια και κορίτσια, παίζοντα εις τους δρόμους αυτής.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "el-GR",
+      "text": "Τότε είπε προς τον μαθητήν, Ιδού, η μήτηρ σου! Από εκείνης της ώρας ο μαθητής έλαβεν αυτήν εις τον οίκον αυτού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "el-GR",
+      "text": "Ο πατήρ του δικαίου έχει μεγάλην χαράν· όποιος γεννά σοφόν υιόν, ευφραίνεται εις αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "el-GR",
+      "text": "Μήπως μπορεί γυναίκα να λησμονήσει το βρέφος της, ώστε να μη έχει έλεος για τον υιό της Ναι, αυτές μπορεί να λησμονήσουν, αλλά εγώ δεν θα σε λησμονήσω!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "el-GR",
+      "text": "Τίμα τον πατέρα σου και τη μητέρα σου, που είναι η πρώτη εντολή με υπόσχεση",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "el-GR",
+      "text": "Θα σας δώσω ποιμένες σύμφωνα με την καρδιά μου, οι οποίοι θα σας βοσκήσουν με γνώση και σύνεση.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "el-GR",
+      "text": "Αλλά αν κάποια χήρα έχει παιδιά ή εγγόνια, ας μάθουν πρώτα να δείχνουν ευσέβεια προς την οικογένειά τους και να αποδίδουν στους γονείς τους, διότι αυτό είναι αποδεκτό ενώπιον του Θεού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "el-GR",
+      "text": "Κοιτάζει καλά τους δρόμους του σπιτιού της και δεν τρώει τον άρτο της ακηδίας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "el-GR",
+      "text": "Αν ένα σπίτι είναι διαιρεμένο κατά του εαυτού του, αυτό το σπίτι δεν μπορεί να σταθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "el-GR",
+      "text": "Οι άνδρες, αγαπάτε τις γυναίκες σας και μη γίνεστε πικροί εναντίον τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "el-GR",
+      "text": "συμβάλλοντας στις ανάγκες των αγίων και δοσμένοι στην φιλοξενία.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "el-GR",
+      "text": "Καλύτερα είναι ένα ξερό κομμάτι ψωμί με ησυχία, παρά ένα σπίτι γεμάτο γιορτές με έριδες.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "el-GR",
+      "text": "Τα παιδιά της σηκώνονται και την ονομάζουν μακαρία. Ο άνδρας της επίσης την επαινεί",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "el-GR",
+      "text": "Ο Κύριος, ο Θεός σου, είναι ανάμεσά σου, ισχυρός που θα σώσει. Θα χαρεί για σένα με χαρά. Θα σε ηρεμήσει με την αγάπη του. Θα χαρεί για σένα με τραγούδι.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "el-GR",
+      "text": "Ο Θεός ευλόγησε τον Νώε και τους γιους του και τους είπε Γίνεστε καρποφόροι και πληθύνετε και γεμίστε τη γη.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "el-GR",
+      "text": "Είπε σε αυτούς Βάλτε την καρδιά σας σε όλα τα λόγια που σας μαρτυρώ σήμερα, τα οποία θα προστάξετε στα παιδιά σας να τηρούν για να κάνουν όλα τα λόγια αυτού του νόμου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "el-GR",
+      "text": "Πείτε στους δίκαιους ότι θα είναι καλά με αυτούς, διότι θα φάνε τον καρπό των έργων τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "el-GR",
+      "text": "Επιστρέψτε στο σπίτι σας και αναγγείλετε τι μεγάλα πράγματα σας έκανε ο Θεός. Πήγε τον δρόμο του, κηρύσσοντας σε όλη την πόλη τι μεγάλα πράγματα του είχε κάνει ο Ιησούς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "el-GR",
+      "text": "Ένας σοφός γιος κάνει τον πατέρα ευτυχισμένο, αλλά ένας ανόητος άνθρωπος καταφρονεί τη μητέρα του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "el-GR",
+      "text": "Αυτά είναι τα πράγματα που θα κάνετε μιλήστε ο καθένας την αλήθεια με τον γείτονά του. Εκτελέστε την κρίση της αλήθειας και της ειρήνης στις πύλες σας,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "el-GR",
+      "text": "Βλέπετε ότι κανείς δεν επιστρέφει κακό αντί κακού σε κανέναν, αλλά πάντα ακολουθείτε το καλό για ο ένας τον άλλον και για όλους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "el-GR",
+      "text": "Ας ανταμείψει ο Κύριος το έργο σου, και πλήρης αμοιβή να σου δοθεί από τον Κύριο, τον Θεό του Ισραήλ, υπό τις πτέρυγες του οποίου ήρθες να καταφύγεις.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "el-GR",
+      "text": "Ας είναι γνωστή η επιείκειά σας σε όλους τους ανθρώπους. Ο Κύριος είναι κοντά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "el-GR",
+      "text": "Ο Κύριος είναι καλός, καταφύγιο στην ημέρα της θλίψης, και γνωρίζει αυτούς που καταφεύγουν σε Αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "el-GR",
+      "text": "Είπε σε αυτούς Γιατί είστε τόσο φοβισμένοι Πώς είναι που δεν έχετε πίστη",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "el-GR",
+      "text": "Διότι χρειάζεστε υπομονή, ώστε, αφού κάνετε το θέλημα του Θεού, να λάβετε την υπόσχεση.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "el-GR",
+      "text": "Ο Κύριος, ο Θεός, είναι η δύναμή μου. Κάνει τα πόδια μου σαν τα πόδια των ελαφιών και με επιτρέπει να πηγαίνω σε υψηλά μέρη. Για τον διευθυντή της μουσικής, στα έγχορδα όργανα μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "el-GR",
+      "text": "Μακάριος είναι αυτός που έχει τον Θεό του Ιακώβ για βοήθεια, του οποίου η ελπίδα είναι στον Κύριο, τον Θεό του,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "el-GR",
+      "text": "Ας κατευθύνει ο Κύριος τις καρδιές σας στην αγάπη του Θεού και στην υπομονή του Χριστού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "el-GR",
+      "text": "Αλλά εγώ, είμαι γεμάτος από τη δύναμη του Πνεύματος του Κυρίου και από κρίση και από δύναμη, για να αναγγείλω στον Ιακώβ την παρακοή του και στον Ισραήλ την αμαρτία του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "el-GR",
+      "text": "Δεν ξέρετε ότι όσοι τρέχουν σε αγώνα, όλοι τρέχουν, αλλά ένας λαμβάνει το βραβείο Τρέξτε έτσι, ώστε να κερδίσετε.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "el-GR",
+      "text": "Αλλά εσείς να είστε δυνατοί! Μη χαλαρώνετε τα χέρια σας, διότι το έργο σας θα ανταμειφθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "el-GR",
+      "text": "Ο άγγελος του Κυρίου εμφανίστηκε σε αυτόν και του είπε Ο Κύριος είναι μαζί σου, εσύ ισχυρέ άνδρα του θάρρους!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "el-GR",
+      "text": "και ότι όλη αυτή η συνέλευση να γνωρίσει ότι ο Κύριος δεν σώζει με σπαθί και δόρυ, διότι η μάχη είναι του Κυρίου και θα σας παραδώσει στα χέρια μας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "el-GR",
+      "text": "Αυτός απάντησε Μη φοβάσαι, διότι αυτοί που είναι μαζί μας είναι περισσότεροι από αυτούς που είναι μαζί τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "el-GR",
+      "text": "Τι plot κάνετε εναντίον του Κυρίου Θα κάνει πλήρη τέλος. Η θλίψη δεν θα αναδυθεί για δεύτερη φορά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "el-GR",
+      "text": "Έστειλα αγγελιοφόρους σε αυτούς, λέγοντας Κάνω ένα μεγάλο έργο, ώστε δεν μπορώ να κατέβω. Γιατί να σταματήσει το έργο ενώ το αφήνω και κατεβαίνω σε εσάς",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "el-GR",
+      "text": "Αλλά αυτός που υπομένει μέχρι το τέλος θα σωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "el-GR",
+      "text": "Αλλά εγώ διατήρησα επτά χιλιάδες στον Ισραήλ, όλα τα γόνατα που δεν έχουν γονατίσει στον Βάαλ και κάθε στόμα που δεν τον έχει φιλήσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "el-GR",
+      "text": "Η τελευταία δόξα αυτού του οίκου θα είναι μεγαλύτερη από την πρώην, λέει ο Κύριος των Δυνάμεων· και σε αυτόν τον τόπο θα δώσω ειρήνη, λέει ο Κύριος των Δυνάμεων.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "el-GR",
+      "text": "Θα μισηθείτε από όλους τους ανθρώπους για χάρη του ονόματός μου, αλλά αυτός που υπομένει μέχρι το τέλος θα σωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "el-GR",
+      "text": "ώστε κανείς να μην μετακινηθεί από αυτές τις θλίψεις. Διότι ξέρετε ότι είμαστε διορισμένοι σε αυτή την εργασία.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "el-GR",
+      "text": "Διότι σκεφτείτε αυτόν που υπέμεινε τέτοια αντίθεση αμαρτωλών εναντίον του, ώστε να μην αποκάμετε, απογοητευόμενοι στις ψυχές σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "el-GR",
+      "text": "Όσον αφορά τον Θεό, ο δρόμος του είναι τέλειος. Ο λόγος του Κυρίου είναι δοκιμασμένος. Είναι ασπίδα σε όλους αυτούς που καταφεύγουν σε Αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "el-GR",
+      "text": "Αγωνίζεστε να εισέλθετε από την στενή πόρτα, διότι πολλοί, σας λέω, θα επιδιώξουν να εισέλθουν και δεν θα μπορέσουν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "el-GR",
+      "text": "Να είστε δυνατοί και θαρραλέοι. Μη φοβάστε ή απογοητεύεστε λόγω του βασιλιά της Ασσυρίας, ούτε για όλο το πλήθος που είναι μαζί του· διότι υπάρχει ένας μεγαλύτερος μαζί μας από ότι είναι μαζί του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "el-GR",
+      "text": "Τώρα η ψυχή μου είναι ταραγμένη. Τι να πω Πατέρα, σώσε με από αυτή την ώρα Αλλά ήρθα σε αυτή την ώρα για αυτόν τον σκοπό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "el-GR",
+      "text": "Γι αυτό ας παραδώσουν και αυτοί που υποφέρουν σύμφωνα με το θέλημα του Θεού, κάνοντας το καλό, τις ψυχές τους σε Αυτόν, ως σε έναν πιστό Δημιουργό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "el-GR",
+      "text": "Γι αυτό επιστρέψτε στον Θεό σας. Διατηρήστε την καλοσύνη και τη δικαιοσύνη και περιμένετε συνεχώς τον Θεό σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "el-GR",
+      "text": "Έχεις διευρύνει τα βήματά μου κάτω από μένα. Τα πόδια μου δεν έχουν γλιστρήσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "el-GR",
+      "text": "Όταν σας φέρουν ενώπιον των συναγωγών, των αρχόντων και των αρχών, μη φοβάστε πώς ή τι θα απαντήσετε ή τι θα πείτε·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "el-GR",
+      "text": "Ζητήστε τον Κύριο και τη δύναμή του. Ζητήστε το πρόσωπό του για πάντα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "el-GR",
+      "text": "διότι ο δίκαιος πέφτει επτά φορές και σηκώνεται πάλι, αλλά οι κακοί καταστρέφονται από την καταιγίδα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "el-GR",
+      "text": "και η υπομονή, δοκιμασμένος χαρακτήρας· και ο δοκιμασμένος χαρακτήρας, ελπίδα·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "el-GR",
+      "text": "Χίλιοι μπορεί να πέσουν στο πλευρό σου και δέκα χιλιάδες στα δεξιά σου· αλλά δεν θα έρθει κοντά σου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "el-GR",
+      "text": "Θα μισηθείτε από όλους τους ανθρώπους για χάρη του ονόματός μου, αλλά αυτός που υπομένει μέχρι το τέλος θα σωθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "el-GR",
+      "text": "Οι αρχηγοί του Ιούδα θα πουν στην καρδιά τους Οι κάτοικοι της Ιερουσαλήμ είναι η δύναμή μου στον Κύριο των Δυνάμεων, τον Θεό τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "el-GR",
+      "text": "Ένας άγγελος από τον ουρανό εμφανίστηκε σε αυτόν, ενισχύοντάς τον.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "el-GR",
+      "text": "ώστε να μην είστε νωθροί, αλλά μιμητές αυτών που μέσω πίστης και υπομονής κληρονόμησαν τις υποσχέσεις.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "el-GR",
+      "text": "Πηγαίνω τον δρόμο όλης της γης. Να είστε δυνατοί λοιπόν και να δείξετε ότι είστε άνδρας·",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "el-GR",
+      "text": "Δεν θα φοβηθώ από χιλιάδες ανθρώπων που έχουν στραφεί εναντίον μου από κάθε πλευρά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "el-GR",
+      "text": "Ο Κύριος προετοίμασε ένα μεγάλο ψάρι να καταπιεί τον Ιωνά, και ο Ιωνάς ήταν στην κοιλιά του ψαριού τρεις ημέρες και τρεις νύχτες.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "el-GR",
+      "text": "Ο Πέτρος θυμήθηκε τον λόγο που του είχε πει ο Ιησούς Πριν λαλήσει ο πετεινός, θα με αρνηθείς τρεις φορές. Τότε βγήκε και έκλαψε πικρά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "el-GR",
+      "text": "Ο Κύριος είναι Θεός ζηλότυπος και εκδικητής. Ο Κύριος εκδικεί και είναι γεμάτος οργή. Ο Κύριος εκδικεί τους αντιπάλους του και διατηρεί οργή κατά των εχθρών του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "el-GR",
+      "text": "Η νύχτα έχει προχωρήσει πολύ και η ημέρα πλησιάζει. Ας απορρίψουμε λοιπόν τα έργα του σκότους και ας ντυθούμε με την πανοπλία του φωτός.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "el-GR",
+      "text": "Διότι με σένα προχωρώ μέσα από στρατό. Με τον Θεό μου, πηδώ πάνω από τοίχο.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "el-GR",
+      "text": "Γυρίστε στην οχυρωμένη πόλη, εσείς οι φυλακισμένοι της ελπίδας! Ακόμα και σήμερα δηλώνω ότι θα σας αποκαταστήσω διπλά.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "el-GR",
+      "text": "Ιδού, τους καλούμε ευλογημένους που υπέμειναν. Έχετε ακούσει για την υπομονή του Ιώβ και έχετε δει τον Κύριο στο αποτέλεσμα, και πώς ο Κύριος είναι γεμάτος συμπόνια και έλεος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "el-GR",
+      "text": "Εσύ είσαι το κρυφό μου καταφύγιο. Θα με διαφυλάξεις από τη θλίψη. Θα με περιβάλλεις με τραγούδια σωτηρίας. Σελάχ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "el-GR",
+      "text": "Γίνατε μιμητές μας και του Κυρίου, αφού λάβατε τον λόγο με πολλή θλίψη, με χαρά του Αγίου Πνεύματος,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "el-GR",
+      "text": "Εμπιστεύτηκε στον Κύριο, τον Θεό του Ισραήλ, ώστε μετά από αυτόν δεν υπήρξε κανείς όμοιος του ανάμεσα σε όλους τους βασιλιάδες του Ιούδα, ούτε ανάμεσα σε αυτούς που ήταν πριν από αυτόν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "el-GR",
+      "text": "Τώρα, κόρη μου, μην φοβάσαι. Θα κάνω σε όλα όσα λες, διότι όλη η πόλη του λαού μου γνωρίζει ότι είσαι άξια γυναίκα.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "el-GR",
+      "text": "η φωνή ενός που κράζει στην έρημο, Ετοιμάστε τον δρόμο του Κυρίου! Κάντε τις οδούς του ευθείες!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "el-GR",
+      "text": "Αλλά αυτός γνωρίζει τον δρόμο που παίρνω. Όταν με δοκιμάσει, θα βγω σαν χρυσάφι.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "el-GR",
+      "text": "Αυτός που ανοίγει τον δρόμο πηγαίνει μπροστά τους. Αυτοί διασπούν την πύλη και βγαίνουν. Ο βασιλιάς τους περνάει μπροστά τους, με τον Κύριο επικεφαλής τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "el-GR",
+      "text": "Ποιος είσαι εσύ που κρίνεις τον δούλο άλλου Στον δικό του κύριο στέκεται ή πέφτει. Ναι, θα σταθεί, διότι ο Θεός έχει δύναμη να τον κάνει να σταθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "el-GR",
+      "text": "Ας είναι ο Κύριος ο Θεός μας μαζί μας όπως ήταν με τους πατέρες μας. Ας μην μας αφήσει ούτε μας εγκαταλείψει,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "el-GR",
+      "text": "Μετά από οκτώ ημέρες, οι μαθητές του ήταν πάλι μέσα και ο Θωμάς ήταν μαζί τους. Ο Ιησούς ήρθε, οι πόρτες ήσαν κλειστές, και στάθηκε στη μέση και είπε Ειρήνη σε εσάς.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "el-GR",
+      "text": "Αλλά εσύ βλέπεις τη θλίψη και τη λύπη. Το θεωρείς να το πάρεις στα χέρια σου. Βοηθάς τον θύμα και τον ορφανό.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "el-GR",
+      "text": "Από τις ημέρες του Ιωάννη του Βαπτιστή μέχρι τώρα, η Βασιλεία των Ουρανών υφίσταται βία, και οι βίαιοι την αρπάζουν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "el-GR",
+      "text": "Προχωρώ προς τον στόχο για το βραβείο της υψηλής κλήσης του Θεού εν Χριστώ Ιησού.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "el-GR",
+      "text": "και θα τον παραδώσουν στους εθνικούς για να τον χλευάσουν, να τον μαστιγώσουν και να τον σταυρώσουν· και την τρίτη ημέρα θα αναστηθεί.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "el-GR",
+      "text": "για να μας παραχωρήσει ότι, απελευθερωμένοι από το χέρι των εχθρών μας, θα τον υπηρετούμε χωρίς φόβο,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "el-GR",
+      "text": "ώστε να εδραιώσει τις καρδιές σας άμεμπτες στην αγιότητα ενώπιον του Θεού και Πατέρα μας κατά την έλευση του Κυρίου ημών Ιησού με όλους τους αγίους του.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "el-GR",
+      "text": "Όλος ο Ιούδας χάρηκε για τον όρκο, διότι είχαν ορκιστεί με όλη τους την καρδιά και τον αναζητούσαν με όλη τους την επιθυμία· και αυτός τους βρέθηκε. Τότε ο Κύριος τους έδωσε ανάπαυση γύρω τους.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "el-GR",
+      "text": "Οι άνθρωποι θα κατοικήσουν στη σκιά του. Θα αναβιώσουν όπως ο σπόρος και θα ανθίσουν όπως η άμπελος. Η ευωδιά τους θα είναι όπως το κρασί του Λιβάνου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "el-GR",
+      "text": "Μόνο φοβηθείτε τον Κύριο και υπηρετήστε τον στην αλήθεια με όλη σας την καρδιά· διότι σκεφτείτε τι μεγάλα πράγματα έχει κάνει για σας.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "el-GR",
+      "text": "Με ειρήνη θα ξαπλώσω και θα κοιμηθώ, διότι μόνο εσύ, Κύριε, με κάνεις να ζω με ασφάλεια.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "el-GR",
+      "text": "Αλλά αν ελπίζουμε για αυτό που δεν βλέπουμε, περιμένουμε με υπομονή.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "el-GR",
+      "text": "ώστε να υψώνει ψηλά αυτούς που είναι ταπεινοί, αυτούς που πενθούν τους υψώνει σε ασφάλεια.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "el-GR",
+      "text": "Αν και περπατώ στη μέση της θλίψης, θα με αναβιώσει. Θα εκτείνεις το χέρι σου κατά της οργής των εχθρών μου. Το δεξί σου χέρι θα με σώσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "el-GR",
+      "text": "Ο Κύριος είπε Σίμωνα, Σίμωνα, ιδού, ο Σατανάς ζήτησε να σας κοσκινίσει σαν το σιτάρι,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "el-GR",
+      "text": "Ο Κύριος τον κοίταξε και είπε Πήγαινε με αυτή τη δύναμη σου και σώσε τον Ισραήλ από το χέρι των Μηδιανιτών. Δεν σε έχω στείλει",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "el-GR",
+      "text": "Θα τους ενδυναμώσω στον Κύριο. Θα περπατούν πάνω-κάτω στο όνομά του, λέει ο Κύριος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "el-GR",
+      "text": "Τότε ο Ιησούς είπε στους μαθητές του Αν κάποιος επιθυμεί να έρθει πίσω μου, ας απαρνηθεί τον εαυτό του, ας σηκώσει τον σταυρό του και ας με ακολουθήσει.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "el-GR",
+      "text": "Διότι με έχει οπλίσει με δύναμη για τη μάχη. Έχει υποτάξει κάτω από μένα αυτούς που σηκώθηκαν εναντίον μου.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "el-GR",
+      "text": "Δια του Δαβίδ. Ο Κύριος είναι το φως μου και η σωτηρία μου. Ποιον να φοβηθώ Ο Κύριος είναι η δύναμη της ζωής μου. Από ποιον να φοβηθώ",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "el-GR",
+      "text": "Τότε ο Αγγέλος, ο αγγελιοφόρος του Κυρίου, μίλησε το μήνυμα του Κυρίου στον λαό, λέγοντας Είμαι μαζί σας, λέει ο Κύριος.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "el-GR",
+      "text": "Όποιος πιστεύει σε μένα, όπως έχει πει η Γραφή, από μέσα του θα ρέουν ποτά ζωντανών υδάτων.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "el-GR",
+      "text": "Αυτός που σας καλεί είναι πιστός, ο οποίος θα το κάνει επίσης.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "el-GR",
+      "text": "Αυτοί που γνωρίζουν το όνομά σου θα βάλουν την εμπιστοσύνη τους σε σένα, διότι εσύ, Κύριε, δεν έχεις εγκαταλείψει αυτούς που σε αναζητούν.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "el-GR",
+      "text": "Αυτοί που είναι στο καλό έδαφος, αυτοί είναι αυτοί που με ειλικρινή και καλή καρδιά, αφού άκουσαν τον λόγο, τον κρατούν σφιχτά και παράγουν καρπό με υπομονή.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

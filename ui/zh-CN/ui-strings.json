@@ -1,0 +1,455 @@
+{
+  "language": "zh-CN",
+  "translations": {
+    "aboutBody": "TypeSprout 面向 1–6 年级儿童，支持 zh‑TW / zh‑CN / en‑US，提供安全友好的练习环境。",
+    "home": {
+      "aboutContent": "大家好，我是来自台湾的爸爸Yves.C。Typesprout的灵感来自于看到我的孩子们在Roblox上与世界各地的朋友聊天——我意识到打字实际上是孩子们打开更大世界的第一把钥匙。因此，我创建了这个网页打字练习，使用了无需编码的概念，结合了ChatGPT/AI，并加入了「小树成长」的视觉反馈：每当正确按下键盘，树就会长高一点，将每日的努力转化为可见的成就。 在内容方面，我已将1到6年级常用的单词整理成可选择的题库；孩子们可以练习母语，并在「设定」中切换到英语或其他想要练习的语言。这些单词是根据年级难度由AI过滤的。对于成人，我准备了一个扩展的题库，目前包括圣经API和AI生成的圣经经文（来自免费的在线资源，准确性可能有限），我将逐步添加名言等主题，以使练习更加有趣。 在Typesprout中，孩子们将逐步累积分数和每日努力；屏幕上的小树也会随着他们的表现而茁壮成长，形成「努力 → 反馈 → 再次参与」的正循环。我还设计了一个为期5天的活跃挑战：连续练习5天将获得一个小水果奖励。当成就可见时，动力将会增长。这就是我想与孩子们以及你分享的学习节奏。对于教师，我在个人页面上添加了一个「班级」功能，允许教师创建班级并邀请同学参加，让练习感觉更具竞争性。 这是一个由我个人维护的小项目（没有工程背景，主要依赖 ChatGPT/AI 进行指导和合作）。如果您有建议或在使用过程中遇到问题，请随时在 GitHub 的问题区留言，我会尽力整理并解决它们。提前感谢大家。 GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "关于 TypeSprout",
+      "ctaTest": "进行测验",
+      "googleUsersCount": "Google 登录用户数",
+      "googleUsersTooltip": "使用 Google 账号登录的用户总数",
+      "heroSubtitle": "每次输入都会化成能量浇灌你的树，支持多语言，建立正确打字习惯与专注力。",
+      "heroTitle": "孩子打字，树苗长高。",
+      "tabs": {
+        "leader": "排行榜预览",
+        "visitors": "访客分布"
+      },
+      "leaderEmpty": "暂无数据",
+      "leaderViewFull": "查看完整排行",
+      "players": "玩家数",
+      "privacyNote": "不收集个人信息；统计数据仅用于匿名排行与学习反馈。",
+      "visitorsDesc": "网站访客与玩家的国家分布（匿名统计）。"
+    },
+    "absoluteScale": "绿 ≤{{low}}% · 黄 ≤{{mid}}% · 红 ＞{{mid}}%（% 为该键「最近累积」错误率）",
+    "accuracy": "正确率：{{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "正确率趋势图：线越高代表越准",
+      "accuracyChartTitle": "正确率",
+      "accuracyChartTooltip": "纵轴：正确率（越高代表越准）；横轴：时间顺序。蓝线显示每次测验的正确率变化。",
+      "defaultDescription": "上：综合分数趋势；下：正确率趋势。先把正确率拉高，再慢慢变快。",
+      "speedChartAriaLabel": "综合分数趋势图：线越高代表表现越好",
+      "speedChartTitle": "综合分数（正确速度）",
+      "speedChartTooltip": "纵轴：综合分数（越高越好）；横轴：时间顺序。绿线表示只计正确字的速度，综合了速度与正确率。",
+      "recordNumber": "Record {{number}}",
+      "speedScore": "Speed Score: {{score}}",
+      "totalQuestionChars": "Total Question Chars: {{chars}} chars",
+      "actualInput": "Actual Input: {{chars}} chars",
+      "timeSpent": "Time Spent: {{seconds}} sec",
+      "accuracy": "Accuracy {{percent}}%",
+      "correctChars": "Correct Chars: {{chars}} chars",
+      "percentile": "Exceeds about {{percent}}% of people",
+      "highestHere": "Highest here {{value}}",
+      "recentValue": "Recent {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "正确率 = 正确字 ÷ 题目总字。注意：没输入的字也算在题目总字内，所以多漏字会让正确率下降。",
+      "hideInsights": "隐藏洞察",
+      "scoreTooltip": "综合分数 = 只计正确字的输入速度。计算方式：速度（WPM/CPM）× 正确率。用意：先把正确率练稳，再慢慢变快。",
+      "showInsights": "显示洞察",
+      "summary": "本次总结",
+      "timeSpent": "花费时间：{{time}}",
+      "totalChars": "总字数：{{chars}} 字",
+      "correctChars": "正确字数：{{chars}} 字",
+      "accuracy": "准确率：{{accuracy}}%",
+      "adjWpm": "综合分数（正确速度）{{adjWpm}}",
+      "vsSiteAverage": "与站内平均（同语言）相比：{{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "再试一次",
+      "chartDescription": "上：综合分数趋势；下：准确率趋势。先稳定准确率，再逐步提高速度。",
+      "seconds": "{{count}} 秒",
+      "minutes": "{{count}} 分",
+      "minutesSeconds": "{{minutes}} 分 {{seconds}} 秒",
+      "hours": "{{count}} 小时",
+      "hoursMinutes": "{{hours}} 小时 {{minutes}} 分"
+    },
+    "activeDays": "活跃天数：{{activeDays}} / {{total}}",
+    "actualInput": "实际输入：{{chars}} 字",
+    "adjWpm": "综合分数（正确速度）：{{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "广告 Cookies：如上所述，若我们启用 Google AdSense，Google 将使用 Cookies 来投放广告。您可以随时访问 Google 的广告设置页面 (https://adssettings.google.com/) 来管理或选择退出个性化广告。",
+        "functionalCookies": "功能性 Cookies：我们使用 Cookies 来维持您的登录状态。"
+      },
+      "section5": {
+        "contactChannel": "联系渠道：若您对本隐私政策有任何疑问，或希望行使您的数据权利（如查询、更正、删除），请通过我们的官方 GitHub Issues 页面提出请求。",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "重要提醒：请注意，GitHub Issues 是一个公开的平台。为了保护您的个人隐私，请绝对不要在 Issue 的内容中留下任何个人识别信息，例如您的电子邮件地址、真实姓名或账号截图。我们仅需您提供在 TypeSprout 上的用户名 (Username) 和问题描述即可。我们不会通过 Issue 以外的任何私人渠道与您联系。",
+        "responseTime": "由于本项目为个人维护，我们会在能力范围内尽快回复，感谢您的耐心与理解。"
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "您可以选择性地提供您的年龄范围、职业领域、语言或地区。这些信息并非强制性，其主要目的是为了优化题库推荐、用于匿名的统计分析及排行榜分组。我们不要求、也不会验证这些信息的准确性。"
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (广告)：我们未来可能会使用 Google AdSense 来投放广告，以支持网站的运营成本。Google 及其合作伙伴可能会使用 Cookies (例如 DoubleClick Cookie) 来根据您过去的访问记录向您展示个性化广告。",
+          "googleAnalytics": "Google Analytics：我们使用此服务分析网站流量，以了解服务的使用情况。它会收集您的 IP 地址、浏览器类型、操作系统、浏览页面等匿名化信息。"
+        },
+        "principle": "我们秉持最简化原则，仅收集维持服务运作所必需的数据：",
+        "googleAuth": {
+          "title": "Google 登录验证",
+          "content": "当你使用 Google 账号登录时，我们仅使用 Google 的身份验证服务来确认身份，并为你创建匿名用户 ID。我们不会主动请求、访问或保存你 Google 账号中的个人隐私数据，例如真实姓名或地址。"
+        },
+        "gameData": {
+          "title": "游戏数据",
+          "content": "你在网站上的每次打字练习成绩（速度、准确率、使用时间等）都会与匿名用户 ID 关联，用于生成个人历史与排行榜。"
+        }
+      },
+      "section2": {
+        "coreFunction": "核心功能：您的匿名用户ID和游戏数据是本服务核心功能的一部分，用于记录您的成绩、提供历史图表及全球排行榜。",
+        "experienceOptimization": "体验优化：您自愿提供的年龄、职业等信息，将被用来为您匹配更合适的打字练习题库。",
+        "serviceMaintenance": "服务维护：通过 Google Analytics 收集的技术数据有助于我们了解网站的运行状况并修复潜在问题。",
+        "statisticalAnalysis": "统计分析：我们会将所有用户自愿提供的信息进行匿名化和聚合化处理，用于了解用户群体的整体轮廓，以改善服务。"
+      },
+      "section3": {
+        "crossBorderTransfer": "跨境传输：GitHub 和 Google Firebase 的服务器可能位于您所在国家之外（例如美国）。您使用本服务即表示您理解并同意，您的数据将被传输、存储和处理于这些位于海外的服务器上。",
+        "dataRetention": "数据存续性：由于本服务完全免费，我们无法保证数据的永久保存。我们保留在未通知的情况下清除部分或全部用户数据的权利。",
+        "storageLocation": "存储位置：本网站的代码托管于 GitHub，而您的游戏数据和自愿提供的信息则存储在 Google Firebase 的数据库中。"
+      },
+      "effectiveDate": "生效日期：2025年9月21日",
+      "introduction": "欢迎使用 TypeSprout！这是一个由个人开发者出于兴趣而创建的免费打字练习网站。我们深知您的隐私至关重要，因此本政策旨在说明我们会收集哪些数据，以及我们将如何使用这些数据。",
+      "notice": "请注意：本服务为非盈利性质，所有功能均「依现状」提供。若您不同意本隐私政策的任何条款，请立即停止使用本服务。继续使用即代表您已阅读、理解并同意本政策的全部内容。",
+      "titleSuffix": "隐私政策"
+    },
+    "leaderboard": {
+      "allGrades": "全部年级",
+      "lastMonth": "上个月排行",
+      "lastWeek": "上周排行",
+      "loading": "加载中...",
+      "loadingHint": "如果持续无法加载，请检查网络连接或稍后再试",
+      "noData": "暂无数据",
+      "reload": "重新加载",
+      "signInHint": "提示：登录后你的测验成绩会自动参与排行；我们仅用于记录分数与历程，不收集个人敏感信息。",
+      "sortHint": "提示：按 Alt+↑/↓ 切换排序",
+      "today": "本日排行",
+      "tooltip": "🏆 排行榜怎么算的？&#10;• 本日排行：今天的成绩（本地时间）&#10;• 昨日排行：昨天的成绩（本地时间）&#10;• 上周排行：上周一到周日的成绩&#10;• 上个月排行：上个月1号到月底的成绩&#10;&#10;📊 分数怎么算？&#10;• 综合分数 = 最快速度 × 正确率 × 练习时间&#10;• 同一天多次练习会合并计算&#10;• 练习时间越长，分数越高&#10;&#10;💡 小提醒：每天练习一点点，小树就会长大喔！",
+      "yesterday": "昨日排行"
+    },
+    "test": {
+      "allowBackspace": "允许退格",
+      "capsLock": "大写锁定",
+      "difficulty": "难度",
+      "difficultyEasy": "易",
+      "difficultyHard": "难",
+      "difficultyMedium": "中",
+      "finished": "完成",
+      "inputPrompt": "请照下方文字输入",
+      "insightsSummary": "Insights（键盘错误热点、速度与正确率趋势）",
+      "loadingQuestions": "正在载入题目…",
+      "mistakes": "错字",
+      "outOfFocus": "请点击输入框继续打字",
+      "promptStart": "按下 Start 后，请输入上方文字。禁止贴上。",
+      "questionCount": "题数",
+      "questionPreview": "题目（前 24 字）",
+      "questionStats": "本场各题统计（用时 / 上限、错字数）",
+      "questionText": "题目文字（无法选取或复制）",
+      "shortcutsDescription": "空格键：开始/暂停 • R：重置 • F：聚焦输入框",
+      "signInToSave": "登录以保存进度",
+      "submitAndReview": "送出并查看成绩",
+      "submitQuestion": "提交本题（Enter）",
+      "timeLimit": "上限",
+      "timeSpent": "花费时间：{{seconds}} 秒",
+      "title": "测验",
+      "tryAgain": "再试一次",
+      "shortcuts": "按 Enter 提交"
+    },
+    "profile": {
+      "alreadyJoined": "您已经加入这个班级",
+      "analysis": "深入分析",
+      "birthday": "生日（YYYY-MM）",
+      "classCodePlaceholder": "班级代码",
+      "classCodeTooltip": "全站唯一（3–50 字；不可包含 /）。用于比赛与排行榜分组；可加入最多 5 个。老师可建立新代码；建立后会自动加入（已满 5 不自动）。",
+      "classCreatedAndJoined": "班级建立成功并已加入",
+      "classNotFound": "找不到这个班级代码",
+      "codeAlreadyTaken": "班级代码已被使用",
+      "confirmDelete": "确定要删除此班级代码吗？",
+      "copy": "复制",
+      "copyFailed": "复制失败，请手动选取复制。",
+      "copySuccess": "已复制班级代码到剪贴板。",
+      "country": "国家/地区",
+      "create": "建立",
+      "delete": "删除",
+      "female": "女孩",
+      "fruits": "果实（Fruits）",
+      "fruitsTooltip": "从你的小树收集的果实。通过达到每日点数目标获得。",
+      "gender": "性别",
+      "googleAccount": "Google 账户",
+      "history": "历程",
+      "invalidCodeFormat": "请输入 3–50 字，且不可包含 /",
+      "join": "加入",
+      "joinError": "加入班级失败",
+      "joinSuccess": "成功加入班级",
+      "joinedClasses": "我加入的班级",
+      "language": "语言",
+      "male": "男孩",
+      "maxClassesReached": "已达到建立班级数量上限",
+      "maxJoinedClasses": "已达到加入班级数量上限",
+      "myClasses": "我的班级",
+      "nickname": "昵称",
+      "noClasses": "暂无班级",
+      "noUser": "找不到用户",
+      "onlyTeacherCanCreate": "仅老师可建立班级代码",
+      "other": "其他",
+      "points": "点数（Points）",
+      "pointsDetail": "点数总额如上；明细请到",
+      "pointsTooltip": "每日练习获得的点数。用于种植你的小树并解锁奖励。",
+      "remove": "移除",
+      "role": "角色",
+      "roleCheckError": "检查用户角色失败",
+      "save": "储存",
+      "student": "学生",
+      "teacher": "老师",
+      "view": "查看",
+      "xp": "经验值（XP）",
+      "xpTooltip": "通过打字练习获得的经验值。正确率和速度越高，获得的经验值越多！",
+      "youOwnThis": "您拥有此代码",
+      "title": "Profile",
+      "auto": "Auto",
+      "classCode": "Class Code",
+      "error": "Error",
+      "alreadyTaken": "Already taken",
+      "available": "Available",
+      "logout": "Logout",
+      "chartDescription": "Personal trends: top composite score, bottom accuracy.",
+      "parent": "家长"
+    },
+    "tips": {
+      "avgAdj": "平均综合分数（30 天）",
+      "meVsSite": "我 vs 全站（30 天）",
+      "totalChars": "总字数：{{chars}} 字"
+    },
+    "admin": {
+      "bulkTranslationTool": "大量本地化工具",
+      "execute": "执行",
+      "sourceLanguage": "来源语言",
+      "targetLanguage": "目标语言",
+      "usageDescription": "输入来源与目标语言代码，贴上多行文字后按下执行，结果仅供人工复核。此功能需管理令牌启用。",
+      "usageInstructions": "？ 使用说明"
+    },
+    "garden": {
+      "charsUnit": "字",
+      "growthChartSubtitle": "不同阶段外观与解锁条件（示意）。",
+      "growthChartTitle": "成长示意图",
+      "historyRule1": "点数由 速度×正确率×时间 换算而来，用于推动小树成长。",
+      "historyRule2": "下方清单显示每笔获得记录，方便你追踪自己的努力。",
+      "historyTitle": "什么是「历程」？",
+      "howToLevelUp": "怎么升级？",
+      "levelUpRule1": "每天只要有练习就会累积活跃；输入越久，成长越快。",
+      "levelUpRule2": "最高到阶段 5；若能每天都维持阶段 5，就会持续长出果实。",
+      "levelUpRule3": "收集到的果实将依排名提供平台奖励；目前可先以测验时间作为积分累计。",
+      "maxStage": "最高阶段 5",
+      "myTree": "我的小树",
+      "noLogs": "目前没有记录",
+      "pointsExplanation": "点数怎么来？由本日测验产生，与有效输入时间、速度与正确率有关。每日上限 100；短练习（≥5秒且正确率≥30%）至少+1。",
+      "recalculateActivity": "重算活跃与阶段",
+      "recalculateActivityTooltip": "什么是「重算活跃与阶段」？会重新读取你最近 5 天的测验记录，计算有效输入分钟数，并更新活跃清单与目前阶段。",
+      "recentActivity": "最近 5 天活跃",
+      "recentLogs": "最近记录",
+      "stage1Desc": "第一片嫩芽冒出",
+      "stage2Desc": "长出第二片叶",
+      "stage3Desc": "叶片增生",
+      "stage4Desc": "花朵绽放",
+      "stage5Desc": "小树树冠成形（结果）",
+      "todaySummary": "今天总结"
+    },
+    "ui": {
+      "closeHint": "关闭提示",
+      "gotIt": "知道了",
+      "later": "稍后",
+      "start": "开始",
+      "string089": "请先登录。",
+      "string090": "个人资料",
+      "string092": "隐私政策",
+      "string154": "服务条款"
+    },
+    "terms": {
+      "section7": {
+        "content1": "若您对本服务条款有任何疑问，请通过我们的官方 GitHub Issues 页面提出：https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "请注意，这是一个公开平台，请勿在上面留下您的个人隐私信息。"
+      },
+      "section5": {
+        "content2": "我们不对您的任何练习记录或用户数据的遗失或损坏承担责任，亦不保证数据的永久保存。",
+        "content3": "我们保留随时因任何理由修改、暂停或永久终止本服务的权利，恕不另行通知。",
+        "subtitle1": "依现状提供：",
+        "subtitle2": "数据保存：",
+        "subtitle3": "服务终止权：",
+        "content1": "本服务以「现状」提供，不作任何保证。",
+        "title": "5. 免责事项与服务限制"
+      },
+      "footer": "© 2025 TypeSprout. 版权所有。",
+      "lastUpdated": "最后更新日期：2025年9月21日",
+      "section2": {
+        "listItem1": "AI 生成内容：部分练习文章由 AI 模型（例如 ChatGPT）分析、收集或生成，仅供打字练习之用。",
+        "listItem2": "圣经文本：部分圣经题库来自第三方 API.Bible 服务。当该服务无法访问时，可能由 AI 模型生成替代文本。",
+        "content1": "本服务的唯一目的是提供打字技巧练习。它并非学术研究或宗教教育工具。所有网站内容均为此单一目的服务。",
+        "content2": "为了提供丰富的练习文本，本服务的题库内容来自多个来源。我们在此特别声明：",
+        "content3": "正确性、完整性，以及作为信仰资料的适合性均不予保证。请仅将其理解为练习用文本。",
+        "subtitle1": "服务目的",
+        "subtitle2": "内容出处及免责",
+        "title": "2. 服务的说明与内容出处"
+      },
+      "section1": {
+        "content1": "欢迎使用 TypeSprout（下称「本服务」）。本服务是一个由个人开发者维护的免费、非盈利项目，旨在为用户（特别是儿童与学习者）提供一个单纯的线上打字练习环境。",
+        "content2": "当您存取或使用本服务时，即表示您已阅读、理解并同意接受本《服务条款》（下称「本条款」）所有内容的约束。若您不同意本条款的任何部分，请立即停止使用本服务。",
+        "title": "1. 总则与接受条款"
+      },
+      "section3": {
+        "content1": "本服务仅限于个人、教育目的使用，并以非独占、不可转让、可撤销的方式授权使用。",
+        "content2": "禁止直接或间接以商业目的使用本服务。",
+        "subtitle1": "个人、非商业用途使用",
+        "subtitle2": "禁止商业用途使用",
+        "title": "3. 使用许可与限制"
+      },
+      "section4": {
+        "content1": "用户应负责妥善管理登录信息。",
+        "content2": "禁止妨碍本服务正常运作的行为及作弊行为。",
+        "subtitle1": "账号安全",
+        "subtitle2": "禁止滥用与不正行为",
+        "title": "4. 用户的责任"
+      },
+      "section6": {
+        "content": "请确认隐私权政策。",
+        "title": "6. 隐私权政策"
+      },
+      "titleSuffix": "服务条款"
+    },
+    "correctChars": "正确字数：{{chars}} 字",
+    "createError": "建立失败：{{error}}",
+    "ctaPractice": "立即开始练习",
+    "layout": {
+      "dailyReminder": "提醒：每天练习一点，帮助小树苗长大，也提升打字能力哦！",
+      "epExplanation": "怎么拿点数？每次测验依『时间×速度×正确率』换算（base×分钟×(速度/目标，最多×2)×(0.5+0.5×正确率)）。每日上限 100；鼓励规则：正确率≥30% 时，每 10 秒至少 +1 点（可累加）；≥30 秒且正确率≥50% 至少 +1。{{estMinLeft}}",
+      "loginSuggestion": "建议使用右上角「Sign in with Google」登录以保存你的成绩与历程；本网站重视匿名与隐私，不会存储个人敏感资料。",
+      "remaining": "剩余",
+      "todayProgress": "今日："
+    },
+    "practice": {
+      "description": "此区仅供运维与内容管理使用。"
+    },
+    "error": {
+      "errorOccurred": "发生错误",
+      "goBack": "返回上一页",
+      "goHome": "回到首页",
+      "loadingError": "加载页面时发生错误，请稍后再试。"
+    },
+    "keyboard": {
+      "errorRate": "{{key}} 错误率 {{percent}}%",
+      "relativeScale": "相对刻度：绿 ≤30% · 黄 ≤70% · 红 ＞70%（相对于最高错误键；依「最近累积」错误率计算）"
+    },
+    "estimatedMinutes": "估约 {{minutes}} 分",
+    "nav": {
+      "garden": "种树",
+      "home": "首页",
+      "leaderboard": "排行榜",
+      "practice": "练习",
+      "profile": "个人",
+      "subtitle": "选择适合你的练习内容",
+      "test": "测验",
+      "result": "结果"
+    },
+    "meta": {
+      "gardenDescription": "以打字点数推进树的成长与奖励。",
+      "homeDescription": "儿童打字练习与种树成长游戏。支持繁体中文/简体中文/英文",
+      "leaderboardDescription": "依语言的每日/每周/每月排行榜。",
+      "practiceDescription": "免费打字练习，支持输入法与多种模式。",
+      "profileDescription": "你的个人资讯、年级与偏好设定。",
+      "result": "结果",
+      "resultDescription": "你的打字测验结果。",
+      "testDescription": "计时测验，显示正确率与综合分数。"
+    },
+    "grade": "{{grade}}年级",
+    "questionBank": {
+      "gradeRange": "年级范围",
+      "recommended": "推荐",
+      "totalQuestions": "总题数",
+      "children": {
+        "name": "Children Question Bank",
+        "description": "Basic typing practice suitable for children"
+      },
+      "title": "Choose Question Bank",
+      "subtitle": "Select the practice bank that suits you",
+      "loading": "Loading question banks...",
+      "supportedLanguages": "Supported Languages",
+      "noRecommendation": "No recommended question banks for your grade level",
+      "bible": {
+        "name": "Bible Question Bank",
+        "description": "Bible verse typing practice"
+      }
+    },
+    "highestHere": "这里最高 {{value}}",
+    "hours": "{{count}}小时",
+    "hoursMinutes": "{{hours}}小时{{minutes}}分钟",
+    "leaderScore": "",
+    "levelUpSuggestion": "距离升到阶段 {{needStage}}，建议今天至少再有效输入 {{moreMin}} 分钟。",
+    "loadError": "加载排行榜失败，请稍后再试",
+    "auth": {
+      "signOut": "登出",
+      "pleaseSignIn": "请先使用 Google 登录",
+      "signIn": "使用 Google 登录"
+    },
+    "metricsTip": "速度与正确率说明",
+    "minutes": "{{count}}分钟",
+    "minutesSeconds": "{{minutes}}分{{seconds}}秒",
+    "bible": {
+      "name": "圣经题库"
+    },
+    "noRecommendation": "目前没有适合你年级的推荐题库",
+    "percentile": "超过约 {{percent}}% 人",
+    "progress": "进度 {{current}} / {{total}}",
+    "recentValue": "最近 {{value}} {{trend}}",
+    "recordNumber": "第 {{number}} 笔",
+    "dev": {
+      "savedToFirestore": "已即时保存至 Firestore",
+      "stage": "阶段 {{stage}}",
+      "stageOverview": "五阶段总览（便于比对外观）"
+    },
+    "seconds": "{{count}}秒",
+    "shortcuts": "Space 开/停 · R 重置 · F 聚焦 · Enter 提交本题",
+    "speedScore": "综合分数：{{score}}",
+    "stats": "{{chars}}字 · {{accuracy}}%准确",
+    "string094": "仅使用你的 Google 账号保存进度与历程。",
+    "string095": "我们收集什么数据？",
+    "string096": "仅收集你的打字分数、正确率与练习时间。不收集姓名、电子邮件等个人敏感资料。",
+    "string097": "使用这些数据提供个性化反馈并显示你的进步历程。",
+    "string155": "使用本网站即表示你同意以下条款：",
+    "string156": "1. 你对自己的学习与进步负责。",
+    "string157": "条款内容是什么？",
+    "string158": "条款包括：仅将网站用于教育目的、不分享不当内容、尊重其他用户。",
+    "supportedLanguages": "支持语言",
+    "totalQuestionChars": "题目总字数：{{chars}} 字",
+    "vsSiteAverage": "相较站内平均（同语言）：{{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.817Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "练习可获得点数；点数用于让树成长并解锁奖励。每日可收获果实。"
+  },
+  "garden": {
+    "pointsExplanation": "点数来自每日练习的有效输入、速度与准确率。收获后，今日成长值将清空并转为果实，点数可能小幅调整。"
+  },
+  "result": {
+    "summary": "本次摘要",
+    "timeSpent": "花费时间：{{time}}",
+    "totalChars": "总字数：{{chars}} 字",
+    "correctChars": "正确字数：{{chars}} 字",
+    "accuracy": "准确率：{{accuracy}}%",
+    "accuracyTooltip": "准确率＝正确字 ÷ 题目总字；未输入亦计入总字，会降低准确率。",
+    "adjWpm": "综合分数（正确速度）{{adjWpm}}",
+    "scoreTooltip": "分数以“正确字的速度”计算；先稳定准确率，再提升速度。",
+    "vsSiteAverage": "与站内平均（同语言）相比：{{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "再试一次",
+    "showInsights": "显示洞察",
+    "hideInsights": "隐藏洞察",
+    "chartDescription": "上：综合分数趋势；下：准确率趋势。先稳定准确率，再逐步提高速度。",
+    "seconds": "{{count}} 秒",
+    "minutes": "{{count}} 分",
+    "minutesSeconds": "{{minutes}} 分 {{seconds}} 秒",
+    "hours": "{{count}} 小时",
+    "hoursMinutes": "{{hours}} 小时 {{minutes}} 分"
+  },
+  "test": {
+    "submitQuestion": "提交 (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "每天练习越多，打字越熟练！"
+  }
+}

@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "hu-HU",
+      "text": "Mert úgy szerette Isten a világot, hogy az ő egyszülött Fiát adta, hogy valaki, aki hisz őbenne, el ne vesszen, hanem örök élete legyen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "hu-HU",
+      "text": "Az ÚR az én pásztorom nem szűkölködöm.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "hu-HU",
+      "text": "De akik az ÚRra várnak, erejüket megújítják szárnyra kelnek, mint a sasok futnak, és nem fáradnak el járnak, és nem lankadnak meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "hu-HU",
+      "text": "Ti vagytok a világ világossága. A hegyre épített város nem rejtezik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "hu-HU",
+      "text": "Mindenre van erőm a Krisztusban, aki megerősít engem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "hu-HU",
+      "text": "Kezdetben teremtette Isten a mennyet és a földet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "hu-HU",
+      "text": "Boldog az az ember, aki nem jár a gonoszok tanácsában, és nem áll a bűnösök útján, és nem ül a csúfolódók székében.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "hu-HU",
+      "text": "Mert én tudom azokat a gondolatokat, amelyeket felétek gondolok, mondja az ÚR, békességnek gondolatai ezek, és nem gonosznak, hogy jövőt és reménységet adjak nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "hu-HU",
+      "text": "Jézus ismét szólt hozzájuk, mondván Én vagyok a világ világossága aki engem követ, nem jár sötétségben, hanem az élet világosságát bírja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "hu-HU",
+      "text": "Tudjuk pedig, hogy a szeretőknek minden dolog a javukra van, azoknak, akik az ő elhatározása szerint hivatalosak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "hu-HU",
+      "text": "Az ÚR harcol értetek, ti pedig tartsátok meg a békességet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "hu-HU",
+      "text": "Az ÚR az én világosságom és az én üdvösségem kitől félek? Az ÚR az én életem ereje kitől rettegek?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "hu-HU",
+      "text": "Te megőrzöd őt tökéletes békességben, mert benned bízik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "hu-HU",
+      "text": "De keressétek először az Isten országát és az ő igazságát, és ezek mind megadatnak nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "hu-HU",
+      "text": "A hit pedig a remélt dolgok valósága, a nem látott dolgok bizonyítéka.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "hu-HU",
+      "text": "Legyetek erősek és bátor szívűek, ne féljetek, és ne rettegjetek tőlük mert az ÚR, a ti Istenetek, ő az, aki veletek megy nem hagy el titeket, és nem forsza meg titeket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "hu-HU",
+      "text": "Bízzál az ÚRban teljes szívedből, és a magad értelmére ne támaszkodj.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "hu-HU",
+      "text": "Ne félj, mert én veled vagyok ne csüggedj, mert én vagyok a te Istened megerősítlek, sőt megsegítelek, sőt jobboldalamnak jobbjával támogatlak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "hu-HU",
+      "text": "Jézus mondta neki Én vagyok az út, az igazság és az élet senki sem mehet az Atyához, hanem csak énáltalam.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "hu-HU",
+      "text": "Azért, ha valaki Krisztusban van, új teremtés az a régiek elmúltak, íme, minden újá lett.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "hu-HU",
+      "text": "A te igéd lámpás a lábam előtt, és világosság az én ösvényemen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "hu-HU",
+      "text": "De ő a mi bűneinkért megsebesíttetett, a mi vétkeinkért összetöretett a mi békességünk büntetése ő rajta volt, és az ő sebei által gyógyultunk meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "hu-HU",
+      "text": "Jöjjetek hozzám mindnyájan, akik megfáradtatok és megterheltettek vagytok, és én megnyugtatlak titeket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "hu-HU",
+      "text": "Hogyha pedig a te száddal megvallod az Úr Jézust, és a te szívedben hiszed, hogy Isten feltámasztotta őt a halálból, üdvözölsz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "hu-HU",
+      "text": "Örvendezzen az ÚRban, és ő megadja a te szíved vágyait.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "hu-HU",
+      "text": "Aki a Felséges rejtekhelyén lakik, a Mindenható árnyékában nyugszik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "hu-HU",
+      "text": "Boldog az az ember, aki az ÚRban bízik, és akinek az ÚR a reménysége.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "hu-HU",
+      "text": "Én vagyok a szőlőtő, ti a hajtások aki én bennem marad, és én őbenne, az sok gyümölcsöt terem mert nélkülem semmit sem cselekedhettek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "hu-HU",
+      "text": "Mert kegyelemből üdvözöltettek a hit által és ez nem tőletek van, Isten ajándéka ez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "hu-HU",
+      "text": "Lépjetek be az ő kapuin hálaadással, és az ő udvaraiba dicsérettel adjatok hálát néki, és áldjátok az ő nevét.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "hu-HU",
+      "text": "Bízd az ÚRra a te dolgaidat, és a te gondolataid megerősíttetnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "hu-HU",
+      "text": "Mert az én gondolataim nem a ti gondolataitok, és a ti útjaitok nem az én útjaim, mondja az ÚR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "hu-HU",
+      "text": "Kérjetek, és adatik nektek keressetek, és találtok zörgessetek, és megnyittatik nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "hu-HU",
+      "text": "Most pedig megmarad a hit, a remény, a szeretet, e három ezek közül a legnagyobb a szeretet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "hu-HU",
+      "text": "Zarándokének. Felemelem szemeimet a hegyekre honnan jön az én segítségem?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "hu-HU",
+      "text": "Kóstoljátok és lássátok, hogy jó az ÚR boldog az az ember, aki őbenne bízik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "hu-HU",
+      "text": "A tolvaj csak azért jön, hogy lopjon, öljön és pusztítson én azért jöttem, hogy életük legyen, és bőségben legyen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "hu-HU",
+      "text": "Ne szabjátok magatokat e világhoz, hanem változzatok meg az elmétek megújulásával, hogy megítélhessétek, mi az Isten jó, kedves és tökéletes akarata.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "hu-HU",
+      "text": "Az ÚR az én sziklám, az én váram és az én szabadítóm az én Istenem, az én sziklám, akiben bízom az én pajzsom, és az én üdvösségem foka, az én magas tornyom.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "hu-HU",
+      "text": "Hálát adok néked, mert félelmetesen és csodálatosan teremtettél csodálatosak a te munkáid az én lelkem jól tudja ezt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "hu-HU",
+      "text": "Tanítsátok meg őket, hogy megtartsák mindazt, amit parancsoltam nektek íme, én veletek vagyok minden napon a világ végezetéig. Ámen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "hu-HU",
+      "text": "Mert Isten nem adott nékünk félelem lelkét, hanem az erő, a szeretet és a józanság lelkét.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "hu-HU",
+      "text": "Az ÚR neve erős torony a megigazultak oda futnak, és megmenekülnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "hu-HU",
+      "text": "Ezeket mondtam néktek, hogy békességetek legyen énbennem a világban nyomorúságotok van de bízzatok, én legyőztem a világot.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "hu-HU",
+      "text": "A Lélek gyümölcse pedig szeretet, öröm, békesség, türelem, jóság, jóság, hit,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "hu-HU",
+      "text": "Némelyek szekerekkel, némelyek lovakkal bíznak, de mi az ÚR, a mi Istenünk nevében bízunk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "hu-HU",
+      "text": "Mert az ÚR Isten nap és pajzs az ÚR kegyelmet és dicsőséget ad nem vonja meg a jót azoktól, akik feddhetetlenül járnak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "hu-HU",
+      "text": "Kelj fel, világíts mert eljött a te világosságod, és az ÚR dicsősége felkelt rajtad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "hu-HU",
+      "text": "Jézus mondta neki Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és teljes elmédből.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "hu-HU",
+      "text": "És amit csak tesztek, szívből tegyétek, mint az ÚRnak, és nem embereknek,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "hu-HU",
+      "text": "Az ÚR közel van a megtört szívűekhez, és megmenti a megsebzett lelkeket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "hu-HU",
+      "text": "Az én segítségem az ÚRtól van, aki a mennyet és a földet teremtette.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "hu-HU",
+      "text": "Íme, Isten az én üdvösségem bízom, és nem félek mert az ÚR, az ÚR az én erőm és énekem, és ő lett az én üdvösségem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "hu-HU",
+      "text": "Szenteld meg őket a te igazságodban a te igéd igazság.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "hu-HU",
+      "text": "De Isten a maga szeretetét irántunk úgy mutatta meg, hogy mikor még bűnösök voltunk, Krisztus értünk meghalt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "hu-HU",
+      "text": "Az ÚR közel van mindazokhoz, akik őt hívják, mindazokhoz, akik őt igazságban hívják.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "hu-HU",
+      "text": "Az ÚR félelme a bölcsesség kezdete a Szentnek ismerete az értelem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "hu-HU",
+      "text": "De most, Uram, te vagy a mi Atyánk mi vagyunk az agyag, te pedig a fazekas mindnyájan a te kezed munkája vagyunk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "hu-HU",
+      "text": "Jézus rájuk nézett, és mondta Az embereknél ez lehetetlen, de Istennél minden lehetséges.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "hu-HU",
+      "text": "Vedd fel Isten teljes fegyverzetét, hogy megállhass a gonoszok cselszövése ellen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "hu-HU",
+      "text": "Mert az Ő haragja csak egy pillanatig tart az Ő kedvessége élethosszig tart. Az éjszaka sírása megmarad, de reggel öröm jön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "hu-HU",
+      "text": "Amennyire kelet van nyugattól, annyira távolította el tőlünk a mi vétkeinket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "hu-HU",
+      "text": "Uram, légy irgalmas hozzánk! Rád várunk. Légy erősségünk reggelente, és üdvösségünk a nyomorúság idején.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "hu-HU",
+      "text": "Semmiben se aggódjatok, hanem mindenben imádsággal és könyörgéssel, hálaadással tudtára adjátok kéréseiteket Istennek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "hu-HU",
+      "text": "Mert Te, Uram, jó vagy, és kész megbocsátani, és bővelkedő szeretettel vagy mindenki iránt, aki hozzád kiált.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "hu-HU",
+      "text": "Mert ahol ketten vagy hárman összegyűlnek az én nevemben, ott vagyok közöttük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "hu-HU",
+      "text": "Járuljunk tehát bizalommal a kegyelem trónjához, hogy irgalmat nyerjünk, és kegyelmet találjunk a szükség idején.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "hu-HU",
+      "text": "Mert egy nap a Te udvaraidban jobb ezer napnál. Inkább leszek ajtónálló az én Istenem házában, mint hogy a gonoszok sátraiban lakjam.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "hu-HU",
+      "text": "Minden gondodat őrizd szívvel, mert abból indul ki az élet forrása.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "hu-HU",
+      "text": "A megigazulás munkája békesség lesz, és a megigazulás hatása, csendesség és bizalom mindörökké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "hu-HU",
+      "text": "Nincs itt, mert feltámadt, ahogyan mondta. Jöjjetek, nézzétek meg a helyet, ahol feküdt az Úr.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "hu-HU",
+      "text": "Minden gondotokat őrá vessétek, mert Ő gondot visel rólatok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "hu-HU",
+      "text": "Mindig az Úr előttem van, mert Ő az én jobb kezem felől, nem inogok meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "hu-HU",
+      "text": "Adjatok hálát az Úrnak, mert jó, mert az Ő irgalma örökké megmarad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "hu-HU",
+      "text": "Ezért az Úr maga ad nektek jelet Íme, a szűz fogan, és fiút szül, és nevezik az Ő nevét Immánuelnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "hu-HU",
+      "text": "Mert ma született nektek a Megváltó, aki a Krisztus, az Úr Dávid városában.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "hu-HU",
+      "text": "Most pedig a reménység Istene töltsön el titeket minden örömmel és békességgel a hitben, hogy bővelkedjetek a reménységben a Szentlélek ereje által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "hu-HU",
+      "text": "Az Úr az én erőm és pajzsom szívem bízott benne, és megsegített. Ezért szívem nagyon örvendezik, és énekemmel hálát adok néki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "hu-HU",
+      "text": "Minden, aminek lelke van, dicsérje az Urat! Dicsérjétek az Urat!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "hu-HU",
+      "text": "Nézzetek rám, és üdvözüljetek, ti föld végső határai mert én vagyok Isten, és nincs más.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "hu-HU",
+      "text": "Boldogok a békességszerzők, mert Isten fiainak hívják őket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "hu-HU",
+      "text": "Az Úr magas tornya lesz az elnyomottaknak magas torony a nyomorúság idején.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "hu-HU",
+      "text": "Ez az a nap, amelyet az Úr szerzett örvendezzünk és vigadjunk rajta!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "hu-HU",
+      "text": "A fű elszárad, a virág elhervad de Istenünk igéje megmarad örökké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "hu-HU",
+      "text": "Én is mondom néked, hogy te Péter vagy, és ezen a kősziklán építem az én gyülekezetemet, és a pokol kapui nem fognak diadalmaskodni rajta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "hu-HU",
+      "text": "A szeretetben nincs félelem sőt, a tökéletes szeretet kiűzi a félelmet, mert a félelem büntetéssel jár. Aki fél, nem lett tökéletessé a szeretetben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "hu-HU",
+      "text": "Az Úr jó mindenkihez, és irgalma minden munkájára kiterjed.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "hu-HU",
+      "text": "A bőkezű lélek meggazdagodik aki öntöz, maga is meg lesz öntözve.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "hu-HU",
+      "text": "Íme, a tenyeremre véstelek téged faláid mindig előttem vannak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "hu-HU",
+      "text": "Mert az Emberfia azért jött, hogy megkeresse és üdvözítse, ami elveszett.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "hu-HU",
+      "text": "Most annak, aki képes mindenre, amit kérünk vagy gondolunk, a mi bennünket munkáló ereje szerint, bőségesen megtenni,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "hu-HU",
+      "text": "Mutasd meg nekem utaidat, Uram! Taníts meg ösvényeidre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "hu-HU",
+      "text": "Legyenek kedvesek számomra számnak szavaim és szívem meditációja, Uram, sziklám és megváltóm.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "hu-HU",
+      "text": "Nem fognak ártani, sem elpusztítani minden szent hegyemen mert a föld tele lesz az Úr ismeretével, mint a vizek borítják a tengert.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "hu-HU",
+      "text": "Az ég és a föld elmúlnak, de az én igéim nem múlnak el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "hu-HU",
+      "text": "Jézus Krisztus tegnap és ma és mindörökké ugyanaz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "hu-HU",
+      "text": "Csendesedjetek el, és tudjátok meg, hogy én vagyok Isten. Magasztaltatni fogok a népek között, magasztaltatni fogok a földön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "hu-HU",
+      "text": "Minden utadon ismerd el Őt, és Ő egyengeti ösvényeidet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "hu-HU",
+      "text": "Erőt ad a gyengének és növeli az erőt annak, akinek nincs ereje.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "hu-HU",
+      "text": "Úgy világítson a ti világosságotok az emberek előtt, hogy lássák a ti jó cselekedeteiteket, és dicsőítsék a ti mennyei Atyátokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "hu-HU",
+      "text": "Sem magasság, sem mélység, sem pedig más teremtett dolog nem választhat el minket Isten szeretetétől, amely a Krisztus Jézusban van, a mi Urunkban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "hu-HU",
+      "text": "Nem parancsoltam-e néked? Légy erős és bátor! Ne félj, és ne rettegj, mert veled van az Úr, a te Istened, bármerre jársz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "hu-HU",
+      "text": "Az Úr megőrzi a te kijáratodat és bejáratodat, mostantól fogva és mindörökké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "hu-HU",
+      "text": "Az ember szíve tervezgeti az útját, de az Úr irányítja lépteit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "hu-HU",
+      "text": "De most az Úr, aki teremtett téged, Jákob, és aki formált téged, Izráel, ezt mondja Ne félj, mert megváltottalak neveden szólítottalak, enyém vagy.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "hu-HU",
+      "text": "De akik őt befogadták, azoknak hatalmat adott, hogy Isten fiaivá legyenek, azoknak, akik az ő nevében hisznek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "hu-HU",
+      "text": "És az Isten békéje, amely minden értelmet felülmúl, megőrzi szíveteket és gondolataitokat Krisztus Jézusban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "hu-HU",
+      "text": "Mert hitben járunk, nem látásban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "hu-HU",
+      "text": "Mert Ő angyalait parancsolja rólad, hogy megőrizzék téged minden utadon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "hu-HU",
+      "text": "A bölcsesség a legfőbb szerezz bölcsességet, és ha minden vagyonodba kerül is, szerezz értelmet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "hu-HU",
+      "text": "Mert Isten által mondott semmi sem lehetetlen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "hu-HU",
+      "text": "Mert mi az Ő munkája vagyunk, Krisztus Jézusban teremtve jó cselekedetekre, amelyeket Isten előre elkészített, hogy azokban járjunk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "hu-HU",
+      "text": "Kerestem az Urat, és Ő meghallgatott, és megszabadított minden félelmemből.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "hu-HU",
+      "text": "A vidám szív jó orvosság, de a megtört lélek kiszárítja a csontokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "hu-HU",
+      "text": "Hívj engem, és én válaszolok neked, és megmutatom neked a nagy és nehéz dolgokat, amelyeket nem ismersz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "hu-HU",
+      "text": "Vegyétek magatokra az én igámat, és tanuljatok tőlem, mert én szelíd és alázatos szívű vagyok és megnyugvást találtok a ti lelketeknek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "hu-HU",
+      "text": "Tartsuk meg tehát a reménységünk vallomását ingadozás nélkül, mert Ő, aki ígért, hűséges.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "hu-HU",
+      "text": "Vessétek az Úrra terheiteket, és Ő fenntart titeket soha nem engedi, hogy az igazak meginogjanak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "hu-HU",
+      "text": "A halál és az élet a nyelv hatalmában van akik szeretik, annak gyümölcsét eszik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "hu-HU",
+      "text": "Mert így szól az Úr, az Izráel Szentje Térjetek meg és nyugodjatok, akkor üdvözöltettek a csendességben és a bizalomban lesz a ti erőtök. De ti nem akartátok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "hu-HU",
+      "text": "Jézus ezt mondta nekik Én vagyok az élet kenyere. Aki hozzám jön, nem éhezik meg, és aki hisz bennem, soha nem szomjazik meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "hu-HU",
+      "text": "Mivel tehát hit által megigazultunk, békességünk van Istennel a mi Urunk Jézus Krisztus által",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "hu-HU",
+      "text": "Testem és szívem elhagy, de Isten az én szívem ereje és örök részem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "hu-HU",
+      "text": "A szívben lévő szorongás megnehezedik, de a kedves szó örömet szerez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "hu-HU",
+      "text": "Bízzatok az Úrban mindenkor, mert az Úrban, az Úrban örök szikla van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "hu-HU",
+      "text": "Jézus ezt mondta neki Ha tudsz hinni, minden lehetséges a hívőnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "hu-HU",
+      "text": "Mert ő mindenek előtt van, és mindenek őben állnak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "hu-HU",
+      "text": "Megtanítalak és vezetlek az úton, amelyen járnod kell. Tanácsot adok neked, szemeim rajtad lesznek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "hu-HU",
+      "text": "A szelíd válasz elfordítja a haragot, de a kemény szó felgerjeszti a haragot.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "hu-HU",
+      "text": "Mert én, az Úr, a te Istened, megragadom a te jobb kezedet, és mondom neked Ne félj, én segítek neked.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "hu-HU",
+      "text": "Boldogok a lélekben szegények, mert övék a mennyek országa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "hu-HU",
+      "text": "Ez a reménység, amely nekünk van, mint a lélek horgonya, biztos és szilárd, és behatol a kárpit mögé,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "hu-HU",
+      "text": "Ne hagyd el a jóságot és az igazságot kösd azokat a nyakadra, írd azokat a szíved táblájára.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "hu-HU",
+      "text": "Íme, én vagyok az Úr, minden test Isten. Van-e valami, ami túl nehéz nekem?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "hu-HU",
+      "text": "Aki hisz a Fiúban, örök élete van, de aki nem engedelmeskedik a Fiúnak, nem lát életet, hanem Isten haragja marad rajta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "hu-HU",
+      "text": "Örüljetek a reménységben, tartsatok ki a nyomorúságban, állhatatosan imádkozzatok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "hu-HU",
+      "text": "Jó harcot harcoltam, a pályát végigfutottam, a hitet megőriztem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "hu-HU",
+      "text": "Íme, az ajtó előtt állok és zörgetek. Ha valaki hallja az én hangomat és kinyitja az ajtót, bemegyek hozzá, és vele vacsorázom, és ő velem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "hu-HU",
+      "text": "Ha pedig valakinek közületek nincs bölcsessége, kérje Istentől, aki mindenkinek bőven ad és nem rója fel, és megadatik néki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "hu-HU",
+      "text": "Minden jó adomány és minden tökéletes ajándék felülről száll alá, a világosság Atyjától, akinél nincs változás, sem forgó árnyék.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "hu-HU",
+      "text": "Közelítsetek Istenhez, és ő is közelít hozzátok. Tisztítsátok meg kezeiteket, ti bűnösök, és tisztítsátok meg szíveteket, ti kétszívűek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "hu-HU",
+      "text": "A szeretet türelmes és jóságos. A szeretet nem irigykedik, a szeretet nem kérkedik, nem felfuvalkodott,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "hu-HU",
+      "text": "A barát mindenkor szeret, és a testvér a nyomorúságra születik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "hu-HU",
+      "text": "Mert irgalmat kívánok, és nem áldozatot és Isten ismeretét a égő áldozatoknál.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "hu-HU",
+      "text": "Nincs nagyobb szeretet annál, mint ha valaki életét adja barátaiért.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "hu-HU",
+      "text": "A testvérek iránti szeretetben legyetek egymás iránt kedvesek a tiszteletben pedig előzzétek meg egymást.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "hu-HU",
+      "text": "Nem viselkedik helytelenül, nem keresi a magáét, nem gerjed haragra, nem számolja a gonoszságot",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "hu-HU",
+      "text": "Megmutatta neked, ó ember, mi a jó. Mit kíván tőled az Úr, hanem hogy igazságosan cselekedj, irgalmat szeress, és alázatosan járj Isteneddel?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "hu-HU",
+      "text": "De mondom nektek, szeressétek ellenségeiteket, áldjátok azokat, akik átkoznak titeket, tegyetek jót azokkal, akik gyűlölnek titeket, és imádkozzatok azokért, akik bántanak és üldöznek titeket,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "hu-HU",
+      "text": "Legyetek egymás iránt jóságosak, szelíd szívűek, megbocsátva egymásnak, ahogyan Isten is a Krisztusban megbocsátott nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "hu-HU",
+      "text": "Nem örül a hamisságnak, hanem örül az igazsággal",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "hu-HU",
+      "text": "A gyűlölet viszályt gerjeszt, de a szeretet minden bűnt elfedez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "hu-HU",
+      "text": "Az Úr, a te Istened, közötted van, a hatalmas, aki megment. Örömmel örül fölötted, szeretetével megnyugtat. Örömmel örül fölötted énekelve.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "hu-HU",
+      "text": "Amint szeretnétek, hogy az emberek veletek cselekedjenek, ti is úgy cselekedjetek velük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "hu-HU",
+      "text": "Mindenekfelett legyetek buzgók egymás iránti szeretetetekben, mert a szeretet sok bűnt elfedez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "hu-HU",
+      "text": "Minden dolgot eltűr, mindenben hisz, mindenben remél, mindenben kitart.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "hu-HU",
+      "text": "Milyen drága a te irgalmad, Isten! Az emberek fiai a te szárnyad árnyékában keresnek oltalmat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "hu-HU",
+      "text": "Tanuljátok meg a jót cselekedni. Keresd az igazságot. Szabadítsd meg az elnyomottakat. Védd meg az árvát. Kérd a özvegyet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "hu-HU",
+      "text": "A második hasonló ehhez Szeresd felebarátodat, mint önmagadat. Nincs más parancsolat, amely nagyobb ezeknél.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "hu-HU",
+      "text": "Amikor gyermek voltam, gyermek módjára beszéltem, gyermek módjára éreztem, gyermek módjára gondolkodtam. Most, hogy férfi lettem, elhagytam a gyermekes dolgokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "hu-HU",
+      "text": "Jobb a zöldségek vacsorája, ahol szeretet van, mint a hizlalt borjú gyűlöletben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "hu-HU",
+      "text": "Az Úr régen megjelent nekem, mondván Igen, örök szeretettel szerettelek téged ezért irgalmassággal vonzottalak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "hu-HU",
+      "text": "Erről tudni fog mindenki, hogy az én tanítványaim vagytok, ha szeretettel vagytok egymás iránt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "hu-HU",
+      "text": "Mindenek felett, a szeretetben járjatok, amely a tökéletesség köteléke.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "hu-HU",
+      "text": "Mert most tükörben látunk, homályosan, de akkor színről színre. Most részben tudom, de akkor teljesen tudni fogom, ahogyan engem is teljesen ismertek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "hu-HU",
+      "text": "Az irgalom és az igazság találkozik. Az igazságosság és a béke megcsókolják egymást.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "hu-HU",
+      "text": "Eljegyezlek téged magamnak örökre. Igen, eljegyezlek téged igazságban, jogosságban, irgalomban és könyörületességben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "hu-HU",
+      "text": "Ezért, amit akartok, hogy az emberek veletek cselekedjenek, ti is úgy cselekedjetek velük mert ez a törvény és a próféták.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "hu-HU",
+      "text": "Adja meg nektek az Úr, hogy növekedjetek és bővelkedjetek a szeretetben egymás iránt és minden ember iránt, ahogyan mi is teszünk veletek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "hu-HU",
+      "text": "Minden, amit tesztek, szeretetben végezzetek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "hu-HU",
+      "text": "Ami kívánatos egy emberben, az az ő jósága. A szegény ember jobb, mint a hazug.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "hu-HU",
+      "text": "Ezeket a dolgokat cselekedjétek mondjatok igazat minden embernek a felebarátotokkal. Hajtsátok végre az igazság és a béke ítéletét a kapuaitokban,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "hu-HU",
+      "text": "A második hasonló ehhez Szeresd felebarátodat, mint önmagadat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "hu-HU",
+      "text": "Mert az egész törvény egy szóban teljesedik be, ebben Szeresd felebarátodat, mint önmagadat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "hu-HU",
+      "text": "Mert a te irgalmad jobb, mint az élet, ajkaim dicsérni fognak téged.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "hu-HU",
+      "text": "Mert én, az Úr, nem változom ezért ti, Jákob fiai, nem pusztultok el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "hu-HU",
+      "text": "Ez az én parancsolatom, hogy szeressétek egymást, ahogyan én is szerettelek titeket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "hu-HU",
+      "text": "Minden alázatossággal és szelídséggel, türelemmel, viseljétek el egymást szeretetben,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "hu-HU",
+      "text": "Mi szeretjük őt, mert ő előbb szeretett minket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "hu-HU",
+      "text": "A vas élesíti a vasat így élesíti az ember a barátja arcát.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "hu-HU",
+      "text": "Mert a te Teremtőd a te férjed a Seregek Ura az ő neve. Izrael Szentje a te Megváltód. Az egész föld Istenének fogják hívni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "hu-HU",
+      "text": "Ő pedig felelt Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből, teljes erődből és teljes elmédből és a te felebarátodat, mint önmagadat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "hu-HU",
+      "text": "Tehát kövessük a békességre és az egymás építésére való dolgokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "hu-HU",
+      "text": "Kis gyermekeim, ne csak szóval, vagy nyelvvel szeressünk, hanem cselekedettel és igazsággal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "hu-HU",
+      "text": "Ahogyan az atya könyörül a fiaikon, úgy könyörül az Úr az őt félelmezőkön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "hu-HU",
+      "text": "Mivel te drága és becses vagy az én szemeimben, és én szerettelek téged, ezért népeket adok a te helyedbe, és nemzeteket a te életedért.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "hu-HU",
+      "text": "De amikor Jézus látta, megharagudott, és mondta nekik Engedjétek hozzám jönni a kisgyermekeket! Ne tiltsátok őket, mert az Isten országa ilyeneké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "hu-HU",
+      "text": "Ezért bátorítsátok egymást, és építsétek egymást, ahogyan ezt ti is teszitek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "hu-HU",
+      "text": "És a remény nem szégyenít meg minket, mert az Isten szeretete kiáradt a szívünkbe a nekünk adatott Szentlélek által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "hu-HU",
+      "text": "A derék asszony a férje koronája, de a gyalázatos feleség olyan, mint a rothadás a csontjaiban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "hu-HU",
+      "text": "És ha kiöntöd a lelkedet az éhezőre, és megelégíted a szorongó lelkét, akkor a te világosságod felragyog a sötétségben, és a te homályod olyan lesz, mint a dél.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "hu-HU",
+      "text": "Tiszteld apádat és anyádat. És Szeresd a te felebarátodat, mint önmagadat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "hu-HU",
+      "text": "Semmit se cselekedjetek versengésből vagy hiúságból, hanem alázatosságban, mindenki a másikat tartva magánál jobbnak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "hu-HU",
+      "text": "Ne győzzön le téged a gonosz, hanem a jót a gonosszal győzd le.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "hu-HU",
+      "text": "Aki pletykál, az bizalmat árul el, de aki megbízható lélek, az titkot tart.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "hu-HU",
+      "text": "Így szólt a Seregek Ura, mondván Tartsatok igazságos ítéletet, és mutassatok irgalmat és könyörületet mindenki a testvérének.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "hu-HU",
+      "text": "Gondolkodjunk azon, hogyan serkentsük egymást a szeretetre és a jó cselekedetekre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "hu-HU",
+      "text": "Ezért fogadjátok el egymást, ahogyan Krisztus is elfogadott titeket, az Isten dicsőségére.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "hu-HU",
+      "text": "Aki bölcsekkel jár, bölccsé lesz, de a bolondok társasága kárt szenved.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "hu-HU",
+      "text": "De a nemes nemes dolgokat tervez, és nemes dolgokban marad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "hu-HU",
+      "text": "Senki se keresse a magáét, hanem mindenki a felebarátja javát.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "hu-HU",
+      "text": "Hordozzátok egymás terheit, és így töltsétek be Krisztus törvényét.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "hu-HU",
+      "text": "A barát sebei hűségesek, de az ellenség csókjai bőségesek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "hu-HU",
+      "text": "Ezért legyetek irgalmasok, amint a ti Atyátok is irgalmas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "hu-HU",
+      "text": "Férjek, szeressétek feleségeiteket, amint Krisztus is szerette az egyházat, és önmagát adta érte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "hu-HU",
+      "text": "Így, vágyakozva irántatok, örömmel adtuk nektek nemcsak az Isten evangéliumát, hanem a saját lelkünket is, mert nagyon kedvesekké lettetek nekünk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "hu-HU",
+      "text": "Az Úr minden útja szeretet és igazság azoknak, akik megtartják az ő szövetségét és bizonyságait.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "hu-HU",
+      "text": "De aki közületek a legnagyobb, az legyen a ti szolgátok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "hu-HU",
+      "text": "Mindegyiktek ne csak a magáéra nézzen, hanem a másokéra is.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "hu-HU",
+      "text": "Végül, mindnyájan legyetek egyetértésben, könyörületesek, testvéri szeretettel, irgalmas szívvel, udvariasak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "hu-HU",
+      "text": "Aki a szív tisztaságát szereti, és szépen beszél, az a király barátja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "hu-HU",
+      "text": "Ő majd a szülők szívét a gyermekekhez, és a gyermekek szívét a szülőkhöz fordítja, hogy ne jöjjek, és ne sújtsam a földet átokkal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "hu-HU",
+      "text": "Békét hagyok nektek. Az én békém adom nektek nem úgy, ahogyan a világ adja, én adom nektek. Ne nyugtalankodjék a ti szívetek, és ne féljen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "hu-HU",
+      "text": "Legyetek egyetértésben egymással. Ne a magasságra törekedjetek, hanem a megalázottakkal társuljatok. Ne legyetek bölcsek a magatok szemében.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "hu-HU",
+      "text": "Te pedig, Isten embere, fuss ezektől, és kövesd a igazságot, kegyességet, hitet, szeretetet, kitartást és szelídséget.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "hu-HU",
+      "text": "De te, Uram, irgalmas és kegyelmes Isten vagy, késedelmes a haragra, és bőséges a szeretetben és igazságban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "hu-HU",
+      "text": "Uram, te békességet rendelsz nekünk, mert te mindent elvégeztél értünk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "hu-HU",
+      "text": "Ahogyan az Emberfia sem azért jött, hogy neki szolgáljanak, hanem hogy szolgáljon, és hogy életét váltságul adja sokakért.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "hu-HU",
+      "text": "A testvéri szeretet maradjon meg közöttetek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "hu-HU",
+      "text": "Végül, testvérek, örvendezzetek! Legyetek tökéletesek. Legyetek vigasztalva. Legyetek egyetértésben. Éljetek békében, és a szeretet és béke Istene veletek lesz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "hu-HU",
+      "text": "Sokan mondják, hogy hűséges emberek, de ki talál hű embert?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "hu-HU",
+      "text": "Mert ha alaposan megjavítjátok útjaitokat és cselekedeteiteket, ha alaposan végrehajtjátok az igazságot egy ember és a felebarátja között",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok! Ha a testvéred vétkezik ellened, fedd meg őt. Ha megtér, bocsáss meg neki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "hu-HU",
+      "text": "Járjatok a szeretetben, amint Krisztus is szeretett minket, és önmagát adta értünk, Istennek kedves illatául.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "hu-HU",
+      "text": "Hogy senki ne szóljon rosszat senkiről, ne legyen viszálykodó, hanem szelíd, minden ember iránt alázatos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "hu-HU",
+      "text": "Aki megveti a felebarátját, az vétkezik, de aki könyörül a szegényen, az áldott.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "hu-HU",
+      "text": "Ne nyomorgassátok az özvegyet, az árvát, az idegent, és a szegényt és senki se tervezzen gonoszat a szívében a testvére ellen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "hu-HU",
+      "text": "Leült, és magához hívta a tizenkettőt és mondta nekik Ha valaki első akar lenni, legyen mindenkinek az utolsója és mindenkinek a szolgája.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "hu-HU",
+      "text": "Most mi, akik erősek vagyunk, hordozzuk a gyengék gyengeségeit, és ne magunknak kedvezzünk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "hu-HU",
+      "text": "Ezt imádkozom, hogy a ti szeretetetek még inkább bővölködjön a tudásban és minden megkülönböztetésben,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "hu-HU",
+      "text": "Abban a napon oltár lesz az Úrnak Egyiptom földjének közepén, és oszlop az Úrnak határán.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "hu-HU",
+      "text": "Megismertem nekik a nevedet, és meg fogom ismertetni hogy az a szeretet, amellyel szerettél engem, bennük legyen, és én is bennük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "hu-HU",
+      "text": "A testvéri szeretetről pedig nincs szükségetek, hogy valaki írjon nektek mert ti magatok is Isten által tanítva vagytok, hogy szeressétek egymást.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "hu-HU",
+      "text": "Mivel megtisztítottátok lelketeket az igazság iránti engedelmesség által a Lélekben, őszinte testvéri szeretetben, szeressétek egymást szívből, buzgón.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "hu-HU",
+      "text": "Aki az igazságot és a jóságot keresi, életet, igazságot és tiszteletet talál.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "hu-HU",
+      "text": "Fölkelt, és elment az apjához. De amikor még messze volt, az apja meglátta őt, és megszánta, és futva a nyakába borult, és megcsókolta őt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "hu-HU",
+      "text": "Ha lehetséges, amennyire tőletek telik, legyetek békében minden emberrel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "hu-HU",
+      "text": "Aki szereti a testvérét, a világosságban marad, és nincs benne botránkozás.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "hu-HU",
+      "text": "Ő meggyógyítja a megtört szívűeket, és beköti sebeiket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "hu-HU",
+      "text": "Meggyógyítom az ő hányavetiségüket. Szabadon szeretem őket mert az én haragom eltávozott tőlük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "hu-HU",
+      "text": "De ti menjetek, és tanuljátok meg, mit jelent ez Irgalmasságot akarok, és nem áldozatot mert nem az igazakat jöttem hívni, hanem a bűnösöket megtérésre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "hu-HU",
+      "text": "Mert ők felüdítettek engem és a ti lelketeket is. Ezért ismerjétek el az ilyeneket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "hu-HU",
+      "text": "Ha pedig a királyi törvényt teljesítitek az Írás szerint Szeresd felebarátodat, mint önmagadat, jól cselekszel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "hu-HU",
+      "text": "Sok barátja van az embernek, de van egy barát, aki közelebb áll, mint a testvér.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "hu-HU",
+      "text": "Mert Isten nem azért küldte el az ő Fiát a világra, hogy megítélje a világot, hanem hogy a világ általa üdvözüljön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "hu-HU",
+      "text": "Ne feledkezzetek meg a vendégszeretetről, mert ezzel egyesek angyalokat is vendégül láttak, anélkül, hogy tudták volna.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "hu-HU",
+      "text": "Az Úr félelme a tudomány kezdete, a balga pedig megveti a bölcsességet és az oktatást.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "hu-HU",
+      "text": "És ha jobbra fordulsz, és ha balra fordulsz, a füleid hallani fogják a háta mögött lévő hangot, mondván Ez az az út. Járj rajta!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "hu-HU",
+      "text": "Legyetek a szó cselekvői, és ne csak hallgatói, megtévesztvén önmagatokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "hu-HU",
+      "text": "Taníts meg minket számlálni napjainkat, hogy bölcs szívhez jussunk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "hu-HU",
+      "text": "Mert az Úr bölcsességet ad. Az ő szájából tudomány és értelem származik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "hu-HU",
+      "text": "Mondom nektek, kérjetek, és adatik nektek keressetek, és találtok zörgessetek, és megnyittatik nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "hu-HU",
+      "text": "A te igédet elrejtettem a szívemben, hogy ne vétkezzem ellened.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "hu-HU",
+      "text": "Az Úr Lelke rajta nyugszik a bölcsesség és értelem lelke, a tanács és erő lelke, a tudomány és az Úr félelmének lelke.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "hu-HU",
+      "text": "Összehívta a sokaságot a tanítványaival, és mondta nekik Aki utánam akar jönni, tagadja meg magát, vegye fel keresztjét, és kövessen engem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "hu-HU",
+      "text": "Ki az az ember, aki fél az Úrtól? Ő az, akit az Úr az úton tanít, amelyet választ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "hu-HU",
+      "text": "Ne légy bölcs a magad szemében féld az Urat, és távozz a gonosztól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "hu-HU",
+      "text": "Keresd a jót, és ne a gonoszt, hogy élhess és így veled lesz a Seregek Ura, ahogy mondod.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "hu-HU",
+      "text": "A test lámpása a szem. Ha tehát a szemed egészséges, az egész tested világossággal telik meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "hu-HU",
+      "text": "Az Úr törvénye tökéletes, megújítja a lelket. Az Úr szövetsége biztos, bölccsé teszi az egyszerűt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "hu-HU",
+      "text": "Tedd egyenessé lábaid útját, és minden utad legyen megerősítve.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "hu-HU",
+      "text": "A bölcsek ragyogni fognak, mint az égbolt fényessége. Akik sokakat igazságra vezetnek, ragyogni fognak, mint a csillagok örökké és mindörökké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok tehát, hogyan jártok, nem mint balgák, hanem mint bölcsek,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "hu-HU",
+      "text": "Az Úr félelme a bölcsesség kezdete. Akik az ő munkáját végzik, jó megértéssel bírnak. Az ő dicsérete örökké megmarad!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "hu-HU",
+      "text": "Aki szereti a feddést, szereti a tudományt, de aki gyűlöli a megrovást, az bolond.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "hu-HU",
+      "text": "Keresd az Urat, míg megtalálható hívd őt, míg közel van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "hu-HU",
+      "text": "Milyen szűk a kapu, és milyen szűk az az út, amely az életre vezet! Kevesen vannak, akik megtalálják azt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "hu-HU",
+      "text": "De a felülről való bölcsesség először is tiszta, azután békés, szelíd, engedékeny, jó gyümölcsökkel teli, részrehajlás nélkül, és képmutatás nélkül.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "hu-HU",
+      "text": "Az ember lépéseit az Úr rendezi ő gyönyörködik az ő útjában.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "hu-HU",
+      "text": "Ahol nincs tanács, ott meghiúsulnak a tervek de a sok tanácsadó között megerősödnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "hu-HU",
+      "text": "Így szól az Úr Ne dicsekedjék a bölcs az ő bölcsességével ne dicsekedjék az erős az ő erejével ne dicsekedjék a gazdag az ő gazdagságával.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "hu-HU",
+      "text": "Ha valaki az ő akaratát akarja cselekedni, tudni fogja a tanítást, hogy az Istentől van-e, vagy én magamtól beszélek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "hu-HU",
+      "text": "Mindent próbáljatok meg, és tartsátok meg, ami jó.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "hu-HU",
+      "text": "A te szavaid bejárata világosságot ad. Értelemmel ajándékoz meg az egyszerűt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "hu-HU",
+      "text": "Aki figyel a Szóra, az jólétet talál. Aki bízik az Úrban, az áldott.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "hu-HU",
+      "text": "Mert ahol a kincsed van, ott lesz a szíved is.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "hu-HU",
+      "text": "Mert a test gondolata halál, de a Lélek gondolata élet és békesség",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "hu-HU",
+      "text": "Hallgass a tanácsra, és fogadd el az oktatást, hogy bölcs légy a végén.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "hu-HU",
+      "text": "Valóban, minden nép a maga istene nevében jár, de mi az Úr, a mi Istenünk nevében járunk mindörökké.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "hu-HU",
+      "text": "Boldogok, akik éheznek és szomjaznak az igazságra, mert ők megelégíttetnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "hu-HU",
+      "text": "Igazán igyekezz, hogy Isten előtt elfogadott légy, olyan munkás, aki nem szégyenkezik, helyesen kezelve az igazság szavát.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "hu-HU",
+      "text": "Nyisd meg szemeimet, hogy csodálatos dolgokat lássak a te törvényedből.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "hu-HU",
+      "text": "Van egy út, amely helyesnek tűnik az ember előtt, de a végén halálra vezet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "hu-HU",
+      "text": "Akkor ő felelt, és szólt hozzám, mondván Ez az Úr szava Zerubbábelhez, mondván Nem erővel, és nem hatalommal, hanem az én Szellememmel, mondja a Seregek Ura.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok, legyetek éberek, és imádkozzatok mert nem tudjátok, mikor jön el az idő.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "hu-HU",
+      "text": "Járjatok bölcsen a kívülállók felé, megváltva az időt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "hu-HU",
+      "text": "Taníts meg jó ítéletet és tudományt, mert hiszek a te parancsolataidban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "hu-HU",
+      "text": "Mert a bölcsesség jobb a rubinnál minden kívánatos dolog nem hasonlítható hozzá.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "hu-HU",
+      "text": "Az Úr, a te Megváltód, Izrael Szentje, mondja Én vagyok az Úr, a te Istened, aki tanít téged, hogy nyereséget szerezz, aki vezet téged azon az úton, amelyen járnod kell.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok tehát, hogyan hallgattok. Mert akinek van, annak adatik és akinek nincs, attól még az is elvétetik, amije van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "hu-HU",
+      "text": "Legyetek alávetve tehát Istennek. Álljatok ellen az ördögnek, és ő elfut tőletek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "hu-HU",
+      "text": "Irányíts engem az igazságodban, és taníts meg, mert te vagy az én üdvösségem Istene. Egész nap várok rád.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "hu-HU",
+      "text": "Aki bízik önmagában, az bolond de aki bölcsen jár, az megmenekül.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "hu-HU",
+      "text": "Milyen nagy szeretettel szeretem a te törvényedet! Az én elmélkedésem egész nap.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "hu-HU",
+      "text": "Szerezz bölcsességet, szerezz értelmet ne felejtsd el, és ne térj el ajkam szavaitól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "hu-HU",
+      "text": "Én világosságul jöttem a világra, hogy aki hisz bennem, ne maradjon a sötétségben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "hu-HU",
+      "text": "Rögzítsd lépteimet a te igédben ne engedd, hogy bármiféle gonoszság uralkodjon rajtam.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "hu-HU",
+      "text": "A bölcs fiú hallgat az apja intésére, de a gúnyoló nem hallgat a megrovásra.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok és imádkozzatok, hogy ne essetek kísértésbe. A lélek ugyan kész, de a test gyenge.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "hu-HU",
+      "text": "De a szilárd étel a felnőtteknek való, akik a használat révén érzékeiket gyakorolják, hogy megkülönböztessék a jót és a gonoszt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "hu-HU",
+      "text": "Legyenek kedvesek szavaim, és szívemnek gondolatai a te színed előtt, Uram, kősziklám és megváltóm.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "hu-HU",
+      "text": "Mert bölcs tanács által vívsz háborút, és a győzelem sok tanácsadóban van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "hu-HU",
+      "text": "Keressétek az Urat, ti földnek alázatosai, akik megtartjátok az ő rendeléseit. Keressétek az igazságot, keressétek az alázatot lehet, hogy elrejtetnek az Úr haragjának napján.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok tehát mindenkor, imádkozva, hogy méltónak találjatok arra, hogy megszabaduljatok mindezektől, amik meg fognak történni, és hogy megálljatok az Emberfiának színe előtt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "hu-HU",
+      "text": "Egy ember egy napot nagyobbnak tart, a másik minden napot egyformának. Mindegyik legyen teljesen biztos a saját elméjében.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "hu-HU",
+      "text": "Gondolkodom a te rendeléseiden, és figyelem az utadat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "hu-HU",
+      "text": "Aki bölcsességet szerez, szereti a saját lelkét aki megőrzi a megértést, jót talál.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "hu-HU",
+      "text": "Azt mondta nekik Vigyázzatok, mit hallotok. Amilyen mértékkel mértek, olyan mértékkel mérnek nektek és még többet adnak nektek, akik hallotok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "hu-HU",
+      "text": "megváltva az időt, mert a napok gonoszak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "hu-HU",
+      "text": "Adj nekem megértést, és megtartom a te törvényedet. Igen, teljes szívemből engedelmeskedem annak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "hu-HU",
+      "text": "A bölcs ember látja a veszélyt, és elrejtőzik de az egyszerűk továbbmennek, és szenvednek miatta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "hu-HU",
+      "text": "A te idődben stabilitás lesz, üdvösség, bölcsesség és tudás bősége. Az Úr félelme a te kincsed.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "hu-HU",
+      "text": "Akkor a megigazultak úgy fognak ragyogni, mint a nap az ő Atyjuk országában. Aki füllel hall, hallja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "hu-HU",
+      "text": "hogy a ti hitetek ne emberek bölcsességében álljon, hanem Isten hatalmában.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "hu-HU",
+      "text": "Az embernek ezt mondta Íme, az Úr félelme, ez a bölcsesség a gonosztól való eltávolodás pedig értelem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "hu-HU",
+      "text": "A szorgalmas ember tervei bizonyára nyereségre vezetnek de aki siet, az bizonyára szegénységbe rohan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "hu-HU",
+      "text": "A szív csalárdabb minden dolgoknál, és nagyon megromlott. Ki ismerheti azt?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "hu-HU",
+      "text": "Aki a kevesen hű, a sokban is hű és aki a kevesen hamis, a sokban is hamis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "hu-HU",
+      "text": "Igen, és ezért a célból, hogy a ti hitetekhez minden igyekezettel hozzáadjatok erkölcsi kiválóságot és az erkölcsi kiválósághoz tudást",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "hu-HU",
+      "text": "A te szádból való törvény nekem jobb, mint ezernyi arany és ezüst.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "hu-HU",
+      "text": "Az ember lépései az Úrtól vannak hogyan értheti meg az ember az ő útját?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "hu-HU",
+      "text": "Ez is az Úr Seregeitől származik, aki csodálatos tanácsban és kiváló bölcsességben van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "hu-HU",
+      "text": "Vigyázzatok és imádkozzatok, hogy ne essetek kísértésbe. A lélek ugyan kész, de a test gyenge.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "hu-HU",
+      "text": "Mielőtt megvertek, eltévelyedtem de most megtartom a te igédet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "hu-HU",
+      "text": "így megismered a bölcsességet a lelkednek. Ha megtaláltad, akkor jutalmad lesz a te reményed nem vágatik el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "hu-HU",
+      "text": "Mert mi haszna van az embernek, ha az egész világot megnyeri, de az életét elveszíti? Vagy mit adhat az ember az életéért?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "hu-HU",
+      "text": "Tehát a hit hallásból van, és a hallás Isten igéje által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "hu-HU",
+      "text": "Szabadságban fogok járni, mert kerestem a te rendeléseidet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "hu-HU",
+      "text": "Mikor a büszkeség jön, akkor jön a szégyen de az alázatossággal bölcsesség jön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "hu-HU",
+      "text": "Jó dolgokkal töltötte meg az éhezőket. Üres kézzel küldte el a gazdagokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "hu-HU",
+      "text": "Testvérek, ne legyetek gyermekek a gondolatokban, de a gonoszságban legyetek csecsemők, a gondolatokban pedig legyetek érettek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "hu-HU",
+      "text": "A te parancsolataid bölcsebbé tesznek engem, mint az ellenségeim, mert a te parancsolataid mindig velem vannak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "hu-HU",
+      "text": "Hallgass, fiam, és légy bölcs, és tartsd a szívedet az igaz úton!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "hu-HU",
+      "text": "Boldogok a tiszta szívűek, mert ők meglátják az Istent.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "hu-HU",
+      "text": "De szenteld meg az Urat a te szívedben. Mindig légy kész, hogy választ adj mindenkinek, aki kérdezi tőled a reménységed okát, alázattal és félelemmel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "hu-HU",
+      "text": "Többet értek, mint az idősebbek, mert megtartottam a te rendeléseidet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "hu-HU",
+      "text": "Nincs bölcsesség, sem megértés, sem tanács az Úr ellen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "hu-HU",
+      "text": "Nézzetek rám, és üdvözüljetek, ti föld végső határai mert én vagyok Isten, és nincs más.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "hu-HU",
+      "text": "Akkor megnyitotta elméjüket, hogy megértsék az Írásokat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "hu-HU",
+      "text": "És Isten képes minden kegyelmet bőségesen adni nektek, hogy ti, mindenkor mindenben elegendővel bírva, bőségesek legyetek minden jó cselekedetben.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "hu-HU",
+      "text": "Irányíts engem a te parancsolataidnak ösvényén, mert gyönyörködöm bennük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "hu-HU",
+      "text": "A bölcs ember látja a veszélyt és menedéket keres de az egyszerűk továbbmennek, és szenvednek miatta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "hu-HU",
+      "text": "Hallgassatok rám, ti, akik ismeritek az igazságot, az emberek, akiknek a szívében van az én törvényem. Ne féljetek az emberek gyalázatától, és ne rémüljetek meg az ő szidalmaiktól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "hu-HU",
+      "text": "Aki felmagasztalja magát, megaláztatik és aki megalázza magát, felmagasztaltatik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "hu-HU",
+      "text": "hogy megítélhessétek a kiváló dolgokat, hogy tiszták és botrány nélküliek legyetek Krisztus napjáig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "hu-HU",
+      "text": "Ez az én vigasztalásom az én nyomorúságomban, mert a te igéd megelevenített engem.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "hu-HU",
+      "text": "A bölcsesség az értelmes előtt van, a bolond szemei pedig a föld végére kalandoznak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "hu-HU",
+      "text": "Milyen szép a hegyeken a hírnök lába, aki jót hirdet, aki békét hirdet, aki jót hirdet, aki üdvösséget hirdet, aki azt mondja Sionnak A te Istened uralkodik!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "hu-HU",
+      "text": "Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből, teljes elmédből és teljes erődből. Ez az első parancsolat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "hu-HU",
+      "text": "Boldogok, akik megtartják az ő törvényeit, akik teljes szívvel keresik őt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "hu-HU",
+      "text": "Ragaszkodj az oktatáshoz, ne engedd el, őrizd meg, mert ő a te életed.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "hu-HU",
+      "text": "Jézus rájuk nézett, és azt mondta Embereknek ez lehetetlen, de Istennek minden lehetséges.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "hu-HU",
+      "text": "Jézus azt mondta neki Én vagyok a feltámadás és az élet. Aki hisz énbennem, ha meghal is, él.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "hu-HU",
+      "text": "Mert nem hagyod az én lelkemet a holtakkal, sem nem engeded, hogy a te Szented romlást lásson.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "hu-HU",
+      "text": "Nincs itt, hanem feltámadt. Emlékezzetek, mit mondott nektek, amikor még Galileában volt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "hu-HU",
+      "text": "Mert a bűnnek bére halál, de Isten ingyenes ajándéka az örök élet Krisztus Jézusban, a mi Urunkban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "hu-HU",
+      "text": "Mert elsőként azt adtam át nektek, amit én is kaptam hogy Krisztus a mi bűneinkért meghalt az Írások szerint.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "hu-HU",
+      "text": "De nálad van a bocsánat, azért félnek tőled.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "hu-HU",
+      "text": "Megváltom őket a holtak hatalmából, megváltom őket a haláltól! Halál, hol a te csapásod? Holtak, hol a te pusztulásod? Az irgalom elrejtetett szemeim elől.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "hu-HU",
+      "text": "Azt mondta nekik Ne csodálkozzatok. Jézust, a názáretit keresitek, akit keresztre feszítettek. Feltámadt! Nincs itt. Nézzétek a helyet, ahol feküdt!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "hu-HU",
+      "text": "Benne van a mi megváltásunk az ő vére által, a mi vétkeink bocsánata az ő kegyelme gazdagsága szerint.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "hu-HU",
+      "text": "Hogy eltemették, és a harmadik napon feltámadt az Írások szerint.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "hu-HU",
+      "text": "Aki eltitkolja bűneit, nem boldogul, de aki megvallja és elhagyja azokat, irgalmat nyer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "hu-HU",
+      "text": "Az Úr kinyújtotta szent karját minden nép szeme előtt. A föld végső határai látták Istenünk üdvösségét.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "hu-HU",
+      "text": "Mert ez az én vérem az új szövetségből, amely sokakért kiontatik a bűnök bocsánatára.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "hu-HU",
+      "text": "Így Krisztus is, aki egyszer felajánlották a sokak bűnéért, másodszor fog megjelenni, nem a bűn miatt, hanem hogy megmentse azokat, akik vágyakozva várják őt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "hu-HU",
+      "text": "Nincs üdvösség senki másban, mert nincs más név az ég alatt, amely adatott az emberek között, amely által meg kell üdvözülni!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "hu-HU",
+      "text": "Íme, jönnek a napok, mondja az Úr, amikor új szövetséget kötök Izrael házával és Júda házával.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "hu-HU",
+      "text": "Azt mondta nekik Így van megírva, és így kellett a Krisztusnak szenvednie, és a harmadik napon feltámadnia a halálból.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "hu-HU",
+      "text": "Eltüntetve a ránk nézve ellenünk való rendeletek írását, amelyet eltávolított, és a keresztre szegezett.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "hu-HU",
+      "text": "De most Krisztus feltámadt a halálból. Ő lett az elsők gyümölcse az alvók közül.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "hu-HU",
+      "text": "Senki sem válthatja meg testvérét, sem nem adhat Istennek váltságot érte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "hu-HU",
+      "text": "Adok nektek új szívet, és új lelket adok belétek. Kiveszem a kőszívet a testetekből, és hús szívet adok nektek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "hu-HU",
+      "text": "Jézus azt mondta neki Mivel láttál engem, hittél. Boldogok, akik nem láttak, és hittek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "hu-HU",
+      "text": "Most tehát nincs kárhoztatás azoknak, akik Krisztus Jézusban vannak, akik nem a test szerint járnak, hanem a Lélek szerint.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "hu-HU",
+      "text": "Aki a mi vétkeinkért átadott, és a mi megigazulásunkért feltámadt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "hu-HU",
+      "text": "Aki megbocsátja minden bűnödet, aki meggyógyítja minden betegségedet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "hu-HU",
+      "text": "Azt mondták egymásnak Nem égett a szívünk bennünket, amikor útközben beszélt velünk, és megnyitotta nekünk az Írásokat?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "hu-HU",
+      "text": "Ő maga hordozta bűneinket a fára, hogy mi, a bűnöktől meghalva, az igazságnak éljünk. Az ő sebei által gyógyultatok meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "hu-HU",
+      "text": "A bizonyság pedig ez hogy Isten örök életet adott nekünk, és ez az élet az ő Fiában van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "hu-HU",
+      "text": "Az én üdvösségem és dicsőségem Istennél van. Az én erőm sziklája és menedékem Istenben van.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "hu-HU",
+      "text": "Sokan, akik alszanak a föld porában, felébrednek, egyesek örök életre, mások gyalázatra és örök megvetésre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "hu-HU",
+      "text": "Én vagyok a jó pásztor. A jó pásztor életét adja a juhokért.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "hu-HU",
+      "text": "Krisztus megváltott minket a törvény átkától, mivel átokká lett értünk. Mert meg van írva Átkozott, aki fán függ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "hu-HU",
+      "text": "Aki a Fiút bírja, az életet bírja aki pedig Isten Fiát nem bírja, az életet nem bírja.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "hu-HU",
+      "text": "Kegyelem és igazság által engesztelődik meg a bűn az Úr félelme által távoznak el az emberek a gonosztól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "hu-HU",
+      "text": "Lelke szenvedése után meglátja a világosságot és megelégszik. Igaz szolgám sokakat megigazít az ő ismerete által és ő hordozza az ő bűneiket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "hu-HU",
+      "text": "Jézus hangos szóval kiáltott Atyám, kezedbe ajánlom az én lelkemet! És ezt mondva, meghalt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "hu-HU",
+      "text": "Nem igazságos cselekedetek által, amelyeket mi cselekedtünk, hanem az ő kegyelme szerint, megmentett minket a megújulás mosásával és a Szentlélek megújításával.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "hu-HU",
+      "text": "De ha világosságban járunk, amiképpen ő is a világosságban van, közösségünk van egymással, és Jézus Krisztus, az ő Fia, megtisztít minket minden bűntől.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "hu-HU",
+      "text": "Te megbocsátottad néped bűnét, eltakarod minden vétküket. Szela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "hu-HU",
+      "text": "Mózes rézből kígyót készített, és felállította a póznára. Ha valakit megmart a kígyó, amikor a rézkígyóra nézett, életben maradt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "hu-HU",
+      "text": "Ez az akarat annak, aki elküldött engem, hogy mindenki, aki látja a Fiút és hisz benne, örök élete legyen és én feltámasztom őt az utolsó napon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "hu-HU",
+      "text": "De most Krisztus Jézusban ti, akik valaha távol voltatok, közel kerültetek Krisztus vére által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "hu-HU",
+      "text": "Isten ingyen igazít meg minket az ő kegyelme által, Krisztus Jézusban való megváltás által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "hu-HU",
+      "text": "Az a kő, amelyet az építők megvetettek, a szegletkővé lett.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "hu-HU",
+      "text": "Jézus hozzájuk ment és így szólt Nekem adatott minden hatalom mennyen és földön.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "hu-HU",
+      "text": "Mert egy Isten van, és egy közbenjáró az Isten és az emberek között, az ember Krisztus Jézus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "hu-HU",
+      "text": "Mert Krisztus is egyszer szenvedett a bűnökért, az igaz a gonoszokért, hogy elvigyen titeket Istenhez, testben megölve, de lélekben megelevenítve.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "hu-HU",
+      "text": "Új éneket adott a számba, mégpedig dicséretet Istenünknek. Sokan látják ezt, és félnek, és bíznak az Úrban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "hu-HU",
+      "text": "Ábrahám elnevezte azt a helyet Az Úr gondoskodik. Ahogy ezt mondják ma is Az Úr hegyén gondoskodnak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "hu-HU",
+      "text": "Mikor Jézus a ecetet megkapta, így szólt Megvan! És lehajtotta a fejét, és kiadta a lelkét.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "hu-HU",
+      "text": "Ezért ő is képes megmenteni a legteljesebben azokat, akik hozzá közelednek, látva, hogy örökké él, hogy közbenjárjon értük.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "hu-HU",
+      "text": "Még egy kis idő, és a világ nem lát engem többé de ti láttok engem. Mert élek, ti is élni fogtok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "hu-HU",
+      "text": "Még mindig bízom ebben az Úr jóságát látom az élők földjén.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "hu-HU",
+      "text": "Így szól az Úr, az Úr ezekhez a csontokhoz Íme, belétek lehelek, és élni fogtok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "hu-HU",
+      "text": "Azt mondva, hogy az Emberfia bűnös emberek kezébe adatik, megfeszítik, és a harmadik napon feltámad?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "hu-HU",
+      "text": "Hogy megismerjem őt és az ő feltámadásának hatalmát, és az ő szenvedéseinek közösségét, az ő halálához hasonlóvá válva.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "hu-HU",
+      "text": "és az Élő. Halott voltam, és íme, élek örökké és örökké. Ámen. Nálam vannak a Halál és a Pokol kulcsai.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "hu-HU",
+      "text": "Az Úr megváltja szolgái lelkét. Senki, aki őbenne bízik, nem lesz elítélve.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "hu-HU",
+      "text": "Kihagytam, mint sűrű felhő, a te vétkeidet, és mint felhő, a te bűneidet. Térj vissza hozzám, mert megváltottalak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "hu-HU",
+      "text": "De ezek azért íródtak, hogy higgyetek, hogy Jézus a Krisztus, az Isten Fia, és hogy hívőként életetek legyen az ő nevében.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "hu-HU",
+      "text": "Sokkal inkább, most, hogy az ő vére által megigazultunk, megmenekülünk Isten haragjától általa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "hu-HU",
+      "text": "amely által megszenteltettünk Jézus Krisztus testének egyszeri áldozatával.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "hu-HU",
+      "text": "Teremts bennem tiszta szívet, ó Isten! Újíts meg bennem egy egyenes lelket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "hu-HU",
+      "text": "Mózestől és minden prófétától kezdve, mindazokat a dolgokat, amelyek őrá vonatkoznak, megmagyarázta nekik az összes Írásban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "hu-HU",
+      "text": "Érte halt meg mindenki, hogy akik élnek, többé ne maguknak éljenek, hanem annak, aki értük meghalt és feltámadt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "hu-HU",
+      "text": "és általa mindeneket magához békessé tett, akár a földön, akár a mennyben, a keresztje vére által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "hu-HU",
+      "text": "Mert nagy a te kegyelmed irántam. Megmentetted lelkemet a legmélyebb Seolból.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "hu-HU",
+      "text": "Mert az Emberfia is nem azért jött, hogy szolgáljanak neki, hanem hogy szolgáljon, és életét adja sokakért váltságul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "hu-HU",
+      "text": "még amikor halottak voltunk a vétkeink miatt, életre keltett minket Krisztussal—kegyelemből üdvözültetek—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "hu-HU",
+      "text": "Ki az, aki elítél? Krisztus az, aki meghalt, sőt, aki feltámadt a halálból, aki Isten jobbján van, és aki szintén közbenjár értünk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "hu-HU",
+      "text": "Mert nem megvetette, sem megutálta az afflictiót az afflictáltakban, sem elrejtette az ő arcát tőle hanem amikor ő hozzá kiáltott, meghallotta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "hu-HU",
+      "text": "Bizony, ő hordozta a mi betegségünket és viselte a mi fájdalmunkat mégis, mi őt megsebesítettnek, Isten által megvertnek és afflictáltnak tartottuk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "hu-HU",
+      "text": "Bizony mondom néktek, aki hallja az én beszédemet és hisz abban, aki elküldött engem, örök élete van, és nem jön ítéletre, hanem átlépett a halálból az életbe.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "hu-HU",
+      "text": "de most nyilvánvalóvá lett a mi Megváltónk, Krisztus Jézus megjelenésével, aki eltörölte a halált, és életet és halhatatlanságot hozott világosságra a Jó Hír által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "hu-HU",
+      "text": "Te, aki sok és keserű bajt mutattál nekünk, életben hagysz engem. Újra felhozol minket a föld mélységeiből.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "hu-HU",
+      "text": "Jöjjetek! Térjünk vissza az Úrhoz mert ő szétszakított minket, és meggyógyít minket megsebesített minket, és bekötözi sebeinket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "hu-HU",
+      "text": "Megnyíltak a szemeik, és felismerték őt majd eltűnt a szemük elől.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "hu-HU",
+      "text": "Mert a szívvel hisz az ember, ami igazságra vezet és a szájjal tesz vallomást, ami üdvösségre vezet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "hu-HU",
+      "text": "Mert a kereszt beszéde bolondság a veszedelemben lévőknek, de nekünk, akik üdvözülünk, Istennek hatalma.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "hu-HU",
+      "text": "Az igazak gyümölcse élet fája a bölcs ember lelkeket nyer.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "hu-HU",
+      "text": "Azért örömmel merítetek vizet az üdvösség forrásaiból.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "hu-HU",
+      "text": "Miképpen Mózes felemelte a kígyót a pusztában, úgy kell a Ember Fiának is felemeltetnie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "hu-HU",
+      "text": "Aki a saját Fiát sem kímélte, hanem mindnyájunkért odaadta, hogyan ne ajándékozna nekünk vele együtt mindent?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "hu-HU",
+      "text": "Mert megszabadítottad lelkemet a haláltól, szemeimet a könnyektől, és lábaimat a botlástól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "hu-HU",
+      "text": "Jézus pedig mondta neki Bizony mondom néked, ma velem leszel a paradicsomban.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "hu-HU",
+      "text": "Tudván, hogy nem romlandó dolgokkal, ezüsttel vagy arannyal váltattatok meg, hanem a ti atyáitoktól örökölt hiábavaló életmódotokból.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "hu-HU",
+      "text": "Kezeidbe ajánlom az én lelkemet te megváltottál, Uram, az igazság Isten.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "hu-HU",
+      "text": "Mikor pedig ezt mondta, megmutatta nekik kezeit és oldalát. A tanítványok pedig örvendeztek, mikor látták az Urat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "hu-HU",
+      "text": "De hála Istennek, aki a mi Urunk Jézus Krisztus által adja nekünk a győzelmet.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "hu-HU",
+      "text": "Az Úr az én erőm és énekem, és üdvösségemmé lett.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "hu-HU",
+      "text": "Mikor pedig elmentek, hogy hirdessék a tanítványoknak, íme, Jézus eléjük jött, mondván Üdvözöllek! Ők pedig odamentek, megfogták lábait, és imádták őt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "hu-HU",
+      "text": "Őbenne ti is, miután hallottátok az igazság igéjét, üdvösségetek evangéliumát, amelyben hívőkké lettetek, megpecsételtettetek a megígért Szentlélekkel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "hu-HU",
+      "text": "Akit Isten feltámasztott, megszabadítva a halál gyötrelmétől, mert nem lehetett, hogy őt annak hatalma fogva tartsa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "hu-HU",
+      "text": "Zsoltár. Énekeljetek az Úrnak új éneket, mert csodálatos dolgokat tett! Jobb keze és szent karja üdvösséget szerzett néki.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "hu-HU",
+      "text": "Abban a napon forrás nyílik Dávid házának és Jeruzsálem lakóinak a bűn és a tisztátalanság miatt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "hu-HU",
+      "text": "Mondta nekik Miért vagyok nyugtalanságban? Miért támadnak kétségek a szívetekben?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "hu-HU",
+      "text": "Mert nem szégyenlem a Krisztus evangéliumát, mert Istennek hatalma az üdvösségre minden hívőnek, zsidónak először, de görögnek is.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "hu-HU",
+      "text": "Mert ha mikor ellenségek voltunk, megbékéltünk Istennel az ő Fiának halála által, sokkal inkább, megbékélve, üdvözülünk az ő életéből.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "hu-HU",
+      "text": "Aki megváltja életedet a pusztulástól, aki megkoronáz téged kegyelemmel és irgalmassággal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "hu-HU",
+      "text": "Aki vele együtt megkereszteltettetek, akiben vele együtt feltámadtatok, az Isten munkájába vetett hit által, aki feltámasztotta őt a halálból.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "hu-HU",
+      "text": "Halottak voltatok a ti bűneitekben és a ti testetek körülmetéletlenségében megelevenített titeket ő vele együtt, megbocsátva nékünk minden bűnünket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "hu-HU",
+      "text": "Isten áldozatai a megtört lélek a megtört és alázatos szívet, ó Isten, nem veted meg.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "hu-HU",
+      "text": "Mondta nekik Menjetek el az egész világra, és hirdessétek az evangéliumot minden teremtésnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "hu-HU",
+      "text": "Aki önmagát adta értünk, hogy megváltson minket minden gonoszságtól, és megtisztítson magának egy népet, amely buzgó a jó cselekedetekre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "hu-HU",
+      "text": "Ebben van a szeretet, nem abban, hogy mi szerettük az Istent, hanem hogy ő szeretett minket, és elküldte Fiát engesztelő áldozatul a mi bűneinkért.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "hu-HU",
+      "text": "Izrael, remélj az Úrban, mert az Úrban kegyelem van bőséges megváltás van nála.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "hu-HU",
+      "text": "Mikor a százados és azok, akik vele voltak, nézték Jézust, és látták a földindulást és a történteket, megijedtek, mondván Bizony, ez az Isten Fia volt!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "hu-HU",
+      "text": "Akit Isten küldött engesztelő áldozatul, az ő vére által, az ő igazságának bemutatására a korábbi bűnök elengedése által, Isten tűrésében.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "hu-HU",
+      "text": "Az Úr nem késlekedik az ígéretével, ahogyan egyesek késlekedésnek tartják, hanem türelmes irántunk, nem akarván, hogy némelyek elveszjenek, hanem hogy mindenki megtérjen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "hu-HU",
+      "text": "Várj az Úrra! Légy erős, és bátorságot vegyél szívedben! Igen, várj az Úrra!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "hu-HU",
+      "text": "Mert nem gyönyörködöm a halálában annak, aki meghal, mondja az Úr, az Úr azért térjetek meg, és éljetek!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "hu-HU",
+      "text": "Én vagyok az ajtó ha valaki én általam megy be, üdvözül, és bemegy és kijön, és legelőt talál.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "hu-HU",
+      "text": "A beszéd hű és minden elfogadásra méltó, hogy Krisztus Jézus azért jött a világra, hogy megmentsen bűnösöket, akik közül én vagyok a legnagyobb.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "hu-HU",
+      "text": "Mert meg vagyok győződve, hogy sem halál, sem élet, sem angyalok, sem fejedelemségek, sem jelenvalók, sem jövendők, sem hatalmak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "hu-HU",
+      "text": "Mert megszabadítottad lelkemet a haláltól, és megakadályoztad lábaimat a botlásban, hogy Isten előtt járhassak az élők világosságában.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "hu-HU",
+      "text": "Én, még én, vagyok az, aki eltörli a te vétkeidet a magamért és nem emlékezem meg a te bűneidről.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "hu-HU",
+      "text": "Hasonlóképpen, vette a poharat is vacsora után, mondván Ez a pohár az új szövetség az én véremben, amely értetek kiöntetik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "hu-HU",
+      "text": "Aki Isten Fiának hatalmassá nyilvánítottatott a szentség lelkének szerint, a halálból való feltámadás által, Jézus Krisztus, a mi Urunk.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "hu-HU",
+      "text": "Isten nekünk a szabadítás Istene az Úrnak, a mi Urunknak, a halálból való szabadulás tartozik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "hu-HU",
+      "text": "Ti is, a ti szövetségetek vére miatt, kiszabadítottam a foglyaitokat a veremből, amelyben víz nincsen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "hu-HU",
+      "text": "Mondta nekik Vessétek a hálót a csónak jobb oldalára, és találtok. Ők pedig vetették, és most már nem tudták behúzni a sok hal miatt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "hu-HU",
+      "text": "Most pedig Isten feltámasztotta az Urat, és minket is feltámaszt az ő hatalma által.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "hu-HU",
+      "text": "Mert ahogyan Ádámban mindnyájan meghalnak, úgy Krisztusban mindnyájan életre kelnek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "hu-HU",
+      "text": "De Isten megváltja lelkemet a Seol hatalmától, mert ő befogad engem. Szela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "hu-HU",
+      "text": "De én hálát adok neked a hálaadás hangján megfizetem, amit megfogadtam. Az üdvösség az Úré.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "hu-HU",
+      "text": "Kivezette őket Betániáig, és felemelte kezét, és megáldotta őket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "hu-HU",
+      "text": "Kiáltottak nagy hangon, mondván Üdvösség a mi Istenünkhöz, aki a trónon ül, és a Bárányhoz!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "hu-HU",
+      "text": "Az üdvösség az Úré áldásod legyen a te népedre! Szela.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "hu-HU",
+      "text": "Mert az Úr a mi bíráunk, az Úr a mi törvényhozónk, az Úr a mi királyunk ő megszabadít minket.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "hu-HU",
+      "text": "Mert Isten kegyelme megjelent, üdvösséget hozva minden embernek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "hu-HU",
+      "text": "Ezért elhagyja az ember apját és anyját, és feleségéhez csatlakozik, és egy testté lesznek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "hu-HU",
+      "text": "Mind a te fiaidat az Úr tanítja, és a te fiaid békéje nagy lesz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "hu-HU",
+      "text": "és mondta Ezért elhagyja az ember apját és anyját, és feleségéhez csatlakozik és a kettő egy testté lesz?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "hu-HU",
+      "text": "Gyermekek, engedelmeskedjetek a szüleiteknek az Úrban, mert ez helyes.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "hu-HU",
+      "text": "Tiszteld apádat és anyádat, hogy hosszú ideig élj a földön, amelyet az Úr, a te Istened ad neked.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "hu-HU",
+      "text": "Nevelj fel egy gyermeket az ő útján, és amikor megöregszik, nem tér el attól.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "hu-HU",
+      "text": "Adok nekik szívet, hogy ismerjenek engem, hogy én vagyok az Úr. Ők az én népem lesznek, és én az ő Istenük leszek mert teljes szívvel visszatérnek hozzám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "hu-HU",
+      "text": "És lement velük, és elment Názáretbe. Engedelmeskedett nekik, és anyja mindezeket a mondásokat a szívében megőrizte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "hu-HU",
+      "text": "Atyák, ne ingereljétek gyermekeiteket, hogy ne csüggedjenek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "hu-HU",
+      "text": "Az én népem békés lakóhelyen fog élni, biztonságos hajlékokban és csendes pihenőhelyeken.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "hu-HU",
+      "text": "Mert aki Isten akaratát cselekszi, az az én testvérem, nővérem és anyám.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "hu-HU",
+      "text": "és buzgón tanítani fogjátok őket a gyermekeiteknek, és beszélni róluk, amikor ültök a házatokban, és amikor jártok az úton, és amikor lefeküdtek, és amikor felkeltetek.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "hu-HU",
+      "text": "A város utcái tele lesznek fiúkkal és lányokkal, akik játszanak az utcákon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "hu-HU",
+      "text": "Ha ti, akik gonoszak vagytok, tudjátok, hogyan adjatok jó ajándékokat gyermekeiteknek, mennyivel inkább ad a ti mennyei Atyátok jó dolgokat azoknak, akik kérik őt!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "hu-HU",
+      "text": "De mi gyengédek voltunk közöttetek, mint ahogy egy szoptató anya gondoskodik a saját gyermekeiről.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "hu-HU",
+      "text": "Isten a magányosokat családokba helyezi a foglyokat énekléssel hozza ki, de a lázadók napégette földön laknak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "hu-HU",
+      "text": "A gyermekek gyermekei az öregek koronája a gyermekek dicsősége a szüleik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "hu-HU",
+      "text": "Ha ti, akik gonoszak vagytok, tudjátok, hogyan adjatok jó ajándékokat gyermekeiteknek, mennyivel inkább ad a ti Atyátok, aki a mennyben van, jó dolgokat azoknak, akik kérik őt!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

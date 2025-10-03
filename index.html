@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/brand.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypeSprout</title>
+    <!-- Avoid COOP/COEP that breaks Firebase popup close detection -->
+    <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin-allow-popups" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="mobile-web-app-capable" content="no" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <script>
+      // GH Pages 404 redirect support: if ?p=<encodedPath> is present, restore it before app boot
+      (function(){
+        try {
+          var params=new URLSearchParams(location.search);
+          var p=params.get('p');
+          if(p){
+            var target=decodeURIComponent(p);
+            window.history.replaceState(null,'',target);
+          }
+        } catch(e){}
+      })();
+    </script>
+    <meta http-equiv="Cache-Control" content="no-cache, max-age=0, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <script type="module" crossorigin src="/assets/index-Dtk1fXa2.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-C6EMue_y.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

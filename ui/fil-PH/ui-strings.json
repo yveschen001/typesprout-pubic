@@ -1,0 +1,455 @@
+{
+  "language": "fil-PH",
+  "translations": {
+    "aboutBody": "TypeSprout ay isang website para sa pagsasanay sa pagta-type at paglago para sa mga baitang 1–6 na may suporta sa zh‑TW / zh‑CN / en‑US, na naglalayong magbigay ng isang ligtas at magiliw na kapaligiran para sa mga bata sa buong mundo upang magsanay ng input, pag-unawa, at pagpapahayag.",
+    "home": {
+      "aboutContent": "Hi everyone， I'm Yves.C， a dad from Taiwan. Ang inspirasyon para sa TypeSprout ay nagmula sa panonood sa aking mga anak na nakikipag-chat sa mga kaibigan sa buong mundo sa Roblox—napagtanto ko na ang pagta-type ay talagang unang susi para sa mga bata upang buksan ang mas malaking mundo. Kaya't nilikha ko ang web typing practice na ito gamit ang mga konsepto ng no-code + ChatGPT/AI， na nagdaragdag ng kaunting visual feedback ng paglago ng puno: sa bawat tamang keystroke， ang puno ay lumalaki ng kaunti， na ginagawang nakikita ang mga pagsisikap sa araw-araw. Sa mga nilalaman， inayos ko ang mga karaniwang ginagamit na salita mula sa baitang 1-6 sa mga napipiling tanong; maaaring magsanay ang mga bata sa kanilang katutubong wika at lumipat sa Ingles o iba pang mga wika na nais nilang sanayin sa Mga Setting. Ang mga salitang ito ay na-filter ng AI ayon sa hirap ng baitang.Para sa mga matatanda， naghanda ako ng pinalawig na tanong na banko， kasalukuyang kasama ang Bible API at mga AI-generated na talata mula sa Bibliya (mula sa mga libreng online na mapagkukunan， maaaring limitado ang katumpakan)， at unti-unti kong idaragdag ang mga paksa tulad ng mga sikat na sipi upang gawing mas kawili-wili ang pagsasanay. Sa TypeSprout， unti-unting makakakuha ng mga puntos at araw-araw na pagsisikap ang mga bata; ang maliit na puno sa screen ay lalago rin kasama ang kanilang pagganap， na bumubuo ng positibong siklo ng pagsisikap → feedback → muling pag-engage. Nagdisenyo rin ako ng 5-araw na aktibong hamon: ang pagsasanay ng 5 magkakasunod na araw ay makakakuha ng maliit na gantimpala ng prutas. Kapag nakikita ang mga tagumpay， lalaki ang motibasyon. Ito ang ritmo ng pagkatuto na nais kong ibahagi sa mga bata at sa inyo. Para sa mga guro， nagdagdag ako ng Class function sa personal na pahina， na nagpapahintulot sa mga guro na lumikha ng mga klase at mag-imbita ng mga kaklase na lumahok， na ginagawang mas mapagkumpitensya ang pagsasanay.Ito ay isang maliit na proyekto na pinapanatili ko nang personal (walang background sa engineering， pangunahing umaasa sa ChatGPT/AI para sa gabay at pakikipagtulungan). Kung mayroon kang mga mungkahi o nakakaranas ng mga problema habang ginagamit， mangyaring huwag mag-atubiling mag-iwan ng mensahe sa seksyon ng mga isyu sa GitHub， at gagawin ko ang aking makakaya upang ayusin at lutasin ang mga ito. Salamat sa inyong lahat nang maaga. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Tungkol sa TypeSprout",
+      "ctaTest": "Kumuha ng Pagsusulit",
+      "googleUsersCount": "Mga Gumagamit ng Google Login",
+      "googleUsersTooltip": "Kabuuang bilang ng mga gumagamit na nag-log in gamit ang mga Google account",
+      "heroSubtitle": "Bawat pindot ng susi ay nagiging enerhiya upang diligan ang iyong puno. Ang suporta sa maraming wika ay tumutulong sa pagbuo ng tamang mga gawi sa pagta-type at pokus.",
+      "heroTitle": "Kids type， ang punla ay lumalaki.",
+      "tabs": {
+        "leader": "Leaderboard (preview)",
+        "visitors": "Mga Bisita"
+      },
+      "leaderEmpty": "Walang datos pa",
+      "leaderViewFull": "Tingnan ang buong leaderboard",
+      "players": "Mga Manlalaro",
+      "privacyNote": "Hindi kami nangongolekta ng personal na data; ang mga istatistika ay inanonimisa para sa ranggo at feedback sa pag-aaral lamang.",
+      "visitorsDesc": "Pamahagi ng mga bansa ng mga bisita at manlalaro ng site (hindi nagpapakilala)."
+    },
+    "absoluteScale": "Berde ≤{{low}}% · Dilaw ≤{{mid}}% · Pula >{{mid}}% (% ay ang pinakabagong kabuuang rate ng pagkakamali para sa susi na iyon)",
+    "accuracy": "Katumpakan {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Tsart ng trend ng katumpakan: mas mataas na linya ay nangangahulugang mas tumpak",
+      "accuracyChartTitle": "Katumpakan",
+      "accuracyChartTooltip": "Y-axis: Katumpakan (mas mataas ay mas tumpak); X-axis: pagkakasunod-sunod ng oras. Ipinapakita ng asul na linya ang mga pagbabago sa katumpakan para sa bawat pagsubok.",
+      "defaultDescription": "Top: Trend ng iskor ng bilis; Bottom: Trend ng katumpakan. Una, pagbutihin ang katumpakan, pagkatapos ay unti-unting dagdagan ang bilis.",
+      "speedChartAriaLabel": "Speed score trend chart: mas mataas na linya ay nangangahulugang mas magandang pagganap",
+      "speedChartTitle": "Bilis ng Iskor (Tamang Bilis)",
+      "speedChartTooltip": "Y-axis: Iskor ng bilis (mas mataas ay mas mabuti); X-axis: pagkakasunod-sunod ng oras. Ipinapakita ng berdeng linya ang bilis ng tamang mga karakter lamang, pinagsasama ang bilis at katumpakan.",
+      "recordNumber": "Record {{number}}",
+      "speedScore": "Speed Score: {{score}}",
+      "totalQuestionChars": "Total Question Chars: {{chars}} chars",
+      "actualInput": "Actual Input: {{chars}} chars",
+      "timeSpent": "Time Spent: {{seconds}} sec",
+      "accuracy": "Accuracy {{percent}}%",
+      "correctChars": "Correct Chars: {{chars}} chars",
+      "percentile": "Exceeds about {{percent}}% of people",
+      "highestHere": "Highest here {{value}}",
+      "recentValue": "Recent {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Accuracy = tamang mga karakter ÷ kabuuang mga karakter ng tanong. Tandaan: ang mga hindi na-type na karakter ay binibilang din sa kabuuan, kaya ang mga nawawalang karakter ay magpapababa sa katumpakan.",
+      "hideInsights": "Itago ang mga pananaw",
+      "scoreTooltip": "Composite score = input speed of correct chars only. Calculation: speed (WPM/CPM) × accuracy. Purpose: first stabilize accuracy， then gradually increase speed.",
+      "showInsights": "Ipakita ang mga pananaw",
+      "summary": "Buod ng sesyon na ito",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Mga aktibong araw: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} mga karakter",
+    "adjWpm": "Composite score (tamang bilis)",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Advertising Cookies: Tulad ng nabanggit sa itaas, kung i-enable natin ang Google AdSense, gagamitin ng Google ang cookies upang magpakita ng mga ad. Maaari mong bisitahin ang pahina ng mga setting ng ad ng Google (https://adssettings.google.com/) anumang oras upang pamahalaan o mag-opt out sa mga personalized na ad.",
+        "functionalCookies": "Functional Cookies: Gumagamit kami ng cookies upang mapanatili ang iyong status sa pag-login."
+      },
+      "section5": {
+        "contactChannel": "Contact Channel: Kung mayroon kang anumang mga katanungan tungkol sa patakarang ito sa privacy o nais na ipatupad ang iyong mga karapatan sa data (tulad ng pagtatanong, pagwawasto, pagtanggal), mangyaring isumite ang mga kahilingan sa aming opisyal na pahina ng GitHub Issues.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Mahalagang Paalala: Pakitandaan na ang GitHub Issues ay isang pampublikong platform. Upang maprotektahan ang iyong personal na privacy, mangyaring huwag mag-iwan ng anumang personal na impormasyon sa nilalaman ng Isyu, tulad ng iyong email address, tunay na pangalan, o mga screenshot ng account. Kailangan lamang naming ibigay mo ang iyong Username sa TypeSprout at isang paglalarawan ng isyu. Hindi kami makikipag-ugnayan sa iyo sa anumang pribadong channel maliban sa mga Isyu.",
+        "responseTime": "Dahil ito ay isang proyekto na pinanatili nang personal, kami ay tutugon nang mabilis hangga't maaari sa aming kakayahan. Salamat sa iyong pasensya at pag-unawa."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Maaari mong opsyonal na ibigay ang iyong saklaw ng edad, propesyonal na larangan, wika, o rehiyon. Ang impormasyong ito ay hindi sapilitan at pangunahing inilaan upang mapabuti ang mga rekomendasyon ng tanong, para sa hindi nagpapakilalang pagsusuri ng istatistika, at pag-u grupo ng leaderboard. Hindi namin kailangan o pinatutunayan ang katumpakan ng impormasyong ito."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Advertising): Maaaring gamitin namin ang Google AdSense sa hinaharap upang magpakita ng mga ad upang suportahan ang mga gastos sa pagpapatakbo ng website. Maaaring gumamit ang Google at ang mga kasosyo nito ng Cookies (tulad ng DoubleClick Cookie) upang ipakita ang mga personalized na ad batay sa iyong nakaraang kasaysayan ng pagbisita.",
+          "googleAnalytics": "Google Analytics: Ginagamit namin ang serbisyong ito upang suriin ang trapiko ng website upang maunawaan ang paggamit ng serbisyo. Nangangalap ito ng mga impormasyong hindi nagpapakilala tulad ng iyong IP address, uri ng browser, operating system, mga pahinang binisita, atbp."
+        },
+        "principle": "Sumusunod kami sa prinsipyo ng minimalism, nangangalap lamang ng data na kinakailangan upang mapanatili ang operasyon ng serbisyo:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Core Function: Ang iyong hindi nagpapakilalang user ID at data ng laro ay bahagi ng pangunahing functionality ng serbisyong ito, ginagamit upang i-record ang iyong mga iskor, magbigay ng mga historical chart, at global leaderboards.",
+        "experienceOptimization": "Optimization ng Karanasan: Ang edad, propesyon, at iba pang impormasyon na kusang-loob mong ibinibigay ay gagamitin upang itugma ka sa mas angkop na mga tanong para sa pagsasanay sa pagta-type.",
+        "serviceMaintenance": "Serbisyo ng Pagpapanatili: Ang teknikal na datos na nakolekta sa pamamagitan ng Google Analytics ay tumutulong sa amin na maunawaan ang katayuan ng operasyon ng website at ayusin ang mga potensyal na isyu.",
+        "statisticalAnalysis": "Statistical Analysis: Aaminin at pagsasamahin namin ang lahat ng impormasyong kusang ibinigay ng mga gumagamit upang maunawaan ang pangkalahatang profile ng grupo ng mga gumagamit at mapabuti ang serbisyo."
+      },
+      "section3": {
+        "crossBorderTransfer": "Cross-Border Transfer: Maaaring nasa labas ng iyong bansa (hal.， Estados Unidos) ang mga server ng GitHub at Google Firebase. Sa paggamit ng serbisyong ito， nauunawaan at sumasang-ayon ka na ang iyong data ay ipapadala， itatago， at ipoproseso sa mga server na ito sa ibang bansa.",
+        "dataRetention": "Data Retention: Dahil ang serbisyong ito ay ganap na libre, hindi namin maaasahan ang permanenteng imbakan ng data. Nananatili ang karapatan naming linisin ang ilan o lahat ng data ng gumagamit nang walang abiso.",
+        "storageLocation": "Storage Location: Ang code ng website na ito ay naka-host sa GitHub, habang ang iyong game data at boluntaryong ibinigay na impormasyon ay naka-imbak sa database ng Google Firebase."
+      },
+      "effectiveDate": "Epektibong Petsa: Setyembre 21, 2025",
+      "introduction": "Maligayang pagdating sa TypeSprout! Ito ay isang libreng website para sa pagsasanay sa pagta-type na nilikha ng isang indibidwal na developer mula sa interes. Nauunawaan namin na mahalaga ang iyong privacy, kaya't ang patakarang ito ay naglalayong ipaliwanag kung anong data ang kinokolekta namin at kung paano namin gagamitin ang data na ito.",
+      "notice": "Mangyaring tandaan: Ang serbisyong ito ay hindi pang-komersyo, at lahat ng tampok ay ibinibigay as is. Kung hindi ka sumasang-ayon sa anumang mga tuntunin ng patakarang ito sa privacy, mangyaring itigil ang paggamit ng serbisyong ito kaagad. Ang patuloy na paggamit ay nagpapahiwatig na nabasa mo, naintindihan, at sumasang-ayon ka sa lahat ng nilalaman ng patakarang ito.",
+      "titleSuffix": "Patakaran sa Privacy"
+    },
+    "leaderboard": {
+      "allGrades": "Lahat ng baitang",
+      "lastMonth": "Nang nakaraang buwan na ranggo",
+      "lastWeek": "Nang nakaraang linggo na ranggo",
+      "loading": "Naglo-load...",
+      "loadingHint": "Kung patuloy itong nabibigo na mag-load, mangyaring suriin ang iyong koneksyon sa network o subukang muli mamaya.",
+      "noData": "Walang data",
+      "reload": "I-reload",
+      "signInHint": "Tip: Mag-sign in upang awtomatikong masave ang iyong mga resulta sa pagsusulit; ginagamit lamang namin ang mga ito para sa ranggo at feedback sa pagkatuto, walang nakolektang sensitibong personal na data.",
+      "sortHint": "Tip: Pindutin ang Alt+↑/↓ para magpalit ng pagkakasunod-sunod",
+      "today": "Ngayon na ranggo",
+      "tooltip": "🏆 Paano kinakalkula ang leaderboard?&#10;• Ngayon: mga puntos ngayon (lokal na oras)&#10;• Kahapon: mga puntos kahapon (lokal na oras)&#10;• Nakaraang linggo: Lunes hanggang Linggo ng nakaraang linggo&#10;• Nakaraang buwan: 1st hanggang huling araw ng nakaraang buwan&#10;&#10;📊 Paano kinakalkula ang mga puntos?&#10;• Composite score = max speed × accuracy × practice time&#10;• Ang maraming pagsasanay sa parehong araw ay pinagsasama&#10;• Mas mahabang oras ng pagsasanay = mas mataas na puntos&#10;&#10;💡 Tip: Magpraktis ng kaunti araw-araw at lalaki ang iyong puno!",
+      "yesterday": "Kahapon na ranggo"
+    },
+    "test": {
+      "allowBackspace": "Payagan ang Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Kahirapan",
+      "difficultyEasy": "Madali",
+      "difficultyHard": "Mahirap",
+      "difficultyMedium": "Katamtaman",
+      "finished": "Tapos",
+      "inputPrompt": "Pakisulat ang teksto sa ibaba",
+      "insightsSummary": "Mga pananaw (heatmap ng keyboard, mga trend ng bilis at katumpakan)",
+      "loadingQuestions": "Naglo-load ng mga tanong...",
+      "mistakes": "Mga pagkakamali",
+      "outOfFocus": "Pakiclick ang input box upang magpatuloy sa pagta-type",
+      "promptStart": "Pindutin ang Simulan, pagkatapos ay i-type ang teksto sa itaas. Ang pag-paste ay hindi pinapayagan.",
+      "questionCount": "Bilang ng Tanong",
+      "questionPreview": "Tanong (unang 24 na karakter)",
+      "questionStats": "Mga istatistika ng tanong ng sesyon na ito (oras na ginugol / limitasyon, bilang ng pagkakamali)",
+      "questionText": "Question text (hindi maaaring piliin o kopyahin)",
+      "shortcutsDescription": "Space: Simulan/Pahintuin • R: I-reset • F: Tumutok sa input",
+      "signInToSave": "Mag-sign in upang i-save ang iyong progreso",
+      "submitAndReview": "I-submit at tingnan ang mga resulta",
+      "submitQuestion": "I-submit ang tanong na ito (Enter)",
+      "timeLimit": "Limitasyon ng oras",
+      "timeSpent": "Time Spent: {{seconds}} sec",
+      "title": "Subok",
+      "tryAgain": "Subukan muli",
+      "shortcuts": "Pindutin ang Enter para i-submit"
+    },
+    "profile": {
+      "alreadyJoined": "Nakasali ka na sa klase na ito",
+      "analysis": "Masusing Pagsusuri",
+      "birthday": "Kaarawan (YYYY-MM)",
+      "classCodePlaceholder": "Class Code",
+      "classCodeTooltip": "Natatanging site-wide (3–50 na karakter; hindi maaaring maglaman ng /). Ginagamit para sa mga kumpetisyon at pag-u grupo ng leaderboard; maaaring sumali ng hanggang 5. Maaaring lumikha ng bagong mga code ang mga guro; awtomatikong sasali pagkatapos ng paglikha (kung hindi puno).",
+      "classCreatedAndJoined": "Matagumpay na nalikha at na-sali ang klase",
+      "classNotFound": "Hindi natagpuan ang code ng klase",
+      "codeAlreadyTaken": "Nakuha na ang class code",
+      "confirmDelete": "Sigurado ka bang nais mong tanggalin ang code ng klase na ito?",
+      "copy": "Kopyahin",
+      "copyFailed": "Nabigo ang pagkopya, mangyaring pumili at kopyahin nang manu-mano.",
+      "copySuccess": "Naka-copy na ang class code sa clipboard.",
+      "country": "Bansa/Rehiyon",
+      "create": "Lumikha",
+      "delete": "Tanggalin",
+      "female": "Babae",
+      "fruits": "Prutas",
+      "fruitsTooltip": "Mga prutas na nakolekta mula sa iyong puno. Nakamit sa pamamagitan ng pag-abot sa mga layunin ng puntos araw-araw.",
+      "gender": "Kasarian",
+      "googleAccount": "Google Account",
+      "history": "Kasaysayan",
+      "invalidCodeFormat": "Mangyaring maglagay ng 3-50 na karakter nang walang /",
+      "join": "Sumali",
+      "joinError": "Nabigong sumali sa klase",
+      "joinSuccess": "Matagumpay na sumali sa klase",
+      "joinedClasses": "Mga Klase na Sinalihan Ko",
+      "language": "Wika",
+      "male": "Lalaki",
+      "maxClassesReached": "Naabot na ang pinakamataas na bilang ng mga klase",
+      "maxJoinedClasses": "Naabot na ang maximum na bilang ng pinagsamang klase",
+      "myClasses": "Ang Aking Mga Klase",
+      "nickname": "Palayaw",
+      "noClasses": "Walang klase",
+      "noUser": "User not found",
+      "onlyTeacherCanCreate": "Tanging mga guro lamang ang makakagawa ng mga code ng klase",
+      "other": "Iba",
+      "points": "Mga Punto",
+      "pointsDetail": "Kabuuang puntos; mangyaring pumunta sa",
+      "pointsTooltip": "Mga puntos na nakuha mula sa pang-araw-araw na pagsasanay. Ginagamit upang palaguin ang iyong puno at i-unlock ang mga gantimpala.",
+      "remove": "Alisin",
+      "role": "Papel",
+      "roleCheckError": "Nabigong suriin ang papel ng gumagamit",
+      "save": "I-save",
+      "student": "Estudyante",
+      "teacher": "Guro",
+      "view": "tingnan",
+      "xp": "Karanasan (XP)",
+      "xpTooltip": "Mga karanasan na puntos na nakuha sa pamamagitan ng pagsasanay sa pagta-type. Mas mataas na katumpakan at bilis = mas maraming XP!",
+      "youOwnThis": "Ikaw ang may-ari nito",
+      "title": "Profile",
+      "auto": "Auto",
+      "classCode": "Class Code",
+      "error": "Error",
+      "alreadyTaken": "Already taken",
+      "available": "Available",
+      "logout": "Logout",
+      "chartDescription": "Personal trends: top composite score, bottom accuracy.",
+      "parent": "Magulang"
+    },
+    "tips": {
+      "avgAdj": "Avg Composite (30d)",
+      "meVsSite": "Ako vs Site (30d)",
+      "totalChars": "Total characters: {{chars}} characters"
+    },
+    "admin": {
+      "bulkTranslationTool": "Bulk Localization Tool",
+      "execute": "Isagawa",
+      "sourceLanguage": "Wika ng Pinagmulan",
+      "targetLanguage": "Walang mga segment na ibinigay.",
+      "usageDescription": "Ipasok ang mga code ng wika ng pinagmulan at target, i-paste ang multi-line na teksto at pindutin ang isagawa, ang mga resulta ay para sa manu-manong pagsusuri lamang. Ang tampok na ito ay nangangailangan ng admin token upang paganahin.",
+      "usageInstructions": "Mga Tagubilin sa Paggamit"
+    },
+    "garden": {
+      "charsUnit": "mga karakter",
+      "growthChartSubtitle": "Iba't ibang hitsura ng entablado at mga kundisyon para ma-unlock (ilustrasyon).",
+      "growthChartTitle": "Diagram ng paglago",
+      "historyRule1": "Ang mga puntos ay kinakalkula mula sa bilis × katumpakan × oras, na ginagamit upang itaguyod ang paglago ng puno.",
+      "historyRule2": "Ang listahan sa ibaba ay nagpapakita ng bawat tala ng kita, na ginagawang madali para sa iyo na subaybayan ang iyong mga pagsisikap.",
+      "historyTitle": "Ano ang Kasaysayan?",
+      "howToLevelUp": "Paano mag-level up?",
+      "levelUpRule1": "Magpraktis araw-araw upang makakuha ng aktibidad; mas matagal kang mag-type, mas mabilis kang umuunlad.",
+      "levelUpRule2": "Maksimum na antas 5; kung kaya mong mapanatili ang antas 5 araw-araw, patuloy kang makakapagbunga.",
+      "levelUpRule3": "Ang nakolektang prutas ay magbibigay ng mga gantimpala sa plataporma batay sa ranggo; kasalukuyan ay maaaring gamitin ang oras ng pagsubok bilang akumulasyon ng iskor.",
+      "maxStage": "Maximum na antas 5",
+      "myTree": "Ang Aking Puno",
+      "noLogs": "Walang mga tala sa kasalukuyan",
+      "pointsExplanation": "Paano gumagana ang mga puntos? Nanggagaling ito sa mga pang-araw-araw na pagsusulit, na may kaugnayan sa epektibong oras ng pag-input, bilis at katumpakan. Pang-araw-araw na limitasyon 100; maikling pagsasanay (≥5 segundo at katumpakan ≥30%) ay hindi bababa sa +1.",
+      "recalculateActivity": "Muling kalkulahin ang aktibidad at yugto",
+      "recalculateActivityTooltip": "Ano ang Recalculate activity at stage? Ito ay muling babasahin ang iyong mga kamakailang 5 araw ng mga tala ng pagsusulit, kakalkulahin ang epektibong mga minutong input, at ia-update ang listahan ng aktibidad at kasalukuyang yugto.",
+      "recentActivity": "Kasalukuyang aktibidad sa nakaraang 5 araw",
+      "recentLogs": "Kamakailang mga tala",
+      "stage1Desc": "Unang usbong lumilitaw",
+      "stage2Desc": "Pangalawang dahon ay tumutubo",
+      "stage3Desc": "Pagdami ng dahon",
+      "stage4Desc": "Namumukadkad ang mga bulaklak",
+      "stage5Desc": "Maliit na korona ng puno (mga prutas)",
+      "todaySummary": "Buod ng araw na ito"
+    },
+    "ui": {
+      "closeHint": "Isara ang pahiwatig",
+      "gotIt": "Nakuha ko",
+      "later": "Mamaya",
+      "start": "Magsimula",
+      "string089": "Mangyaring mag-sign in muna.",
+      "string090": "Personal na Impormasyon",
+      "string092": "Patakaran sa Privacy",
+      "string154": "Mga Tuntunin ng Serbisyo"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Kung mayroon kang anumang katanungan tungkol sa mga Tuntunin ng Serbisyo na ito, mangyaring ipahayag ang mga ito sa aming opisyal na pahina ng GitHub Issues: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Mangyaring tandaan na ito ay isang pampublikong platform, kaya't mangyaring huwag iwanan ang iyong personal na impormasyon dito."
+      },
+      "section5": {
+        "content2": "Hindi kami mananagot para sa anumang pagkawala o pinsala sa iyong mga tala ng pagsasanay o data ng gumagamit, ni hindi kami nagbibigay ng garantiya para sa permanenteng pag-iingat ng data.",
+        "content3": "Inilalaan namin ang karapatan na baguhin， itigil， o permanenteng wakasan ang serbisyong ito anumang oras para sa anumang dahilan， nang walang paunang abiso.",
+        "subtitle1": "Ibinigay As-Is:",
+        "subtitle2": "Pagpapanatili ng Data:",
+        "subtitle3": "Karapatan sa Pagtatapos ng Serbisyo:",
+        "content1": "Ang serbisyong ito ay ibinibigay sa \"kasalukuyang estado\" at walang anumang garantiya.",
+        "title": "5. Pagtanggi ng Pananagutan at Mga Limitasyon ng Serbisyo"
+      },
+      "footer": "© 2025 TypeSprout. Lahat ng karapatan ay nak reservado.",
+      "lastUpdated": "Huling na-update: Setyembre 21, 2025",
+      "section2": {
+        "listItem1": "AI Generated Content: Ang ilang mga artikulo sa pagsasanay ay sinusuri, kinokolekta, o nilikha ng mga modelo ng AI (tulad ng ChatGPT) para sa layuning pagsasanay sa pagta-type lamang.",
+        "listItem2": "Mga Teksto ng Bibliya: Ang ilang mga tanong sa Bibliya ay nagmumula sa third-party na API.Bible services. Kapag hindi ma-access ang serbisyong iyon, maaaring makabuo ng mga alternatibong teksto ang mga modelo ng AI.",
+        "content1": "Ang tanging layunin ng serbisyong ito ay upang magbigay ng pagsasanay sa mga kasanayan sa pagta-type. Ito ay hindi isang kasangkapan para sa akademikong pananaliksik o edukasyong pang-relihiyon. Ang lahat ng nilalaman ng website ay para sa layuning ito lamang.",
+        "content2": "Upang magbigay ng masaganang mga teksto para sa pagsasanay, ang nilalaman ng tanong ng serbisyong ito ay nagmula sa iba't ibang mga mapagkukunan. Dito ay partikular naming idinidiin:",
+        "content3": "Walang garantiya sa katumpakan, kabuuan, at pagiging angkop bilang materyal ng pananampalataya. Mangyaring ituring lamang ito bilang mga teksto para sa pagsasanay.",
+        "subtitle1": "Layunin ng Serbisyo",
+        "subtitle2": "Pinagmulan ng Nilalaman at Pagtanggi ng Pananagutan",
+        "title": "2. Paglalarawan ng Serbisyo at Pinagmulan ng Nilalaman"
+      },
+      "section1": {
+        "content1": "Maligayang pagdating sa TypeSprout (tinatawag na \"serbisyo\" mula rito). Ang serbisyong ito ay isang libreng, non-profit na proyekto na pinapanatili ng isang indibidwal na developer, na naglalayong magbigay sa mga gumagamit (lalo na sa mga bata at mga mag-aaral) ng isang simpleng online na kapaligiran para sa pagsasanay sa pagta-type.",
+        "content2": "Kapag ikaw ay nag-access o gumagamit ng serbisyong ito, nangangahulugan ito na nabasa, naintindihan, at sumasang-ayon ka sa lahat ng nilalaman ng mga Tuntunin ng Serbisyo na ito (tinatawag na \"mga tuntunin\" mula rito). Kung hindi ka sumasang-ayon sa anumang bahagi ng mga tuntunin, mangyaring agad na itigil ang paggamit ng serbisyong ito.",
+        "title": "1. Pangkalahatang-ideya at Pagtanggap ng mga Tuntunin"
+      },
+      "section3": {
+        "content1": "Ang serbisyong ito ay limitado sa paggamit para sa personal at pang-edukasyon na layunin, at ito ay ibinibigay sa isang hindi eksklusibo, hindi maililipat, at maaaring bawiing paraan.",
+        "content2": "Bawal ang direktang o hindi direktang paggamit ng serbisyong ito para sa mga layuning pangkalakalan.",
+        "subtitle1": "Paggamit para sa Personal at Hindi Pangkalakal",
+        "subtitle2": "Bawal ang Paggamit para sa mga Layuning Pangkalakalan",
+        "title": "3. Pahintulot at Mga Limitasyon sa Paggamit"
+      },
+      "section4": {
+        "content1": "Ang gumagamit ay responsable sa wastong pamamahala ng impormasyon sa pag-login.",
+        "content2": "Bawal ang mga kilos na nakakasagabal sa normal na operasyon ng serbisyong ito at mga kilos ng pandaraya.",
+        "subtitle1": "Seguridad ng Account",
+        "subtitle2": "Bawal ang Pang-aabuso at Hindi Wastong Kilos",
+        "title": "4. Mga Responsibilidad ng Gumagamit"
+      },
+      "section6": {
+        "content": "Mangyaring suriin ang patakaran sa privacy.",
+        "title": "6. Patakaran sa Privacy"
+      },
+      "titleSuffix": "Mga Tuntunin ng Serbisyo"
+    },
+    "correctChars": "Tamang mga Karakter: {{chars}} mga karakter",
+    "createError": "Create failed: {{error}}",
+    "ctaPractice": "Simulan ang Pagsasanay",
+    "layout": {
+      "dailyReminder": "Paalala: Magpraktis nang kaunti araw-araw para lumaki ang punla at gumaling ang pagta-type!",
+      "epExplanation": "Paano kumita ng mga puntos? Ang bawat pagsusulit ay kinakalkula sa pamamagitan ng oras × bilis × katumpakan (batayan × minuto × (bilis/target, max ×2) × (0.5+0.5×katumpakan)). Araw-araw na limitasyon 100; mga patakaran sa paghikayat: kapag ang katumpakan ≥30%, hindi bababa sa +1 puntos bawat 10 segundo (nagsasama-sama); ≥30 segundo at katumpakan ≥50% hindi bababa sa +1.",
+      "loginSuggestion": "Inirerekomenda naming gumamit ng Mag-sign in gamit ang Google sa kanang itaas upang mai-save ang iyong mga iskor at kasaysayan; pinahahalagahan ng site na ito ang pagiging hindi nagpapakilala at privacy, at hindi nito itatago ang mga sensitibong personal na data.",
+      "remaining": "natitira",
+      "todayProgress": "Ngayon:"
+    },
+    "practice": {
+      "description": "Ang lugar na ito ay para sa mga operasyon at pamamahala ng nilalaman lamang."
+    },
+    "error": {
+      "errorOccurred": "Nagkaroon ng error",
+      "goBack": "Bumalik",
+      "goHome": "Bumalik sa Tahanan",
+      "loadingError": "Nagkaroon ng error habang naglo-load ng pahina, pakisubukang muli mamaya."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} rate ng error {{percent}}%",
+      "relativeScale": "Relative scale: Berde ≤30% · Dilaw ≤70% · Pula >70% (kaugnay sa pinakamataas na susi ng pagkakamali; batay sa kamakailang pinagsama-samang rate ng pagkakamali)"
+    },
+    "estimatedMinutes": "Tinatayang {{minutes}} minuto",
+    "nav": {
+      "garden": "Hardin",
+      "home": "Bahay",
+      "leaderboard": "Leaderboard",
+      "practice": "Pagsasanay",
+      "profile": "Profile",
+      "subtitle": "Pumili ng nilalaman ng pagsasanay na nababagay sa iyo",
+      "test": "Subok",
+      "result": "Resulta"
+    },
+    "meta": {
+      "gardenDescription": "Palaguin ang iyong puno gamit ang mga puntos sa pagta-type at mga gantimpala.",
+      "homeDescription": "Pagsasanay sa pagta-type para sa mga bata na may gamified na paglago ng puno.",
+      "leaderboardDescription": "Araw-araw/lingguhan/buwanang mga leaderboard ayon sa wika.",
+      "practiceDescription": "Libreng pagsasanay sa pagta-type na may suporta sa IME at mga mode.",
+      "profileDescription": "Ang iyong personal na impormasyon, grado at mga kagustuhan.",
+      "result": "Resulta",
+      "resultDescription": "Ang iyong mga resulta sa pagsusulit sa pagta-type.",
+      "testDescription": "Timed test na nagpapakita ng katumpakan at pinagsamang iskor."
+    },
+    "grade": "Baitang {{grade}}",
+    "questionBank": {
+      "gradeRange": "Saklaw ng Baitang",
+      "recommended": "Inirerekomenda",
+      "totalQuestions": "Kabuuang Tanong",
+      "children": {
+        "name": "Children Question Bank",
+        "description": "Basic typing practice suitable for children"
+      },
+      "title": "Choose Question Bank",
+      "subtitle": "Select the practice bank that suits you",
+      "loading": "Loading question banks...",
+      "supportedLanguages": "Supported Languages",
+      "noRecommendation": "No recommended question banks for your grade level",
+      "bible": {
+        "name": "Bible Question Bank",
+        "description": "Bible verse typing practice"
+      }
+    },
+    "highestHere": "Nasa pinakamataas dito {{value}}",
+    "hours": "{{count}} oras",
+    "hoursMinutes": "{{hours}} oras {{minutes}} minuto",
+    "leaderScore": "Composite Score",
+    "levelUpSuggestion": "Upang maabot ang yugto {{needStage}}, magmungkahi ng hindi bababa sa {{moreMin}} karagdagang minuto ng epektibong input ngayon.",
+    "loadError": "Nabigong i-load ang leaderboard, pakisubukang muli mamaya",
+    "auth": {
+      "signOut": "Mag-sign out",
+      "pleaseSignIn": "Mangyaring mag-sign in gamit ang Google muna",
+      "signIn": "Mag-sign in gamit ang Google"
+    },
+    "metricsTip": "Paliwanag ng bilis at katumpakan",
+    "minutes": "{{count}} minuto",
+    "minutesSeconds": "{{minutes}} minuto {{seconds}} segundo",
+    "bible": {
+      "name": "Bank ng Tanong sa Bibliya"
+    },
+    "noRecommendation": "Walang inirerekomendang tanong na bangko para sa iyong antas ng grado",
+    "percentile": "Lumampas sa humigit-kumulang {{percent}}% ng mga tao",
+    "progress": "Pag-unlad {{current}} / {{total}}",
+    "recentValue": "Kamakailan {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Real-time na na-save sa Firestore",
+      "stage": "Yugto {{stage}}",
+      "stageOverview": "Limang-yugto na pangkalahatang-ideya (para sa paghahambing ng hitsura)"
+    },
+    "seconds": "{{count}} segundo",
+    "shortcuts": "Space simulan/pahingahin · R i-reset · F tumutok · Enter isumite ang tanong na ito",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} mga karakter · {{accuracy}}% katumpakan",
+    "string094": "Ginagamit lamang namin ang iyong Google account upang i-save ang iyong progreso at kasaysayan.",
+    "string095": "Ano ang mga datos na kinokolekta namin?",
+    "string096": "Kinokolekta lamang namin ang iyong mga marka sa pagta-type, katumpakan, at oras ng pagsasanay. Hindi kami kumokolekta ng personal na impormasyon tulad ng iyong pangalan, email, o iba pang sensitibong data.",
+    "string097": "Ginagamit namin ang data na ito upang bigyan ka ng personalisadong feedback at ipakita sa iyo ang iyong pag-unlad sa paglipas ng panahon.",
+    "string155": "Sa paggamit ng website na ito, sumasang-ayon ka sa mga sumusunod na tuntunin:",
+    "string156": "Ikaw ang may pananagutan sa iyong sariling pag-aaral at pag-unlad.",
+    "string157": "Ano ang mga termino?",
+    "string158": "Ang mga tuntunin ay kinabibilangan ng: paggamit ng website para sa mga layuning pang-edukasyon lamang, hindi pagbabahagi ng hindi angkop na nilalaman, at paggalang sa ibang mga gumagamit.",
+    "supportedLanguages": "Mga Suportadong Wika",
+    "totalQuestionChars": "Kabuuang mga Karakter ng Tanong: {{chars}} mga karakter",
+    "vsSiteAverage": "Kumpara sa average ng site (parehong wika): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.700Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Submit (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

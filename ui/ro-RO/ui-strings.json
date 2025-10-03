@@ -1,0 +1,455 @@
+{
+  "language": "ro-RO",
+  "translations": {
+    "aboutBody": "TypeSprout este un site de practică a tastării și dezvoltare pentru clasele 1–6, cu suport pentru zh‑TW / zh‑CN / en‑US, având ca scop oferirea unui mediu sigur și prietenos pentru copii din întreaga lume pentru a exersa introducerea, înțelegerea și exprimarea.",
+    "home": {
+      "aboutContent": "Bună tuturor, sunt Yves.C, un tată din Taiwan. Inspirația pentru TypeSprout a venit din a-i observa pe copiii mei cum discută cu prietenii din întreaga lume pe Roblox—am realizat că tastarea este, de fapt, prima cheie pentru copii pentru a se deschide către o lume mai mare. Așa că am creat această practică de tastare pe web folosind concepte fără cod + ChatGPT/AI, adăugând un feedback vizual mic de creștere a copacului: cu fiecare apăsare corectă a tastei, copacul crește puțin, transformând eforturile zilnice în realizări vizibile. În ceea ce privește conținutul, am organizat cuvinte folosite frecvent din clasele 1-6 în bănci de întrebări selectabile; copiii pot exersa limba lor maternă și pot comuta la engleză sau alte limbi pe care doresc să le exerseze în Setări. Aceste cuvinte sunt filtrate de AI în funcție de dificultatea clasei.Pentru adulți, am pregătit o bancă de întrebări extinsă, care include în prezent API-ul Bibliei și scripturi biblice generate de AI (din resurse online gratuite, acuratețea poate fi limitată), și voi adăuga treptat subiecte precum citate celebre pentru a face practica mai interesantă. În TypeSprout, copiii vor acumula treptat puncte și eforturi zilnice; copacul mic de pe ecran va prospera de asemenea cu performanța lor, formând un ciclu pozitiv de efort → feedback → reangajare. Am proiectat de asemenea o provocare activă de 5 zile: practicarea timp de 5 zile consecutive va aduce o mică recompensă sub formă de fruct. Când realizările sunt vizibile, motivația va crește. Acesta este ritmul de învățare pe care vreau să-l împărtășesc cu copiii și cu voi. Pentru profesori, am adăugat o funcție de Clasă pe pagina personală, permițând profesorilor să creeze clase și să invite colegii să participe, făcând practica să pară mai competitivă.Acesta este un mic proiect întreținut personal de mine (fără fundal în inginerie, bazându-mă în principal pe ChatGPT/AI pentru îndrumare și colaborare). Dacă aveți sugestii sau întâmpinați probleme în timpul utilizării, vă rog să lăsați un mesaj în secțiunea de probleme de pe GitHub, și voi face tot posibilul să le organizez și să le rezolv. Vă mulțumesc tuturor anticipat. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Despre TypeSprout",
+      "ctaTest": "Susține Testul",
+      "googleUsersCount": "Utilizatori de conectare Google",
+      "googleUsersTooltip": "Numărul total de utilizatori care s-au conectat cu conturi Google",
+      "heroSubtitle": "Fiecare apăsare de tastă devine energie pentru a-ți uda copacul. Suportul multilingv ajută la construirea unor obiceiuri corecte de tastare și concentrare.",
+      "heroTitle": "Copiii tastează, răsadul crește.",
+      "tabs": {
+        "leader": "Clasament (previzualizare)",
+        "visitors": "Vizitatori"
+      },
+      "leaderEmpty": "Nu există date încă",
+      "leaderViewFull": "Vezi clasamentul complet",
+      "players": "Jucători",
+      "privacyNote": "Nu colectăm date personale; statisticile sunt anonimizate doar pentru clasament și feedback de învățare.",
+      "visitorsDesc": "Distribuția pe țări a vizitatorilor și jucătorilor site-ului (anonim)."
+    },
+    "absoluteScale": "Verde ≤{{low}}% · Galben ≤{{mid}}% · Roșu >{{mid}}% (% este rata recentă cumulată de eroare pentru acea tastă)",
+    "accuracy": "Precizie {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Graficul tendinței de precizie: linia mai înaltă înseamnă mai multă precizie",
+      "accuracyChartTitle": "Precizie",
+      "accuracyChartTooltip": "Axa Y: Precizie (mai mare înseamnă mai precis); Axa X: ordinea temporală. Linia albastră arată modificările de precizie pentru fiecare test.",
+      "defaultDescription": "Top: Tendința scorului de viteză; Bottom: Tendința acurateței. Îmbunătățește mai întâi acuratețea, apoi crește treptat viteza.",
+      "speedChartAriaLabel": "Graficul tendinței scorului de viteză: linia mai înaltă înseamnă o performanță mai bună",
+      "speedChartTitle": "Scor Viteză (Viteză Corectă)",
+      "speedChartTooltip": "Axa Y: Scor de viteză (mai mare este mai bine); Axa X: ordinea timpului. Linia verde arată viteza caracterelor corecte doar, combinând viteză și precizie.",
+      "recordNumber": "Înregistrare {{number}}",
+      "speedScore": "Scor viteză {{score}}",
+      "totalQuestionChars": "Total caractere întrebări: {{chars}}",
+      "actualInput": "Input real: {{chars}} caractere",
+      "timeSpent": "Timp: {{seconds}} s",
+      "accuracy": "Acuratețe {{percent}}%",
+      "correctChars": "Caractere corecte: {{chars}}",
+      "percentile": "Mai bun decât ~{{percent}}% dintre oameni",
+      "highestHere": "Cel mai mare aici {{value}}",
+      "recentValue": "Recent {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Acuratețea = caractere corecte ÷ caractere totale în întrebare. Notă: caracterele netipărite sunt de asemenea incluse în total, așa că caracterele lipsă vor reduce acuratețea.",
+      "hideInsights": "Ascunde informațiile",
+      "scoreTooltip": "Scorul compus = viteza de introducere a caracterelor corecte doar. Calcul: viteză (WPM/CPM) × acuratețe. Scop: mai întâi să stabilizeze acuratețea, apoi să crească treptat viteza.",
+      "showInsights": "Arată informații",
+      "summary": "Rezumatul acestei sesiuni",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Zile active: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} caractere",
+    "adjWpm": "Scor compus (viteză corectă)",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Cookie-uri publicitare: Așa cum s-a menționat mai sus, dacă activăm Google AdSense, Google va folosi cookie-uri pentru a afișa reclame. Poți vizita pagina de setări pentru reclame Google (https://adssettings.google.com/) în orice moment pentru a gestiona sau a te dezabona de la reclame personalizate.",
+        "functionalCookies": "Cookies Funcționale: Folosim cookie-uri pentru a menține starea dvs. de conectare."
+      },
+      "section5": {
+        "contactChannel": "Canal de contact: Dacă aveți întrebări despre această politică de confidențialitate sau doriți să vă exercitați drepturile asupra datelor (cum ar fi solicitarea, corectarea, ștergerea), vă rugăm să trimiteți cererile prin intermediul paginii noastre oficiale de probleme GitHub.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Important Reminder: Vă rugăm să rețineți că GitHub Issues este o platformă publică. Pentru a vă proteja confidențialitatea personală, vă rugăm să nu lăsați informații de identificare personală în conținutul problemei, cum ar fi adresa dvs. de email, numele real sau capturi de ecran ale contului. Avem nevoie doar să ne oferiți numele de utilizator pe TypeSprout și o descriere a problemei. Nu vă vom contacta prin alte canale private decât prin Issues.",
+        "responseTime": "Deoarece acesta este un proiect întreținut personal, vom răspunde cât mai repede posibil în limita capacităților noastre. Vă mulțumim pentru răbdare și înțelegere."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Puteți oferi opțional intervalul dvs. de vârstă, domeniul profesional, limba sau regiunea. Aceste informații nu sunt obligatorii și sunt destinate în principal pentru a optimiza recomandările băncii de întrebări, pentru analize statistice anonime și pentru gruparea pe tabloul de lideri. Nu cerem și nu verificăm acuratețea acestor informații."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Publicitate): Este posibil să folosim Google AdSense în viitor pentru a afișa reclame pentru a susține costurile de operare ale site-ului. Google și partenerii săi pot folosi Cookies (cum ar fi Cookie-ul DoubleClick) pentru a arăta reclame personalizate pe baza istoricului tău de vizite anterioare.",
+          "googleAnalytics": "Google Analytics: Folosim acest serviciu pentru a analiza traficul pe site pentru a înțelege utilizarea serviciului. Acesta colectează informații anonimizate, cum ar fi adresa ta IP, tipul de browser, sistemul de operare, paginile vizitate etc."
+        },
+        "principle": "Respectăm principiul minimalismului, colectând doar datele necesare pentru a menține funcționarea serviciului:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Funcția principală: ID-ul tău de utilizator anonim și datele de joc fac parte din funcționalitatea de bază a acestui serviciu, folosite pentru a-ți înregistra scorurile, a oferi grafice istorice și clasamente globale.",
+        "experienceOptimization": "Optimizarea experienței: Vârsta, profesia și alte informații pe care le oferiți voluntar vor fi folosite pentru a vă potrivi cu bănci de întrebări de practică de tipat mai potrivite.",
+        "serviceMaintenance": "Întreținere Serviciu: Datele tehnice colectate prin Google Analytics ne ajută să înțelegem starea operațională a site-ului și să remediem problemele potențiale.",
+        "statisticalAnalysis": "Analiză statistică: Vom anonimiza și agrega toate informațiile furnizate voluntar de utilizatori pentru a înțelege profilul general al grupului de utilizatori și a îmbunătăți serviciul."
+      },
+      "section3": {
+        "crossBorderTransfer": "Transfer transfrontalier: Serverele GitHub și Google Firebase pot fi situate în afara țării tale (de exemplu, Statele Unite). Prin utilizarea acestui serviciu, înțelegi și ești de acord că datele tale vor fi transmise, stocate și procesate pe aceste servere externe.",
+        "dataRetention": "Data Retention: Deoarece acest serviciu este complet gratuit, nu putem garanta stocarea permanentă a datelor. Ne rezervăm dreptul de a șterge unele sau toate datele utilizatorilor fără notificare.",
+        "storageLocation": "Locația de stocare: Codul acestui site este găzduit pe GitHub, în timp ce datele jocului tău și informațiile furnizate voluntar sunt stocate în baza de date Google Firebase."
+      },
+      "effectiveDate": "Data efectivă: 21 septembrie 2025",
+      "introduction": "Bine ai venit la TypeSprout! Acesta este un site gratuit de practică a tastării creat de un dezvoltator individual din interes. Înțelegem că confidențialitatea ta este crucială, așa că această politică are scopul de a explica ce date colectăm și cum vom folosi aceste date.",
+      "notice": "Vă rugăm să rețineți: acest serviciu este de natură non-profit, iar toate funcțiile sunt furnizate așa cum sunt. Dacă nu sunteți de acord cu termenii acestei politici de confidențialitate, vă rugăm să încetați imediat utilizarea acestui serviciu. Continuarea utilizării indică faptul că ați citit, ați înțeles și sunteți de acord cu toate conținuturile acestei politici.",
+      "titleSuffix": "Politica de confidențialitate"
+    },
+    "leaderboard": {
+      "allGrades": "Toate notele",
+      "lastMonth": "Clasamentul de luna trecută",
+      "lastWeek": "Clasamentul de săptămâna trecută",
+      "loading": "Încărcare...",
+      "loadingHint": "Dacă continuă să nu se încarce, vă rugăm să verificați conexiunea la rețea sau să încercați din nou mai târziu.",
+      "noData": "Niciun date",
+      "reload": "Reîncarcă",
+      "signInHint": "Sugestie: Conectați-vă pentru a salva automat scorurile testului; le folosim doar pentru clasament și feedback de învățare, fără a colecta date personale sensibile.",
+      "sortHint": "Sugestie: Apăsați Alt+↑/↓ pentru a comuta sortarea",
+      "today": "Clasamentul de astăzi",
+      "tooltip": "🏆 Cum este calculat clasamentul?&#10;• Astăzi: scorurile de astăzi (ora locală)&#10;• Ieri: scorurile de ieri (ora locală)&#10;• Săptămâna trecută: de luni până duminică a săptămânii trecute&#10;• Luna trecută: de la prima până la ultima zi a lunii trecute&#10;&#10;📊 Cum sunt calculate scorurile?&#10;• Scorul compus = viteză maximă × acuratețe × timp de practică&#10;• Practicile multiple în aceeași zi sunt combinate&#10;• Timpul de practică mai lung = scor mai mare&#10;&#10;💡 Sfaturi: Practică puțin în fiecare zi și copacul tău va crește!",
+      "yesterday": "Clasamentul de ieri"
+    },
+    "test": {
+      "allowBackspace": "Permite Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Dificultate",
+      "difficultyEasy": "Ușor",
+      "difficultyHard": "Dificil",
+      "difficultyMedium": "Medie",
+      "finished": "Finalizat",
+      "inputPrompt": "Vă rugăm să tastați textul de mai jos",
+      "insightsSummary": "Informații (hartă de căldură a tastaturii, tendințe de viteză și precizie)",
+      "loadingQuestions": "Încărcare întrebări...",
+      "mistakes": "Greșeli",
+      "outOfFocus": "Vă rugăm să faceți clic pe caseta de introducere pentru a continua să tastați",
+      "promptStart": "Apasă Start, apoi tastează textul de mai sus. Lipirea este dezactivată.",
+      "questionCount": "Număr de întrebări",
+      "questionPreview": "Întrebare (primele 24 de caractere)",
+      "questionStats": "Statistici ale întrebărilor din această sesiune (timp petrecut / limită, număr de greșeli)",
+      "questionText": "Întrebare text (nu poate fi selectat sau copiat)",
+      "shortcutsDescription": "Spațiu: Start/Pauză • R: Resetare • F: Concentrează-te pe input",
+      "signInToSave": "Conectează-te pentru a-ți salva progresul",
+      "submitAndReview": "Trimite și vizualizează rezultatele",
+      "submitQuestion": "Trimite această întrebare (Apasă Enter)",
+      "timeLimit": "Limită de timp",
+      "timeSpent": "Timp petrecut: {{seconds}} sec",
+      "title": "Test",
+      "tryAgain": "Încearcă din nou",
+      "shortcuts": "Apasă Enter pentru a trimite"
+    },
+    "profile": {
+      "alreadyJoined": "Ai fost deja înscris în această clasă.",
+      "analysis": "Analiză detaliată",
+      "birthday": "Zi de naștere (YYYY-MM)",
+      "classCodePlaceholder": "Cod clasă",
+      "classCodeTooltip": "Unic la nivel de site (3–50 caractere; nu poate conține /). Folosit pentru competiții și gruparea clasamentului; poate fi asociat cu până la 5. Profesorii pot crea coduri noi; se va alătura automat după creare (dacă nu este plin).",
+      "classCreatedAndJoined": "Clas creat și alăturat cu succes",
+      "classNotFound": "Codul clasei nu a fost găsit",
+      "codeAlreadyTaken": "Codul de clasă este deja utilizat",
+      "confirmDelete": "Ești sigur că vrei să ștergi acest cod de clasă?",
+      "copy": "Copiază",
+      "copyFailed": "Copierea a eșuat, vă rugăm să selectați și să copiați manual.",
+      "copySuccess": "Codul clasei a fost copiat în clipboard.",
+      "country": "Țară/Regiune",
+      "create": "Creează",
+      "delete": "Șterge",
+      "female": "Femeie",
+      "fruits": "Fructe",
+      "fruitsTooltip": "Fructe colectate de la copacul tău. Obținute prin atingerea obiectivelor zilnice de puncte.",
+      "gender": "Gen",
+      "googleAccount": "Cont Google",
+      "history": "Istoric",
+      "invalidCodeFormat": "Vă rugăm să introduceți 3-50 de caractere fără /",
+      "join": "Alătură-te",
+      "joinError": "Nu s-a putut alătura clasei",
+      "joinSuccess": "S-a alăturat cu succes clasei",
+      "joinedClasses": "Cursuri la care m-am alăturat",
+      "language": "Limba",
+      "male": "Masculin",
+      "maxClassesReached": "Numărul maxim de cursuri atins",
+      "maxJoinedClasses": "Numărul maxim de clase alăturate a fost atins",
+      "myClasses": "Clasele Mele",
+      "nickname": "Poreclă",
+      "noClasses": "Fără cursuri",
+      "noUser": "Utilizator necunoscut",
+      "onlyTeacherCanCreate": "Numai profesorii pot crea coduri de clasă",
+      "other": "Altul",
+      "points": "Puncte",
+      "pointsDetail": "Punctele totale de mai sus; pentru detalii, vă rugăm să mergeți la",
+      "pointsTooltip": "Puncte câștigate din practica zilnică. Folosite pentru a-ți crește copacul și a debloca recompense.",
+      "remove": "Elimină",
+      "role": "Rol",
+      "roleCheckError": "Verificarea rolului utilizatorului a eșuat",
+      "save": "Salvează",
+      "student": "Student",
+      "teacher": "Profesor",
+      "view": "vizualizare",
+      "xp": "Experiență (XP)",
+      "xpTooltip": "Puncte de experiență câștigate prin exerciții de tastare. O acuratețe și viteză mai mari = mai multe XP!",
+      "youOwnThis": "Îți aparține aceasta",
+      "title": "Profil",
+      "auto": "Auto",
+      "classCode": "Cod clasă",
+      "error": "Eroare",
+      "alreadyTaken": "Deja folosit",
+      "available": "Disponibil",
+      "logout": "Deconectare",
+      "chartDescription": "Tendințe personale: sus scor compozit, jos acuratețe.",
+      "parent": "Părinte"
+    },
+    "tips": {
+      "avgAdj": "Avg Composite (30z)",
+      "meVsSite": "Eu vs Site (30z)",
+      "totalChars": "Total characters: {{chars}} characters"
+    },
+    "admin": {
+      "bulkTranslationTool": "Instrument de Localizare în Masă",
+      "execute": "Execută",
+      "sourceLanguage": "Limba sursă",
+      "targetLanguage": "Limba țintă",
+      "usageDescription": "Introduceți codurile limbilor sursă și țintă, lipiți textul pe mai multe linii și apăsați executați, rezultatele sunt doar pentru revizuirea manuală. Această funcție necesită un token de administrator pentru a fi activată.",
+      "usageInstructions": "Instrucțiuni de utilizare"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "Apariții diferite pe scenă și condiții de deblocare (ilustrație).",
+      "growthChartTitle": "Diagramă de creștere",
+      "historyRule1": "Punctele sunt calculate din viteză × precizie × timp, folosite pentru a promova creșterea copacilor.",
+      "historyRule2": "Lista de mai jos arată fiecare înregistrare de câștiguri, făcându-ți ușor să-ți urmărești eforturile.",
+      "historyTitle": "Ce este Istoria?",
+      "howToLevelUp": "Cum să avansezi?",
+      "levelUpRule1": "Exersează zilnic pentru a acumula activitate; cu cât scrii mai mult, cu atât crești mai repede.",
+      "levelUpRule2": "Maximum nivel 5; dacă poți menține nivelul 5 zilnic, vei produce continuu fructe.",
+      "levelUpRule3": "Fructele colectate vor oferi recompense pe platformă în funcție de clasament; în prezent, se poate folosi timpul de testare ca acumulare de puncte.",
+      "maxStage": "Stadiul maxim 5",
+      "myTree": "Copacul Meu",
+      "noLogs": "Nu există înregistrări în prezent",
+      "pointsExplanation": "Cum funcționează punctele? Generate din testele zilnice, legate de timpul efectiv de introducere, viteză și precizie. Limită zilnică 100; practică scurtă (≥5 secunde și precizie ≥30%) cel puțin +1.",
+      "recalculateActivity": "Recalculează activitatea și etapa",
+      "recalculateActivityTooltip": "Ce este activitatea și etapa Recalculare? Aceasta va reciti ultimele 5 zile de înregistrări ale testelor, va calcula minutele de introducere efective și va actualiza lista de activitate și etapa curentă.",
+      "recentActivity": "Activitate în ultimele 5 zile",
+      "recentLogs": "Înregistrări recente",
+      "stage1Desc": "Primul lăstar apare",
+      "stage2Desc": "Al doilea frunză crește",
+      "stage3Desc": "Înmulțirea frunzelor",
+      "stage4Desc": "Florile înfloresc",
+      "stage5Desc": "Coroane mici de copac (fructe)",
+      "todaySummary": "Rezumatul de astăzi"
+    },
+    "ui": {
+      "closeHint": "Închide sugestia",
+      "gotIt": "Am înţeles",
+      "later": "Mai târziu",
+      "start": "Început",
+      "string089": "Te rugăm să te conectezi mai întâi.",
+      "string090": "Informații personale",
+      "string092": "Politica de confidențialitate",
+      "string154": "Termeni și condiții"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Dacă aveți întrebări despre acești Termeni de Serviciu, vă rugăm să le adresați prin intermediul paginii noastre oficiale de probleme GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Vă rugăm să rețineți că aceasta este o platformă publică, așa că vă rugăm să nu lăsați informațiile dvs. personale aici."
+      },
+      "section5": {
+        "content2": "Nu suntem responsabili pentru nicio pierdere sau daune aduse înregistrărilor tale de practică sau datelor utilizatorului, nici nu garantăm păstrarea permanentă a datelor.",
+        "content3": "Ne rezervăm dreptul de a modifica, suspenda sau închide permanent acest serviciu în orice moment și din orice motiv, fără o notificare prealabilă.",
+        "subtitle1": "Furnizat așa cum este:",
+        "subtitle2": "Păstrarea datelor:",
+        "subtitle3": "Drepturile de reziliere a serviciului:",
+        "content1": "Acest serviciu este furnizat „așa cum este”, fără nicio garanție.",
+        "title": "5. Declarație de declinare a responsabilității și limitarea serviciului"
+      },
+      "footer": "© 2025 TypeSprout. Toate drepturile rezervate.",
+      "lastUpdated": "Ultima actualizare: 21 septembrie 2025",
+      "section2": {
+        "listItem1": "Conținut generat de AI: Unele articole de practică sunt analizate, colectate sau generate de modele AI (cum ar fi ChatGPT) doar pentru exerciții de tastare.",
+        "listItem2": "Texte biblice: Unele bănci de întrebări biblice provin din API-uri de servicii biblice terțe. Când acel serviciu nu este accesibil, texte alternative pot fi generate de modele AI.",
+        "content1": "Scopul unic al acestui serviciu este de a oferi practică în abilitățile de tastare. Nu este un instrument pentru cercetare academică sau educație religioasă. Toate conținuturile site-ului sunt destinate acestui singur scop.",
+        "content2": "Pentru a oferi texte de practică variate, conținutul băncii de întrebări a acestui serviciu provine din multiple surse. Declaram în mod special:",
+        "content3": "Nu garantăm corectitudinea, completitudinea sau adecvarea ca material de credință. Vă rugăm să le considerați doar ca texte pentru practică.",
+        "subtitle1": "Scopul serviciului",
+        "subtitle2": "Sursa conținutului și declinarea responsabilității",
+        "title": "2. Descrierea serviciului și sursa conținutului"
+      },
+      "section1": {
+        "content1": "Bine ați venit la TypeSprout (denumit în continuare „serviciul”). Acest serviciu este un proiect gratuit și non-profit, întreținut de un dezvoltator individual, destinat să ofere utilizatorilor (în special copiilor și învățăceilor) un mediu simplu pentru practicarea tastării online.",
+        "content2": "Prin accesarea sau utilizarea acestui serviciu, confirmați că ați citit, înțeles și acceptat toate condițiile acestui „Termeni de Serviciu” (denumit în continuare „termenii”). Dacă nu sunteți de acord cu orice parte a acestor termeni, vă rugăm să încetați imediat utilizarea acestui serviciu.",
+        "title": "1. Dispoziții generale și acceptarea termenilor"
+      },
+      "section3": {
+        "content1": "Acest serviciu este destinat exclusiv utilizării personale și educaționale, fiind autorizat într-un mod non-exclusiv, netransferabil și revocabil.",
+        "content2": "Utilizarea acestui serviciu în scopuri comerciale, direct sau indirect, este interzisă.",
+        "subtitle1": "Utilizare personală, non-comercială",
+        "subtitle2": "Interzicerea utilizării comerciale",
+        "title": "3. Permisiuni și restricții de utilizare"
+      },
+      "section4": {
+        "content1": "Utilizatorul este responsabil pentru gestionarea adecvată a informațiilor de autentificare.",
+        "content2": "Se interzic comportamentele care împiedică funcționarea normală a acestui serviciu și acțiunile de fraudă.",
+        "subtitle1": "Securitatea contului",
+        "subtitle2": "Interzicerea abuzului și comportamentelor necorespunzătoare",
+        "title": "4. Responsabilitatea utilizatorului"
+      },
+      "section6": {
+        "content": "Vă rugăm să verificați politica de confidențialitate.",
+        "title": "6. Politica de confidențialitate"
+      },
+      "titleSuffix": "Termeni de serviciu"
+    },
+    "correctChars": "Corectează caractere: {{chars}} caractere",
+    "createError": "Crearea a eșuat:",
+    "ctaPractice": "Începe Practica",
+    "layout": {
+      "dailyReminder": "Reamintire: exersează puțin în fiecare zi, ajută răsadul să crească și îți îmbunătățești tastarea!",
+      "epExplanation": "Cum să câștigi puncte? Fiecare test este calculat prin timp × viteză × acuratețe (bază × minute × (viteză/țintă, max ×2) × (0.5+0.5×acuratețe)). Limita zilnică este 100; reguli de încurajare: când acuratețea ≥30%, cel puțin +1 punct la fiecare 10 secunde (cumulativ); ≥30 secunde și acuratețe ≥50% cel puțin +1.",
+      "loginSuggestion": "Vă recomandăm să folosiți Autentificare cu Google în colțul din dreapta sus pentru a vă salva scorurile și istoricul; acest site apreciază anonimatul și confidențialitatea și nu va stoca date personale sensibile.",
+      "remaining": "rămase",
+      "todayProgress": "Astăzi:"
+    },
+    "practice": {
+      "description": "Această zonă este destinată doar operațiunilor și gestionării conținutului."
+    },
+    "error": {
+      "errorOccurred": "A apărut o eroare",
+      "goBack": "Întoarce-te",
+      "goHome": "Înapoi la Acasă",
+      "loadingError": "A apărut o eroare la încărcarea paginii, vă rugăm să încercați din nou mai târziu."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} rata de eroare {{percent}}%",
+      "relativeScale": "Scara relativă: Verde ≤30% · Galben ≤70% · Roșu >70% (în raport cu cheia de eroare cea mai mare; bazat pe rata cumulativă recentă a erorilor)"
+    },
+    "estimatedMinutes": "Estimare {{minutes}} minute",
+    "nav": {
+      "garden": "Grădină",
+      "home": "Acasă",
+      "leaderboard": "Clasament",
+      "practice": "Exersează",
+      "profile": "Profil",
+      "subtitle": "Alegeți conținutul de practică care vi se potrivește",
+      "test": "Test",
+      "result": "Rezultat"
+    },
+    "meta": {
+      "gardenDescription": "Crește-ți copacul cu puncte de tastare și recompense.",
+      "homeDescription": "Exerciții de tastare pentru copii cu creșterea gamificată a copacilor.",
+      "leaderboardDescription": "Tabele de clasament zilnice/săptămânale/lunare pe limbi.",
+      "practiceDescription": "Exerciții de tastare gratuite cu suport IME și moduri.",
+      "profileDescription": "Informațiile tale personale, nota și preferințele.",
+      "result": "Rezultat",
+      "resultDescription": "Rezultatele testului tău de tastare.",
+      "testDescription": "Test temporizat care arată acuratețea și scorul compus."
+    },
+    "grade": "Grad {{grade}}",
+    "questionBank": {
+      "gradeRange": "Clasă",
+      "recommended": "Recomandat",
+      "totalQuestions": "Total întrebări",
+      "children": {
+        "name": "Banca pentru copii",
+        "description": "Exerciții de tastare de bază pentru copii"
+      },
+      "title": "Alege banca de întrebări",
+      "subtitle": "Alege banca de antrenament potrivită pentru tine",
+      "loading": "Se încarcă băncile de întrebări...",
+      "supportedLanguages": "Limbi suportate",
+      "noRecommendation": "Nu există bănci recomandate pentru clasa ta",
+      "bible": {
+        "name": "Banca biblică",
+        "description": "Exerciții de tastare cu versete biblice"
+      }
+    },
+    "highestHere": "Cel mai înalt aici {{value}}",
+    "hours": "{{count}} ore",
+    "hoursMinutes": "{{hours}} ore {{minutes}} minute",
+    "leaderScore": "Scor compus",
+    "levelUpSuggestion": "Pentru a ajunge la etapa {{needStage}}, sugerează cel puțin {{moreMin}} minute suplimentare de input eficient astăzi.",
+    "loadError": "Nu s-a putut încărca clasamentul, te rugăm să încerci din nou mai târziu.",
+    "auth": {
+      "signOut": "Deconectare",
+      "pleaseSignIn": "Vă rugăm să vă conectați mai întâi cu Google",
+      "signIn": "Conectează-te cu Google"
+    },
+    "metricsTip": "Explicația vitezei și acurateței",
+    "minutes": "{{count}} minute",
+    "minutesSeconds": "{{minutes}} minute {{seconds}} secunde",
+    "bible": {
+      "name": "Banca de Întrebări Biblice"
+    },
+    "noRecommendation": "Nu există bănci de întrebări recomandate pentru nivelul tău de clasă.",
+    "percentile": "Depășește aproximativ {{percent}}% din oameni",
+    "progress": "Progres {{current}} / {{total}}",
+    "recentValue": "Recent {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Salvat în timp real în Firestore",
+      "stage": "Etapa {{stage}}",
+      "stageOverview": "Prezentare în cinci etape (pentru compararea aspectului)"
+    },
+    "seconds": "{{count}} secunde",
+    "shortcuts": "Start/pauză spațiu · R resetare · F concentrare · Enter trimite această întrebare",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} caractere · {{accuracy}}% acuratețe",
+    "string094": "Folosim doar contul tău Google pentru a-ți salva progresul și istoricul.",
+    "string095": "Ce date colectăm?",
+    "string096": "Colectăm doar scorurile tale de tastare, acuratețea și timpul de practică. Nu colectăm informații personale precum numele tău, adresa de email sau alte date sensibile.",
+    "string097": "Folosim aceste date pentru a-ți oferi feedback personalizat și pentru a-ți arăta progresul de-a lungul timpului.",
+    "string155": "Prin utilizarea acestui site, ești de acord cu următorii termeni:",
+    "string156": "Ești responsabil pentru propria ta învățare și progres.",
+    "string157": "Ce sunt termenii?",
+    "string158": "Termenii includ: utilizarea site-ului doar în scopuri educaționale, nepartajarea conținutului inadecvat și respectarea altor utilizatori.",
+    "supportedLanguages": "Limbi susținute",
+    "totalQuestionChars": "Total Question Chars: {{chars}} caractere",
+    "vsSiteAverage": "Comparativ cu media site-ului (aceeași limbă): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.748Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Trimite (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

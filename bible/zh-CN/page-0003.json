@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "zh-CN",
+      "text": "使我可以听见感谢的声音，述说你一切奇妙的作为。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "zh-CN",
+      "text": "感谢父，叫我们能与圣徒同得基业。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "zh-CN",
+      "text": "他必引导谦卑人行公义，教导谦卑人他的道。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "zh-CN",
+      "text": "他赐更多的恩典，因此说：神抵挡骄傲的人，赐恩给谦卑的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "zh-CN",
+      "text": "敬畏耶和华是智慧的教训，尊荣之前必有谦卑。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "zh-CN",
+      "text": "因为凡自高的必降为卑，自己谦卑的必升为高。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "zh-CN",
+      "text": "你们要彼此顺服，存敬畏基督的心。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "zh-CN",
+      "text": "所以你们要在神大能的手下谦卑，到了时候，他必升高你们，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "zh-CN",
+      "text": "人心骄傲，必致败坏；但谦卑人必得尊荣。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "zh-CN",
+      "text": "你们若甘心顺服，就必吃这地的美物；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "zh-CN",
+      "text": "所以，凡自卑的像这小孩子的，天国里是最大的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "zh-CN",
+      "text": "你们要有这心思，就是基督耶稣的心思。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "zh-CN",
+      "text": "所以，你们要像神所拣选的、圣洁蒙爱的，存怜悯、恩慈、谦卑、温柔、忍耐的心。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "zh-CN",
+      "text": "你们要在主面前谦卑，他就必升高你们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "zh-CN",
+      "text": "人的骄傲使他降为卑，谦卑的心必得尊荣。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "zh-CN",
+      "text": "你们中间谁为大，谁就要像小的，谁为首的，谁就要像服事人的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "zh-CN",
+      "text": "耶和华扶持谦卑人，惩罚恶人至于尘土。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "zh-CN",
+      "text": "谦卑人必在耶和华里欢喜，穷乏人必在以色列的圣者中快乐。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "zh-CN",
+      "text": "愿意为首的，必作你们的仆人；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "zh-CN",
+      "text": "所以，要脱去一切污秽和盈余的邪恶，存谦卑的心领受那所栽种的道，这道能救你们的灵魂。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "zh-CN",
+      "text": "但谦卑的人必承受地土，享受丰盛的平安。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "zh-CN",
+      "text": "让别人称赞你，而不是你自己的口；外人，而不是你自己的嘴唇。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "zh-CN",
+      "text": "温柔的人有福了，因为他们必承受地土。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "zh-CN",
+      "text": "在王面前不要自夸，也不要在大人的位子上站立。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "zh-CN",
+      "text": "你们中间谁想要为首，就必作众人的仆人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "zh-CN",
+      "text": "我告诉你们，这人回家去，倒比那人更被称义；因为凡自高的必降为卑，凡自卑的必升为高。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "zh-CN",
+      "text": "耶和华喜爱敬畏他的人，和盼望他慈爱的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "zh-CN",
+      "text": "但他们不听，不侧耳而听，反而随自己的计谋和顽梗的恶心而行，向后退，不向前进。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "zh-CN",
+      "text": "对锡安的女儿说，看啊，你的王来到你这里，温柔，骑着驴，骑着驴驹。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "zh-CN",
+      "text": "所以你们要为主的缘故，顺服人的一切制度：无论是君王，作为至上的，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "zh-CN",
+      "text": "他必兴旺，我却必衰微。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "zh-CN",
+      "text": "等候那有福的盼望和我们伟大的神和救主耶稣基督的显现，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "zh-CN",
+      "text": "她将要生一个儿子，你要给他起名叫耶稣，因为他要拯救他的百姓脱离他们的罪。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "zh-CN",
+      "text": "我等候耶和华，我的心等候，我仰望他的话。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "zh-CN",
+      "text": "行在黑暗中的百姓看见了大光；坐在死荫之地的人，有光照耀他们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "zh-CN",
+      "text": "道成了肉身，住在我们中间，充充满满的有恩典有真理；我们见过他的荣光，正是父独生子的荣光。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "zh-CN",
+      "text": "天使对他们说：不要害怕！看啊，我报给你们大喜的信息，是关乎万民的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "zh-CN",
+      "text": "但我必常常盼望，并要加增一切的赞美。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "zh-CN",
+      "text": "那光是真光，照亮一切生在世上的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "zh-CN",
+      "text": "因为罪的工价乃是死，惟有神的恩赐，在我们的主基督耶稣里乃是永生。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "zh-CN",
+      "text": "要等候耶和华，壮胆，坚固你的心；要等候耶和华。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "zh-CN",
+      "text": "惟有敬畏我名的人，公义的太阳必出现，带着医治在它的翅膀下；你们必出来，像圈里的小牛一样蹦跳。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "zh-CN",
+      "text": "在至高之处，荣耀归于神；在地上，平安归于他所喜悦的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "zh-CN",
+      "text": "在旷野中，有人声喊着：要为耶和华修直道路！在沙漠中修平我们神的路。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "zh-CN",
+      "text": "得着你们信心的果效，就是你们灵魂的救恩。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "zh-CN",
+      "text": "他们看见那颗星，就大大欢喜。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "zh-CN",
+      "text": "这样，你就知道智慧对你的灵魂是何等的美好；你若寻得，就必有赏赐；你的盼望必不至断绝。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "zh-CN",
+      "text": "耶和华说：看哪，日子将到，我要为大卫兴起一个公义的苗；他必作王，行事智慧，在地上施行公义和公平。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "zh-CN",
+      "text": "但当我们救主神的恩慈和他向人所施的爱显明的时候，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "zh-CN",
+      "text": "看哪，童女要怀孕生子；人要称他的名为以马内利，意思就是神与我们同在。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "zh-CN",
+      "text": "因为我们的心因他而喜乐，因为我们信靠他的圣名。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "zh-CN",
+      "text": "牧羊人回去，荣耀神，赞美他所听见所看见的一切，正如天使所告诉他们的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "zh-CN",
+      "text": "因为我们的国籍是在天上；我们也等候救主，就是主耶稣基督，从那里来。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "zh-CN",
+      "text": "但义人的救恩是出于耶和华；他是他们在患难时的避难所。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "zh-CN",
+      "text": "因我们神的怜悯，清晨的日光要从高天临到我们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "zh-CN",
+      "text": "说：时候满了，神的国近了！你们当悔改，信福音！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "zh-CN",
+      "text": "但神必救赎我的灵魂脱离阴间的权势，因为他必收纳我。细拉。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "zh-CN",
+      "text": "在那些日子，那时我必使公义的苗长起来给大卫；他必在地上施行公义和公平。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "zh-CN",
+      "text": "我赐给他们永生，他们永不灭亡，谁也不能从我手里把他们夺去。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "zh-CN",
+      "text": "我们得救是在盼望中，但所见的盼望不是盼望；谁还盼望所看见的呢？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "zh-CN",
+      "text": "因为我的眼睛已经看见你的救恩，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "zh-CN",
+      "text": "他的名存到永远；他的名在日头之下长存；人必因他得福；万国要称他为有福。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "zh-CN",
+      "text": "坐在黑暗中的百姓看见了大光；坐在死荫之地的人，有光照耀他们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "zh-CN",
+      "text": "但当时机满了，神就差遣他的儿子，生于女人，生在律法之下，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "zh-CN",
+      "text": "对他说：万军之耶和华如此说：看哪，这人的名叫公义的苗；他必从自己的地方长起来，并要建造耶和华的殿。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "zh-CN",
+      "text": "愿赞美归于主以色列的神，因为他探访并救赎了他的百姓；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "zh-CN",
+      "text": "你们因他信靠神，神使他从死里复活，并给他荣耀，使你们的信心和盼望都在神里。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "zh-CN",
+      "text": "耶稣的智慧和身量，并神和人喜爱的心都一齐增长。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "zh-CN",
+      "text": "在那些日子，他们不再说：父亲吃了酸葡萄，儿子的牙齿却酸了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "zh-CN",
+      "text": "耶稣说：让小孩子到我这里来，不要禁止他们；因为在天国里正是这样的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "zh-CN",
+      "text": "儿女们，要在一切事上听从父母，因为这对主是可喜悦的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "zh-CN",
+      "text": "我今日所吩咐你的话，要存在心里；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "zh-CN",
+      "text": "那时我们的儿子要像栽培好的植物，我们的女儿要像雕刻的柱子，装饰宫殿。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "zh-CN",
+      "text": "我赐给你们一条新命令，乃是叫你们彼此相爱；我怎样爱你们，你们也要怎样相爱。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "zh-CN",
+      "text": "人的智慧使他不轻易发怒；宽恕人的过犯是他的荣耀。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "zh-CN",
+      "text": "但我必在你们中间留下贫穷和困苦的人，他们必投靠耶和华的名。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "zh-CN",
+      "text": "凡到我这里来，听见我的话而行的，我要告诉你，他像什么。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "zh-CN",
+      "text": "求你教导我良善和知识，因为我相信你的命令。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "zh-CN",
+      "text": "至于这四个少年人，神赐给他们知识和各样的技能，明白一切的学问和智慧；但以理也明白一切的异象和梦境。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "zh-CN",
+      "text": "所以，不要愚蠢，要明白主的旨意是什么。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "zh-CN",
+      "text": "求你用真理引导我，教导我；因为你是救我的神。我终日等候你。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "zh-CN",
+      "text": "因为凡求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "zh-CN",
+      "text": "无智谋，民就败落；谋士众多，便得安全。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "zh-CN",
+      "text": "你必用你的劝诫引导我，后来接我到荣耀里。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "zh-CN",
+      "text": "天怎样高于地，我的道路也怎样高于你们的道路，我的意念也高于你们的意念。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "zh-CN",
+      "text": "但他说：不然，听神之道而遵守的人有福了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "zh-CN",
+      "text": "耶和华啊，我知道人的道路不在自己；行走的人也不能定自己的脚步。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "zh-CN",
+      "text": "愚昧人的道路在自己眼中看为正直；惟有听从劝教的，才是智慧。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "zh-CN",
+      "text": "你们为什么不自己判断什么是对的呢？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "zh-CN",
+      "text": "愿我们主耶稣基督的神，荣耀的父，赐你们智慧和启示的灵，使你们真知道他，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "zh-CN",
+      "text": "人在心里多有計謀，惟有耶和華的旨意才能立定。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "zh-CN",
+      "text": "我要站在我的望楼上，竭力观看，看看他对我说什么，我该如何回答。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "zh-CN",
+      "text": "人所行的路在自己眼中看为正直；惟有耶和华衡量人心。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "zh-CN",
+      "text": "你们这地上谦卑的人哪，要寻求耶和华，遵守他的命令。要寻求公义，寻求谦卑；也许你们在耶和华发怒的日子里，能藏身。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "zh-CN",
+      "text": "你们应当说：主若愿意，我们就可以活着，也可以做这事或那事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "zh-CN",
+      "text": "求你使我早晨听见你的慈爱，因为我倚靠你；求你使我知道我所当行的路，因为我的心仰望你。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "zh-CN",
+      "text": "你要呼求我，我就应允你，并将你所不知道的大事隐秘事指示你。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "zh-CN",
+      "text": "但那位保惠师，就是父所要奉我名来的圣灵，必教导你们一切的事，且将我对你们所说的一切话提醒你们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "zh-CN",
+      "text": "耶和华知道义人的道路，恶人的道路却必灭亡。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "zh-CN",
+      "text": "属灵的人能看透万事，然而他自己却没有人能看透。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "zh-CN",
+      "text": "所以万军之耶和华如此说：你们要省察自己的行为。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "zh-CN",
+      "text": "因为凡求的，就得着；寻找的，就寻见；叩门的，就给他开门。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "zh-CN",
+      "text": "若有人服侍我，就当跟从我；我在哪里，服侍我的人也必在那里；若有人服侍我，我的父必尊重他。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "zh-CN",
+      "text": "因为凡被神的灵引导的，都是神的儿子。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "zh-CN",
+      "text": "耶稣回答说：经上记着：人活着，不是单靠食物，乃是靠神口里所出的一切话。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "zh-CN",
+      "text": "你们要为我们祷告；因为我们深信自己有良心，愿意在各样事上都行得正直。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "zh-CN",
+      "text": "房屋因智慧而建造，因聪明而立稳；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "zh-CN",
+      "text": "耶和华啊，教导我你的道，我要在你的真理中行；求你使我的心专一，敬畏你的名。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "zh-CN",
+      "text": "那时，我要使义的苗在大卫的家中发芽；他必在地上施行公义和公平。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "zh-CN",
+      "text": "但有一件事是必要的；玛利亚已经选择那上好的部分，是不能夺去的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "zh-CN",
+      "text": "你们要安静，等候耶和华；不要因那行事亨通的，和那谋害人的人心怀不平。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "zh-CN",
+      "text": "你们若知道这些事，若行出来，就有福了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "zh-CN",
+      "text": "使你们心里的眼睛明亮，好叫你们知道他的呼召有何指望，他在圣徒中所承受的产业有何丰盛的荣耀，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "zh-CN",
+      "text": "我儿，要将这些话常存在你心中；要谨守聪明和谋略，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "zh-CN",
+      "text": "你们的顺服已经传遍众人，我因此为你们欢喜；但我愿意你们在善事上有智慧，在恶事上要无辜。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "zh-CN",
+      "text": "未听先答的，乃是愚昧和羞辱。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "zh-CN",
+      "text": "耶和华啊，求你教导我你的律例，我要遵守到底。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "zh-CN",
+      "text": "但他说：不然，听神之道而遵守的人有福了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "zh-CN",
+      "text": "教导我们要拒绝不敬虔和世俗的情欲，在如今的世代，过谨守、公义、敬虔的生活；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "zh-CN",
+      "text": "耶和华的友谊与敬畏他的人同在；他必将自己的约指示他们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "zh-CN",
+      "text": "哦，若你听从我的命令，你的平安就必如河流，你的公义就必如海浪。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "zh-CN",
+      "text": "倚靠耶和华的人有福；他所倚靠的，耶和华是他的信心。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "zh-CN",
+      "text": "你若爱我，就要遵守我的命令。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "zh-CN",
+      "text": "我要称颂耶和华，因为他赐我谋略；是的，我心在夜间教导我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "zh-CN",
+      "text": "言语节制的，必有知识；性情温和的，乃是明智之人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "zh-CN",
+      "text": "看哪，我要做一件新事；如今要发出；你们岂不知道吗？我还要在旷野开道路，在沙漠开江河。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "zh-CN",
+      "text": "我们若是靠圣灵而活，就当靠圣灵行事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "zh-CN",
+      "text": "因此，我看重你一切的训词，恨恶一切的虚假道路。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "zh-CN",
+      "text": "惟有爱心说诚实话，凡事长进，连于元首基督；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "zh-CN",
+      "text": "得着智慧的，便为有福；得着聪明的，便为有福。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "zh-CN",
+      "text": "耶和华啊，你已经听见谦卑人的愿望；你必坚固他们的心；你必侧耳而听，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "zh-CN",
+      "text": "我必急速而行，不耽延，去遵守你的命令。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "zh-CN",
+      "text": "圣经都是神所默示的，且于教训、督责、归正、在义上训练人有益；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "zh-CN",
+      "text": "正直人的正直必引导他们；奸诈人的乖僻必毁灭他们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "zh-CN",
+      "text": "少年人用什么洁净他的行为呢？用遵行你的话。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "zh-CN",
+      "text": "没有信心就不能得神的喜悦；因为到神面前来的人，必须信有神，并且信他赏赐那寻求他的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "zh-CN",
+      "text": "守法的，乃是智慧的儿子；与好酒之徒为友的，必使父亲蒙羞。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "zh-CN",
+      "text": "我的眼常仰望耶和华，因为他必将我的脚从网中拔出。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "zh-CN",
+      "text": "因为那些随从肉体的人，心思只在肉体的事上；但随从圣灵的人，心思却在圣灵的事上。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "zh-CN",
+      "text": "愚蒙人凡事都信；聪明人却要谨慎行事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "zh-CN",
+      "text": "我全心尋求你，求你不要使我偏離你的命令。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "zh-CN",
+      "text": "偏離明白之道的人，必在陰間的會中安息。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "zh-CN",
+      "text": "他們驚訝於他的教訓，因為他教訓他們，像有權柄的人，不像文士。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "zh-CN",
+      "text": "我們在許多事上都會跌倒；若有人不跌倒，他就是完全人，也能駕馭全身。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "zh-CN",
+      "text": "我兒，你若不聽教訓，就必偏離知識的言語。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "zh-CN",
+      "text": "我心立定要遵行你的律例，直到永遠。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "zh-CN",
+      "text": "你們中間誰敬畏耶和華，聽從他僕人的聲音呢？他在黑暗中行走，沒有光，當倚靠耶和華的名，仰賴他的神。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "zh-CN",
+      "text": "那忠心而有智慧的僕人，誰是他的主人所派管理他家的人，按時分糧給他們呢？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "zh-CN",
+      "text": "使你們無可指責，無害，作神無瑕疵的兒女，在彎曲悖謬的世代中，作光明的明燈。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "zh-CN",
+      "text": "聽從責備的，行在生命的路上；棄絕責備的，必使人失迷。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "zh-CN",
+      "text": "你要帶著言語回到耶和華那裡，對他說：赦免我們一切的罪，並接受那美好的；我們就用嘴唇所許的獻上公牛。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "zh-CN",
+      "text": "你們中間哪一個，想要建一座塔，不先坐下算計花費，能否完成呢？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "zh-CN",
+      "text": "你的話被我尋得，我就吃了；你的話在我心中成為喜樂和快樂，因我稱為你的名，耶和華萬軍之神。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "zh-CN",
+      "text": "耶和華本為良善正直，因此他必指教罪人走正路。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "zh-CN",
+      "text": "看哪，我的僕人必有智慧，他必被高舉，並且被尊崇，並且極其高舉。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "zh-CN",
+      "text": "通達的人行事，必憑著知識；愚昧人卻顯露愚妄。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "zh-CN",
+      "text": "求你用你的話堅定我的腳步，讓任何罪孽不再掌管我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "zh-CN",
+      "text": "身體的燈就是眼睛；因此，若你的眼睛是好的，整個身體也都充滿光；但若你的眼睛是壞的，身體也都充滿黑暗。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "zh-CN",
+      "text": "願賜平安的神，就是那藉著永約之血，使大牧人耶穌從死裡復活的神，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "zh-CN",
+      "text": "明白人的心尋求知識，愚昧人的口卻吞吃愚妄。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "zh-CN",
+      "text": "主耶和華必不行任何事，卻不將他的密事啟示給他的僕人先知。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "zh-CN",
+      "text": "我的羊聽我的聲音，我也認識他們，他們也跟隨我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "zh-CN",
+      "text": "不要消滅聖靈。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "zh-CN",
+      "text": "人心中的謀略如深水，惟有明白的人能將它引出來。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "zh-CN",
+      "text": "說：時候滿了，神的國近了！你們當悔改，信福音！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "zh-CN",
+      "text": "但那窺探完全律法的人，若不單作聽道者，而是行道的，這人必在他所行的事上蒙福。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "zh-CN",
+      "text": "不要嫉妒強暴的人，也不要選擇他的道路。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "zh-CN",
+      "text": "你的僕人藉著這些受了警戒，遵行這些便有大賞賜。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "zh-CN",
+      "text": "我們要認識耶和華，竭力追求認識他；他來必像雨，像滋潤大地的春雨。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "zh-CN",
+      "text": "有耳可聽的，就應當聽。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "zh-CN",
+      "text": "慢怒的人大有智慧，暴怒的人卻顯露愚妄。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "zh-CN",
+      "text": "耶穌回答他說：經上記著：人活著，不是單靠食物，乃是靠神口裡所出的一切話。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "zh-CN",
+      "text": "無知的熱心是不好的，急躁行走的，必失迷。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "zh-CN",
+      "text": "我思想我的行為，轉向你的律例。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "zh-CN",
+      "text": "人豈能藏身於隱密處，使我看不見他呢？耶和華說：我豈不充滿天地嗎？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "zh-CN",
+      "text": "弟兄們，我不以為自己已經得著，只有一件事：就是忘記背後，努力面前的事，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "zh-CN",
+      "text": "義的路上有生命；在這條路上沒有死亡。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "zh-CN",
+      "text": "看哪，我渴望你的訓詞！求你按你的公義使我活過來。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "zh-CN",
+      "text": "耶和華啊，你是我的神！我要尊崇你！我要讚美你的名，因為你行了奇妙的事，這些事是從古時以來所定的，完全的信實和真實。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "zh-CN",
+      "text": "我們都像羊走迷了路，各人偏行己路；耶和華卻將我們眾人的罪孽歸在他身上。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "zh-CN",
+      "text": "不是出於行為，免得有任何人自誇。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "zh-CN",
+      "text": "因為世人都犯了罪，虧缺了神的榮耀；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "zh-CN",
+      "text": "敬畏耶和華是生命的泉源，可以使人遠離死亡的網羅。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "zh-CN",
+      "text": "第二天，他看見耶穌來到他那裡，就說：看哪，神的羔羊，除去世人罪孽的！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "zh-CN",
+      "text": "他也從深坑和泥濘中拉起我，將我的腳立在磐石上，使我的腳步穩當。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "zh-CN",
+      "text": "過兩天他必使我們復活；第三天他必使我們站在他面前。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "zh-CN",
+      "text": "他救了我們脫離黑暗的權勢，將我們轉移到他所愛之子的國度裡，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "zh-CN",
+      "text": "我不廢棄神的恩典；因為若是藉著律法得義，基督就是徒然死了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "zh-CN",
+      "text": "所以，弟兄們，我們可以坦然無懼地進入聖所，藉著耶穌的血，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "zh-CN",
+      "text": "求你使我恢復救恩的喜樂，賜我樂意的靈扶持我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "zh-CN",
+      "text": "財富在忿怒的日子無益，惟有公義能救人脫離死亡。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "zh-CN",
+      "text": "讓我們以真心，滿有信心地親近，心中灑去惡良心，身體用清水洗淨。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "zh-CN",
+      "text": "並且從耶穌基督那裡，這位忠信的見證人，從死裡首先復活的，地上君王的元首，愛我們，用自己的血洗淨了我們的罪，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "zh-CN",
+      "text": "百夫長看見他這樣呼喊，氣絕而死，就說：這真是神的兒子！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "zh-CN",
+      "text": "他為我們的罪成為罪，叫我們在他裡面成為神的義。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "zh-CN",
+      "text": "旋風過去，惡人不再；義人卻永遠站立。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "zh-CN",
+      "text": "不是藉著山羊和小牛的血，而是藉著自己的血，進入聖所，獲得永遠的救贖。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "zh-CN",
+      "text": "他們因著羔羊的血和自己所作的見證勝過他；他們不愛惜自己的性命，甚至至死。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "zh-CN",
+      "text": "倚靠財富的必跌倒；義人卻如青葉發旺。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "zh-CN",
+      "text": "行為正直的必得安全；行為乖謬的必突然跌倒。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "zh-CN",
+      "text": "并且要奉他的名向万国传悔改和赦罪的道，从耶路撒冷起。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "zh-CN",
+      "text": "为要把在律法之下的人赎回，使我们得着儿子的名分。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "zh-CN",
+      "text": "坐在宝座上的说：看哪，我把一切都更新了。又说：你要写上，因为这些话是可信的，是真实的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "zh-CN",
+      "text": "啊，主耶和华！看哪，你用大能的手和伸出来的膀臂造了天和地；在你看来，没有难成的事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "zh-CN",
+      "text": "谁能控告神所拣选的人呢？神是称义的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "zh-CN",
+      "text": "并且在他里面被寻见，不是有自己从律法来的义，乃是有信基督的义，这义是本于神，靠着信。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "zh-CN",
+      "text": "智慧人的教训是生命的泉源，使人远离死亡的网罗。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "zh-CN",
+      "text": "因为他一次献祭，便使那被分别为圣的人永远完全。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "zh-CN",
+      "text": "神的一切话都是纯净的；他是投靠他的人的盾牌。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "zh-CN",
+      "text": "看哪，他的心高傲，在他里面并不正直；但义人必因信得生。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "zh-CN",
+      "text": "我若从地上被举起来，就要吸引万人来归我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "zh-CN",
+      "text": "他救了我们，按自己的圣召召我们，不是按我们的行为，乃是按他的旨意和恩典，这恩典是在万世以前，赐给我们的基督耶稣里。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "zh-CN",
+      "text": "你要专心仰赖耶和华，不可倚靠自己的聪明。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "zh-CN",
+      "text": "所以要在基督使我们得自由的自由中站立得稳，不要再被奴役的轭挟制。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "zh-CN",
+      "text": "他对我说：我是阿尔法，我是俄梅戛，初，我是终。我要把生命之水的泉源白白赐给那口渴的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "zh-CN",
+      "text": "心愿得以实现，乃是灵魂的甘甜；愚昧人却厌恶转离恶事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "zh-CN",
+      "text": "我们若在他死的样式上与他联合，也必在他复活的样式上与他联合；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "zh-CN",
+      "text": "要救那些被拉去死亡的人；确实，要拦住那些摇摇欲坠的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "zh-CN",
+      "text": "耶和华已除去你的审判，赶出你的仇敌；以色列的王，耶和华，正在你中间；你不再惧怕恶事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "zh-CN",
+      "text": "他为我们的罪作了挽回祭，不单为我们的罪，也是为全世界的罪。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "zh-CN",
+      "text": "谁能说：我洁净了我的心，我是无罪的？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "zh-CN",
+      "text": "使我们因他的恩典称义，得以成为永生的盼望的后嗣。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "zh-CN",
+      "text": "圣灵和新妇说：来！听见的人也该说：来！口渴的人，愿他来；愿那愿意的人白白取生命的水。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "zh-CN",
+      "text": "我儿，要把你的心给我；你的眼要喜悦我的道。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "zh-CN",
+      "text": "但喝我所赐的水的人，永远不渴；我所赐的水要在他里面成为泉源，涌流到永生。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "zh-CN",
+      "text": "但我若不以我们主耶稣基督的十字架夸口，愿意远离我；因为世界已经因我而钉十字架，我也因世界而钉十字架。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "zh-CN",
+      "text": "但你要知道，人子在地上有权柄赦罪。他对瘫子说。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "zh-CN",
+      "text": "因为：凡求告主名的，就必得救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "zh-CN",
+      "text": "我若去为你们预备地方，就必再来接你们到我那里去；我在哪里，你们也要在哪里。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "zh-CN",
+      "text": "所以你们若真与基督一同复活，就当寻求上面的事；那里有基督，坐在神的右边。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "zh-CN",
+      "text": "乃是用无瑕疵、无玷污的羔羊基督的宝血。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "zh-CN",
+      "text": "耶和华的名是坚固的塔；义人奔入其中，便得安全。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "zh-CN",
+      "text": "遵行他命令的人有福了，必得生命树的权利，并且可以从城门进城。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "zh-CN",
+      "text": "但义人的道路好像黎明的光，越照越明，直到日午。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "zh-CN",
+      "text": "这就是永生，使他们认识你，独一的真神，并且认识你所差来的耶稣基督。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "zh-CN",
+      "text": "因为在基督耶稣里生命的圣灵的律，释放了我，使我脱离罪和死的律。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "zh-CN",
+      "text": "基督的血，借着永远的圣灵，自己无瑕疵地献给神，岂不更能洗净你们的良心，使你们脱离死行，事奉那永生的神吗？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "zh-CN",
+      "text": "真正的义人得生命；追求恶事的必致死亡。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "zh-CN",
+      "text": "我必从阴间的权势中救赎他们；我必救赎他们脱离死亡！死亡啊，你的灾祸在哪里？阴间啊，你的毁灭在哪里？我的眼必不再怜悯。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "zh-CN",
+      "text": "因为这是我新约的血，为许多人流出来，使罪得赦。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "zh-CN",
+      "text": "他必再怜悯我们，必将我们的罪孽践踏在脚下；你必将他们的罪全都抛在海底。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "zh-CN",
+      "text": "所以我们看出，人称义是因信，不在乎律法的行为。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "zh-CN",
+      "text": "他既然显现为人的样式，就自卑，顺服至死，且死在十字架上。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "zh-CN",
+      "text": "你要买真理，不可卖；要得智慧、训诲和聪明。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "zh-CN",
+      "text": "耶和华他们的神必在那日拯救他们，像他人民的羊群；因为他们在他地上，像冠冕的珠宝，高高举起。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "zh-CN",
+      "text": "我告诉你们，甚至在天上为一个悔改的罪人，必有更大的喜乐，胜过九十九个不需要悔改的义人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "zh-CN",
+      "text": "就如罪在死里作王，恩典也借着义在耶稣基督我们的主里作王，直到永生。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "zh-CN",
+      "text": "就是神在基督里，叫世界与自己和好，不将他们的过犯归到他们身上，并且把和好的道理托付给我们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "zh-CN",
+      "text": "他在衣服和大腿上有名字写着：万王之王，万主之主。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "zh-CN",
+      "text": "恶人当离弃自己的道路，不义的人当离弃自己的意念；让他归向耶和华，耶和华必怜悯他，归向我们的神，因他必广行赦免。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "zh-CN",
+      "text": "若不是差我来的父吸引他，没人能到我这里来；到末日，我要使他复活。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "zh-CN",
+      "text": "因为他是我们的和平，已将两下合而为一，拆毁了中间隔断的墙。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "zh-CN",
+      "text": "不要在自己眼中看为智慧；要敬畏耶和华，远离恶事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "zh-CN",
+      "text": "我必从恶人的手中拯救你，我必从强暴人的手中救赎你。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "zh-CN",
+      "text": "因为你们都是因信基督耶稣而作神的儿女。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "zh-CN",
+      "text": "从前你们不是子民，如今却是神的子民；从前未曾蒙怜悯，如今却蒙了怜悯。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "zh-CN",
+      "text": "主啊，求你听；主啊，求你赦免；主啊，求你垂听而行；不要耽延，因你的缘故，我的神，因为你的城和你的人民是称为你名下的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "zh-CN",
+      "text": "耶稣对她说：我是复活，我是生命；信我的人，虽然死了，也必复活；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "zh-CN",
+      "text": "在他里面我们得救赎，罪得赦免。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "zh-CN",
+      "text": "所以我们要坦然无惧地来到施恩的宝座前，得怜悯，蒙恩惠，作随时的帮助。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "zh-CN",
+      "text": "耶和华的敬畏 leads to life, then contentment 他安然居住，不会被灾难所扰。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "zh-CN",
+      "text": "他们发现石头已经从坟墓里滚开了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "zh-CN",
+      "text": "但你们不是在肉体中，而是在灵里，若神的灵住在你们里面。若有人没有基督的灵，他就不是基督的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "zh-CN",
+      "text": "并且他向我们信的人所施的能力的超乎常大的伟大。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "zh-CN",
+      "text": "并且他使我们成为国度，做他神和父的祭司；愿荣耀和权柄归给他，直到永永远远。阿门。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "zh-CN",
+      "text": "义人的果子是生命树；智慧人赢得灵魂。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "zh-CN",
+      "text": "西门彼得回答说：你是基督，是永生神的儿子。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "zh-CN",
+      "text": "愿主耶稣基督的恩典常与你们同在。阿门。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "zh-CN",
+      "text": "恶人必不免受罚；义人的后裔必得拯救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "zh-CN",
+      "text": "凡接待他的，就是信他名的人，他就赐他们权柄，作神的儿女。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "zh-CN",
+      "text": "知道那叫主耶稣复活的，也必叫我们与耶稣一同复活，并且与你们一同显现。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "zh-CN",
+      "text": "因为神并没有叫我们受惩罚，而是要我们借着主耶稣基督得救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "zh-CN",
+      "text": "在其中绝不容许任何亵渎的事物，或使人厌恶或说谎的人，只有那些名字写在羔羊生命册上的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "zh-CN",
+      "text": "不要不管孩子的管教；你用杖打他，他必不至于死。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "zh-CN",
+      "text": "他对她说：你的罪被赦免了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "zh-CN",
+      "text": "你们要知道时辰，现今是时候叫你们从睡梦中醒过来；因为救恩离我们更近了，胜过我们初信的时候。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "zh-CN",
+      "text": "这样，你们不再是外人和客旅，而是与圣徒同国，是神家里的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "zh-CN",
+      "text": "使将来的世代知道，连那些将要出生的孩子；要兴起告诉他们的孩子。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "zh-CN",
+      "text": "要寻求我使你们被掳的城的平安，为它祈求耶和华；因为在它的平安中，你们也必得平安。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "zh-CN",
+      "text": "妻子要顺服自己的丈夫，这在主里面是合宜的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "zh-CN",
+      "text": "这城的街道上满是男孩和女孩在街上玩耍。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "zh-CN",
+      "text": "然后他对那门徒说：看啊，你的母亲！从那时起，那门徒就把她接到自己家里。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "zh-CN",
+      "text": "义人的父亲大有喜乐；生出智慧儿子的，必得喜悦。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "zh-CN",
+      "text": "女人能忘记她所吃奶的孩子，以致不怜恤她所生的儿子吗？即使这些人可能忘记，我却不会忘记你！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "zh-CN",
+      "text": "要孝敬你的父母，这是带着应许的第一条诫命：",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "zh-CN",
+      "text": "我必给你们按我心意的牧人，喂养你们，以知识和聪明。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "zh-CN",
+      "text": "但若有寡妇有儿女或孙子，让他们先学习向自己的家人表现孝心，并报答父母，因为这是在神面前可接受的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "zh-CN",
+      "text": "她留心家中事务，不吃懒惰之人的饭。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "zh-CN",
+      "text": "家若分争，必站不住。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "zh-CN",
+      "text": "丈夫要爱妻子，不可对她们心怀苦毒。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "zh-CN",
+      "text": "要帮助圣徒的缺乏，热心接待客人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "zh-CN",
+      "text": "宁可吃干饼，心里安静；也不愿在争吵中吃丰盛的筵席。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "zh-CN",
+      "text": "她的儿女起来称她为有福；她的丈夫也称赞她：",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "zh-CN",
+      "text": "耶和华你的神在你中间，是施行拯救的大能者；他必因你欢欣喜乐，默然爱你；他必因你欢喜而歌唱。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "zh-CN",
+      "text": "神赐福给挪亚和他的儿子们，对他们说：要生养众多，遍满地面。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "zh-CN",
+      "text": "他对他们说：你们要专心听我今天所作的见证，吩咐你们的儿女遵守这律法的所有话。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "zh-CN",
+      "text": "对义人说，事情必会好，因为他们必吃自己行为的果子。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "zh-CN",
+      "text": "回到你的家，宣告神为你所做的伟大事。他就去，遍传耶稣为他所做的伟大事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "zh-CN",
+      "text": "智慧的儿子使父亲喜乐；愚昧人藐视母亲。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "zh-CN",
+      "text": "这些事你们要做：各人要对邻舍说真话；在你们的城门中执行公义与和平的审判，",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "zh-CN",
+      "text": "要谨防无人以恶报恶，常要追求良善，彼此相助，和众人相助。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "zh-CN",
+      "text": "愿耶和华报答你的工作，愿耶和华以色列的神，赐你丰厚的赏赐，在他翅膀下你来投靠。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "zh-CN",
+      "text": "让你们的温柔为众人所知；主已经临近。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "zh-CN",
+      "text": "耶和华是良善的，是在患难日的避难所；他知道投靠他的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "zh-CN",
+      "text": "他对他们说：你们为什么如此害怕？你们怎么没有信心？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "zh-CN",
+      "text": "因为你们需要忍耐，好使你们行完神的旨意，就可以得着应许。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "zh-CN",
+      "text": "耶和华，主，是我的力量；他使我的脚像母鹿的脚，使我在高处行走。为乐器的指挥，按我的弦乐器。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "zh-CN",
+      "text": "倚靠雅各的神为帮助的人是有福的；他的盼望在耶和华他的神中。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "zh-CN",
+      "text": "愿主引导你们的心归向神的爱和基督的忍耐。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "zh-CN",
+      "text": "但我却因耶和华的灵充满了能力，和公义，和能力，向雅各宣告他的悖逆，向以色列宣告他的罪。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "zh-CN",
+      "text": "你们岂不知在赛跑的比赛中，所有人都在跑，但只有一个人得奖赏吗？你们也要这样跑，好使你们得奖赏。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "zh-CN",
+      "text": "你们要刚强！不要放松手，因为你们的工作必得赏赐。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "zh-CN",
+      "text": "耶和华的使者向他显现，对他说：耶和华与你同在，勇士啊！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "zh-CN",
+      "text": "使全会众知道，耶和华并不靠刀枪拯救；因为争战乃是耶和华的，他必将你交在我们手中。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "zh-CN",
+      "text": "他回答说：不要害怕，因为与我们同在的比与他们同在的更多。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "zh-CN",
+      "text": "你们对耶和华有什么阴谋？他必使你们完全灭绝；苦难不会第二次兴起。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "zh-CN",
+      "text": "我派人去见他们，说：我正在做一件大事，不能下去；我为何要停工，离开而下去见你们？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "zh-CN",
+      "text": "但忍耐到底的必然得救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "zh-CN",
+      "text": "我在以色列中留下七千人，所有未向巴力屈膝的，和未亲吻他的口。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "zh-CN",
+      "text": "这殿的后来的荣耀必大于先前的，万军之耶和华如此说；在这个地方我必赐平安，万军之耶和华如此说。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "zh-CN",
+      "text": "你们要为我的名被众人恨恶，惟有忍耐到底的，必然得救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "zh-CN",
+      "text": "免得有人因这些患难而动摇；因为你们知道我们受苦是命定的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "zh-CN",
+      "text": "要思想那忍受罪人如此顶撞的，免得你们疲倦灰心。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "zh-CN",
+      "text": "至于神，他的道是完全的；耶和华的话是炼净的；他是投靠他的人的盾牌。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "zh-CN",
+      "text": "要努力进窄门；我告诉你们，许多人要想进去，却是不能。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "zh-CN",
+      "text": "你们要刚强壮胆；不要因亚述王和跟随他的众多民惊惶；因为与我们同在的，比与他们同在的更大。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "zh-CN",
+      "text": "现在我的心里忧愁，我该说什么呢？父啊，救我脱离这时候？但我正是为这时候来到。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "zh-CN",
+      "text": "所以，照着神的旨意行善受苦的人，要把自己的灵魂交托给那信实的创造主。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "zh-CN",
+      "text": "所以你们要归向你们的神；要守慈爱和公义，时常等候你们的神。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "zh-CN",
+      "text": "你使我的脚步宽阔，使我脚下不致滑跌。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "zh-CN",
+      "text": "他们把你带到会堂、官府和掌权者面前，不要为你们怎样回答或说什么而忧虑；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "zh-CN",
+      "text": "要寻求耶和华和他的能力，时常寻求他的面。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "zh-CN",
+      "text": "因为义人虽七次跌倒，仍必兴起；恶人却被祸患倾倒。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "zh-CN",
+      "text": "忍耐生出老练，老练生出盼望；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "zh-CN",
+      "text": "虽有千人扑倒在你旁边，万人在你右边，灾祸却不临近你。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "zh-CN",
+      "text": "你们要为我的名被众人恨恶，惟有忍耐到底的，必然得救。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "zh-CN",
+      "text": "犹大的首领心里说：耶路撒冷的居民是我在万军之耶和华那里所倚靠的力量。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "zh-CN",
+      "text": "有一个天使从天上显现，坚固他。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "zh-CN",
+      "text": "使你们不懈怠，乃要效法那些因信心和忍耐承受应许的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "zh-CN",
+      "text": "我现在走世上的路；你要刚强，作个大丈夫；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "zh-CN",
+      "text": "我不怕成千上万的民，他们围攻我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "zh-CN",
+      "text": "耶和华预备了一条大鱼吞下约拿，约拿在鱼腹中三天三夜。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "zh-CN",
+      "text": "彼得想起耶稣对他说的话：鸡叫以前，你要三次不认我。他就出去痛哭。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "zh-CN",
+      "text": "耶和华是忌邪的神，是报仇的；耶和华报仇，满有忿怒；耶和华向他的敌人报仇，向他的仇敌怀怒。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "zh-CN",
+      "text": "黑夜已深，白昼将近；所以我们要脱去暗昧的行为，戴上光明的兵器。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "zh-CN",
+      "text": "因你，我能冲入敌阵；借着我的神，我能跳过墙垣。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "zh-CN",
+      "text": "你们这些被囚的希望者，要归向坚固的所在！我今日宣告，我要加倍赐还给你们。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "zh-CN",
+      "text": "看哪，我们称那些忍耐的人为有福；你们听见了约伯的忍耐，也看见了主的结局，主是满有怜悯和慈悲的。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "zh-CN",
+      "text": "你是我的藏身之处；你必保守我脱离患难；你必用得救的歌环绕我。细拉。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "zh-CN",
+      "text": "你们成为我们的模范，也成为主的模范，因你们在许多患难中领受了道，且在圣灵的喜乐中。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "zh-CN",
+      "text": "他倚靠耶和华，以色列的神，因他之后在犹大众王中没有一个像他，且在他以前也没有。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "zh-CN",
+      "text": "女儿啊，不要怕；我必照你所说的待你；因为我本城的人都知道你是个贤德的女子。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "zh-CN",
+      "text": "在旷野有声音喊着：预备主的道，修直他的路！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "zh-CN",
+      "text": "但他知道我所行的路；他试炼我之后，我必如精金。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "zh-CN",
+      "text": "开路的在他们前面上去；他们穿过城门，出去；他们的王在他们前面，耶和华在他们的首位。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "zh-CN",
+      "text": "你是谁，竟敢判断别人的仆人？他站立或跌倒，乃在自己的主面前；他必站立，因为神能使他站立。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "zh-CN",
+      "text": "愿耶和华我们的神与我们同在，像与我们列祖同在一样；愿他不撇下我们，也不离弃我们；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "zh-CN",
+      "text": "过了八天，门徒又在里面，托马斯也和他们同在；耶稣来了，门都关着，站在中间，说：愿你们平安！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "zh-CN",
+      "text": "但你看见了苦难和愁苦，便看顾它，亲手帮助受害者和孤儿。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "zh-CN",
+      "text": "从施洗约翰的日子直到如今，天国是努力进入的，努力的人就得着了。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "zh-CN",
+      "text": "我向着标杆直跑，得着神在基督耶稣里召我来得的奖赏。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "zh-CN",
+      "text": "并且要把他交给外邦人，戏弄、鞭打、钉十字架；第三天他要复活。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "zh-CN",
+      "text": "要赐给我们，叫我们从仇敌的手中被释放，终身在他面前，坦然无惧地事奉他；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "zh-CN",
+      "text": "愿他在我们主耶稣基督降临的时候，坚固你们的心，使你们在我们神和父面前无可指摘。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "zh-CN",
+      "text": "犹大众人因所起的誓而欢喜，因为他们是尽心寻求他，便寻见了他；耶和华便使他们四围安然无事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "zh-CN",
+      "text": "人要在他的荫下居住；他们要像谷中的麦子复苏，像葡萄树开花；他们的香气要像黎巴嫩的酒。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "zh-CN",
+      "text": "只要敬畏耶和华，诚心诚意地事奉他；要思想他为你们所行的伟大事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "zh-CN",
+      "text": "我必安然躺下睡觉；因为惟有你，耶和华，使我安然居住。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "zh-CN",
+      "text": "但我们若盼望那所不见的，就必忍耐等候。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "zh-CN",
+      "text": "他使卑微的人高升，叫哀恸的人得安全。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "zh-CN",
+      "text": "我虽行过死荫的幽谷，也不怕遭害；因为你与我同在；你的杖、你的竿，都安慰我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "zh-CN",
+      "text": "主说：西门，西门，撒但想要得着你们，好像筛麦子；",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "zh-CN",
+      "text": "耶和华看着他说：你要靠着你的能力去拯救以色列脱离米甸人的手；我岂不是差遣你去的吗？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "zh-CN",
+      "text": "我必在耶和华里面使他们刚强；他们必因我的名而行走，耶和华说。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "zh-CN",
+      "text": "耶稣对门徒说：若有人要跟从我，就当舍己，背起他的十字架，来跟从我。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "zh-CN",
+      "text": "因为你使我在争战中有力；你使那些起来攻击我的人都服在我手下。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "zh-CN",
+      "text": "大卫的诗。耶和华是我的亮光，是我的拯救；我还怕谁？耶和华是我生命的力量；我还惧谁？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "zh-CN",
+      "text": "于是耶和华的使者哈该对百姓说：我与你们同在，耶和华说。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "zh-CN",
+      "text": "信我的人，若有圣经所说的，从他腹中要流出活水的江河来。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "zh-CN",
+      "text": "那召你们的，是信实的，他也必成就这事。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "zh-CN",
+      "text": "认识你名的人必倚靠你；因为你没有离弃寻求你的人。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "zh-CN",
+      "text": "那在好土里的是那些以诚实善良的心，听见道，持守住，忍耐着结出果实。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

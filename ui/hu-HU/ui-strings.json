@@ -1,0 +1,455 @@
+{
+  "language": "hu-HU",
+  "translations": {
+    "aboutBody": "A TypeSprout egy gépelési gyakorló és fejlődési weboldal az 1–6. osztályosok számára, amely támogatja a zh‑TW / zh‑CN / en‑US nyelveket, és célja, hogy biztonságos és barátságos környezetet kínáljon a gyerekek számára világszerte a bevitel, megértés és kifejezés gyakorlásához.",
+    "home": {
+      "aboutContent": "Szia mindenkinek, Yves.C vagyok, egy apuka Tajvanról. A TypeSprout inspirációja abból fakadt, hogy láttam, ahogy a gyerekeim barátokkal csevegnek a világ minden tájáról a Robloxon—rájöttem, hogy a gépelés valójában az első kulcs a gyerekek számára, hogy megnyíljanak egy nagyobb világ felé. Így létrehoztam ezt a webes gépelési gyakorlót no-code koncepciókkal + ChatGPT/AI, hozzáadva egy kis fa növekedési vizuális visszajelzést: minden helyes billentyűleütéssel a fa egy kicsit nő, a napi erőfeszítéseket látható eredményekké alakítva. A tartalom szempontjából a 1-6. osztályból származó gyakran használt szavakat szerveztem kérdésbankokba; a gyerekek gyakorolhatják az anyanyelvüket, és válthatnak angolra vagy más nyelvekre, amelyeket a Beállításokban szeretnének gyakorolni. Ezeket a szavakat az AI szűri az osztály nehézsége szerint.Felnőttek számára egy kiterjesztett kérdésbankot készítettem, amely jelenleg tartalmaz Biblia API-t és AI által generált bibliai szövegeket (ingyenes online forrásokból, a pontosság korlátozott lehet), és fokozatosan hozzáadok olyan témákat, mint a híres idézetek, hogy a gyakorlás érdekesebb legyen. A TypeSprout-ban a gyerekek fokozatosan pontokat és napi erőfeszítéseket halmoznak fel; a képernyőn lévő kis fa is virágzik a teljesítményükkel, pozitív ciklust alkotva: erőfeszítés → visszajelzés → újra elköteleződés. Terveztem egy 5 napos aktív kihívást is: 5 egymást követő napon való gyakorlás kis gyümölcsjutalmat ér. Amikor az eredmények láthatóvá válnak, a motiváció növekedni fog. Ez az a tanulási ritmus, amit szeretnék megosztani a gyerekekkel és veletek. Tanárok számára a személyes oldalon hozzáadtam egy Osztály funkciót, amely lehetővé teszi a tanárok számára, hogy osztályokat hozzanak létre és meghívják az osztálytársakat a részvételre, így a gyakorlás versenyképesebbé válik.Ez egy kis projekt, amelyet személyesen tartok fenn (nincs mérnöki háttér, főleg a ChatGPT/AI-ra támaszkodom útmutatás és együttműködés céljából). Ha javaslataid vannak, vagy problémákat tapasztalsz a használat során, kérlek, nyugodtan hagyj üzenetet a GitHub problémák szekciójában, és mindent megteszek, hogy rendszerezzem és megoldjam őket. Előre is köszönöm mindenkinek. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "A TypeSprout-ról",
+      "ctaTest": "Teszt elvégzése",
+      "googleUsersCount": "Google Bejelentkezés Felhasználók",
+      "googleUsersTooltip": "A Google-fiókkal bejelentkezett felhasználók összes száma",
+      "heroSubtitle": "Minden billentyűleütés energia, hogy öntözd a fádat. A többnyelvű támogatás segít a helyes gépelési szokások kialakításában és a fókuszálásban.",
+      "heroTitle": "A gyerekek gépelnek, a palánta nő.",
+      "tabs": {
+        "leader": "Leaderboard (előnézet)",
+        "visitors": "Látogatók"
+      },
+      "leaderEmpty": "Még nincs adat",
+      "leaderViewFull": "Teljes rangsort megtekintése",
+      "players": "Játékosok",
+      "privacyNote": "Nem gyűjtünk személyes adatokat; a statisztikák névtelenek, csupán a rangsorolás és a tanulási visszajelzés céljából.",
+      "visitorsDesc": "Az oldal látogatóinak és játékosainak ország szerinti megoszlása (névtelen)."
+    },
+    "absoluteScale": "Zöld ≤{{low}}% · Sárga ≤{{mid}}% · Piros >{{mid}}% (% a legutóbbi kumulatív hibaarány az adott billentyűre)",
+    "accuracy": "Pontosság {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Pontossági trenddiagram: a magasabb vonal pontosabb eredményt jelent.",
+      "accuracyChartTitle": "Pontosság",
+      "accuracyChartTooltip": "Y-tengely: Pontosság (minél magasabb, annál pontosabb); X-tengely: időrend. A kék vonal a pontosság változásait mutatja minden teszt során.",
+      "defaultDescription": "Top: Sebességpontszám trend; Bottom: Pontosság trend. Először javítsd a pontosságot, majd fokozatosan növeld a sebességet.",
+      "speedChartAriaLabel": "Sebességpontszám trenddiagram: a magasabb vonal jobb teljesítményt jelent",
+      "speedChartTitle": "Sebességpontszám (Helyes sebesség)",
+      "speedChartTooltip": "Y-tengely: Sebességpontszám (minél magasabb, annál jobb); X-tengely: időrend. A zöld vonal a helyes karakterek sebességét mutatja, ötvözve a sebességet és a pontosságot.",
+      "recordNumber": "Rekord {{number}}",
+      "speedScore": "Sebesség pontszám {{score}}",
+      "totalQuestionChars": "Kérdések összes karaktere: {{chars}}",
+      "actualInput": "Tényleges bevitel: {{chars}} karakter",
+      "timeSpent": "Eltelt idő: {{seconds}} s",
+      "accuracy": "Pontosság {{percent}}%",
+      "correctChars": "Helyes karakterek: {{chars}}",
+      "percentile": "Jobb mint kb. {{percent}}% ember",
+      "highestHere": "Legmagasabb itt {{value}}",
+      "recentValue": "Legutóbbi {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "A pontosság = helyes karakterek ÷ összes kérdés karakter. Megjegyzés: a be nem írt karakterek is számítanak az összesbe, így a hiányzó karakterek csökkentik a pontosságot.",
+      "hideInsights": "Rejtett betekintések",
+      "scoreTooltip": "Összetett pontszám = a helyes karakterek bevitelének sebessége. Számítás: sebesség (WPM/CPM) × pontosság. Cél: először stabilizálni a pontosságot, majd fokozatosan növelni a sebességet.",
+      "showInsights": "Mutasd a betekintéseket",
+      "summary": "Ez az ülés összefoglalója",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Aktív napok: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} karakter",
+    "adjWpm": "Összetett pontszám (helyes sebesség)",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Hirdetési sütik: Ahogy fentebb említettük, ha engedélyezzük a Google AdSense-t, a Google sütiket fog használni a hirdetések megjelenítésére. Bármikor meglátogathatja a Google hirdetési beállítások oldalát (https://adssettings.google.com/), hogy kezelje vagy leiratkozzon a személyre szabott hirdetésekről.",
+        "functionalCookies": "Funkcionális sütik: Sütiket használunk a bejelentkezési állapotod fenntartására."
+      },
+      "section5": {
+        "contactChannel": "Kapcsolattartási csatorna: Ha kérdése van ezzel a adatvédelmi irányelvvel kapcsolatban, vagy szeretné gyakorolni adataihoz fűződő jogait (például kérdés, javítás, törlés), kérjük, küldje el kérelmét hivatalos GitHub Issues oldalunkon.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Fontos emlékeztető: Kérjük, vegye figyelembe, hogy a GitHub Issues egy nyilvános platform. Személyes adatainak védelme érdekében kérjük, semmiképpen ne hagyjon el semmilyen személyes azonosító információt a probléma tartalmában, például e-mail címet, valódi nevet vagy fiók képernyőképeket. Csak a TypeSprout felhasználónevét és a probléma leírását kérjük, hogy adja meg. Nem fogunk kapcsolatba lépni Önnel semmilyen magáncsatornán, csak a problémákon keresztül.",
+        "responseTime": "Mivel ez egy személyesen karbantartott projekt, a lehetőségeinkhez mérten a lehető leggyorsabban válaszolunk. Köszönjük a türelmét és megértését."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Lehetőséged van megadni életkorodat, szakmai területedet, nyelvedet vagy régiódat. Ez az információ nem kötelező, és elsősorban a kérdésbank ajánlások optimalizálására, névtelen statisztikai elemzésre és a ranglisták csoportosítására szolgál. Ezen információk pontosságát nem kérjük és nem ellenőrizzük."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Hirdetés): Lehetséges, hogy a jövőben Google AdSense-t használunk hirdetések megjelenítésére a weboldal üzemeltetési költségeinek támogatására. A Google és partnerei sütiket (például DoubleClick sütit) használhatnak a személyre szabott hirdetések megjelenítésére a korábbi látogatási előzményeid alapján.",
+          "googleAnalytics": "Google Analytics: Ezt a szolgáltatást használjuk a weboldal forgalmának elemzésére, hogy megértsük a szolgáltatás használatát. Anonimizált információkat gyűjt, például az IP-címét, a böngésző típusát, az operációs rendszert, a meglátogatott oldalakat stb."
+        },
+        "principle": "A minimalizmus elvét követjük, csak a szolgáltatás működéséhez szükséges adatokat gyűjtjük:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "A szolgáltatás alapvető funkciója, hogy az Ön névtelen felhasználói azonosítója és játékadatai részei, amelyeket a pontszámok rögzítésére, a történelmi diagramok biztosítására és a globális ranglistákhoz használnak.",
+        "experienceOptimization": "Tapasztalatoptimalizálás: Az életkor, a foglalkozás és egyéb információk, amelyeket önként megad, arra lesznek felhasználva, hogy jobban illeszkedő gépelési gyakorló kérdésbankokat találjunk önnek.",
+        "serviceMaintenance": "Szolgáltatás karbantartás: A Google Analytics által gyűjtött technikai adatok segítenek megérteni a weboldal működési állapotát és javítani a potenciális problémákat.",
+        "statisticalAnalysis": "Statisztikai Elemzés: Az összes felhasználó által önkéntesen megadott információt anonimizáljuk és aggregáljuk, hogy megértsük a felhasználói csoport általános profilját és javítsuk a szolgáltatást."
+      },
+      "section3": {
+        "crossBorderTransfer": "Határokon Átnyúló Átutalás: A GitHub és a Google Firebase szerverei az Ön országán kívül (pl. az Egyesült Államokban) találhatóak. A szolgáltatás használatával megérti és elfogadja, hogy adatai ezen külföldi szervereken kerülnek továbbításra, tárolásra és feldolgozásra.",
+        "dataRetention": "Adatmegőrzés: Mivel ez a szolgáltatás teljesen ingyenes, nem tudjuk garantálni az állandó adatmegőrzést. Fenntartjuk a jogot, hogy bármikor értesítés nélkül töröljük a felhasználói adatokat.",
+        "storageLocation": "Tárolási hely: Ennek a weboldalnak a kódja a GitHubon található, míg a játékadataid és az önkéntesen megadott információid a Google Firebase adatbázisában vannak tárolva."
+      },
+      "effectiveDate": "Hatálybalépés dátuma: 2025. szeptember 21.",
+      "introduction": "Üdvözöljük a TypeSprout-nál! Ez egy ingyenes gépelési gyakorló weboldal, amelyet egy egyéni fejlesztő készített érdeklődésből. Megértjük, hogy a magánélete fontos, ezért ez a politika arra törekszik, hogy elmagyarázza, milyen adatokat gyűjtünk és hogyan fogjuk ezeket az adatokat felhasználni.",
+      "notice": "Kérjük, vegye figyelembe, hogy ez a szolgáltatás nonprofit jellegű, és minden funkciót az \"úgy van, ahogy van\" elv alapján biztosítunk. Ha nem ért egyet a szolgáltatás adatvédelmi irányelveivel, kérjük, azonnal hagyja abba a szolgáltatás használatát. A folytatás azt jelzi, hogy elolvasta, megértette és egyetért a politika minden tartalmával.",
+      "titleSuffix": "Adatvédelmi irányelvek"
+    },
+    "leaderboard": {
+      "allGrades": "Minden osztály",
+      "lastMonth": "A múlt havi rangsor",
+      "lastWeek": "A múlt heti rangsor",
+      "loading": "Betöltés...",
+      "loadingHint": "Ha továbbra is hibát jelez a betöltésnél, kérjük, ellenőrizze a hálózati kapcsolatát, vagy próbálja meg később újra.",
+      "noData": "Nincs adat",
+      "reload": "Újratöltés",
+      "signInHint": "Tipp: Jelentkezz be, hogy automatikusan menthesd a tesztpontjaidat; ezeket csak rangsorolásra és tanulási visszajelzésre használjuk, személyes érzékeny adatokat nem gyűjtünk.",
+      "sortHint": "Tipp: Nyomja meg az Alt+↑/↓ billentyűket a rendezés váltásához",
+      "today": "Mai rangsor",
+      "tooltip": "🏆 Hogyan számítják ki a ranglistát?&#10;• Ma: a mai pontszámok (helyi idő szerint)&#10;• Tegnap: a tegnapi pontszámok (helyi idő szerint)&#10;• Múlt héten: a múlt hét hétfőtől vasárnapig&#10;• Múlt hónapban: az előző hónap 1. napjától az utolsó napjáig&#10;&#10;📊 Hogyan számítják ki a pontszámokat?&#10;• Összetett pontszám = maximális sebesség × pontosság × gyakorlási idő&#10;• Több gyakorlás ugyanazon a napon összeadódik&#10;• Hosszabb gyakorlási idő = magasabb pontszám&#10;&#10;💡 Tipp: Gyakorolj egy kicsit minden nap, és a fád nőni fog!",
+      "yesterday": "Tegnapi rangsor"
+    },
+    "test": {
+      "allowBackspace": "Hátter törlése engedélyezve",
+      "capsLock": "Caps Lock",
+      "difficulty": "Nehézség",
+      "difficultyEasy": "Könnyű",
+      "difficultyHard": "Nehéz",
+      "difficultyMedium": "Közepes",
+      "finished": "Befejezve",
+      "inputPrompt": "Kérjük, írja be az alábbi szöveget",
+      "insightsSummary": "Elemzések (billentyűzet hőtérkép, sebesség és pontosság trendek)",
+      "loadingQuestions": "Kérdések betöltése...",
+      "mistakes": "Hibák",
+      "outOfFocus": "Kérjük, kattintson a beviteli mezőre a folytatáshoz.",
+      "promptStart": "Nyomj a Start gombra, majd írd be a fenti szöveget. A beillesztés letiltva van.",
+      "questionCount": "Kérdések száma",
+      "questionPreview": "Kérdés (első 24 karakter)",
+      "questionStats": "Ez a session kérdéseinek statisztikái (eltöltött idő / limit, hibák száma)",
+      "questionText": "Kérdés szöveg (nem választható vagy másolható)",
+      "shortcutsDescription": "Tér: Indítás/Szünet • R: Visszaállítás • F: Fókuszálj a beviteli mezőre",
+      "signInToSave": "Jelentkezz be a haladásod mentéséhez",
+      "submitAndReview": "Küldés és eredmények megtekintése",
+      "submitQuestion": "Küldje el ezt a kérdést (Enter)",
+      "timeLimit": "Időkorlát",
+      "timeSpent": "Eltöltött idő: {{seconds}} másodperc",
+      "title": "Teszt",
+      "tryAgain": "Próbáld újra",
+      "shortcuts": "Nyomja meg az Entert a küldéshez"
+    },
+    "profile": {
+      "alreadyJoined": "Már csatlakoztál ehhez az osztályhoz",
+      "analysis": "Mélyreható Elemzés",
+      "birthday": "Születésnap (ÉÉÉÉ-HH)",
+      "classCodePlaceholder": "Osztálykód",
+      "classCodeTooltip": "Webhely szintű egyedi (3–50 karakter; nem tartalmazhat /-t). Használható versenyekhez és ranglisták csoportosításához; legfeljebb 5-öt lehet csatlakoztatni. A tanárok új kódokat hozhatnak létre; a létrehozás után automatikusan csatlakozik (ha nem telített).",
+      "classCreatedAndJoined": "Osztály sikeresen létrehozva és csatlakozva",
+      "classNotFound": "Osztálykód nem található",
+      "codeAlreadyTaken": "A tanfolyam kódja már foglalt",
+      "confirmDelete": "Biztosan törölni szeretnéd ezt az osztálykódot?",
+      "copy": "Másolás",
+      "copyFailed": "A másolás nem sikerült, kérjük, válassza ki és másolja manuálisan.",
+      "copySuccess": "A tanóra kódja a vágólapra másolva.",
+      "country": "Ország/Regió",
+      "create": "Létrehozás",
+      "delete": "Törlés",
+      "female": "Női",
+      "fruits": "Gyümölcsök",
+      "fruitsTooltip": "A fáról gyűjtött gyümölcsök. A napi pontcélok elérésével szerzett.",
+      "gender": "Nemek",
+      "googleAccount": "Google Fiók",
+      "history": "Történelem",
+      "invalidCodeFormat": "Kérjük, adjon meg 3-50 karaktert / nélkül.",
+      "join": "Csatlakozás",
+      "joinError": "Nem sikerült csatlakozni az osztályhoz",
+      "joinSuccess": "Sikeresen csatlakozott az osztályhoz",
+      "joinedClasses": "Csatlakozott órák",
+      "language": "Nyelv",
+      "male": "Férfi",
+      "maxClassesReached": "Elérte a maximális óraszámot",
+      "maxJoinedClasses": "Elértük a csatlakoztatott osztályok maximális számát",
+      "myClasses": "Az óráim",
+      "nickname": "Becenév",
+      "noClasses": "Nincsenek órák",
+      "noUser": "Felhasználó nem található",
+      "onlyTeacherCanCreate": "Csak a tanárok hozhatnak létre osztálykódokat",
+      "other": "Másik",
+      "points": "Pontok",
+      "pointsDetail": "Összesített pontszám; részletekért kérjük, látogasson el ide",
+      "pointsTooltip": "A napi gyakorlásból szerzett pontok. A fád növesztésére és jutalmak feloldására használható.",
+      "remove": "Eltávolítás",
+      "role": "Szerep",
+      "roleCheckError": "Nem sikerült ellenőrizni a felhasználói szerepet",
+      "save": "Mentés",
+      "student": "Diák",
+      "teacher": "Tanár",
+      "view": "nézet",
+      "xp": "Tapasztalat (XP)",
+      "xpTooltip": "A gépelési gyakorlattal szerzett tapasztalati pontok. Magasabb pontosság és sebesség = több XP!",
+      "youOwnThis": "A tiéd ez",
+      "title": "Profil",
+      "auto": "Automatikus",
+      "classCode": "Osztálykód",
+      "error": "Hiba",
+      "alreadyTaken": "Már foglalt",
+      "available": "Elérhető",
+      "logout": "Kijelentkezés",
+      "chartDescription": "Személyes trendek: felül összetett pont, alul pontosság.",
+      "parent": "Szülő"
+    },
+    "tips": {
+      "avgAdj": "Átlagos összetett (30 nap)",
+      "meVsSite": "Én vs Webhely (30 nap)",
+      "totalChars": "Összes karakter: {{chars}} karakter"
+    },
+    "admin": {
+      "bulkTranslationTool": "Tömeges Lokalizációs Eszköz",
+      "execute": "Végrehajtás",
+      "sourceLanguage": "Forrás nyelv",
+      "targetLanguage": "Cél nyelv",
+      "usageDescription": "Adja meg a forrás- és célnyelv kódját, illessze be a több soros szöveget, és nyomja meg a végrehajtás gombot. Az eredmények csak kézi ellenőrzésre szolgálnak. Ez a funkció admin token aktiválását igényli.",
+      "usageInstructions": "Használati útmutató"
+    },
+    "garden": {
+      "charsUnit": "karakterek",
+      "growthChartSubtitle": "Különböző színpadi megjelenések és feloldási feltételek (illusztráció).",
+      "growthChartTitle": "Növekedési diagram",
+      "historyRule1": "A pontokat a sebesség × pontosság × idő alapján számítják, amelyeket a fák növekedésének elősegítésére használnak.",
+      "historyRule2": "Az alábbi lista minden egyes kereseti rekordot mutat, így könnyen nyomon követheti erőfeszítéseit.",
+      "historyTitle": "Mi a történelem?",
+      "howToLevelUp": "Hogyan lépj szintet?",
+      "levelUpRule1": "Gyakorolj naponta, hogy felhalmozd a tevékenységet; minél tovább írsz, annál gyorsabban fejlődsz.",
+      "levelUpRule2": "Maximum szint 5; ha napi szinten képes vagy fenntartani az 5. szintet, folyamatosan termelni fogsz gyümölcsöket.",
+      "levelUpRule3": "A gyűjtött gyümölcsök platform jutalmakat biztosítanak a rangsor alapján; jelenleg a tesztidőt lehet használni a pontszám felhalmozására.",
+      "maxStage": "Maximum szint 5",
+      "myTree": "A Fám",
+      "noLogs": "Jelenleg nincsenek feljegyzések",
+      "pointsExplanation": "Hogyan működnek a pontok? Napi tesztekből származnak, amelyek a hatékony beviteli időre, sebességre és pontosságra vonatkoznak. Napi limit 100; rövid gyakorlás (≥5 másodperc és pontosság ≥30%) legalább +1.",
+      "recalculateActivity": "Tevékenység és szakasz újraszámítása",
+      "recalculateActivityTooltip": "Mi az újraszámítási tevékenység és szakasz? Újraolvassa az utolsó 5 nap tesztjeit, kiszámítja a hatékony beviteli perceket, és frissíti a tevékenységi listát és a jelenlegi szakaszt.",
+      "recentActivity": "Utolsó 5 nap aktivitás",
+      "recentLogs": "Legutóbbi feljegyzések",
+      "stage1Desc": "Első hajtás megjelenik",
+      "stage2Desc": "Második levél nő",
+      "stage3Desc": "Levél szorzás",
+      "stage4Desc": "Virágok nyílnak",
+      "stage5Desc": "Kis fa koronák (gyümölcsök)",
+      "todaySummary": "Mai összefoglaló"
+    },
+    "ui": {
+      "closeHint": "Tipp bezárása",
+      "gotIt": "Értem",
+      "later": "Később",
+      "start": "Indul",
+      "string089": "Kérjük, először jelentkezzen be.",
+      "string090": "Személyes információk",
+      "string092": "Adatvédelmi irányelvek",
+      "string154": "Szolgáltatási feltételek"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Ha bármilyen kérdése van ezekkel a Szolgáltatási Feltételekkel kapcsolatban, kérjük, jelezze az hivatalos GitHub Issues oldalunkon: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Kérjük, vegye figyelembe, hogy ez egy nyilvános platform, ezért ne hagyja el rajta a személyes adatokat."
+      },
+      "section5": {
+        "content2": "Nem vállalunk felelősséget a gyakorlási nyilvántartások vagy felhasználói adatok elvesztéséért vagy károsodásáért, és nem garantáljuk az adatok tartós megőrzését.",
+        "content3": "Fenntartjuk a jogot, hogy bármikor, bármilyen okból módosítsuk, felfüggesszük vagy véglegesen megszüntessük ezt a szolgáltatást, előzetes értesítés nélkül.",
+        "subtitle1": "Feltéve, ahogy van:",
+        "subtitle2": "Adatmegőrzés:",
+        "subtitle3": "Szolgáltatás Megszüntetési Jogok:",
+        "content1": "A szolgáltatás \"jelenlegi állapotban\" érhető el, garancia nélkül.",
+        "title": "5. Felelősség kizárása és szolgáltatási korlátozások"
+      },
+      "footer": "© 2025 TypeSprout. Minden jog fenntartva.",
+      "lastUpdated": "Utolsó frissítés: 2025. szeptember 21.",
+      "section2": {
+        "listItem1": "AI által generált tartalom: Néhány gyakorló cikket AI modellek (például ChatGPT) elemeznek, gyűjtenek vagy generálnak kizárólag gépelési gyakorlás céljából.",
+        "listItem2": "Bibliai szövegek: Néhány bibliai kérdésbank harmadik fél API-ból származik. Bibliai szolgáltatások. Amikor ez a szolgáltatás nem elérhető, alternatív szövegek generálódhatnak AI modellek által.",
+        "content1": "A szolgáltatás egyetlen célja a gépelési készségek gyakorlása. Ez nem tudományos kutatási vagy vallási oktatási eszköz. Az összes weboldal tartalom ezen egyetlen cél szolgálatában áll.",
+        "content2": "A gazdag gyakorló szövegek biztosítása érdekében a szolgáltatás kérdései több forrásból származnak. Ezen a ponton külön nyilatkozunk:",
+        "content3": "A pontosságot, teljességet és a hiteles információk megfelelősségét nem garantáljuk. Kérjük, csak gyakorló szövegként tekintsen rá.",
+        "subtitle1": "A szolgáltatás célja",
+        "subtitle2": "Tartalom forrása és felelősség kizárása",
+        "title": "2. A szolgáltatás leírása és tartalom forrása"
+      },
+      "section1": {
+        "content1": "Üdvözöljük a TypeSprout használatában (a továbbiakban: \"szolgáltatás\"). Ez a szolgáltatás egy ingyenes, nonprofit projekt, amelyet egyéni fejlesztők tartanak fenn, és célja, hogy a felhasználók (különösen gyermekek és tanulók) számára egy egyszerű online gépelési gyakorló környezetet biztosítson.",
+        "content2": "Amikor hozzáfér a szolgáltatáshoz vagy használja azt, ezzel elismeri, hogy elolvasta, megértette és elfogadja a jelen Szolgáltatási Feltételek (a továbbiakban: \"feltételek\") minden tartalmát. Ha nem ért egyet a feltételek bármely részével, kérjük, azonnal hagyja abba a szolgáltatás használatát.",
+        "title": "1. Általános rendelkezések és a feltételek elfogadása"
+      },
+      "section3": {
+        "content1": "A szolgáltatás kizárólag személyes, oktatási célokra használható, és nem kizárólagos, nem átruházható, visszavonható engedéllyel rendelkezik.",
+        "content2": "Tilos a szolgáltatás kereskedelmi célú közvetlen vagy közvetett használata.",
+        "subtitle1": "Személyes, nem kereskedelmi célú használat",
+        "subtitle2": "Kereskedelmi célú használat tilalma",
+        "title": "3. Használati engedély és korlátozások"
+      },
+      "section4": {
+        "content1": "A felhasználónak felelőssége a bejelentkezési információk megfelelő kezelése.",
+        "content2": "Tilos a szolgáltatás normál működését zavaró vagy csalásra irányuló magatartás.",
+        "subtitle1": "Fiók biztonság",
+        "subtitle2": "Tilos a visszaélés és a tisztességtelen magatartás",
+        "title": "4. A felhasználó felelőssége"
+      },
+      "section6": {
+        "content": "Kérjük, ellenőrizze az adatvédelmi irányelveket.",
+        "title": "6. Adatvédelmi irányelvek"
+      },
+      "titleSuffix": "Szolgáltatási feltételek"
+    },
+    "correctChars": "Helyes karakterek: {{chars}} karakter",
+    "createError": "A létrehozás sikertelen: {{error}}",
+    "ctaPractice": "Gyakorlás kezdése",
+    "layout": {
+      "dailyReminder": "Emlékeztető: gyakorolj minden nap egy kicsit, így nő a palánta és javul a gépelés!",
+      "epExplanation": "Hogyan lehet pontokat szerezni? Minden tesztet az idő × sebesség × pontosság (alap × percek × (sebesség/cél, max ×2) × (0.5+0.5×pontosság)) alapján számítanak. Napi limit 100; bátorító szabályok: amikor a pontosság ≥30%, legalább +1 pont 10 másodpercenként (cumulative); ≥30 másodperc és pontosság ≥50% legalább +1. {{estMinLeft}}",
+      "loginSuggestion": "Ajánljuk, hogy a jobb felső sarokban a Google-lal való bejelentkezést használja a pontszámai és előzményei mentéséhez; ez az oldal értékeli az anonimitást és a magánéletet, és nem tárolja a személyes érzékeny adatokat.",
+      "remaining": "maradék",
+      "todayProgress": "Ma:"
+    },
+    "practice": {
+      "description": "Ez a terület csak műveletek és tartalomkezelés számára készült."
+    },
+    "error": {
+      "errorOccurred": "Hiba történt",
+      "goBack": "Vissza",
+      "goHome": "Vissza a kezdőlapra",
+      "loadingError": "Hiba történt az oldal betöltésekor, kérjük, próbálja meg később."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} hibaarány {{percent}}%",
+      "relativeScale": "Relatív skála: Zöld ≤30% · Sárga ≤70% · Piros >70% (a legmagasabb hibakulcs relatív értékeként; a legutóbbi kumulatív hibaarány alapján)"
+    },
+    "estimatedMinutes": "Becsült {{minutes}} perc",
+    "nav": {
+      "garden": "Kert",
+      "home": "Kezdőlap",
+      "leaderboard": "Leaderboard",
+      "practice": "Gyakorlás",
+      "profile": "Profil",
+      "subtitle": "Válaszd ki a számodra megfelelő gyakorlati tartalmat",
+      "test": "Teszt",
+      "result": "Eredmény"
+    },
+    "meta": {
+      "gardenDescription": "Növeld a fádat gépelési pontokkal és jutalmakkal.",
+      "homeDescription": "Gyerekek gépelési gyakorlata játékos fáknövekedéssel.",
+      "leaderboardDescription": "Napi/heti/havi ranglisták nyelvenként.",
+      "practiceDescription": "Ingyenes gépelési gyakorlás IME támogatással és módokkal.",
+      "profileDescription": "A személyes adatai, osztálya és preferenciái.",
+      "result": "Eredmény",
+      "resultDescription": "A gépelési teszt eredményei.",
+      "testDescription": "Időzített teszt, amely megmutatja a pontosságot és a kompozit pontszámot."
+    },
+    "grade": "Érdemjegy {{grade}}",
+    "questionBank": {
+      "gradeRange": "Évfolyam",
+      "recommended": "Ajánlott",
+      "totalQuestions": "Összes kérdés",
+      "children": {
+        "name": "Gyermek kérdésbank",
+        "description": "Alap gépelési gyakorlatok gyermekeknek"
+      },
+      "title": "Kérdésbank választása",
+      "subtitle": "Válaszd ki a neked megfelelő gyakorló bankot",
+      "loading": "Kérdésbankok betöltése...",
+      "supportedLanguages": "Támogatott nyelvek",
+      "noRecommendation": "Nincs ajánlott bank a szintedhez",
+      "bible": {
+        "name": "Bibliai kérdésbank",
+        "description": "Gépelési gyakorlat bibliai versekkel"
+      }
+    },
+    "highestHere": "Legmagasabb itt {{value}}",
+    "hours": "{{count}} óra",
+    "hoursMinutes": "{{hours}} óra {{minutes}} perc",
+    "leaderScore": "Összesített pontszám",
+    "levelUpSuggestion": "Ahhoz, hogy elérd a {{needStage}} szintet, javasolj legalább {{moreMin}} további percet a hatékony inputból ma.",
+    "loadError": "Nem sikerült betölteni a ranglistát, kérjük, próbálja meg később.",
+    "auth": {
+      "signOut": "Kijelentkezés",
+      "pleaseSignIn": "Kérjük, először jelentkezzen be a Google-lal",
+      "signIn": "Jelentkezz be a Google-lal"
+    },
+    "metricsTip": "Sebesség és pontosság magyarázata",
+    "minutes": "{{count}} perc",
+    "minutesSeconds": "{{minutes}} perc {{seconds}} másodperc",
+    "bible": {
+      "name": "Biblia Kérdésbank"
+    },
+    "noRecommendation": "Nincsenek ajánlott kérdésbankok a tanulmányi szintedhez",
+    "percentile": "Több mint a(z) {{percent}}% -a az embereknek",
+    "progress": "Haladás {{current}} / {{total}}",
+    "recentValue": "Recent {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Valós idejű mentés a Firestore-ba",
+      "stage": "Fázis {{stage}}",
+      "stageOverview": "Öt lépéses áttekintés (megjelenés összehasonlításhoz)"
+    },
+    "seconds": "{{count}} másodperc",
+    "shortcuts": "Űr kezdés/szünet · R visszaállítás · F fókusz · Enter a kérdés elküldéséhez",
+    "speedScore": "Sebességpontszám: {{score}}",
+    "stats": "{{chars}} karakter · {{accuracy}}% pontosság",
+    "string094": "Csak a Google-fiókodat használjuk a haladásod és a történeted mentésére.",
+    "string095": "Milyen adatokat gyűjtünk?",
+    "string096": "Csak a gépelési eredményeidet, a pontosságodat és a gyakorlási idődet gyűjtjük. Személyes adatokat, mint a neved, e-mail címed vagy egyéb érzékeny információkat nem gyűjtünk.",
+    "string097": "Ezt az adatot arra használjuk, hogy személyre szabott visszajelzést nyújtsunk, és megmutassuk a fejlődésedet az idő múlásával.",
+    "string155": "A webhely használatával elfogadja a következő feltételeket:",
+    "string156": "Felelős vagy a saját tanulásodért és fejlődésedért.",
+    "string157": "Mik a feltételek?",
+    "string158": "A feltételek közé tartozik: a weboldal használata kizárólag oktatási célokra, a nem megfelelő tartalom megosztásának tilalma, és más felhasználók tiszteletben tartása.",
+    "supportedLanguages": "Támogatott nyelvek",
+    "totalQuestionChars": "Összes kérdés karakter: {{chars}} karakter",
+    "vsSiteAverage": "A webhely átlagához képest (ugyanazon nyelven): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.718Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Küldés (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

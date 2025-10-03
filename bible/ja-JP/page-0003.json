@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "ja-JP",
+      "text": "感謝の声を聞かせ、あなたの驚くべき業をすべて語るために。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "ja-JP",
+      "text": "父に感謝し、私たちを光の中の聖なる者たちの相続人としてふさわしくしてくださった方に感謝します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "ja-JP",
+      "text": "彼は謙遜な者を正義の中で導き、謙遜な者に彼の道を教えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "ja-JP",
+      "text": "しかし、彼はより多くの恵みを与えます。だから、こう言われています、神は高慢な者に逆らい、謙遜な者に恵みを与えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "ja-JP",
+      "text": "主を恐れることは知恵を教えます。名誉の前には謙遜があります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "ja-JP",
+      "text": "自分を高める者は低くされ、謙遜な者は高められるでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "ja-JP",
+      "text": "キリストを恐れることによって、互いに服従しなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "ja-JP",
+      "text": "だから、神の力強い手の下で自分を謙遜にしなさい。そうすれば、時が来れば、彼があなたを高めてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "ja-JP",
+      "text": "滅びの前に人の心は高慢ですが、名誉の前には謙遜があります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "ja-JP",
+      "text": "もしあなたが喜んで従うなら、あなたはその地の良いものを食べるでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "ja-JP",
+      "text": "だから、誰でもこの小さな子のように自分を謙遜にする者は、天の御国で最も偉大な者です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "ja-JP",
+      "text": "この心を持ちなさい。それはキリスト・イエスにもあったものです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "ja-JP",
+      "text": "だから、神の選ばれた者、聖なる者、愛されている者として、憐れみ、親切、謙遜、謙虚、忍耐の心を身に着けなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "ja-JP",
+      "text": "主の前で自分を謙遜にしなさい。そうすれば、彼があなたを高めてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "ja-JP",
+      "text": "人の高慢は彼を低くしますが、低い霊の者は名誉を得ます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "ja-JP",
+      "text": "しかし、あなたがたの中で偉い者は、若い者のようになり、支配する者は、仕える者のようになりなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "ja-JP",
+      "text": "主は謙遜な者を支え、悪者を地に引き下ろします。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "ja-JP",
+      "text": "謙遜な者は主において喜びを増し、貧しい者はイスラエルの聖者に喜びます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "ja-JP",
+      "text": "あなたがたの中で最初になりたい者は、あなたがたの奴隷となるべきです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "ja-JP",
+      "text": "だから、すべての汚れと悪のあふれを捨て、謙遜をもって、あなたの魂を救うことができる植え付けられた言葉を受け入れなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "ja-JP",
+      "text": "しかし、謙遜な者は地を受け継ぎ、平和の豊かさを楽しむでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "ja-JP",
+      "text": "他の人にあなたを誉めさせなさい。あなた自身の口ではなく、他人に、あなたの唇ではなく。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "ja-JP",
+      "text": "柔和な者は幸いである。彼らは地を受け継ぐからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "ja-JP",
+      "text": "王の前で自分を高くしようとせず、大いなる者の中に席を求めてはならない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "ja-JP",
+      "text": "あなたがたの中で一番になりたい者は、みんなの奴隷となるべきである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "ja-JP",
+      "text": "私はあなたに言う。この人は他の人よりも義とされて家に帰った。自分を高くする者は低くされ、低くする者は高くされる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "ja-JP",
+      "text": "主は彼を恐れる者を喜ばれ、彼の慈しみに望みを置く者を喜ばれる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "ja-JP",
+      "text": "しかし、彼らは聞かず、耳を傾けず、自分の計画と悪の心の頑固さの中を歩み、後ろに行き、前に行かなかった。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "ja-JP",
+      "text": "シオンの娘に告げよ。見よ、あなたの王があなたのもとに来る。彼は謙遜で、ロバに乗り、雌ロバの子に乗っている。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "ja-JP",
+      "text": "それゆえ、主のために人のすべての制度に従いなさい。最高の者として王に。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "ja-JP",
+      "text": "彼は増し加わらなければならず、私は減らなければならない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "ja-JP",
+      "text": "私たちの偉大な神であり救い主であるイエス・キリストの栄光の現れと祝福された希望を待ち望んでいる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "ja-JP",
+      "text": "彼女は男の子を産む。あなたは彼の名をイエスと名付けなければならない。彼は自分の民をその罪から救うからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "ja-JP",
+      "text": "私は主を待ち望む。私の魂は待ち望む。私は彼の言葉に望みを置く。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "ja-JP",
+      "text": "暗闇の中を歩んでいた民は大いなる光を見た。死の影の地に住んでいた者たちに光が輝いた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "ja-JP",
+      "text": "言葉は肉となり、私たちの間に住まわれた。私たちは彼の栄光を見た。父のひとり子の栄光、恵みと真理に満ちた栄光である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "ja-JP",
+      "text": "天使は彼らに言った。恐れるな。見よ、私はすべての民に大いなる喜びの良い知らせをもたらす。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "ja-JP",
+      "text": "しかし、私は常に希望を持ち、あなたのすべての賛美に加えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "ja-JP",
+      "text": "すべての人を照らす真の光が世に来ようとしていた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "ja-JP",
+      "text": "罪の報酬は死であるが、神の賜物は私たちの主イエス・キリストにおける永遠の命である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "ja-JP",
+      "text": "主を待ち望め。強くなり、あなたの心を勇気づけよ。そう、主を待ち望め。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "ja-JP",
+      "text": "しかし、私の名を恐れる者には、義の太陽がその翼に癒しをもって昇る。あなたは出て行き、牛舎の子牛のように跳ねる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "ja-JP",
+      "text": "いと高きところに神に栄光があり、地には平和、善意が人々にあるように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "ja-JP",
+      "text": "荒野で主の道を整えよ。私たちの神のために砂漠に平坦な道を作れ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "ja-JP",
+      "text": "あなたの信仰の結果、あなたの魂の救いを受け取る。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "ja-JP",
+      "text": "彼らは星を見て、非常に大きな喜びをもって喜んだ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "ja-JP",
+      "text": "そうすれば、あなたは知恵があなたの魂にとって何であるかを知る。もしそれを見つけたなら、報いがある。あなたの希望は断たれることはない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "ja-JP",
+      "text": "見よ、日が来る、主が言われる。私はダビデに義の若枝を起こす。彼は王として治め、賢く行動し、地で正義と義を行う。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "ja-JP",
+      "text": "しかし、私たちの救い主である神の親切と人類に対する彼の愛が現れたとき、",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "ja-JP",
+      "text": "見よ、処女が子を宿し、男の子を産む。彼らは彼の名をインマヌエルと呼ぶ。これは、解釈すると神が私たちと共にいるという意味である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "ja-JP",
+      "text": "私たちの心は彼に喜び、私たちは彼の聖なる名に信頼しているからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "ja-JP",
+      "text": "羊飼いたちは帰り、彼らが聞き、見たすべてのことを神に栄光を帰し、賛美した。ちょうど彼らに告げられた通りであった。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "ja-JP",
+      "text": "私たちの国籍は天にあり、そこから私たちは救い主、主イエス・キリストを待ち望んでいる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "ja-JP",
+      "text": "しかし、義人の救いは主からである。彼は苦難の時に彼らの砦である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "ja-JP",
+      "text": "私たちの神の慈悲深い憐れみによって、天からの光が私たちを訪れる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "ja-JP",
+      "text": "そして言って、時は満ち、神の国は近づいた。悔い改めて、福音を信じなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "ja-JP",
+      "text": "しかし、神は私の魂をシェオルの力から贖い出される。彼は私を受け入れてくださる。セラ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "ja-JP",
+      "text": "その日、その時に、私はダビデに義の若枝を成長させる。彼は地で正義と義を行う。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "ja-JP",
+      "text": "私は彼らに永遠の命を与える。彼らは決して滅びることはなく、誰も私の手から彼らを奪うことはできない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "ja-JP",
+      "text": "私たちは希望の中で救われたが、見える希望は希望ではない。誰が見えるものを望むだろうか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "ja-JP",
+      "text": "私の目はあなたの救いを見たからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "ja-JP",
+      "text": "彼の名は永遠に続く。彼の名は太陽がある限り続く。人々は彼によって祝福される。すべての国は彼を祝福された者と呼ぶ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "ja-JP",
+      "text": "暗闇に座っていた民は大いなる光を見た。死の影の地域に座っていた者たちに光が昇った。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "ja-JP",
+      "text": "しかし、時が満ちたとき、神はその子を送り、女から生まれ、律法の下に生まれた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "ja-JP",
+      "text": "そして彼に言って、万軍の主が言われる。見よ、彼の名は若枝である。彼はその場所から成長し、主の神殿を建てる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "ja-JP",
+      "text": "イスラエルの神、主がほめたたえられますように。彼は彼の民を訪れ、贖われたからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "ja-JP",
+      "text": "彼を通して神を信じる者たちであり、彼を死者の中からよみがえらせ、栄光を与えたので、あなたの信仰と希望が神にあるように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "ja-JP",
+      "text": "イエスは知恵と背丈が増し、神と人々に好意を得た。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "ja-JP",
+      "text": "その日、彼らはもはや言わない。父たちはすっぱいぶどうを食べ、子どもたちの歯は痛む。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "ja-JP",
+      "text": "しかし、イエスは言われた。小さな子どもたちを私のところに来させ、妨げてはならない。天の国はこのような者たちのものである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "ja-JP",
+      "text": "子どもたちよ、すべてのことにおいてあなたの両親に従いなさい。これは主を喜ばせることである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "ja-JP",
+      "text": "今日、私があなたに命じるこれらの言葉は、あなたの心に留めておかなければならない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "ja-JP",
+      "text": "そのとき、私たちの息子たちはよく育てられた植物のようになり、私たちの娘たちは宮殿を飾る柱のようになる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "ja-JP",
+      "text": "私はあなたに新しい戒めを与える。互いに愛し合いなさい。私があなたを愛したように、あなたも互いに愛し合いなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "ja-JP",
+      "text": "人の知恵は彼を遅く怒らせる。彼が過ちを見逃すことは彼の栄光である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "ja-JP",
+      "text": "しかし、私はあなたの中に苦しんで貧しい民を残し、彼らは主の名に避け所を求める。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "ja-JP",
+      "text": "私のところに来て、私の言葉を聞き、それを行う者は、私は彼がどのような者であるかを示そう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "ja-JP",
+      "text": "私に良い判断と知識を教えてください。私はあなたの戒めを信じています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "ja-JP",
+      "text": "さて、これらの四人の若者について、神は彼らにすべての学びと知恵において知識と技を与え、ダニエルはすべての幻と夢において理解を持っていた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "ja-JP",
+      "text": "それゆえ、愚かであってはならず、主の御心が何であるかを理解しなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "ja-JP",
+      "text": "あなたの真理に導き、私に教えてください。あなたは私の救いの神です。私は一日中あなたを待ち望んでいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "ja-JP",
+      "text": "求める者は皆受け、探す者は見つけ、叩く者には開かれます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "ja-JP",
+      "text": "知恵の導きがなければ、国は倒れますが、多くの助言者の中に勝利があります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "ja-JP",
+      "text": "あなたは私をあなたの助言で導き、その後、栄光に私を受け入れてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "ja-JP",
+      "text": "天が地よりも高いように、私の道はあなたの道よりも高く、私の思いはあなたの思いよりも高いのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "ja-JP",
+      "text": "しかし彼は言った、むしろ、神の言葉を聞き、それを守る人々は幸いです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "ja-JP",
+      "text": "主よ、私は人の道が自分の中にないことを知っています。歩く人の中に自分の足を導くことはありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "ja-JP",
+      "text": "愚か者の道は自分の目には正しいが、賢い者は助言を聞きます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "ja-JP",
+      "text": "なぜ自分で何が正しいかを判断しないのですか？",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "ja-JP",
+      "text": "私たちの主イエス・キリストの神、栄光の父が、あなたに知識における知恵と啓示の霊を与えてくださいますように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "ja-JP",
+      "text": "人の心には多くの計画がありますが、主の助言が実現します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "ja-JP",
+      "text": "私は見張りに立ち、自分を城壁に置き、彼が私に何を言うか、私の苦情に関して何と答えるかを見るために見張ります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "ja-JP",
+      "text": "人のすべての道は自分の目には正しいが、主は心を量ります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "ja-JP",
+      "text": "地のすべての謙遜な者よ、主を求めよ。彼の掟を守った者よ。義を求め、謙遜を求めよ。主の怒りの日に隠されるかもしれません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "ja-JP",
+      "text": "あなたは言うべきです、もし主が望まれるなら、私たちは生き、これを行い、あれを行います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "ja-JP",
+      "text": "朝にあなたの慈しみを私に聞かせてください。私はあなたを信頼します。私が歩くべき道を教えてください。私はあなたに私の魂を上げます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "ja-JP",
+      "text": "私に呼びかけなさい。そうすれば、私はあなたに答え、あなたが知らない大きな難しいことを示します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "ja-JP",
+      "text": "しかし、助け主である聖霊は、父が私の名によってあなたに送るものであり、すべてのことを教え、私があなたに言ったすべてのことを思い出させてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "ja-JP",
+      "text": "主は義人の道を知っておられますが、悪者の道は滅びます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "ja-JP",
+      "text": "霊的な者はすべてのことを見分けますが、彼自身は誰にも判断されることはありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "ja-JP",
+      "text": "それゆえ、万軍の主はこう言われます。あなたの道を考えなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "ja-JP",
+      "text": "求める者は皆受け、探す者は見つけ、叩く者には開かれます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "ja-JP",
+      "text": "私に仕える者は、私に従いなさい。私がいるところには、私のしもべもいるでしょう。私に仕える者は、父が彼を尊ばれます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "ja-JP",
+      "text": "神の霊に導かれる者は、皆神の子です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "ja-JP",
+      "text": "しかし彼は答えた、書かれているように、人はパンだけで生きるのではなく、神の口から出るすべての言葉によって生きる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "ja-JP",
+      "text": "私たちのために祈ってください。私たちは良心が清く、すべてのことにおいて誠実に生きたいと望んでいると確信しています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "ja-JP",
+      "text": "知恵によって家は建てられ、理解によってそれは確立されます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "ja-JP",
+      "text": "主よ、あなたの道を教えてください。私はあなたの真理の中を歩みます。私の心をあなたの名を恐れるために一つにしてください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "ja-JP",
+      "text": "その日々、その時に、私はダビデに義の若枝を生えさせます。彼は地において正義と義を行います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "ja-JP",
+      "text": "しかし一つのことが必要です。マリヤは取り去られることのない良い部分を選びました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "ja-JP",
+      "text": "主に休み、彼を待ち望みなさい。彼の道で繁栄する者や、悪事を成す者のことで心を煩わせてはいけません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "ja-JP",
+      "text": "これらのことを知っているなら、あなたがたはそれを行うならば、幸いです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "ja-JP",
+      "text": "あなたの心の目が明るくされ、彼の召しの希望と、聖徒たちの中にある彼の相続の栄光の富を知ることができますように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "ja-JP",
+      "text": "私の子よ、それらをあなたの目から離さないようにしなさい。健全な知恵と分別を保ちなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "ja-JP",
+      "text": "あなたの従順はすべての人に知られるようになりました。だから私はあなたのことを喜びます。しかし、私はあなたが良いことに関しては賢く、悪いことに関しては無邪気であることを望みます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "ja-JP",
+      "text": "聞く前に答える者は、愚かさと恥です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "ja-JP",
+      "text": "主よ、あなたに教えてください。あなたの掟の道を。私はそれを最後まで守ります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "ja-JP",
+      "text": "しかし彼は言った、むしろ、神の言葉を聞き、それを守る人々は幸いです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "ja-JP",
+      "text": "私たちに教え、無神論や世俗的な欲望を否定し、この現代の時代において、私たちが慎ましく、義にかなった、神を敬う生活を送ることができるように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "ja-JP",
+      "text": "主の友情は、彼を恐れる者たちと共にあります。彼は彼らに彼の契約を示されます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "ja-JP",
+      "text": "あなたが私の戒めに耳を傾けていたなら、あなたの平和は川のようになり、あなたの義は海の波のようになったでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "ja-JP",
+      "text": "主を信頼する者は幸いです。主に信頼を置く者は幸いです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "ja-JP",
+      "text": "もしあなたが私を愛するなら、私の戒めを守りなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "ja-JP",
+      "text": "私は助言を与えてくださった主を祝福します。はい、私の心は夜の季節に私を教えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "ja-JP",
+      "text": "言葉を惜しむ者は知識を持ち、穏やかな者は理解のある人です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "ja-JP",
+      "text": "見よ、私は新しいことを行います。今、それは芽生えます。あなたはそれを知りませんか？私は荒野に道を作り、砂漠に川を作ります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "ja-JP",
+      "text": "もし私たちが霊によって生きるなら、霊によって歩みましょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "ja-JP",
+      "text": "それゆえ、私はあなたのすべての戒めを正しいものと考えます。私はすべての偽りの道を憎みます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "ja-JP",
+      "text": "しかし、愛の中で真実を語ることによって、私たちはすべてのことにおいて、頭であるキリストに向かって成長することができます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "ja-JP",
+      "text": "知恵を見つける者は幸いです。理解を得る者は幸いです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "ja-JP",
+      "text": "主よ、あなたは謙遜な者の願いを聞かれました。あなたは彼らの心を整え、あなたの耳を聞かせてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "ja-JP",
+      "text": "私は急ぎ、遅れずに、あなたの戒めに従います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "ja-JP",
+      "text": "すべての聖書は神の息によって与えられ、教え、戒め、修正、義における訓練に有益です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "ja-JP",
+      "text": "正しい者の誠実は彼らを導きますが、裏切り者の曲がった道は彼らを滅ぼします。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "ja-JP",
+      "text": "若者はどのようにして自分の道を清く保つことができるでしょうか？あなたの言葉に従って生きることによってです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "ja-JP",
+      "text": "信仰がなければ、彼に喜ばれることは不可能です。神に来る者は、彼が存在することを信じ、彼を求める者に報いを与える方であることを信じなければなりません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "ja-JP",
+      "text": "律法を守る者は賢い息子ですが、大食漢の仲間である者は父を恥じさせます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "ja-JP",
+      "text": "私の目は常に主に向けられています。彼は私の足を網から引き上げてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "ja-JP",
+      "text": "肉に従って生きる者は肉のことに心を置きますが、霊に従って生きる者は霊のことに心を置きます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "ja-JP",
+      "text": "単純な者はすべてを信じますが、賢い者は自分の道を慎重に考えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "ja-JP",
+      "text": "私の全き心であなたを求めました。私をあなたの戒めから迷わせないでください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "ja-JP",
+      "text": "理解の道から迷い出る者は、死者の集まりに休むことになります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "ja-JP",
+      "text": "彼らは彼の教えに驚きました。彼は権威を持って教え、律法学者のようではありませんでした。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "ja-JP",
+      "text": "私たちは皆、多くのことに躓きます。言葉に躓かない者は完全な人であり、全身を制御することができます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "ja-JP",
+      "text": "もしあなたが教えを聞くのをやめるなら、私の子よ、あなたは知識の言葉から迷い出るでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "ja-JP",
+      "text": "私はあなたの定めを永遠に行うことを心に定めました。終わりまで。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "ja-JP",
+      "text": "あなたの中で主を恐れ、彼のしもべの声に従う者は誰ですか？暗闇を歩み、光のない者は、主の名に信頼し、彼の神に頼るべきです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "ja-JP",
+      "text": "それでは、誰が忠実で賢いしもべでしょうか。彼の主人が彼を家族の上に置き、時に応じて彼らに食物を与えるために。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "ja-JP",
+      "text": "あなたがたは、曲がった邪悪な世代の中で、欠けのない神の子供として、無垢で害のない者となるために、光として見られるのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "ja-JP",
+      "text": "彼は戒めを守る者の道にいますが、叱責を捨てる者は他の人を迷わせます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "ja-JP",
+      "text": "言葉を持って主に帰りなさい。彼に言いなさい。私たちのすべての罪を赦し、良いものを受け入れてください。私たちは唇の誓いに従って牛を捧げます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "ja-JP",
+      "text": "あなたがたの中で、塔を建てようとする者は、まず座ってその費用を計算し、完成するのに十分なものを持っているかどうかを見なければなりません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "ja-JP",
+      "text": "あなたの言葉は見つかり、私はそれを食べました。あなたの言葉は私にとって喜びであり、私の心の喜びでした。私はあなたの名で呼ばれています、万軍の神、主よ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "ja-JP",
+      "text": "主は良く正しい方です。だから彼は罪人を道に教えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "ja-JP",
+      "text": "見よ、私のしもべは賢く行動します。彼は高く上げられ、非常に高くされます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "ja-JP",
+      "text": "すべての賢い人は知識から行動しますが、愚か者は愚かさをさらけ出します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "ja-JP",
+      "text": "私の足をあなたの言葉に確立してください。どんな不義も私を支配させないでください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "ja-JP",
+      "text": "体の灯は目であり、あなたの目が良ければ、あなたの全身も光で満たされます。しかし、目が悪ければ、あなたの体も暗闇で満たされます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "ja-JP",
+      "text": "今、平和の神が、永遠の契約の血によって羊の大牧者を死者の中からよみがえらせたことを思い起こさせてくださいますように、私たちの主イエス。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "ja-JP",
+      "text": "理解のある者の心は知識を求めますが、愚か者の口は愚かさを食べます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "ja-JP",
+      "text": "確かに主なる神は何も行わない。彼はその秘密を彼のしもべである預言者たちに明らかにしない限り。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "ja-JP",
+      "text": "私の羊は私の声を聞き、私は彼らを知り、彼らは私に従います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "ja-JP",
+      "text": "霊を消してはいけません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "ja-JP",
+      "text": "人の心の中の助言は深い水のようですが、理解のある者はそれを引き出します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "ja-JP",
+      "text": "そして言って、時は満ち、神の国は近づいた。悔い改めて、福音を信じなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "ja-JP",
+      "text": "しかし、完全な自由の律法を見つめ、忘れることのない聞き手ではなく、行う者であるなら、この人は自分の行いにおいて祝福されるでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "ja-JP",
+      "text": "暴力の者を妬んではいけません。彼の道のいずれも選んではいけません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "ja-JP",
+      "text": "さらに、あなたのしもべはそれによって警告されています。それを守ることには大きな報いがあります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "ja-JP",
+      "text": "私たちは主を認めましょう。私たちは主を知るために進みましょう。太陽が昇るように、主は現れます。彼は私たちに雨のように来ます。地を潤す春の雨のように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "ja-JP",
+      "text": "耳のある者は聞くがよい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "ja-JP",
+      "text": "怒るのが遅い者は大いなる理解を持っていますが、すぐに怒る者は愚かさを示します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "ja-JP",
+      "text": "イエスは彼に答えて言われた。人はパンだけで生きるのではなく、神のすべての言葉によって生きることが書かれている。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "ja-JP",
+      "text": "知識のない熱意を持つことは良くなく、足を急がせて道を外れることも良くありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "ja-JP",
+      "text": "私は自分の道を考え、あなたの定めに私の足を向けました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "ja-JP",
+      "text": "誰かが隠れた場所に隠れることができるでしょうか、私が彼を見えなくすることができるでしょうか？と主は言われます。私は天と地を満たしていないのか？と主は言われます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "ja-JP",
+      "text": "兄弟たち、私はまだつかんだとは思っていませんが、一つのことをしています。後ろのことを忘れ、前のことに向かって伸びています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "ja-JP",
+      "text": "義の道には命があり、その道には死はありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "ja-JP",
+      "text": "見よ、私はあなたの戒めを切に求めています！あなたの義によって私を生き返らせてください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "ja-JP",
+      "text": "主よ、あなたは私の神です。私はあなたを高めます！私はあなたの名をほめたたえます。あなたは素晴らしいことを成し遂げ、昔から計画されたことを、完全な誠実さと真実の中で行われました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "ja-JP",
+      "text": "私たちは皆、羊のように迷い出ました。誰もが自分の道に向かって曲がり、主は私たち全員の不義を彼に負わせました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "ja-JP",
+      "text": "行いによるのではなく、誰も誇ることがないように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "ja-JP",
+      "text": "すべての人は罪を犯し、神の栄光に達しません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "ja-JP",
+      "text": "主を恐れることは命の泉であり、人々を死の罠から引き離します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "ja-JP",
+      "text": "次の日、彼はイエスが自分のところに来るのを見て言った。見よ、世の罪を取り除く神の小羊！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "ja-JP",
+      "text": "彼は私を恐ろしい穴から、泥の中から引き上げてくださいました。彼は私の足を岩の上に置き、私に立つための堅い場所を与えてくださいました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "ja-JP",
+      "text": "二日後、彼は私たちを生き返らせます。三日目に彼は私たちを起こし、私たちは彼の前に生きるでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "ja-JP",
+      "text": "私たちを暗闇の力から救い出し、彼の愛する子の国に移してくださった方。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "ja-JP",
+      "text": "私は神の恵みを拒みません。もし義が律法によるものであれば、キリストは無駄に死んだのです！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "ja-JP",
+      "text": "したがって、兄弟たち、私たちはイエスの血によって聖所に入る大胆さを持っています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "ja-JP",
+      "text": "私にあなたの救いの喜びを回復してください。喜んでいる霊で私を支えてください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "ja-JP",
+      "text": "富は怒りの日に利益をもたらさず、義は死から救います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "ja-JP",
+      "text": "真実の心を持って信仰の満ち満ちた状態で近づき、悪しき良心から心を清められ、清い水で体を洗われた私たちが近づきましょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "ja-JP",
+      "text": "そしてイエス・キリストから、忠実な証人、死者の初穂、地の王たちの支配者から。私たちを愛し、彼の血によって私たちの罪を洗い清めてくださった方に。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "ja-JP",
+      "text": "百人隊長は、彼がこのように叫び、息を引き取るのを見て、本当にこの人は神の子だったと言いました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "ja-JP",
+      "text": "罪を知らなかった彼のために、彼は私たちのために罪となるようにしました。私たちが彼の中で神の義となるために。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "ja-JP",
+      "text": "暴風が過ぎ去ると、悪者はもはや存在しませんが、義人は永遠に立ち続けます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "ja-JP",
+      "text": "山羊や子牛の血によってではなく、彼自身の血によって、一度限り聖所に入って、永遠の贖いを得ました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "ja-JP",
+      "text": "彼らは小羊の血と彼らの証の言葉によって彼を打ち負かしました。彼らは自分の命を愛さなかったのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "ja-JP",
+      "text": "自分の富に信頼する者は倒れますが、義人は緑の葉のように繁栄します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "ja-JP",
+      "text": "完全に歩む者は安全に守られますが、曲がった道を持つ者は突然倒れます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "ja-JP",
+      "text": "そして、彼の名によって、すべての国々に悔い改めと罪の赦しが宣べ伝えられるべきである。エルサレムから始めるのである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "ja-JP",
+      "text": "それは、律法の下にある者たちを贖い、私たちが子としての養子縁組を受けるためである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "ja-JP",
+      "text": "御座に座っている方が言われた、見よ、私はすべてのものを新しくしている。また言われた、書き記せ、これは神の言葉は真実であり、信頼できるからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "ja-JP",
+      "text": "ああ、主なる神よ！見よ、あなたはその大いなる力と、あなたの伸ばされた腕によって天と地を造られました。あなたにとって難しいことは何一つありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "ja-JP",
+      "text": "神の選ばれた者たちに対して、誰が告発することができるだろうか。神が義とされるのである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "ja-JP",
+      "text": "そして、私は彼にあって見出され、律法による自分自身の義ではなく、キリストに対する信仰による義、すなわち神からの信仰による義を持つことができる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "ja-JP",
+      "text": "賢者の教えは命の泉であり、死の罠から離れさせるものである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "ja-JP",
+      "text": "一つの捧げ物によって、彼は聖別されている者たちを永遠に完全にされた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "ja-JP",
+      "text": "神の言葉はすべて完璧である。彼は自分に避け所を求める者たちの盾である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "ja-JP",
+      "text": "見よ、彼の魂は高ぶっている。彼の中には正しくないが、義なる者はその信仰によって生きる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "ja-JP",
+      "text": "そして、私が地から挙げられるなら、すべての人を私のもとに引き寄せるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "ja-JP",
+      "text": "私たちを救い、聖なる召しで呼ばれた方、私たちの行いによるのではなく、彼自身の目的と恵みによるものであり、これは永遠の時の前にキリスト・イエスにおいて私たちに与えられたものである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "ja-JP",
+      "text": "主に全ての心をもって信頼し、自分の理解に頼ってはならない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "ja-JP",
+      "text": "それゆえ、キリストが私たちを自由にしたその自由の中にしっかりと立ち、再び束縛のくびきに絡め取られてはならない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "ja-JP",
+      "text": "彼は私に言った、私はアルファであり、オメガである。初めであり、終わりである。渇いている者には、命の水の泉から自由に与えるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "ja-JP",
+      "text": "満たされた願いは魂に甘いが、愚か者は悪から離れることを嫌う。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "ja-JP",
+      "text": "もし私たちが彼の死の似姿において彼と結ばれたなら、私たちはまた彼の復活にもあずかるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "ja-JP",
+      "text": "死に引かれている者たちを救え！確かに、屠殺に向かってよろめいている者たちを引き止めよ！",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "ja-JP",
+      "text": "主はあなたの裁きを取り去り、あなたの敵を追い出された。イスラエルの王、主はあなたの中におられる。あなたはもはや悪を恐れることはない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "ja-JP",
+      "text": "そして、彼は私たちの罪のための贖いの供え物であり、私たちのものだけでなく、全世界のためでもある。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "ja-JP",
+      "text": "誰が言うことができるか、私は自分の心を清くした。私は清く、罪がないと。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "ja-JP",
+      "text": "彼の恵みによって義とされることにより、私たちが永遠の命の希望に従って相続人とされるためである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "ja-JP",
+      "text": "御霊と花嫁が言う、来てください！聞く者は言う、来てください！渇いている者は来るがよい。欲する者は、命の水を自由に取るがよい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "ja-JP",
+      "text": "我が子よ、私にあなたの心を与え、あなたの目を私の道に留めなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "ja-JP",
+      "text": "しかし、私が与える水を飲む者は、決して再び渇くことはない。その水は彼の中で永遠の命に至る水の泉となるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "ja-JP",
+      "text": "しかし、私が誇るのは、私たちの主イエス・キリストの十字架の他にはない。これによって、世界は私に対して十字架につけられ、私は世界に対して十字架につけられた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "ja-JP",
+      "text": "しかし、あなたが人の子が地上で罪を赦す権威を持っていることを知るために—彼は麻痺した者に言った—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "ja-JP",
+      "text": "主の名を呼ぶ者は誰でも救われる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "ja-JP",
+      "text": "もし私が行って、あなたのために場所を整えたなら、私は再び来て、あなたを私のもとに迎え入れるであろう。私がいるところに、あなたもいることができる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "ja-JP",
+      "text": "もしあなたがキリストと共に復活したなら、上にあるものを求めなさい。そこにはキリストが神の右に座している。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "ja-JP",
+      "text": "しかし、無傷で汚れのない子羊の血、キリストの血によって、",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "ja-JP",
+      "text": "主の名は強い塔である。義なる者は彼に逃げ込み、安全である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "ja-JP",
+      "text": "その命令を守る者は幸いである。彼らは命の木に対する権利を持ち、町の門から入ることができる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "ja-JP",
+      "text": "しかし、義なる者の道は、夜明けの光のようであり、ますます明るく、完全な日まで輝く。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "ja-JP",
+      "text": "これが永遠の命である。すなわち、彼らがあなたを知ることである。唯一の真の神と、あなたが遣わされたイエス・キリストを知ることである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "ja-JP",
+      "text": "キリスト・イエスにおける命の御霊の法は、私を罪と死の法から解放した。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "ja-JP",
+      "text": "キリストの血は、永遠の御霊によって神に対して欠点なく自らを捧げ、あなたの良心を死んだ行いから清めて、生ける神に仕えるために、どれほどもっと清めることができるか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "ja-JP",
+      "text": "真に義なる者は命を得る。悪を追い求める者は死を得る。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "ja-JP",
+      "text": "私は彼らを陰府の力から贖い、死から彼らを贖う。死よ、お前の災いはどこにあるのか。陰府よ、お前の滅びはどこにあるのか。私の目からは憐れみが隠されるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "ja-JP",
+      "text": "これは私の新しい契約の血であり、多くの者のために罪の赦しのために流されるものである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "ja-JP",
+      "text": "彼は再び私たちに憐れみを持たれる。彼は私たちの不義を足元に踏みつけ、あなたは彼らのすべての罪を海の深みへ投げ込まれる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "ja-JP",
+      "text": "私たちはしたがって、男は律法の行いから離れて信仰によって義とされると主張する。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "ja-JP",
+      "text": "そして、人の形に見出され、彼は自らを低くし、死に至るまで、はい、十字架の死に至るまで従順であった。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "ja-JP",
+      "text": "真理を買い、売ってはならない。知恵、教訓、理解を得よ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "ja-JP",
+      "text": "主なる神は、その日、彼の民の群れとして彼らを救われる。彼らは彼の地の上に高く持ち上げられた冠の宝石のようである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "ja-JP",
+      "text": "私はあなたに言うが、たとえ一人の罪人が悔い改めるなら、天においては九十九人の義人が悔い改める必要がないことよりも、もっと喜びがあるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "ja-JP",
+      "text": "それは、罪が死において支配したように、恵みが義を通して永遠の命に至るまで支配するためである。私たちの主イエス・キリストを通して。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "ja-JP",
+      "text": "すなわち、神がキリストの中で世界を自分自身と和解させ、彼らの過ちを数えず、和解の言葉を私たちに委ねられたことである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "ja-JP",
+      "text": "彼はその衣服と太ももに王の中の王、主の中の主と書かれた名を持っている。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "ja-JP",
+      "text": "悪者はその道を捨て、義でない者はその思いを捨てよ。主に帰れ、そうすれば彼はあなたに憐れみを持たれる。私たちの神に帰れ、そうすれば彼は自由に赦される。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "ja-JP",
+      "text": "誰も私のもとに来ることはできない。私を遣わした父が引き寄せない限り。私は最後の日に彼を復活させるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "ja-JP",
+      "text": "彼は私たちの平和であり、両者を一つにし、隔ての壁を打ち壊された。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "ja-JP",
+      "text": "自分の目に賢いと思ってはならない。主を恐れ、悪から離れよ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "ja-JP",
+      "text": "私はあなたを悪者の手から救い出し、恐ろしい者の手からあなたを贖う。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "ja-JP",
+      "text": "あなたがたは皆、キリスト・イエスに対する信仰によって神の子供である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "ja-JP",
+      "text": "以前はあなたがたは民ではなかったが、今は神の民であり、憐れみを受けなかったが、今は憐れみを受けた者である。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "ja-JP",
+      "text": "主よ、聞いてください。主よ、赦してください。主よ、聞いて行ってください。私の神よ、あなたのために遅らせないでください。あなたの町とあなたの民は、あなたの名で呼ばれています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "ja-JP",
+      "text": "イエスは彼女に言われた、私は復活であり、命である。私を信じる者は、たとえ死んでも生きるであろう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "ja-JP",
+      "text": "私たちには、彼において贖い、罪の赦しがある。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "ja-JP",
+      "text": "それゆえ、私たちは大胆に恵みの御座に近づこう。そうすれば、私たちは憐れみを受け、必要な時に助けのための恵みを見出すことができる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "ja-JP",
+      "text": "主を恐れることは命に至り、満ち足りることとなる。彼は安らぎ、災いに遭うことはない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "ja-JP",
+      "text": "彼らは墓から石が転がり出ているのを見つけた。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "ja-JP",
+      "text": "しかし、あなたがたは肉の中にではなく、霊の中にいます。もし神の霊があなたがたの中に住んでいるなら、もし誰かにキリストの霊がないなら、その人は彼のものではありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "ja-JP",
+      "text": "そして、私たちが信じる者に対する彼の力の超えた偉大さは、彼の力の働きに従っている。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "ja-JP",
+      "text": "そして、彼は私たちを王国、神と父に仕える祭司とした。彼に栄光と権威が永遠にあります。アーメン。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "ja-JP",
+      "text": "義人の実は命の木である。知恵のある者は魂を得る。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "ja-JP",
+      "text": "シモン・ペテロが答えた。あなたはキリスト、生ける神の子です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "ja-JP",
+      "text": "主イエス・キリストの恵みがあなたがたすべてと共にあります。アーメン。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "ja-JP",
+      "text": "確かに、悪人は罰せられないことはないが、義人の子孫は救われる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "ja-JP",
+      "text": "しかし、彼を受け入れた者には、神の子となる権利を与えた。彼の名を信じる者たちに。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "ja-JP",
+      "text": "主イエスをよみがえらせた方が、私たちもイエスと共によみがえらせ、あなたがたと共に私たちを示してくださることを知っています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "ja-JP",
+      "text": "神は私たちを怒りに任命されたのではなく、私たちの主イエス・キリストを通して救いを得るために任命されたのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "ja-JP",
+      "text": "そこには、いかなる穢れたものも、忌まわしいことを行う者も、嘘をつく者も入ることはできず、ただ子羊の命の書に名を記された者だけが入るのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "ja-JP",
+      "text": "子供に懲らしめを与えることを惜しんではならない。彼をむちで打っても、彼は死ぬことはない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "ja-JP",
+      "text": "彼は彼女に言った。あなたの罪は赦された。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "ja-JP",
+      "text": "このことを行いなさい。時を知りなさい。すでにあなたがたが眠りから覚める時が来ている。救いは、私たちが最初に信じた時よりも今、私たちに近づいています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "ja-JP",
+      "text": "したがって、あなたがたはもはや異邦人や外国人ではなく、聖徒たちと同じ国民であり、神の家族の一員です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "ja-JP",
+      "text": "次の世代が知るために、また生まれるべき子供たちが立ち上がり、彼らの子供たちに告げるために、",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "ja-JP",
+      "text": "私があなたを捕らえさせた町の平和を求め、主に祈りなさい。その町の平和の中に、あなたがたは平和を得るからです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "ja-JP",
+      "text": "妻たちよ、主にふさわしく、あなたの夫に従いなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "ja-JP",
+      "text": "その町の通りには、男の子と女の子が遊んでいる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "ja-JP",
+      "text": "それから彼は弟子に言った。見よ、あなたの母です！その時から、弟子は彼女を自分の家に連れて行った。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "ja-JP",
+      "text": "義人の父は大いなる喜びを持つ。知恵のある子を持つ者は彼を喜ばせる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "ja-JP",
+      "text": "女がその乳飲み子を忘れることができるだろうか。自分の胎の子に対して憐れみを持たないことができるだろうか。はい、これらは忘れるかもしれないが、私はあなたを忘れない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "ja-JP",
+      "text": "あなたの父と母を敬え。これは約束を伴う最初の戒めです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "ja-JP",
+      "text": "私はあなたに、私の心に従った牧者を与え、あなたを知識と理解で養う。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "ja-JP",
+      "text": "もし未亡人に子供や孫がいるなら、まず自分の家族に対して敬虔を示し、両親に返済することを学ばせなさい。これは神の前に受け入れられることです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "ja-JP",
+      "text": "彼女は自分の家族の道をよく見守り、怠け者のパンを食べない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "ja-JP",
+      "text": "家が自らに対して分裂しているなら、その家は立つことができない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "ja-JP",
+      "text": "夫たちよ、あなたの妻を愛し、彼女に対して恨みを抱いてはいけません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "ja-JP",
+      "text": "聖徒たちの必要に応じて助け、もてなしに心を砕きなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "ja-JP",
+      "text": "静けさの中で乾いた一口の方が、争いのある宴会の家よりも良い。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "ja-JP",
+      "text": "彼女の子供たちは立ち上がって彼女を祝福し、彼女の夫も彼女を称賛する。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "ja-JP",
+      "text": "主はあなたの神の中におられ、救う力強い者である。彼はあなたを喜びで喜ばせ、彼の愛の中であなたを静め、歌をもってあなたを喜ばせる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "ja-JP",
+      "text": "神はノアとその子たちを祝福し、彼らに言った。生めよ、増えよ、地を満たせ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "ja-JP",
+      "text": "彼は彼らに言った。今日、私があなたに証するすべての言葉に心を向け、あなたの子供たちにこの律法のすべての言葉を守るように命じなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "ja-JP",
+      "text": "義人に良いことがあることを告げよ。彼らは自分の行いの実を食べるからである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "ja-JP",
+      "text": "あなたの家に帰り、神があなたのために行った大いなることを宣言しなさい。彼は行き、町全体でイエスが彼のために行った大いなることを宣言した。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "ja-JP",
+      "text": "賢い息子は父を喜ばせるが、愚かな者は母を軽んじる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "ja-JP",
+      "text": "これらはあなたがたが行うべきことです。各人は隣人に真実を語り、あなたの門で真実と平和の裁きを行いなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "ja-JP",
+      "text": "誰も誰に対しても悪に対して悪を返さないようにし、常に互いに、またすべての人に対して良いことを追い求めなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "ja-JP",
+      "text": "主があなたの働きを報い、あなたがたがその翼の下に避け所を求めたイスラエルの神、主から完全な報いを受けることができますように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "ja-JP",
+      "text": "あなたの優しさをすべての人に知らしめなさい。主は近くにおられます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "ja-JP",
+      "text": "主は良い方であり、苦難の日の避け所であり、彼に避け所を求める者を知っておられます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "ja-JP",
+      "text": "彼は彼らに言った。なぜそんなに恐れているのか。あなたがたには信仰がないのか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "ja-JP",
+      "text": "あなたがたは忍耐が必要です。神の御心を行った後、約束を受けるためです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "ja-JP",
+      "text": "主なる神、主は私の力です。彼は私の足を鹿のようにし、高い所に行けるようにしてくださる。音楽の指揮者のために、弦楽器の上で。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "ja-JP",
+      "text": "ヤコブの神を助けとして持つ者は幸いであり、彼の神、主に希望を置く者は幸いである。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "ja-JP",
+      "text": "主があなたの心を神の愛とキリストの忍耐に導いてくださいますように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "ja-JP",
+      "text": "しかし、私に関しては、私は主の霊によって力に満ち、判断と力を持って、ヤコブにその不従順を告げ、イスラエルにその罪を告げる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "ja-JP",
+      "text": "あなたがたは、レースを走る者が皆走ることを知っているが、一人だけが賞を受けることを知っているか。そういうわけで、あなたがたも勝つために走りなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "ja-JP",
+      "text": "しかし、あなたがたは強くなりなさい。あなたの手を怠けさせてはいけません。あなたの働きは報われるからです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "ja-JP",
+      "text": "主の使いが彼に現れ、主はあなたと共におられる、勇士よ！と言った。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "ja-JP",
+      "text": "そして、この全ての集まりが知るために、主は剣や槍では救われないことを知っている。戦いは主のものであり、彼はあなたを私たちの手に渡される。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "ja-JP",
+      "text": "彼は答えた。恐れるな。私たちと共にいる者は、彼らと共にいる者よりも多い。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "ja-JP",
+      "text": "あなたは主に対して何を企てるのか。彼は完全に終わらせる。苦しみは二度と起こらない。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "ja-JP",
+      "text": "私は彼らに使者を送って言った。私は大きな働きをしているので、降りて行くことができない。私が降りてあなたのところに行く間に、なぜその働きをやめるべきか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "ja-JP",
+      "text": "しかし、最後まで耐え忍ぶ者は救われる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "ja-JP",
+      "text": "しかし、私はイスラエルの中に七千人を残しました。彼らの膝はバアルにひざまずかず、彼の口は彼を口づけしなかった。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "ja-JP",
+      "text": "この家の後の栄光は前の栄光よりも大きい。万軍の主は言われる。この場所に平和を与える。万軍の主は言われる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "ja-JP",
+      "text": "あなたがたは、私の名のためにすべての人に憎まれます。しかし、最後まで耐え忍ぶ者は救われます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "ja-JP",
+      "text": "誰もこれらの苦難によって動かされることがないように。あなたがたは、私たちがこの任務に任命されていることを知っています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "ja-JP",
+      "text": "あなたがたの魂に疲れを感じないように、罪人たちからのそのような反対を耐え忍んだ方を考えてみてください。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "ja-JP",
+      "text": "神について言えば、彼の道は完全です。主の言葉は試されます。彼は、彼に避け所を求めるすべての者の盾です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "ja-JP",
+      "text": "狭い門から入るように努力しなさい。多くの者が入ろうとするが、できないと私は言います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "ja-JP",
+      "text": "強く、そして勇敢であれ。アッシリアの王や彼と共にいるすべての大群に恐れたり、驚いたりしてはいけない。私たちと共にいる者は、彼よりも大いなる者です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "ja-JP",
+      "text": "今、私の魂は悩んでいます。何を言おうか。父よ、この時から私を救ってくださいと言うべきでしょうか。しかし、私はこの時のために来たのです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "ja-JP",
+      "text": "したがって、善を行うことにおいて神の御心に従って苦しむ者たちも、信頼できる創造主に自分の魂を委ねなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "ja-JP",
+      "text": "それゆえ、あなたの神に立ち返りなさい。慈しみと公正を守り、あなたの神を常に待ち望みなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "ja-JP",
+      "text": "あなたは私の足元を広げてくださいました。私の足は滑りませんでした。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "ja-JP",
+      "text": "彼らがあなたを会堂や支配者、権威者の前に連れて行くとき、あなたがどのように答えるか、または何を言うかについて心配してはいけません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "ja-JP",
+      "text": "主を求め、彼の力を求めよ。彼の顔を常に求めよ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "ja-JP",
+      "text": "正しい者は七度倒れても立ち上がるが、悪者は災いによって倒れる。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "ja-JP",
+      "text": "忍耐と、試された品性、そして試された品性から希望が生まれます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "ja-JP",
+      "text": "千人があなたの側に倒れ、十万人があなたの右手に倒れますが、それはあなたに近づくことはありません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "ja-JP",
+      "text": "あなたがたは、私の名のためにすべての人に憎まれます。しかし、最後まで耐え忍ぶ者は救われます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "ja-JP",
+      "text": "ユダの首長たちは心の中で言うでしょう。エルサレムの住民は、万軍の主である彼らの神において私の力です。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "ja-JP",
+      "text": "天からの一人の天使が彼に現れ、彼を強めました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "ja-JP",
+      "text": "あなたがたが鈍くならないように、信仰と忍耐によって約束を受け継いだ者たちの模範になりなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "ja-JP",
+      "text": "私はすべての地の道を行きます。あなたは強くなり、男らしくあれ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "ja-JP",
+      "text": "私は、私に対して四方から立ち向かう何万もの人々を恐れません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "ja-JP",
+      "text": "主は大きな魚を用意してヨナを飲み込ませ、ヨナは魚の腹の中に三日三晩いました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "ja-JP",
+      "text": "ペテロは、イエスが彼に言った言葉を思い出しました。鶏が鳴く前に、あなたは私を三度否認します。そして彼は外に出て、激しく泣きました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "ja-JP",
+      "text": "主は嫉妬深い神であり、復讐を行います。主は復讐を行い、怒りに満ちています。主は彼の敵に対して復讐を行い、彼の敵に対して怒りを保ちます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "ja-JP",
+      "text": "夜はすでに過ぎ去り、昼は近づいています。したがって、私たちは闇の行いを脱ぎ捨て、光の武具を身に着けましょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "ja-JP",
+      "text": "あなたによって、私は軍隊を通り抜けます。私の神によって、私は壁を跳び越えます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "ja-JP",
+      "text": "強い者に向かって、希望の囚人たちよ、立ち返れ！今日、私はあなたに二倍のものを回復すると宣言します。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "ja-JP",
+      "text": "見よ、私たちは耐え忍んだ者たちを祝福された者と呼びます。あなたはヨブの忍耐を聞き、主の結末を見ました。そして、主は憐れみと慈しみに満ちています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "ja-JP",
+      "text": "あなたは私の隠れ家です。あなたは私を困難から守り、救いの歌で私を囲みます。セラ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "ja-JP",
+      "text": "あなたがたは、私たちと主の模範となり、苦難の中で聖霊の喜びをもって言葉を受け入れました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "ja-JP",
+      "text": "彼はイスラエルの神、主を信頼しました。彼の後には、ユダのすべての王の中で彼のような者はいませんでした。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "ja-JP",
+      "text": "今、私の娘よ、恐れてはいけません。あなたが言ったことはすべて、私はあなたに行います。私の民のすべての町は、あなたが立派な女性であることを知っています。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "ja-JP",
+      "text": "荒野で叫ぶ者の声がある。主の道を整えよ。彼の道をまっすぐにせよ。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "ja-JP",
+      "text": "しかし、彼は私が歩む道を知っています。彼が私を試されたとき、私は金のように出てきます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "ja-JP",
+      "text": "道を開く者は彼らの前に上がります。彼らは門を突破し、出て行きます。彼らの王は彼らの前を通り過ぎ、主が彼らの頭にいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "ja-JP",
+      "text": "あなたは他の者のしもべを裁く者ですか。彼は自分の主人の前に立つか倒れるかです。はい、彼は立たされるでしょう。神には彼を立たせる力があります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "ja-JP",
+      "text": "私たちの神、主が私たちと共におられるように、私たちの父たちと共におられますように。彼が私たちを見捨てず、離れませんように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "ja-JP",
+      "text": "八日後、再び弟子たちは中にいて、トマスも彼らと共にいました。イエスは、戸が閉まっているのに真ん中に立ち、あなたがたに平和があるようにと言われました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "ja-JP",
+      "text": "しかし、あなたは苦しみと悲しみを見ておられます。それを手に取ることを考えています。あなたは被害者と孤児を助けます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "ja-JP",
+      "text": "洗礼者ヨハネの時から今まで、天の御国は暴力を受け、暴力的な者たちがそれを奪い取ります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "ja-JP",
+      "text": "私は神の高い召しの賞を目指して、目標に向かって進み続けます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "ja-JP",
+      "text": "そして、彼を異邦人に引き渡し、あざけり、鞭打ち、十字架につける。そして三日目に彼はよみがえります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "ja-JP",
+      "text": "私たちが敵の手から解放され、恐れずに彼に仕えることができるように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "ja-JP",
+      "text": "あなたの心を、私たちの神と父の前で、聖なるものとして責められないように、最後まで確立されるように、彼がなさいますように。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "ja-JP",
+      "text": "すべてのユダはその誓いを喜びました。彼らは心を尽くして誓い、全ての欲望をもって彼を求めました。そして、彼は彼らに見つかり、主は彼らに周囲に安らぎを与えました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "ja-JP",
+      "text": "人々は彼の陰に住みます。彼らは穀物のように復活し、ぶどうのように花を咲かせます。彼らの香りはレバノンのワインのようになります。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "ja-JP",
+      "text": "ただ主を恐れ、心を尽くして真実に彼に仕えなさい。彼があなたのために行った大いなることを考えなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "ja-JP",
+      "text": "平安のうちに、私は横になり、眠ります。あなた一人、主よ、私を安全に生かしてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "ja-JP",
+      "text": "しかし、私たちが見えないものを望むなら、私たちはそれを忍耐をもって待ちます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "ja-JP",
+      "text": "彼は低い者を高く上げ、悲しむ者を安全に引き上げます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "ja-JP",
+      "text": "たとえ私が苦難の中を歩いても、あなたは私を生き返らせます。あなたは私の敵の怒りに対して手を伸ばし、あなたの右手が私を救います。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "ja-JP",
+      "text": "主は言われた。シモン、シモン、見よ、サタンがあなたがた全員を引き抜くことを求めました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "ja-JP",
+      "text": "主は彼を見て言われた。このあなたの力で行き、ミディアンの手からイスラエルを救いなさい。私があなたを送ったのではないか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "ja-JP",
+      "text": "私は彼らを主において強めます。彼らは彼の名の中を行き来しますと主は言われます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "ja-JP",
+      "text": "それからイエスは弟子たちに言われた。誰でも私に従いたいなら、自分を否定し、自分の十字架を背負い、私に従いなさい。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "ja-JP",
+      "text": "あなたは戦いのために私に力を与え、私に対して立ち上がった者たちを私の下に従わせました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "ja-JP",
+      "text": "ダビデによる。主は私の光、私の救いです。誰を恐れようか。主は私の命の力です。誰を恐れようか。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "ja-JP",
+      "text": "その時、ハガイは主の使者であり、主の言葉を民に語り、私はあなたたちと共にいると主は言われました。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "ja-JP",
+      "text": "私を信じる者は、聖書に書かれているように、彼の内から生ける水の川が流れ出るでしょう。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "ja-JP",
+      "text": "あなたを呼ぶ者は忠実であり、彼はそれを成し遂げてくださいます。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "ja-JP",
+      "text": "あなたの名を知る者は、あなたに信頼を置きます。主よ、あなたはあなたを求める者を見捨てられません。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "ja-JP",
+      "text": "良い地にある者たちは、誠実で良い心を持ち、御言葉を聞いてそれをしっかりと保ち、忍耐をもって実を結ぶ者たちです。",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

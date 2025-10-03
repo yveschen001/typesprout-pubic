@@ -1,0 +1,3444 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-PSA-026-007",
+      "lang": "ro-RO",
+      "text": "Ca să pot vesti cu vocea mulțumirii și să spun toate lucrările tale minunate.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-012",
+      "lang": "ro-RO",
+      "text": "Mulțumind Tatălui, care ne-a făcut vrednici să fim părtași la moștenirea sfinților în lumină",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-009",
+      "lang": "ro-RO",
+      "text": "Cei blânzi îi va călăuzi în judecată, și pe cei blânzi îi va învăța calea Sa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-006",
+      "lang": "ro-RO",
+      "text": "Dar El dă mai multă har. De aceea zice „Dumnezeu se împotrivește celor mândri, dar dă har celor umili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-033",
+      "lang": "ro-RO",
+      "text": "Frica de Domnul este învățătura înțelepciunii și înainte de onoare este umilința.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-011",
+      "lang": "ro-RO",
+      "text": "Căci oricine se înalță pe sine va fi umilit și cine se umilește pe sine va fi înălțat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-021",
+      "lang": "ro-RO",
+      "text": "Supunându-vă unii altora în frica de Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-006",
+      "lang": "ro-RO",
+      "text": "Umiliți-vă dar sub mâna cea tare a lui Dumnezeu, pentru ca el să vă înalțe la vremea cuvenită,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-012",
+      "lang": "ro-RO",
+      "text": "Înainte de distrugere, inima omului este mândră, iar înainte de onoare este umilința.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-019",
+      "lang": "ro-RO",
+      "text": "Dacă veți fi dispuși și ascultători, veți mânca binele țării.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-004",
+      "lang": "ro-RO",
+      "text": "De aceea, oricine se va smeri ca acest copil mic, acela este cel mai mare în împărăția cerurilor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-005",
+      "lang": "ro-RO",
+      "text": "Să fie în voi gândul acesta, care era și în Hristos Isus",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-012",
+      "lang": "ro-RO",
+      "text": "Îmbrăcați-vă, dar, ca niște aleși ai lui Dumnezeu, sfinți și iubiți, cu milă, bunătate, umilință, blândețe, răbdare",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-010",
+      "lang": "ro-RO",
+      "text": "Umiliți-vă înaintea Domnului, și El vă va înălța.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-023",
+      "lang": "ro-RO",
+      "text": "Mândria omului îl va smeri, dar cel umil de spirit va fi onorat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-026",
+      "lang": "ro-RO",
+      "text": "Dar voi să nu fiți așa ci cel mai mare între voi să fie ca cel mai tânăr și cel ce stăpânește, ca cel ce slujește.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-006",
+      "lang": "ro-RO",
+      "text": "Domnul sprijină pe cei smeriți El doboară pe cei răi până la pământ.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-029-019",
+      "lang": "ro-RO",
+      "text": "Căci cei blânzi își vor spori bucuria în Domnul, și săracii dintre oameni se vor bucura în Sfântul lui Israel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-027",
+      "lang": "ro-RO",
+      "text": "Şi oricine vrea să fie întâi între voi, să fie slujitorul vostru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-021",
+      "lang": "ro-RO",
+      "text": "De aceea, lepădați orice necurăție și fiorul răutății și primiți cu blândețe cuvântul sădit, care poate să vă mântuie sufletele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-011",
+      "lang": "ro-RO",
+      "text": "Dar cei blânzi vor moșteni pământul și se vor desfăta de abundența păcii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-002",
+      "lang": "ro-RO",
+      "text": "Lasă pe altul să te laude, și nu gura ta pe un străin, și nu buzele tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-005",
+      "lang": "ro-RO",
+      "text": "Ferice de cei blânzi, căci ei vor moșteni pământul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-025-006",
+      "lang": "ro-RO",
+      "text": "Nu te pune în fața împăratului și nu sta în locul oamenilor mari.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-044",
+      "lang": "ro-RO",
+      "text": "Şi oricine dintre voi vrea să fie cel mai mare, va fi slujitorul tuturor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-014",
+      "lang": "ro-RO",
+      "text": "Vă spun că acest om s-a întors acasă justificat mai degrabă decât celălalt căci oricine se înalță pe sine va fi umilit iar cel ce se umilește se va înălța.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-011",
+      "lang": "ro-RO",
+      "text": "Domnul se bucură de cei ce se tem de El, de cei ce nădăjduiesc în mila Lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-024",
+      "lang": "ro-RO",
+      "text": "Dar ei n-au ascultat, nici nu și-au plecat urechea, ci au umblat în sfaturile și în închipuirile inimii lor cele rele și au mers înapoi, și nu înainte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-021-005",
+      "lang": "ro-RO",
+      "text": "Spuneți fiicei Sionului Iată, împăratul tău vine la tine, blând și șezând pe un măgar, și pe un mânz, fiul măgăriței.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-013",
+      "lang": "ro-RO",
+      "text": "Supuneți-vă dar oricărei stăpâniri omenești, pentru Domnul fie pentru împărat, ca pentru cel mai înalt,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-030",
+      "lang": "ro-RO",
+      "text": "El trebuie să crească, iar eu trebuie să mă micșorez.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-013",
+      "lang": "ro-RO",
+      "text": "Așteptând fericita nădejde și arătarea glorioasă a marelui Dumnezeu și Mântuitorului nostru, Isus Hristos",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-021",
+      "lang": "ro-RO",
+      "text": "Și va naște un fiu, și-i vei pune numele ISUS, căci El va mântui pe poporul Său de păcatele lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-005",
+      "lang": "ro-RO",
+      "text": "Aștept pe Domnul, sufletul meu așteaptă, și în cuvântul Lui îmi pun nădejdea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-009-002",
+      "lang": "ro-RO",
+      "text": "Poporul care umbla în întuneric a văzut o mare lumină cei ce locuiesc în țara umbra morții, asupra lor a răsărit lumina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-014",
+      "lang": "ro-RO",
+      "text": "Și Cuvântul s-a făcut trup și a locuit printre noi, și noi am văzut slava Lui, slava ca a Singurului născut din Tatăl, plin de har și de adevăr.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-010",
+      "lang": "ro-RO",
+      "text": "Și îngerul le-a zis Nu vă temeți căci iată, vă aduc o veste bună, care va fi o mare bucurie pentru tot poporul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-014",
+      "lang": "ro-RO",
+      "text": "Dar eu voi nădăjdui neîncetat și te voi lăuda și mai mult.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-009",
+      "lang": "ro-RO",
+      "text": "Aceasta era lumina cea adevărată, care luminează pe orice om care vine în lume.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023B",
+      "lang": "ro-RO",
+      "text": "Căci plata păcatului este moartea dar darul lui Dumnezeu este viața veșnică în Hristos Isus, Domnul nostru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014B",
+      "lang": "ro-RO",
+      "text": "Aşteaptă pe Domnul fii tare, şi El îţi va întări inima aşteaptă, zic, pe Domnul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-002",
+      "lang": "ro-RO",
+      "text": "Dar pentru voi, care temeți numele Meu, va răsări Soarele neprihănirii cu vindecare în aripile lui și veți ieși și veți crește ca viței din grajd.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-014",
+      "lang": "ro-RO",
+      "text": "Slavă lui Dumnezeu în cele mai înalte, și pe pământ pace, bunăvoință între oameni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-003",
+      "lang": "ro-RO",
+      "text": "Vocea celui ce strigă în pustie „Pregătiți calea Domnului, faceți drepte în pustie cărările Dumnezeului nostru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-009",
+      "lang": "ro-RO",
+      "text": "primind rezultatul credinței voastre, mântuirea sufletelor voastre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-002-010",
+      "lang": "ro-RO",
+      "text": "Când au văzut steaua, s-au bucurat cu o bucurie foarte mare.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014A",
+      "lang": "ro-RO",
+      "text": "Așa va fi cunoașterea înțelepciunii pentru sufletul tău când o vei găsi, atunci va fi o răsplată, și așteptarea ta nu va fi tăiată.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-005",
+      "lang": "ro-RO",
+      "text": "Iată, vin zile, zice DOMNUL, când voi ridica lui David o Ramură dreaptă și un împărat va domni și va prospera, și va face judecată și dreptate în țară.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-004",
+      "lang": "ro-RO",
+      "text": "Dar, după ce s-a arătat bunătatea și dragostea lui Dumnezeu, Mântuitorul nostru, față de oameni,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-001-023",
+      "lang": "ro-RO",
+      "text": "Iată, fecioara va fi însărcinată și va naște un fiu, și-i vor pune numele Emanuel, care se tâlcuiește Dumnezeu este cu noi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-033-021",
+      "lang": "ro-RO",
+      "text": "Căci inima noastră se va bucura în el, pentru că ne-am încrezut în numele lui cel sfânt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-020",
+      "lang": "ro-RO",
+      "text": "Și păstorii s-au întors, slăvind și lăudând pe Dumnezeu pentru toate lucrurile pe care le-au auzit și le-au văzut, așa cum li s-a spus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-020",
+      "lang": "ro-RO",
+      "text": "Căci cetățenia noastră este în ceruri de unde așteptăm și Mântuitorul, Domnul Isus Hristos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039B",
+      "lang": "ro-RO",
+      "text": "Dar mântuirea celor neprihăniți este de la DOMNUL El este tăria lor în vreme de necaz.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-078",
+      "lang": "ro-RO",
+      "text": "Prin îndurarea milostivă a Dumnezeului nostru, prin care ne-a vizitat răsăritul din înălțime.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015",
+      "lang": "ro-RO",
+      "text": "Și zicând „Împlinită este vremea și împărăția lui Dumnezeu s-a apropiat pocăiți-vă și credeți în evanghelie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015B",
+      "lang": "ro-RO",
+      "text": "Dar Dumnezeu îmi va răscumpăra sufletul din puterea mormântului căci mă va primi. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015",
+      "lang": "ro-RO",
+      "text": "În zilele acelea, și în timpul acela, voi face să răsară Vlăstarul dreptății pentru David și El va aduce judecată și dreptate în țară.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-028",
+      "lang": "ro-RO",
+      "text": "Și le dau viață veșnică și nu vor pieri niciodată, și nimeni nu le va smulge din mâna mea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-024",
+      "lang": "ro-RO",
+      "text": "Căci noi suntem mântuiți prin speranță dar speranța care se vede nu este speranță căci ce vede un om, de ce mai speră?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-030",
+      "lang": "ro-RO",
+      "text": "Căci ochii mei au văzut mântuirea Ta,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-072-017",
+      "lang": "ro-RO",
+      "text": "Numele lui va dăinui în veci numele lui va fi continuat cât va fi soarele și oamenii se vor binecuvânta în el toate neamurile îl vor numi fericit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-016",
+      "lang": "ro-RO",
+      "text": "Poporul care ședea în întuneric a văzut o mare lumină și celor ce ședeau în ținutul și umbra morții, lumină le-a răsărit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-004",
+      "lang": "ro-RO",
+      "text": "Dar când a venit plinătatea vremii, Dumnezeu a trimis pe Fiul Său, născut din femeie, născut sub lege,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-006-012",
+      "lang": "ro-RO",
+      "text": "Și vorbește-i, zicând Așa vorbește DOMNUL oștirilor, zicând Iată omul al cărui nume este Rădăcina și el va crește din locul lui și va zidi templul DOMNULUI.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-068",
+      "lang": "ro-RO",
+      "text": "Binecuvântat să fie Domnul Dumnezeu al lui Israel căci a cercetat și a răscumpărat pe poporul său.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-021",
+      "lang": "ro-RO",
+      "text": "care prin el sunt credincioși în Dumnezeu, care l-a înviat din morți și i-a dat slavă, pentru ca credința și nădejdea voastră să fie în Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-052",
+      "lang": "ro-RO",
+      "text": "Și Isus creștea în înțelepciune, în statură și în har înaintea lui Dumnezeu și înaintea oamenilor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-029",
+      "lang": "ro-RO",
+      "text": "În zilele acelea nu se va mai zice „Părinții au mâncat struguri acri, și dinții copiilor sunt zgâriați.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014",
+      "lang": "ro-RO",
+      "text": "Dar Iisus a zis Lăsați copiii să vină la mine și nu-i opriți, căci așa este împărăția cerurilor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-020",
+      "lang": "ro-RO",
+      "text": "Copii, ascultați de părinții voștri în toate lucrurile, căci aceasta este plăcut înaintea Domnului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-006",
+      "lang": "ro-RO",
+      "text": "Și aceste cuvinte, pe care ți le poruncesc astăzi, să fie în inima ta",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-144-012",
+      "lang": "ro-RO",
+      "text": "Ca fiii noștri să fie ca niște plante crescute în tinerețea lor ca fiicele noastre să fie ca niște pietre de temelie, lustruite după asemănarea unui palat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-034",
+      "lang": "ro-RO",
+      "text": "O poruncă nouă vă dau să vă iubiți unii pe alții așa cum v-am iubit eu, să vă iubiți și voi unii pe alții.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-011",
+      "lang": "ro-RO",
+      "text": "Discreția unui om îi întârzie mânia și este gloria lui să treacă cu vederea o nelegiuire.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-012",
+      "lang": "ro-RO",
+      "text": "Voi lăsa în mijlocul tău un popor umilit și sărman, și ei se vor încrede în numele Domnului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-047",
+      "lang": "ro-RO",
+      "text": "Oricine vine la mine, și aude cuvintele mele, și le face, vă voi arăta la cine este asemănător",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-066",
+      "lang": "ro-RO",
+      "text": "Învață-mă judecata bună și cunoștința, căci am crezut poruncile tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-001-017",
+      "lang": "ro-RO",
+      "text": "Iar celor patru tineri aceștia, Dumnezeu le-a dat cunoștință și pricepere în toate învățăturile și înțelepciune și Daniel avea înțelegere în toate viziunile și visele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-017",
+      "lang": "ro-RO",
+      "text": "De aceea, nu fiți neînțelepți, ci înțelegeți care este voia Domnului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-005",
+      "lang": "ro-RO",
+      "text": "Păstorește-mă în adevărul Tău și învață-mă, căci Tu ești Dumnezeul mântuirii mele pe Tine Te aștept toată ziua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-008",
+      "lang": "ro-RO",
+      "text": "Căci oricine cere, primește și cine caută, găsește și celui ce bate, i se va deschide.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-014",
+      "lang": "ro-RO",
+      "text": "Unde nu este sfat, poporul cade dar în mulțimea sfetnicilor este mântuire.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-024",
+      "lang": "ro-RO",
+      "text": "Mă vei călăuzi cu sfatul tău, și apoi mă vei primi în slavă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-009",
+      "lang": "ro-RO",
+      "text": "Căci, precum cerurile sunt mai înalte decât pământul, tot astfel căile Mele sunt mai înalte decât căile voastre, și gândurile Mele decât gândurile voastre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028",
+      "lang": "ro-RO",
+      "text": "Dar El a zis „Mai degrabă, fericiți sunt cei ce ascultă cuvântul lui Dumnezeu și-l păzesc.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-010-023",
+      "lang": "ro-RO",
+      "text": "O Doamne, eu ştiu că calea omului nu este în el nu este în omul care umblă să-şi îndrepte paşii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-015",
+      "lang": "ro-RO",
+      "text": "Calea unui nebun este drept în ochii lui, dar cel ce ascultă de sfat este înțelept.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-057",
+      "lang": "ro-RO",
+      "text": "Da, și de ce nu judecați și voi singuri ce este drept?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-017",
+      "lang": "ro-RO",
+      "text": "Ca Dumnezeu al Domnului nostru Isus Hristos, Tatăl slavei, să vă dea Duhul înțelepciunii și al revelației, în cunoașterea Lui",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-021",
+      "lang": "ro-RO",
+      "text": "Există multe planuri în inima omului dar sfatul Domnului, acela va dăinui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-001",
+      "lang": "ro-RO",
+      "text": "Voi sta pe turnul meu de veghe și voi pune piciorul pe zid, și voi veghea să văd ce va zice El în mine și ce voi răspunde când voi fi mustrat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-002",
+      "lang": "ro-RO",
+      "text": "Fiecare cale a omului este drept în ochii lui, dar Domnul cântărește inimile.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003B",
+      "lang": "ro-RO",
+      "text": "Căutați pe Domnul, toți cei umili ai pământului, care ați împlinit judecata Lui căutați dreptatea, căutați umilința poate că veți fi ascunși în ziua mâniei Domnului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-015",
+      "lang": "ro-RO",
+      "text": "Pentru că trebuie să ziceți Dacă va vrea Domnul, vom trăi și vom face aceasta sau aceea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-143-008",
+      "lang": "ro-RO",
+      "text": "Fă-mă să aud bunătatea Ta dimineața căci în Tine mă încred fă-mă să cunosc calea pe care trebuie să umblu căci îmi ridic sufletul către Tine.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003B",
+      "lang": "ro-RO",
+      "text": "Cheamă-mă, și îți voi răspunde, și îți voi arăta lucruri mari și nebiruite, pe care nu le cunoști.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-026",
+      "lang": "ro-RO",
+      "text": "Dar Mângâietorul, adică Duhul Sfânt, pe care-l va trimite Tatăl în numele Meu, vă va învăța toate lucrurile și vă va aduce aminte de toate câte v-am spus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-006",
+      "lang": "ro-RO",
+      "text": "Căci Domnul cunoaște calea celor neprihăniți, dar calea celor răi va pieri.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-015",
+      "lang": "ro-RO",
+      "text": "Dar cel duhovnicesc judecă toate lucrurile, iar el însuși nu este judecat de nimeni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-005",
+      "lang": "ro-RO",
+      "text": "Acum dar, astfel vorbește DOMNUL oștirilor Căutați-vă bine căile.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-010",
+      "lang": "ro-RO",
+      "text": "Căci oricine cere, primește și cine caută, găsește și celui ce bate, i se va deschide.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-026",
+      "lang": "ro-RO",
+      "text": "Dacă cineva îmi slujește, să mă urmeze și unde sunt eu, acolo va fi și slujitorul meu dacă cineva îmi slujește, pe el îl va cinsti Tatăl meu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-014",
+      "lang": "ro-RO",
+      "text": "Căci toți cei ce sunt călăuziți de Duhul lui Dumnezeu, sunt fii ai lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-004-004",
+      "lang": "ro-RO",
+      "text": "Dar El a răspuns și a zis Este scris Omul nu va trăi numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-018",
+      "lang": "ro-RO",
+      "text": "Rugați-vă pentru noi căci avem încredere că avem o conștiință bună, dorind în toate lucrurile să trăim cinstit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-003",
+      "lang": "ro-RO",
+      "text": "Prin înțelepciune se zidește o casă și prin pricepere se întărește.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-011",
+      "lang": "ro-RO",
+      "text": "Învăță-mă, Doamne, calea Ta voi umbla în adevărul Tău unește-mi inima să se teamă de numele Tău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-015B",
+      "lang": "ro-RO",
+      "text": "În zilele acelea, și în timpul acela, voi face să răsară Vlăstarul de neprihănire pentru David și El va aduce judecată și neprihănire în țară.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-042",
+      "lang": "ro-RO",
+      "text": "Dar un singur lucru este nevoie iar Maria a ales partea bună, care nu i se va lua.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-007",
+      "lang": "ro-RO",
+      "text": "Păzește-te în Domnul și așteaptă cu răbdare după El nu te supăra din cauza celui ce are succes în calea lui, din cauza omului care îndeplinește planuri nelegiuite.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-017",
+      "lang": "ro-RO",
+      "text": "Dacă știți aceste lucruri, fericiți veți fi dacă le veți face.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-018",
+      "lang": "ro-RO",
+      "text": "Ochii inimii voastre să fie luminati, pentru ca să cunoașteți care este nădejdea chemării Lui și care sunt bogățiile slavei moștenirii Lui în sfinți.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-021",
+      "lang": "ro-RO",
+      "text": "Fiule, să nu se depărteze de ochii tăi păstrează învățătura sănătoasă și discreția.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-016-019B",
+      "lang": "ro-RO",
+      "text": "Căci ascultarea voastră a ajuns cunoscută la toți oamenii. Mă bucur deci pentru voi dar vreau să fiți înțelepți în ce este bine și simpli în ce este rău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-013",
+      "lang": "ro-RO",
+      "text": "Cine răspunde înainte de a asculta, este o nebunie și o rușine pentru el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-033",
+      "lang": "ro-RO",
+      "text": "Învață-mă, Doamne, calea poruncilor Tale și o voi păzi până la sfârșit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-028B",
+      "lang": "ro-RO",
+      "text": "Dar El a zis „Mai degrabă, ferice de cei ce ascultă cuvântul lui Dumnezeu și-l păzesc.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-012",
+      "lang": "ro-RO",
+      "text": "Învățându-ne să renunțăm la nelegiuire și la poftele lumești, să trăim cu cumpătare, drept și evlavios în lumea de față",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-014",
+      "lang": "ro-RO",
+      "text": "Secretul Domnului este pentru cei ce se tem de El, și El le va arăta legământul Său.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-018",
+      "lang": "ro-RO",
+      "text": "O, de ai fi ascultat poruncile Mele! Atunci pacea ta ar fi fost ca un râu, și neprihănirea ta ca valurile mării.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007B",
+      "lang": "ro-RO",
+      "text": "Binecuvântat este omul care se încrede în DOMNUL și al cărui sprijin este DOMNUL.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-015",
+      "lang": "ro-RO",
+      "text": "Dacă mă iubiți, păziți poruncile mele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-007",
+      "lang": "ro-RO",
+      "text": "Voi binecuvânta pe Domnul, care mi-a dat sfat și măsura mea mă învață în nopțile mele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-027",
+      "lang": "ro-RO",
+      "text": "Cine are cunoștință își măsoară cuvintele și un om înțelept are un duh excelent.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019B",
+      "lang": "ro-RO",
+      "text": "Iată, voi face un lucru nou acum va răsări nu-l veți cunoaște? Voi face chiar o cale în pustie și râuri în deșert.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-025",
+      "lang": "ro-RO",
+      "text": "Dacă trăim în Duhul, să umblăm și în Duhul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-128",
+      "lang": "ro-RO",
+      "text": "De aceea, consider toate poruncile Tale cu privire la toate lucrurile ca fiind drepte și urăsc orice cale mincinoasă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-015",
+      "lang": "ro-RO",
+      "text": "Dar, vorbind adevărul în dragoste, să creștem în toate în el, care este capul, Hristos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-013",
+      "lang": "ro-RO",
+      "text": "Ferice de omul care găsește înțelepciunea și de omul care dobândește priceperea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-017",
+      "lang": "ro-RO",
+      "text": "Doamne, Tu ai auzit dorința celor umili Tu le vei pregăti inima, Tu le vei face urechea să asculte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-060",
+      "lang": "ro-RO",
+      "text": "Am grăbit, și n-am întârziat să păzesc poruncile Tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-003-016",
+      "lang": "ro-RO",
+      "text": "Toată Scriptura este insuflată de Dumnezeu și de folos pentru învățătură, pentru mustrare, pentru corectare și pentru învățătura în neprihănire,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-003",
+      "lang": "ro-RO",
+      "text": "Integritatea celor neprihăniți îi va călăuzi dar răutatea celor nelegiuiți îi va distruge.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-009",
+      "lang": "ro-RO",
+      "text": "Cum își va curăța tânărul calea? Prin păzirea cuvintelor tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-006",
+      "lang": "ro-RO",
+      "text": "Dar fără credință este cu neputință să-i fie plăcut căci cine se apropie de Dumnezeu trebuie să creadă că El este și că răsplătește pe cei ce-L caută cu osârdie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-007",
+      "lang": "ro-RO",
+      "text": "Cine păzește legea este un fiu înțelept dar cine este tovarăș cu oamenii risipitori își face de rușine tatăl.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-015",
+      "lang": "ro-RO",
+      "text": "Ochii mei sunt totdeauna spre Domnul, căci El îmi va scoate picioarele din laț.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-005",
+      "lang": "ro-RO",
+      "text": "Căci cei ce trăiesc după fire, se gândesc la lucrurile firii dar cei ce trăiesc după Duh, la lucrurile Duhului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-015",
+      "lang": "ro-RO",
+      "text": "Nebunul crede orice cuvânt, dar înțeleptul își cercetează pașii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-010",
+      "lang": "ro-RO",
+      "text": "Cu toată inima Te-am căutat O, nu mă lăsa să mă abat de la poruncile Tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-016",
+      "lang": "ro-RO",
+      "text": "Omul care se abate de la calea înțelepciunii va rămâne în adunarea morților.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-022",
+      "lang": "ro-RO",
+      "text": "Și erau uimiți de învățătura lui căci îi învăța ca unul care avea autoritate, și nu ca cărturarii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-002B",
+      "lang": "ro-RO",
+      "text": "Căci în multe lucruri greșim cu toții. Dacă cineva nu greșește în cuvânt, acela este un om desăvârșit și în stare să înfrâneze și întregul trup.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-027",
+      "lang": "ro-RO",
+      "text": "Oprește-te, fiule, să asculți învățătura care te abate de la cuvintele cunoștinței.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-112",
+      "lang": "ro-RO",
+      "text": "Mi-am îndreptat inima să împlinesc întotdeauna poruncile Tale, până la sfârșit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-010",
+      "lang": "ro-RO",
+      "text": "Cine este între voi care se teme de Domnul, care ascultă de glasul robului său, care umblă în întuneric și nu are lumină? Să se încreadă în numele Domnului și să se sprijine pe Dumnezeul său.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-045",
+      "lang": "ro-RO",
+      "text": "Cine este, dar, slujitorul credincios și înțelept, pe care l-a pus stăpânul său peste casa sa, ca să le dea hrană la vremea potrivită?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-015",
+      "lang": "ro-RO",
+      "text": "Ca să fiți fără vină și curați, fii ai lui Dumnezeu, fără mustrare, în mijlocul unei națiuni stricate și perverse, între care străluciți ca niște lumini în lume",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-017",
+      "lang": "ro-RO",
+      "text": "El este pe calea vieții care păzește învățătura dar cel ce refuză mustrarea se rătăcește.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-002",
+      "lang": "ro-RO",
+      "text": "Ia cu tine cuvinte și întoarce-te la Domnul spune-i Ia de la noi toată nelegiuirea și primește-ne cu bunăvoință așa vom aduce viței ai buzelor noastre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028B",
+      "lang": "ro-RO",
+      "text": "Căci care dintre voi, vrând să zidească un turn, nu se aşază mai întâi jos şi socoteşte costul, dacă are cu ce să-l termine?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-016",
+      "lang": "ro-RO",
+      "text": "Cuvintele Tale au fost găsite, și eu le-am mâncat și cuvântul Tău a fost pentru mine bucuria și veselia inimii mele căci eu sunt chemat cu numele Tău, Doamne, Dumnezeul oștirilor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-008",
+      "lang": "ro-RO",
+      "text": "Bun și drept este Domnul de aceea va învăța pe păcătoși calea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-013",
+      "lang": "ro-RO",
+      "text": "Iată, robul meu va acționa cu înțelepciune, va fi înălțat și va fi preamărit și va fi foarte înalt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-016",
+      "lang": "ro-RO",
+      "text": "Fiecare om înțelept își folosește cunoștința dar un nebun își descoperă nebunia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133B",
+      "lang": "ro-RO",
+      "text": "Îndrumă-mi pașii în cuvântul tău și să nu aibă nicio nelegiuire stăpânire peste mine.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-034",
+      "lang": "ro-RO",
+      "text": "Lumină a trupului este ochiul. Deci, dacă ochiul tău este sănătos, tot trupul tău va fi plin de lumină dar dacă ochiul tău este rău, și trupul tău va fi plin de întuneric.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-020",
+      "lang": "ro-RO",
+      "text": "Acum, Dumnezeul păcii, care a adus din morți pe Domnul nostru Isus, Marele Păstor al oilor, prin sângele legământului celui veșnic,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-014",
+      "lang": "ro-RO",
+      "text": "Inima celui ce are înțelepciune caută cunoaștere, dar gura nebunilor se hrănește cu prostie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-003-007",
+      "lang": "ro-RO",
+      "text": "Cu siguranță, Domnul Dumnezeu nu va face nimic, fără să-și descopere taina slujitorilor săi, prorocii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-027",
+      "lang": "ro-RO",
+      "text": "Oile mele ascultă glasul meu, și eu le cunosc, și ele mă urmează.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-019",
+      "lang": "ro-RO",
+      "text": "Nu stingeți Duhul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-005",
+      "lang": "ro-RO",
+      "text": "Planul în inima omului este ca o apă adâncă dar omul înțelept îl va scoate.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-015B",
+      "lang": "ro-RO",
+      "text": "Și zicând „S-a împlinit vremea și împărăția lui Dumnezeu este aproape pocăiți-vă și credeți în evanghelie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-025",
+      "lang": "ro-RO",
+      "text": "Dar cine se uită în legea desăvârșită a libertății și rămâne în ea, nu fiind un ascultător uituc, ci un împlinitor al lucrării, acest om va fi binecuvântat în fapta sa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-031",
+      "lang": "ro-RO",
+      "text": "Nu te invidia pe cel asupritor și nu alege niciuna din căile lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-011",
+      "lang": "ro-RO",
+      "text": "În plus, prin ele este avertizat slujitorul Tău și păzirea lor aduce o mare răsplată.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-003",
+      "lang": "ro-RO",
+      "text": "Atunci vom cunoaște, dacă ne vom strădui să-L cunoaștem pe Domnul ieșirea Lui este pregătită ca dimineața și va veni la noi ca ploaia, ca ploaia timpurie și târzie asupra pământului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-015",
+      "lang": "ro-RO",
+      "text": "Cine are urechi de auzit, să audă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-029",
+      "lang": "ro-RO",
+      "text": "Cine este încet la mânie are mare înțelegere dar cine este iute la spirit înalță nebunia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-004-004",
+      "lang": "ro-RO",
+      "text": "Și Isus i-a răspuns, zicând „Este scris Omul nu va trăi numai cu pâine, ci cu orice cuvânt care iese din gura lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-002",
+      "lang": "ro-RO",
+      "text": "De asemenea, a fi fără cunoștință este rău pentru suflet și cine se grăbește cu picioarele păcătuiește.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-059",
+      "lang": "ro-RO",
+      "text": "Am cercetat căile mele și mi-am întors pașii spre mărturiile tale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-023-024",
+      "lang": "ro-RO",
+      "text": "Poate cineva să se ascundă în locuri ascunse, încât să nu-l văd? zice DOMNUL. Nu umplu Eu cerul și pământul? zice DOMNUL.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-013",
+      "lang": "ro-RO",
+      "text": "Fraților, eu nu socotesc că l-am apucat, dar un singur lucru fac uitându-mă la cele din urmă, mă întind spre cele dinainte,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-028",
+      "lang": "ro-RO",
+      "text": "Pe calea neprihănirii este viață și pe cărarea ei nu este moarte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-040",
+      "lang": "ro-RO",
+      "text": "Iată, am dorit după poruncile tale învie-mă în dreptatea ta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-025-001B",
+      "lang": "ro-RO",
+      "text": "O, Doamne, Tu ești Dumnezeul meu Te voi înălța, voi lăuda numele Tău căci ai făcut lucruri minunate sfaturile Tale de demult sunt credincioșie și adevăr.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-006",
+      "lang": "ro-RO",
+      "text": "Toți am fost ca niște oi rătăcite ne-am întors fiecare la calea lui și DOMNUL a pus asupra lui nelegiuirea noastră a tuturor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-009",
+      "lang": "ro-RO",
+      "text": "Nu din lucruri, ca să nu se laude nimeni.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-023",
+      "lang": "ro-RO",
+      "text": "Căci toți au păcătuit și sunt lipsiți de slava lui Dumnezeu",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-027",
+      "lang": "ro-RO",
+      "text": "Frica de Domnul este o fântână a vieții, ca să te abții de la cursele morții.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-029",
+      "lang": "ro-RO",
+      "text": "A doua zi, Ioan a văzut pe Isus venind la el și a zis Iată Mielul lui Dumnezeu, care ridică păcatul lumii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-002",
+      "lang": "ro-RO",
+      "text": "M-a scos dintr-o groapă de distrugere, dintr-un nămol mocirlos, și mi-a pus picioarele pe o stâncă, și mi-a întărit pașii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-002",
+      "lang": "ro-RO",
+      "text": "După două zile ne va învia în ziua a treia ne va ridica, și vom trăi înaintea lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-013",
+      "lang": "ro-RO",
+      "text": "Care ne-a izbăvit din puterea întunericului și ne-a strămutat în împărăția Fiului drag al Său",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-002-021",
+      "lang": "ro-RO",
+      "text": "Nu fac zadarnică harul lui Dumnezeu căci dacă neprihănirea vine prin lege, atunci Hristos a murit în zadar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-019",
+      "lang": "ro-RO",
+      "text": "Așadar, fraților, având îndrăzneala de a intra în locul preasfânt prin sângele lui Isus,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-012",
+      "lang": "ro-RO",
+      "text": "Restabilește-mi bucuria mântuirii Tale și sprijină-mă cu un duh binevoitor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-004",
+      "lang": "ro-RO",
+      "text": "Avuțiile nu sunt de folos în ziua mâniei, dar neprihănirea izbăvește de moarte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-022",
+      "lang": "ro-RO",
+      "text": "Să ne apropiem, dar cu o inimă curată, în deplină certitudine a credinței, având inimile stropite de o conștiință rea și trupurile spălate cu apă curată.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-005",
+      "lang": "ro-RO",
+      "text": "Și de la Isus Hristos, care este martorul credincios, întâiul născut dintre cei morți și căpetenia împăraților pământului. Celui ce ne-a iubit și ne-a spălat de păcatele noastre în sângele său,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-015-039",
+      "lang": "ro-RO",
+      "text": "Şi când sutaşul, care stătea în faţa lui, a văzut că a strigat astfel şi şi-a dat duhul, a zis Cu adevărat, omul acesta era Fiul lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-021",
+      "lang": "ro-RO",
+      "text": "Căci pe cel ce n-a cunoscut păcat, l-a făcut păcat pentru noi, pentru ca noi să fim neprihănirea lui Dumnezeu în el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-025",
+      "lang": "ro-RO",
+      "text": "Când trece vârtejul, nu mai este rău dar cel drept este o temelie veșnică.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-012",
+      "lang": "ro-RO",
+      "text": "Nici prin sângele țapilor și vițeilor, ci prin sângele său propriu a intrat o dată pentru totdeauna în locul preasfânt, obținând o răscumpărare veșnică pentru noi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-012-011",
+      "lang": "ro-RO",
+      "text": "Şi ei l-au biruit prin sângele Mielului, şi prin cuvântul mărturiei lor şi nu şi-au iubit viaţa până la moarte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-028",
+      "lang": "ro-RO",
+      "text": "Cine se încrede în bogățiile sale va cădea dar cei neprihăniți vor înflori ca o ramură.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-018",
+      "lang": "ro-RO",
+      "text": "Cine umblă neprihănit va fi mântuit dar cel ce umblă pe căi strâmbe va cădea deodată.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-047",
+      "lang": "ro-RO",
+      "text": "Și că pocăința și iertarea păcatelor să fie propovăduite în numele lui între toate neamurile, începând de la Ierusalim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-004-005",
+      "lang": "ro-RO",
+      "text": "Pentru a răscumpăra pe cei ce erau sub lege, ca să primim înfierea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-005",
+      "lang": "ro-RO",
+      "text": "Şi cel ce şedea pe tron a zis Iată, fac toate lucrurile noi. Şi mi-a zis Scrie, căci aceste cuvinte sunt adevărate şi credincioase.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-017",
+      "lang": "ro-RO",
+      "text": "Ah, Doamne Dumnezeu! Iată, Tu ai făcut cerul și pământul prin puterea Ta cea mare și brațul Tău întins, și nimic nu este prea greu pentru Tine.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-033",
+      "lang": "ro-RO",
+      "text": "Cine va aduce vreo acuzație împotriva aleșilor lui Dumnezeu? Dumnezeu este Cel care justifică.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-009",
+      "lang": "ro-RO",
+      "text": "Și să fiu găsit în El, nu având propria mea neprihănire, care este din lege, ci aceea care este prin credința în Hristos, neprihănirea care este de la Dumnezeu, prin credință",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-014",
+      "lang": "ro-RO",
+      "text": "Legea celui înțelept este o fântână de viață, ca să se depărteze de cursele morții.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-014",
+      "lang": "ro-RO",
+      "text": "Căci printr-o singură jertfă a desăvârșit pentru totdeauna pe cei ce sunt sfințiți.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-005",
+      "lang": "ro-RO",
+      "text": "Fiecare cuvânt al lui Dumnezeu este curat el este un scut pentru cei ce se încred în el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-004",
+      "lang": "ro-RO",
+      "text": "Iată, sufletul lui se înalță, dar nu este drept în el iar cel drept va trăi prin credința lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-032",
+      "lang": "ro-RO",
+      "text": "Și eu, dacă voi fi înălțat de pe pământ, voi trasa pe toți oamenii la mine.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-009",
+      "lang": "ro-RO",
+      "text": "care ne-a mântuit și ne-a chemat cu o chemare sfântă, nu după faptele noastre, ci după scopul și harul său, care ne-a fost dat în Hristos Isus înainte de vremurile veșnice,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005B",
+      "lang": "ro-RO",
+      "text": "Încrede-te în Domnul din toată inima ta și nu te sprijini pe înțelegerea ta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-001",
+      "lang": "ro-RO",
+      "text": "Îndrați-vă dar în libertatea cu care Hristos ne-a făcut liberi și nu vă mai puneți din nou sub jugul robiei.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-006",
+      "lang": "ro-RO",
+      "text": "Și mi-a zis „S-a făcut! Eu sunt Alfa și Omega, începutul și sfârșitul. Celui ce este însetat îi voi da să bea din izvorul apei vieții, fără plată.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-019",
+      "lang": "ro-RO",
+      "text": "Dorința împlinită este dulce pentru suflet dar este o urâciune pentru nebuni a se depărta de rău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-005",
+      "lang": "ro-RO",
+      "text": "Căci dacă am fost sădiți împreună cu el, în asemănarea morții lui, vom fi și în asemănarea învierii lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-011",
+      "lang": "ro-RO",
+      "text": "Dacă te abții să-i eliberezi pe cei care sunt duși la moarte și pe cei care sunt gata să fie uciși",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-015A",
+      "lang": "ro-RO",
+      "text": "Domnul a îndepărtat judecățile tale, a alungat pe vrăjmașul tău regele lui Israel, chiar Domnul, este în mijlocul tău nu vei mai vedea rău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-002",
+      "lang": "ro-RO",
+      "text": "Și el este jertfa de ispășire pentru păcatele noastre, și nu numai pentru ale noastre, ci și pentru ale întregii lumi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-009",
+      "lang": "ro-RO",
+      "text": "Cine poate zice „Inima mea este curată, sunt curat de păcatul meu?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-007",
+      "lang": "ro-RO",
+      "text": "Astfel, fiind îndreptățiți prin harul său, să devenim moștenitori conform speranței vieții veșnice.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-017",
+      "lang": "ro-RO",
+      "text": "Şi Duhul şi mireasa spun Vino! Şi cine aude, să spună Vino! Şi cine este însetat, să vină! Şi cine vrea, să ia apă vie, gratis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-026",
+      "lang": "ro-RO",
+      "text": "Fiule, dă-mi inima ta și să-ți fie ochii atenți la căile mele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-014",
+      "lang": "ro-RO",
+      "text": "Dar cine va bea din apa pe care i-o voi da Eu, nu va înseta niciodată ci apa pe care i-o voi da Eu va fi în el o fântână de apă care țâșnește spre viața veșnică.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-014",
+      "lang": "ro-RO",
+      "text": "Dar departe de mine să mă laud, decât în crucea Domnului nostru Isus Hristos, prin care lumea este răstignită pentru mine, și eu pentru lume.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-002-010",
+      "lang": "ro-RO",
+      "text": "Dar ca să știți că Fiul omului are putere pe pământ să ierte păcatele, îi zice slăbănogului,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-013",
+      "lang": "ro-RO",
+      "text": "Căci oricine va chema numele Domnului va fi mântuit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-003",
+      "lang": "ro-RO",
+      "text": "Și dacă mă duc și vă pregătesc un loc, mă voi întoarce și vă voi lua la mine pentru ca acolo unde sunt eu, să fiți și voi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-001",
+      "lang": "ro-RO",
+      "text": "Dacă, deci, ați înviat împreună cu Hristos, căutați lucrurile de sus, unde Hristos șade la dreapta lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-019",
+      "lang": "ro-RO",
+      "text": "ci cu sânge prețios, ca de un miel fără cusur și fără pată, sângele lui Hristos,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010B",
+      "lang": "ro-RO",
+      "text": "Numele Domnului este un turn tare cel neprihănit fuge în el și este în siguranță.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-022-014",
+      "lang": "ro-RO",
+      "text": "Ferice de cei ce păzesc poruncile Lui, ca să aibă drept la pomul vieții și să intre prin porțile în cetate.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-018",
+      "lang": "ro-RO",
+      "text": "Dar calea celor neprihăniți este ca lumina strălucitoare, care luminează tot mai mult până la ziua cea desăvârșită.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-003",
+      "lang": "ro-RO",
+      "text": "Și aceasta este viața veșnică, ca să te cunoască pe tine, singurul Dumnezeu adevărat, și pe Isus Hristos, pe care L-ai trimis.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-002",
+      "lang": "ro-RO",
+      "text": "Pentru că legea Duhului de viață în Hristos Isus m-a făcut liber de legea păcatului și a morții.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-014",
+      "lang": "ro-RO",
+      "text": "Cât de mult mai mult sângele lui Hristos, care prin Duhul cel veșnic s-a oferit pe sine fără prihană lui Dumnezeu, vă va curăți conștiința de faptele moarte, ca să slujiți Dumnezeului celui viu?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-019",
+      "lang": "ro-RO",
+      "text": "Dreptatea duce la viață dar cel ce urmărește răul, îl urmărește spre moartea lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014A",
+      "lang": "ro-RO",
+      "text": "Îi voi răscumpăra din puterea mormântului îi voi răscumpăra din moarte O moarte, voi fi plăgile tale O mormânt, voi fi distrugerea ta pocăința va fi ascunsă din ochii Mei.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028B",
+      "lang": "ro-RO",
+      "text": "Căci aceasta este sângele Meu al noului legământ, care se varsă pentru mulți spre iertarea păcatelor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-019",
+      "lang": "ro-RO",
+      "text": "El se va întoarce, va avea milă de noi va supune nelegiuirile noastre și tu vei arunca toate păcatele lor în adâncurile mării.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-028",
+      "lang": "ro-RO",
+      "text": "Așadar, concluzionăm că omul este socotit neprihănit prin credință, fără faptele legii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-008",
+      "lang": "ro-RO",
+      "text": "Și, găsit înfățișându-se ca un om, s-a umilit pe sine, ascultând până la moarte, și încă moartea de cruce.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-023",
+      "lang": "ro-RO",
+      "text": "Cumpără adevărul și nu-l vinde de asemenea, înțelepciunea, învățătura și priceperea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-016",
+      "lang": "ro-RO",
+      "text": "Și DOMNUL Dumnezeul lor îi va mântui în ziua aceea ca pe turma poporului său căci ei vor fi ca pietrele unei coroane, ridicate ca un steag asupra țării sale.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-007",
+      "lang": "ro-RO",
+      "text": "Vă spun că, la fel, va fi bucurie în cer peste un păcătos care se pocăiește, mai mult decât peste nouăzeci și nouă de oameni drepți, care nu au nevoie de pocăință.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-021",
+      "lang": "ro-RO",
+      "text": "Astfel, după cum păcatul a domnit până la moarte, tot astfel harul să domnească prin neprihănire spre viața veșnică, prin Isus Hristos, Domnul nostru.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-019",
+      "lang": "ro-RO",
+      "text": "adică, că Dumnezeu era în Hristos, împăcând lumea cu sine, neținându-le în socoteală păcatele lor, și ne-a încredințat nouă cuvântul împăcării.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-019-016",
+      "lang": "ro-RO",
+      "text": "Și pe veșmântul său și pe coapsa sa are scris un nume ÎMPĂRATUL ÎMPĂRAȚILOR ȘI DOMNUL DOMNILOR.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-007",
+      "lang": "ro-RO",
+      "text": "Să părăsească cel rău calea lui și omul nelegiuit gândurile lui și să se întoarcă la DOMNUL, și El va avea milă de el și la Dumnezeul nostru, căci El va ierta din belșug.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-044",
+      "lang": "ro-RO",
+      "text": "Nimeni nu poate veni la mine, dacă nu-l trage Tatăl care m-a trimis și îl voi învia în ziua de apoi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-014",
+      "lang": "ro-RO",
+      "text": "Căci El este pacea noastră, care a făcut din amândouă un singur trup și a desființat zidul de despărțire care era între noi",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007B",
+      "lang": "ro-RO",
+      "text": "Nu fi înțelept în ochii tăi teme-te de Domnul și abate-te de la rău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-015-021",
+      "lang": "ro-RO",
+      "text": "Şi te voi izbăvi din mâna celor răi, şi te voi răscumpăra din mâna celor fioroşi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-026",
+      "lang": "ro-RO",
+      "text": "Căci toți sunteți fii ai lui Dumnezeu prin credința în Hristos Isus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-010",
+      "lang": "ro-RO",
+      "text": "În trecut, nu erați un popor, dar acum sunteți poporul lui Dumnezeu, care nu ați obținut milă, dar acum ați obținut milă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-009-019",
+      "lang": "ro-RO",
+      "text": "Doamne, ascultă Doamne, iartă Doamne, ia aminte și fă nu zăbovi, pentru numele Tău, Dumnezeul meu căci cetatea Ta și poporul Tău sunt chemați după numele Tău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025B",
+      "lang": "ro-RO",
+      "text": "Isus i-a zis Eu sunt învierea și viața cel ce crede în mine, chiar dacă ar fi murit, va trăi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-014",
+      "lang": "ro-RO",
+      "text": "În care avem răscumpărarea, prin sângele lui, iertarea păcatelor",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016B",
+      "lang": "ro-RO",
+      "text": "Să ne apropiem, dar, cu îndrăzneală de tronul harului, pentru ca să obținem milă și să găsim har, spre ajutor în vreme de nevoie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-023",
+      "lang": "ro-RO",
+      "text": "Frica de Domnul duce la viață și cine o are va fi mulțumit nu va fi vizitat de rău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-002",
+      "lang": "ro-RO",
+      "text": "Și au găsit piatra răsturnată de la mormânt.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-009",
+      "lang": "ro-RO",
+      "text": "Dar voi nu sunteți în carne, ci în Duh, dacă Duhul lui Dumnezeu locuiește în voi. Iar dacă cineva nu are Duhul lui Hristos, acela nu este al Lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-019",
+      "lang": "ro-RO",
+      "text": "Şi care este măreţia nemăsurată a puterii Lui faţă de noi, cei ce credem, potrivit lucrării puterii Lui celei tari,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-006",
+      "lang": "ro-RO",
+      "text": "Şi ne-a făcut împăraţi şi preoţi pentru Dumnezeu, Tatăl Său a Lui să fie gloria şi stăpânirea în vecii vecilor. Amin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030B",
+      "lang": "ro-RO",
+      "text": "Rodul celui neprihănit este un pom al vieții și cine câștigă suflete este înțelept.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-016",
+      "lang": "ro-RO",
+      "text": "Și Simon Petru a răspuns și a zis Tu ești Hristosul, Fiul Dumnezeului celui viu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-023",
+      "lang": "ro-RO",
+      "text": "Harul Domnului nostru Isus Hristos să fie cu voi toți. Amin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-021",
+      "lang": "ro-RO",
+      "text": "Deși mâna în mână, răufăcătorii nu vor rămâne nepedepsiți dar sămânța celor drepți va fi izbăvită.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012B",
+      "lang": "ro-RO",
+      "text": "Dar tuturor celor ce l-au primit, le-a dat dreptul să devină copii ai lui Dumnezeu, adică celor ce cred în numele lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-014",
+      "lang": "ro-RO",
+      "text": "știind că cel ce l-a înviat pe Domnul Isus ne va învia și pe noi împreună cu Isus și ne va prezenta cu voi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-009",
+      "lang": "ro-RO",
+      "text": "Căci Dumnezeu nu ne-a rânduit la mânie, ci la obținerea mântuirii prin Domnul nostru Isus Hristos,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-021-027",
+      "lang": "ro-RO",
+      "text": "Și în ea nu va intra nimic întinat, nici orice lucru care face urâciune sau minciună, ci numai aceia care sunt scriși în cartea vieții Mielului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-013",
+      "lang": "ro-RO",
+      "text": "Nu opri corectarea de la copil căci dacă-l vei lovi cu nuiaua, nu va muri.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-048",
+      "lang": "ro-RO",
+      "text": "Și i-a zis Păcatele tale sunt iertate.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-011",
+      "lang": "ro-RO",
+      "text": "Și aceasta, având în vedere vremea, căci acum este ceasul să ne trezim din somn căci acum mântuirea noastră este mai aproape decât atunci când am crezut.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-019",
+      "lang": "ro-RO",
+      "text": "Așadar, voi nu mai sunteți străini și străini, ci sunteți împreună cetățeni cu sfinții și ai casei lui Dumnezeu",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-006",
+      "lang": "ro-RO",
+      "text": "Pentru ca generația viitoare să le cunoască, chiar și copiii care se vor naște care se vor ridica și le vor vesti copiilor lor",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-007",
+      "lang": "ro-RO",
+      "text": "Și căutați pacea cetății în care v-am trimis să fiți duși ca robi, și rugați-vă pentru ea la Domnul, căci în pacea ei veți avea pace.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-018",
+      "lang": "ro-RO",
+      "text": "Soțiile, supuneți-vă bărbaților voștri, cum se cuvine în Domnul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005B",
+      "lang": "ro-RO",
+      "text": "Și străzile orașului vor fi pline de băieți și fete jucându-se pe străzile lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-027",
+      "lang": "ro-RO",
+      "text": "Apoi le spune discipolului Iată mama ta! Şi din ceasul acela, discipolul a luat-o la sine acasă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-024",
+      "lang": "ro-RO",
+      "text": "Tatǎl celui neprihănit se va bucura foarte mult și cel ce naște un copil înțelept va avea bucurie de el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-015",
+      "lang": "ro-RO",
+      "text": "Poate o femeie să uite copilul pe care-l alăptează, încât să nu aibă milă de fiul pântecelui ei? Da, ele pot uita, dar eu nu te voi uita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-002",
+      "lang": "ro-RO",
+      "text": "Cinstește pe tatăl tău și pe mama ta care este primul poruncă cu o promisiune",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-003-015",
+      "lang": "ro-RO",
+      "text": "Și vă voi da păstori după inima mea, care vă vor hrăni cu cunoștință și înțelegere.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-004",
+      "lang": "ro-RO",
+      "text": "Dar dacă vreo văduvă are copii sau nepoți, să învețe mai întâi să arate evlavie față de familia lor și să răsplătească părinții lor, căci aceasta este plăcut înaintea lui Dumnezeu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-027",
+      "lang": "ro-RO",
+      "text": "Ea își cercetează bine căile casei ei și nu mănâncă pâinea leneviei.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-025",
+      "lang": "ro-RO",
+      "text": "Și dacă o casă este împărțită împotriva ei însăși, acea casă nu poate sta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-019",
+      "lang": "ro-RO",
+      "text": "Bărbaților, iubiți-vă nevestele și nu fiți amari împotriva lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013",
+      "lang": "ro-RO",
+      "text": "Împărțind nevoile sfinților dând la oaspeți.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-001",
+      "lang": "ro-RO",
+      "text": "Mai bine este o bucată uscată cu liniște, decât o casă plină de jertfe cu ceartă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-028",
+      "lang": "ro-RO",
+      "text": "Copiii ei se ridică și o numesc binecuvântată soțul ei, de asemenea, o laudă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017C",
+      "lang": "ro-RO",
+      "text": "DOMNUL, Dumnezeul tău, este în mijlocul tău, un Dumnezeu puternic El te va mântui, se va bucura de tine cu bucurie El va tăcea în dragostea Lui, se va bucura de tine cu cântări.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-009-001",
+      "lang": "ro-RO",
+      "text": "Și Dumnezeu a binecuvântat pe Noe și pe fiii săi și le-a zis „Fiți roditori, înmulțiți-vă și umpleți pământul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-032-046",
+      "lang": "ro-RO",
+      "text": "Şi le-a zis Puneţi-vă inima la toate cuvintele pe care le mărturisesc astăzi înaintea voastră, pe care le veţi porunci copiilor voştri să le păzească, toate cuvintele acestei legi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-003-010",
+      "lang": "ro-RO",
+      "text": "Spuneți celor neprihăniți că le va fi bine, căci ei vor mânca rodul faptelor lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-039",
+      "lang": "ro-RO",
+      "text": "Întoarce-te acasă la tine și spune cât de mari lucruri ți-a făcut Dumnezeu. Și el s-a dus și a vestit în toată cetatea cât de mari lucruri i-a făcut Isus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-020",
+      "lang": "ro-RO",
+      "text": "Un fiu înțelept aduce bucurie tatălui său, dar un om nebun disprețuiește pe mama sa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016C",
+      "lang": "ro-RO",
+      "text": "Acestea sunt lucrurile pe care le veți face fiecare din voi să vorbească adevărul cu aproapele său să judecați adevărul și judecata păcii în porțile voastre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015",
+      "lang": "ro-RO",
+      "text": "Vedeți să nu întoarceți rău pentru rău nimănui, ci să urmăriți întotdeauna ceea ce este bun pentru unii și pentru toți.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-002-012",
+      "lang": "ro-RO",
+      "text": "Domnul să-ți răsplătească lucrul tău, și să-ți dea o răsplată deplină de la Domnul Dumnezeu al lui Israel, sub ale cărui aripi ai venit să te încrezi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005",
+      "lang": "ro-RO",
+      "text": "Să fie cunoscută blândețea voastră de toți oamenii. Domnul este aproape.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-007",
+      "lang": "ro-RO",
+      "text": "Domnul este bun, un loc de adăpost în ziua necazului și cunoaște pe cei ce se încred în El.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-040",
+      "lang": "ro-RO",
+      "text": "Și le-a zis De ce sunteți atât de fricoși? Cum că nu aveți credință?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-036",
+      "lang": "ro-RO",
+      "text": "Căci aveți nevoie de răbdare, pentru ca, după ce ați făcut voia lui Dumnezeu, să primiți făgăduința.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019B",
+      "lang": "ro-RO",
+      "text": "Domnul Dumnezeu este tăria mea, și îmi va face picioarele ca ale cerbului, și mă va face să umblu pe înălțimile mele. Către mai marele cântăreț pe instrumentele mele cu coarde.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-146-005",
+      "lang": "ro-RO",
+      "text": "Ferice de cel ce are pe Dumnezeul lui Iacov ca ajutor, al cărui nădejde este în Domnul, Dumnezeul său.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-005",
+      "lang": "ro-RO",
+      "text": "Domnul să vă îndrepte inimile în dragostea lui Dumnezeu și în răbdarea lui Hristos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-003-008",
+      "lang": "ro-RO",
+      "text": "Dar eu, în adevăr, sunt plin de putere prin Duhul Domnului, de judecată și de tărie, ca să vestesc lui Iacov nelegiuirea lui și lui Israel păcatul lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-009-024",
+      "lang": "ro-RO",
+      "text": "Nu știți că cei ce aleargă într-o întrecere, toți aleargă, dar unul primește premiul? Alergați așa, pentru ca să câștigați.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-007",
+      "lang": "ro-RO",
+      "text": "Dar voi fiți tari! Să nu vă slăbească mâinile, căci lucrul vostru va fi răsplătit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-012",
+      "lang": "ro-RO",
+      "text": "Şi îngerul Domnului i s-a arătat şi i-a zis „Domnul este cu tine, tu, viteazule!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-017-047",
+      "lang": "ro-RO",
+      "text": "și ca toată adunarea aceasta să știe că Domnul nu mântuiește cu sabie și cu suliță căci bătălia este a Domnului, și el vă va da în mâinile noastre.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-006-016",
+      "lang": "ro-RO",
+      "text": "El a răspuns „Nu te teme, căci cei ce sunt cu noi sunt mai mulți decât cei ce sunt cu ei.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAH-001-009",
+      "lang": "ro-RO",
+      "text": "Ce vă închipuiți împotriva Domnului? El va face o sfârșire de tot necazul nu va mai apărea a doua oară.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NEH-006-003",
+      "lang": "ro-RO",
+      "text": "Și le-am trimis mesageri, spunând Eu fac o lucrare mare, așa că nu pot să cobor de ce ar trebui să se oprească lucrarea, în timp ce eu o părăsesc și cobor la voi?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-013",
+      "lang": "ro-RO",
+      "text": "Dar cel ce va răbda până la sfârșit, acela va fi mântuit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-019-018",
+      "lang": "ro-RO",
+      "text": "Dar eu am lăsat șapte mii în Israel, toate genunchii cărora nu s-au plecat înaintea lui Baal, și fiecare gură care nu l-a sărutat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-009",
+      "lang": "ro-RO",
+      "text": "Slava acestei case din urmă va fi mai mare decât a celei dintâi, zice DOMNUL oștirilor și în acest loc voi da pace, zice DOMNUL oștirilor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-013",
+      "lang": "ro-RO",
+      "text": "Și veți fi urâți de toți oamenii din pricina numelui meu dar cine va răbda până la sfârșit, acela va fi mântuit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-003",
+      "lang": "ro-RO",
+      "text": "ca nimeni să nu fie clătinat de aceste necazuri. Căci știți că noi suntem rânduiți la aceasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-012-003",
+      "lang": "ro-RO",
+      "text": "Căci luați seama la Cel ce a suferit o astfel de împotrivire din partea păcătoșilor împotriva Sa, ca să nu vă obosiți și să nu vă pierdeți inimile.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-031",
+      "lang": "ro-RO",
+      "text": "Cât despre Dumnezeu, calea lui este desăvârșită. Cuvântul Domnului este încercat. El este un scut pentru toți cei ce se încred în el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-024",
+      "lang": "ro-RO",
+      "text": "Străduiți-vă să intrați pe ușa cea strâmtă căci mulți, vă spun, vor căuta să intre și nu vor putea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-032-007",
+      "lang": "ro-RO",
+      "text": "Fii tare și îndrăzneț. Nu te teme și nu te spăimânta din cauza împăratului Asiriei, nici din cauza întregii mulțimi care este cu el căci este unul mai mare cu noi decât cu el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-027",
+      "lang": "ro-RO",
+      "text": "Acum sufletul meu este tulburat și ce să spun? Tată, scapă-mă de ceasul acesta dar pentru aceasta am venit în ceasul acesta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-019",
+      "lang": "ro-RO",
+      "text": "De aceea, să se încredințeze și cei ce suferă după voia lui Dumnezeu în făcerea binelui sufletele lor, ca unui Creator credincios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-012-006",
+      "lang": "ro-RO",
+      "text": "De aceea, întoarce-te la Dumnezeul tău păzește mila și dreptatea și așteaptă necurmat pe Dumnezeul tău.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-037",
+      "lang": "ro-RO",
+      "text": "Tu mi-ai lărgit pașii sub mine. Picioarele mele nu au alunecat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-011",
+      "lang": "ro-RO",
+      "text": "Şi când vă vor aduce la sinagogi, şi la dregători, şi la puteri, să nu vă îngrijiţi cum sau ce veţi răspunde, sau ce veţi spune",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-011",
+      "lang": "ro-RO",
+      "text": "Căutați pe Domnul și puterea lui. Căutați fața lui necurmat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016B",
+      "lang": "ro-RO",
+      "text": "Căci un om drept cade de șapte ori și se ridică din nou dar cei răi vor cădea în nenorocire.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-004",
+      "lang": "ro-RO",
+      "text": "Şi răbdarea, experienţa iar experienţa, nădejdea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-007",
+      "lang": "ro-RO",
+      "text": "O mie vor cădea la partea ta, și zece mii la dreapta ta dar la tine nu se va apropia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-022",
+      "lang": "ro-RO",
+      "text": "Și veți fi urâți de toți oamenii pentru numele Meu dar cine va răbda până la sfârșit, acela va fi mântuit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-012-005",
+      "lang": "ro-RO",
+      "text": "Și guvernatorii lui Iuda vor zice în inima lor „Locuitorii Ierusalimului sunt puterea mea în Domnul oștirilor, Dumnezeul lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-043",
+      "lang": "ro-RO",
+      "text": "Și i-a apărut un înger din cer, întărindu-l.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-012",
+      "lang": "ro-RO",
+      "text": "Să nu fiți leneși, ci urmați pe cei care, prin credință și răbdare, moștenesc făgăduințele.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-002-002",
+      "lang": "ro-RO",
+      "text": "Eu merg pe calea tuturor pământului. Fii dar tare și arată-te un om",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-006",
+      "lang": "ro-RO",
+      "text": "Nu mă voi teme de zecile de mii de oameni care s-au pus împotriva mea în jur.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-001-017",
+      "lang": "ro-RO",
+      "text": "Şi Domnul a pregătit un peşte mare ca să-l înghită pe Iona. Şi Iona a fost în burta peştelui trei zile şi trei nopţi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-075",
+      "lang": "ro-RO",
+      "text": "Și Petru și-a adus aminte de cuvântul lui Isus, care îi spusese „Înainte ca cocoșul să cânte, te vei lepăda de mine de trei ori. Și a ieșit afară și a plâns cu amar.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NAM-001-002",
+      "lang": "ro-RO",
+      "text": "Dumnezeu este gelos, și DOMNUL se răzbună DOMNUL se răzbună și este furios DOMNUL va lua răzbunare asupra dușmanilor Săi și își păstrează mânia pentru vrăjmașii Săi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-012",
+      "lang": "ro-RO",
+      "text": "Noaptea este avansată, ziua este aproape să ne dezbrăcăm dar de faptele întunericului și să ne îmbrăcăm cu armele luminii.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-029",
+      "lang": "ro-RO",
+      "text": "Căci prin Tine am alergat împotriva unei oștiri și prin Dumnezeul meu am sărit peste un zid.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-012",
+      "lang": "ro-RO",
+      "text": "Întoarceți-vă la locul de apărare, voi, prizonieri ai speranței chiar astăzi declar că voi da înapoi de două ori ceea ce v-am dat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-011",
+      "lang": "ro-RO",
+      "text": "Iată, fericiți sunt cei ce rabdă. Ați auzit de răbdarea lui Iov și ați văzut sfârșitul Domnului căci Domnul este plin de milă și de îndurare.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-007",
+      "lang": "ro-RO",
+      "text": "Tu ești locul meu de adăpost mă vei păzi de necaz mă vei înconjura cu cântări de izbăvire. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-006",
+      "lang": "ro-RO",
+      "text": "Ați devenit imitatori ai noștri și ai Domnului, primind cuvântul în multă aflicțiune, cu bucuria Duhului Sfânt,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-018-005",
+      "lang": "ro-RO",
+      "text": "El a avut încredere în Domnul, Dumnezeul lui Israel, astfel că după el nu a fost nimeni ca el între toți împărații lui Iuda, nici între cei care au fost înainte de el.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-RUT-003-011",
+      "lang": "ro-RO",
+      "text": "Și acum, fiica mea, nu te teme voi face pentru tine tot ce îmi ceri căci toată cetatea poporului meu știe că tu ești o femeie virtuoasă.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-003",
+      "lang": "ro-RO",
+      "text": "Vocea celui ce strigă în pustie „Pregătiți calea Domnului, faceți cărările Lui drepte.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-023-010",
+      "lang": "ro-RO",
+      "text": "Dar El știe calea pe care o iau când mă va încerca, voi ieși ca aurul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-002-013",
+      "lang": "ro-RO",
+      "text": "Împăratul va merge înaintea lor ei au străpuns, au trecut prin poartă și au ieșit pe ea și regele lor va merge înaintea lor, și DOMNUL va fi capul lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-004",
+      "lang": "ro-RO",
+      "text": "Cine ești tu care judeci sluga altuia? Înaintea stăpânului său stă sau cade. Dar va fi susținut, căci Dumnezeu este în stare să-l facă să stea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057B",
+      "lang": "ro-RO",
+      "text": "Domnul Dumnezeul nostru să fie cu noi, cum a fost cu părinții noștri. Să nu ne părăsească și să nu ne lase,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-026",
+      "lang": "ro-RO",
+      "text": "Şi după opt zile, ucenicii lui erau din nou înăuntru, şi Toma era cu ei. Atunci a venit Isus, uşile fiind închise, şi a stat în mijlocul lor şi a zis „Pace vouă!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-010-014",
+      "lang": "ro-RO",
+      "text": "Tu ai văzut căci tu privești răul și nelegiuirea, ca să le răsplătești cu mâna ta sărmanul se încredințează ție tu ești ajutorul orfanului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-012",
+      "lang": "ro-RO",
+      "text": "Şi de la zilele lui Ioan Botezătorul până acum, împărăţia cerurilor suferă violenţă, şi cei violenţi o răpesc.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-014",
+      "lang": "ro-RO",
+      "text": "Îmi îndrept privirea spre țintă, spre premiul chemării celei înalte a lui Dumnezeu în Hristos Isus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-019",
+      "lang": "ro-RO",
+      "text": "Şi-l vor da în mâinile neamurilor, ca să fie batjocorit, să fie biciuit şi să fie răstignit iar a treia zi va învia.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-074",
+      "lang": "ro-RO",
+      "text": "Să ne dăruiască, după ce am fost izbăviți din mâna dușmanilor noștri, să-i slujim fără frică,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-013",
+      "lang": "ro-RO",
+      "text": "pentru ca el să vă întărească inimile fără prihană în sfințenie înaintea Dumnezeului nostru și Tatăl nostru, la venirea Domnului nostru Isus cu toți sfinții lui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CH-015-015",
+      "lang": "ro-RO",
+      "text": "Toată Iuda s-a bucurat de jurământ, căci au jurat cu toată inima și l-au căutat cu toată dorința lor și el a fost găsit de ei. Atunci Domnul le-a dat liniște în jurul lor.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-007",
+      "lang": "ro-RO",
+      "text": "Cei ce locuiesc sub umbra Lui se vor întoarce se vor învia ca grâul și vor crește ca vița de vie mirosul lor va fi ca vinul Libanului.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-012-024",
+      "lang": "ro-RO",
+      "text": "Numai temeți-vă de Domnul și slujiți-i în adevăr cu toată inima căci luați în considerare ce lucruri mari a făcut el pentru voi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-004-008",
+      "lang": "ro-RO",
+      "text": "Mă voi culca și voi adormi în pace, căci numai Tu, Doamne, mă faci să locuiesc în siguranță.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-025",
+      "lang": "ro-RO",
+      "text": "Dar dacă sperăm la ceea ce nu vedem, atunci așteptăm cu răbdare.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-011",
+      "lang": "ro-RO",
+      "text": "Să înalțe pe cei smeriți și să înveselească pe cei ce plâng, pentru a-i mântui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-007",
+      "lang": "ro-RO",
+      "text": "Chiar dacă umblu prin mijlocul necazului, Tu mă vei învia Tu îți vei întinde mâna împotriva furiei dușmanilor mei, și mâna Ta dreaptă mă va mântui.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-031",
+      "lang": "ro-RO",
+      "text": "Și Domnul a zis Simon, Simon, iată, Satan a cerut să vă cearnă ca pe grâu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JDG-006-014",
+      "lang": "ro-RO",
+      "text": "Şi Domnul s-a uitat la el şi a zis Du-te cu această putere a ta şi vei mântui pe Israel din mâna Midiamiţilor nu te-am trimis Eu?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-012",
+      "lang": "ro-RO",
+      "text": "Şi îi voi întări în DOMNUL şi ei vor umbla şi se vor plimba în numele Lui, zice DOMNUL.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-024",
+      "lang": "ro-RO",
+      "text": "Atunci, Isus a zis ucenicilor săi „Dacă vrea cineva să vină după mine, să se nege pe sine, să-și ia crucea și să mă urmeze.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-040",
+      "lang": "ro-RO",
+      "text": "Căci tu m-ai înarmat cu putere pentru luptă. Tu ai supus sub mine pe cei ce s-au ridicat împotriva mea.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001B",
+      "lang": "ro-RO",
+      "text": "Domnul este lumina mea și mântuirea mea de cine să mă tem? Domnul este tăria vieții mele de cine să-mi fie frică?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-013",
+      "lang": "ro-RO",
+      "text": "Atunci a vorbit Hagai, mesagerul Domnului, în mesajul Domnului către popor, zicând Eu sunt cu voi, zice Domnul.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-038",
+      "lang": "ro-RO",
+      "text": "Cel ce crede în mine, cum a zis Scriptura, din pântecele lui vor curge râuri de apă vie.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-024",
+      "lang": "ro-RO",
+      "text": "Cel ce vă cheamă este credincios, care va și face aceasta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-010",
+      "lang": "ro-RO",
+      "text": "Şi cei ce cunosc numele tău îşi vor pune încrederea în tine căci tu, Doamne, nu i-ai părăsit pe cei ce te caută.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-015",
+      "lang": "ro-RO",
+      "text": "Dar cei care sunt pe teren bun, sunt aceia care, având un inimă bună și cinstită, după ce au auzit cuvântul, îl păstrează și aduc rod cu răbdare.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 3,
+  "next": null
+}

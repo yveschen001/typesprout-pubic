@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "fa-IR",
+      "text": "زیرا خدا جهان را این‌گونه محبت کرد که پسر یگانه‌اش را داد تا هر که به او ایمان آورد هلاک نگردد بلکه حیات جاودانی یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "fa-IR",
+      "text": "خداوند شبان من است؛ هیچ چیز کم نخواهم داشت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "fa-IR",
+      "text": "اما آنان که بر خداوند انتظار می‌کشند، قوتشان تازه خواهد شد؛ بالاتر از عقاب‌ها پرواز خواهند کرد؛ خواهند دوید و خسته نخواهند شد؛ خواهند رفت و نخواهند ناتوان شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "fa-IR",
+      "text": "شما نور جهان هستید. شهری که بر بالای کوه واقع شده است نمی‌تواند پنهان شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "fa-IR",
+      "text": "من می‌توانم همه چیز را در مسیح که مرا قوت می‌بخشد، انجام دهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "fa-IR",
+      "text": "در آغاز خدا آسمان و زمین را آفرید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "fa-IR",
+      "text": "خوشا به حال آن مرد که در مشورت شریران نمی‌رود و در راه گناهکاران نمی‌ایستد و در جایگاه مسخره‌کنندگان نمی‌نشیند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "fa-IR",
+      "text": "زیرا من افکار را که به شما می‌اندیشم می‌دانم، می‌گوید خداوند، افکار صلح و نه شر، تا به شما آینده‌ای امیدبخش بدهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "fa-IR",
+      "text": "پس عیسی دوباره به ایشان گفت من نور جهان هستم؛ هر که مرا پیروی کند در تاریکی نخواهد رفت بلکه نور حیات را خواهد داشت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "fa-IR",
+      "text": "و ما می‌دانیم که همه چیزها برای نیکو به نفع آنان که خدا را دوست دارند، کار می‌کند، به آنان که بر حسب اراده او خوانده شده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "fa-IR",
+      "text": "خداوند برای شما می‌جنگد و شما آرام خواهید بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "fa-IR",
+      "text": "خداوند نور من و نجات من است؛ از که بترسم؟ خداوند قوت زندگی من است؛ از که بترسم؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "fa-IR",
+      "text": "تو او را در صلح کامل نگاه خواهی داشت، زیرا ذهن او بر تو ثابت است؛ زیرا به تو توکل کرده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "fa-IR",
+      "text": "اما اول ملکوت خدا و عدالت او را طلب کنید، و این همه چیزها به شما افزوده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "fa-IR",
+      "text": "اکنون ایمان، اساس چیزهای امید شده و دلیل چیزهای نادیده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "fa-IR",
+      "text": "قوی و دلیر باش؛ از آنها نترس و نترس، زیرا خداوند خدای تو با توست؛ او تو را ترک نخواهد کرد و رها نخواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "fa-IR",
+      "text": "به خداوند با تمام دل خود توکل کن و به فهم خود تکیه مکن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "fa-IR",
+      "text": "نترس؛ زیرا من با تو هستم دلتنگ نشو؛ زیرا من خدای تو هستم تو را قوت می‌بخشم؛ آری، تو را یاری می‌کنم؛ آری، تو را با دست راست عدالت خود حمایت می‌کنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "fa-IR",
+      "text": "عیسی به او گفت من راه و حقیقت و حیات هستم؛ هیچ کس به پدر جز به وسیله من نمی‌آید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "fa-IR",
+      "text": "پس اگر کسی در مسیح باشد، مخلوق جدید است. چیزهای کهنه سپری شده است. اینک، همه چیز نو شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "fa-IR",
+      "text": "کلام تو چراغی به پای من و نوری به راه من است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "fa-IR",
+      "text": "اما او به خاطر گناهان ما مجروح شد. او به خاطر نافرمانی‌های ما ستم دید. تنبیهی که صلح ما را به ارمغان آورد بر او بود؛ و به وسیله زخم‌های او شفا یافته‌ایم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "fa-IR",
+      "text": "به سوی من بیایید، ای همه زحمت‌کشان و گرانباران، و من به شما آرامش خواهم داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "fa-IR",
+      "text": "که اگر با دهان خود عیسی خداوند را اعتراف کنی و در دل خود ایمان داشته باشی که خدا او را از مردگان برخیزانید، نجات خواهی یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "fa-IR",
+      "text": "خود را نیز در خداوند خوشحال کن؛ و او به تو آرزوهای دلت را خواهد داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "fa-IR",
+      "text": "او که در مکان مخفی خدای متعال ساکن است، در سایه قادر مطلق خواهد ماند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "fa-IR",
+      "text": "خوشا به حال آن مرد که به خداوند توکل می‌کند و امید او خداوند است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "fa-IR",
+      "text": "من درخت هستم، شما شاخه‌ها هستید هر که در من بماند و من در او، او میوه‌های بسیار می‌آورد؛ زیرا بدون من نمی‌توانید هیچ کاری کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "fa-IR",
+      "text": "زیرا به فیض نجات یافته‌اید، از طریق ایمان؛ و این از خود شما نیست، بلکه هدیه خداست",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "fa-IR",
+      "text": "به دروازه‌های او با شکرگزاری وارد شوید و به حیاط‌های او با ستایش به او شکر بگویید و نام او را برکت دهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "fa-IR",
+      "text": "کارهای خود را به خداوند بسپار و افکار تو استوار خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "fa-IR",
+      "text": "زیرا افکار من، افکار شما نیست و راه‌های من، راه‌های شما نیست، می‌گوید یهوه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "fa-IR",
+      "text": "بخواهید و به شما داده خواهد شد. جستجو کنید و خواهید یافت. در بزنید و برای شما گشوده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "fa-IR",
+      "text": "اما اکنون ایمان و امید و محبت باقی می‌ماند - این سه. بزرگ‌ترین این‌ها محبت است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "fa-IR",
+      "text": "سرودی از صعودها. چشمانم را به کوه‌ها می‌افزايم. یاری من از کجا می‌آید؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "fa-IR",
+      "text": "ای یهوه، مزه کنید و ببینید که یهوه نیکوست. خوشا به حال آن مرد که به او پناه می‌برد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "fa-IR",
+      "text": "دزد جز برای دزدی و کشتن و نابود کردن نمی‌آید. من آمده‌ام تا آنان حیات داشته باشند و حیات را به وفور داشته باشند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "fa-IR",
+      "text": "به این دنیا شبیه نشوید، بلکه با تجدید ذهن خود تغییر شکل دهید، تا بتوانید آنچه را که اراده نیکو و پسندیده و کامل خداست، بیازمایید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "fa-IR",
+      "text": "یهوه صخره من و قلعه من و نجات‌دهنده من است؛ خدای من، صخره من، که در او پناه می‌برم؛ سپر من و شاخ نجات من، برج بلند من.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "fa-IR",
+      "text": "من به تو شکر می‌گویم، زیرا به طرز شگفت‌انگیزی و شگفت‌انگیز آفریده شده‌ام. کارهای تو شگفت‌انگیز است. جان من این را به خوبی می‌داند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "fa-IR",
+      "text": "به ایشان تعلیم دهید که همه چیزهایی را که به شما فرمان داده‌ام، رعایت کنند. اینک، من همیشه با شما هستم، حتی تا پایان عصر. آمین.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "fa-IR",
+      "text": "زیرا خدا به ما روح ترس نداده است، بلکه روح قدرت و محبت و انضباط.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "fa-IR",
+      "text": "نام یهوه برج محکم است راست‌کاران به او می‌دوند و ایمن می‌شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "fa-IR",
+      "text": "این چیزها را به شما گفتم تا در من آرامش داشته باشید. در دنیا شما دچار مشکل خواهید شد؛ اما شاد باشید! من بر دنیا غلبه کرده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "fa-IR",
+      "text": "اما میوه روح محبت و شادی و صلح و صبر و مهربانی و نیکی و ایمان است،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "fa-IR",
+      "text": "برخی به ارابه‌ها و برخی به اسب‌ها توکل می‌کنند، اما ما به نام یهوه خدای خود توکل می‌کنیم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "fa-IR",
+      "text": "زیرا یهوه خدا آفتاب و سپر است. یهوه فیض و جلال خواهد داد. او هیچ چیز خوب را از کسانی که به درستی رفتار می‌کنند، دریغ نخواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "fa-IR",
+      "text": "برخیز و درخشان شو؛ زیرا نور تو آمده است و جلال یهوه بر تو تابیده است!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "fa-IR",
+      "text": "عیسی به او گفت تو باید خداوند خدای خود را با تمام دل و تمام جان و تمام ذهن خود محبت کنی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "fa-IR",
+      "text": "و هر چه می‌کنید، با دل و جان انجام دهید، مانند اینکه برای خداوند و نه برای انسان‌ها کار می‌کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "fa-IR",
+      "text": "یهوه به نزدیکان دل شکسته است و روح‌های درهم شکسته را نجات می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "fa-IR",
+      "text": "یاری من از یهوه است، که آسمان و زمین را آفرید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "fa-IR",
+      "text": "اینک، خدا نجات من است. من توکل می‌کنم و نخواهم ترسید؛ زیرا یاه، یهوه، قوت و سرود من است؛ و او نجات من شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "fa-IR",
+      "text": "آنها را در حقیقت خود مقدس کن. کلام تو حقیقت است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "fa-IR",
+      "text": "اما خدا محبت خود را به ما نشان می‌دهد، به این که در حالی که هنوز گناهکار بودیم، مسیح برای ما مرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "fa-IR",
+      "text": "یهوه به همه کسانی که به او دعا می‌کنند نزدیک است، به همه کسانی که به او در حقیقت دعا می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "fa-IR",
+      "text": "ترس از یهوه آغاز حکمت است. شناخت قدوس، فهم است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "fa-IR",
+      "text": "اما اکنون، یهوه، تو پدر ما هستی. ما خاک هستیم و تو گِل‌زن ما هستی. ما همه کار دست تو هستیم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "fa-IR",
+      "text": "به ایشان نگریسته، عیسی گفت با مردان این کار غیرممکن است، اما با خدا همه چیز ممکن است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "fa-IR",
+      "text": "تمام زره خدا را بر تن کنید تا بتوانید در برابر دسیسه‌های شیطان ایستادگی کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "fa-IR",
+      "text": "زیرا خشم او فقط برای یک لحظه است. فیض او برای یک عمر است. گریه ممکن است برای شب بماند، اما شادی در صبح می‌آید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "fa-IR",
+      "text": "چنان‌که شرق از غرب دور است، گناهان ما را از ما دور کرده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "fa-IR",
+      "text": "ای یهوه، بر ما رحمت کن. ما منتظرت بودیم. هر صبح قوت ما باش، و در زمان تنگی نجات ما.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "fa-IR",
+      "text": "در هیچ چیز مضطرب نباشید، بلکه در همه چیز، به وسیلهٔ دعا و درخواست با شکرگزاری، خواسته‌های خود را به خدا اعلام کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "fa-IR",
+      "text": "زیرا تو، ای خداوند، نیکو هستی و آمادهٔ آمرزش، و در محبت به همهٔ کسانی که به تو می‌خوانند، فراوانی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "fa-IR",
+      "text": "زیرا هر جا که دو یا سه نفر به نام من گرد آمده‌اند، من در میان آن‌ها هستم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "fa-IR",
+      "text": "پس بیایید با جرأت به تخت فیض نزدیک شویم، تا رحمت بیابیم و در زمان نیاز، فیض برای کمک بیابیم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "fa-IR",
+      "text": "زیرا یک روز در حیاط‌های تو بهتر از هزاران است. من ترجیح می‌دهم در خانهٔ خدای خود دربانی باشم تا در خیمه‌های شریران ساکن شوم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "fa-IR",
+      "text": "دل خود را با تمام دقت حفظ کن، زیرا از آن چشمهٔ حیات است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "fa-IR",
+      "text": "کار عدالت، صلح خواهد بود و اثر عدالت، آرامش و اعتماد به‌طور ابدی خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "fa-IR",
+      "text": "او اینجاست، زیرا او برخاسته است، درست مانند آنچه گفت. بیایید، جایی را که خداوند دراز کشیده بود، ببینید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "fa-IR",
+      "text": "تمام نگرانی‌های خود را بر او بیفکنید، زیرا او به شما اهمیت می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "fa-IR",
+      "text": "من همیشه یهوه را در برابر خود قرار داده‌ام. زیرا او در دست راست من است، من متزلزل نخواهم شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "fa-IR",
+      "text": "شکرگزاری کنید به یهوه، زیرا او نیکوست، زیرا محبت او تا ابد پایدار است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "fa-IR",
+      "text": "بنابراین خود خداوند به شما نشانه‌ای خواهد داد. اینک، باکره‌ای حامله خواهد شد و پسری خواهد زایید و نام او را عِمانوئل خواهد نامید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "fa-IR",
+      "text": "زیرا امروز در شهر داوود، نجات‌دهنده‌ای برای شما زاده شده است، که مسیح خداوند است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "fa-IR",
+      "text": "اکنون خداوند امید، شما را با تمام شادی و صلح در ایمان پر کند، تا در قدرت روح‌القدس در امید فزونی یابید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "fa-IR",
+      "text": "یهوه قوت و سپر من است. دل من به او اعتماد کرده است و من یاری شده‌ام. بنابراین دل من بسیار شادمان است. با سرود خود او را شکر می‌کنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "fa-IR",
+      "text": "هر چیزی که نفس دارد، یهوه را ستایش کند! یهوه را ستایش کنید!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "fa-IR",
+      "text": "به من نگاه کنید و نجات یابید، ای همهٔ سرزمین‌های زمین؛ زیرا من خدا هستم و دیگری نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "fa-IR",
+      "text": "خوشا به حال صلح‌سازان، زیرا آنان پسران خدا نامیده خواهند شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "fa-IR",
+      "text": "یهوه همچنین برای ستمدیدگان برج بلندی خواهد بود؛ برجی در زمان‌های تنگی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "fa-IR",
+      "text": "این روزی است که یهوه ساخته است. ما در آن شاد خواهیم بود و خوشحال خواهیم بود!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "fa-IR",
+      "text": "علف می‌خشکد، گل می‌ریزد؛ اما کلام خدای ما تا ابد پایدار است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "fa-IR",
+      "text": "من همچنین به شما می‌گویم که تو پطرس هستی و بر این صخره کلیسای خود را بنا خواهم کرد و دروازه‌های جهنم بر آن غلبه نخواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "fa-IR",
+      "text": "در محبت هیچ ترسی نیست؛ بلکه محبت کامل ترس را بیرون می‌کند، زیرا ترس مجازات دارد. کسی که می‌ترسد در محبت کامل نشده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "fa-IR",
+      "text": "یهوه به همه نیکوست. رحمت‌های او بر همهٔ کارهایش است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "fa-IR",
+      "text": "روح آزادبخش فربه خواهد شد. کسی که آب می‌دهد، خود نیز آب خواهد خورد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "fa-IR",
+      "text": "اینک، من شما را بر دستان خود حک کرده‌ام. دیوارهای شما همیشه در برابر من است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "fa-IR",
+      "text": "زیرا پسر انسان آمده است تا آنچه را که گم شده است، جستجو کند و نجات دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "fa-IR",
+      "text": "اکنون به او که قادر است بالاتر از همهٔ آنچه ما می‌خواهیم یا می‌اندیشیم، بر حسب قدرتی که در ما عمل می‌کند، به‌طور فوق‌العاده‌ای عمل کند،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "fa-IR",
+      "text": "راه‌های خود را به من نشان بده، ای یهوه. راه‌های خود را به من بیاموز.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "fa-IR",
+      "text": "بگذار کلمات دهان من و تأمل دل من در نظر تو، ای یهوه، صخرهٔ من و نجات‌دهندهٔ من، مقبول باشد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "fa-IR",
+      "text": "در تمام کوه مقدس من، نه آسیب خواهند رسانید و نه ویران خواهند کرد؛ زیرا زمین پر از شناخت یهوه خواهد بود، چنان‌که آب‌ها دریا را می‌پوشانند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "fa-IR",
+      "text": "آسمان و زمین خواهند گذشت، اما کلمات من هرگز نخواهند گذشت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "fa-IR",
+      "text": "عیسی مسیح دیروز و امروز و تا ابد یکسان است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "fa-IR",
+      "text": "ساکت باشید و بدانید که من خدا هستم. من در میان ملت‌ها بزرگ خواهم شد. من در زمین بزرگ خواهم شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "fa-IR",
+      "text": "در تمام راه‌های خود او را بشناس و او راه‌های تو را راست خواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "fa-IR",
+      "text": "او به ضعیفان قدرت می‌دهد. او قوت کسی را که هیچ نیرویی ندارد، افزایش می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "fa-IR",
+      "text": "پس نور شما نیز باید در برابر مردم درخشان باشد، تا اعمال نیکوی شما را ببینند و پدر شما را که در آسمان است، جلال دهند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "fa-IR",
+      "text": "نه بلندی، نه عمق، و نه هیچ چیز دیگر که آفریده شده باشد، نمی‌تواند ما را از محبت خدا که در مسیح عیسی، خداوند ماست، جدا کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "fa-IR",
+      "text": "آیا به تو فرمان ندادم؟ قوی و دلیر باش. نترس و نگران نباش، زیرا یهوه خدای تو با توست هر جا که بروی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "fa-IR",
+      "text": "یهوه خروج و ورود تو را حفظ خواهد کرد، از این زمان به بعد و تا ابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "fa-IR",
+      "text": "دل انسان مسیر خود را می‌سازد، اما یهوه قدم‌های او را هدایت می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "fa-IR",
+      "text": "اما اکنون یهوه که تو را آفریده است، یعقوب، و او که تو را شکل داده است، اسرائیل، می‌گوید نترس، زیرا من تو را فدیه داده‌ام. نام تو را خوانده‌ام. تو از آن من هستی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "fa-IR",
+      "text": "اما به هر کس که او را پذیرفت، به آن‌ها حق داد که فرزندان خدا شوند، به کسانی که به نام او ایمان دارند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "fa-IR",
+      "text": "و صلح خدا که از هر درک فراتر است، دل‌ها و افکار شما را در مسیح عیسی حفظ خواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "fa-IR",
+      "text": "زیرا ما به وسیلهٔ ایمان راه می‌رویم، نه به وسیلهٔ دید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "fa-IR",
+      "text": "زیرا او فرشتگان خود را بر تو مأمور خواهد کرد تا تو را در تمام راه‌های خود حفظ کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "fa-IR",
+      "text": "حکمت برتر است. حکمت را به دست آور. بله، اگرچه تمام دارایی‌های خود را هزینه کنی، فهم را به دست آور.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "fa-IR",
+      "text": "زیرا هیچ چیزی که از طرف خدا گفته شده، غیرممکن نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "fa-IR",
+      "text": "زیرا ما کار او هستیم، که در مسیح عیسی برای اعمال نیکو آفریده شده‌ایم، که خدا پیش از آن آماده کرده است تا در آن‌ها راه برویم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "fa-IR",
+      "text": "من یهوه را جستجو کردم و او به من پاسخ داد و از تمام ترس‌هایم مرا رهایی بخشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "fa-IR",
+      "text": "دل شاداب دارویی نیکو می‌سازد، اما روح شکسته استخوان‌ها را خشک می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "fa-IR",
+      "text": "به من دعا کن و من به تو پاسخ خواهم داد و چیزهای بزرگ و دشواری را که نمی‌دانی، به تو نشان خواهم داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "fa-IR",
+      "text": "یوق من را بر خود بگذارید و از من بیاموزید، زیرا من نرم و فروتن در دل هستم؛ و شما آرامش را برای جان‌های خود خواهید یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "fa-IR",
+      "text": "بیایید اعتراف امید خود را بدون تزلزل نگه داریم؛ زیرا او که وعده داده است، وفادار است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "fa-IR",
+      "text": "بار خود را بر یهوه بیفکن و او تو را حفظ خواهد کرد. او هرگز اجازه نخواهد داد که راست‌دلان جابجا شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "fa-IR",
+      "text": "مرگ و زندگی در قدرت زبان است؛ کسانی که آن را دوست دارند، میوه‌اش را خواهند خورد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "fa-IR",
+      "text": "زیرا یهوه، خداوند مقدس اسرائیل، چنین گفت شما در بازگشت و آرامش نجات خواهید یافت. قوت شما در سکوت و اعتماد خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "fa-IR",
+      "text": "عیسی به آنها گفت من نان حیات هستم. هر که به من آید هرگز گرسنه نخواهد شد و هر که به من ایمان آورد هرگز تشنه نخواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "fa-IR",
+      "text": "پس ما که به وسیله ایمان توجیه شده‌ایم، با خدا از طریق پروردگار ما عیسی مسیح صلح داریم؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "fa-IR",
+      "text": "جسم و دل من می‌لغزد، اما خدا قوت دل من و بخش من تا ابد است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "fa-IR",
+      "text": "نگرانی در دل انسان آن را سنگین می‌کند، اما کلام نیکو آن را شاد می‌سازد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "fa-IR",
+      "text": "به یهوه همیشه اعتماد کن؛ زیرا در یهوه، یهوه، صخره‌ای ابدی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "fa-IR",
+      "text": "عیسی به او گفت اگر می‌توانی ایمان بیاوری، همه چیز برای کسی که ایمان دارد ممکن است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "fa-IR",
+      "text": "او پیش از همه چیز است و در او همه چیزها به هم پیوسته است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "fa-IR",
+      "text": "من تو را تعلیم می‌دهم و در راهی که باید بروی، تو را هدایت می‌کنم. با چشمانم بر تو مشاوره می‌کنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "fa-IR",
+      "text": "پاسخ ملایم خشم را دور می‌کند، اما کلام تند خشم را برمی‌انگیزد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "fa-IR",
+      "text": "زیرا من، یهوه خدای تو، دست راست تو را می‌گیرم و به تو می‌گویم نترس، من به تو کمک می‌کنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "fa-IR",
+      "text": "خوشا به حال فقیران در روح، زیرا ملکوت آسمان از آن ایشان است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "fa-IR",
+      "text": "این امیدی که داریم، لنگر جان است، امیدی که هم مطمئن و هم پایدار است و به آنچه در پرده است وارد می‌شود،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "fa-IR",
+      "text": "محبت و راستی را از خود دور مکن. آنها را به گردن خود ببند و بر لوح دل خود بنویس.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "fa-IR",
+      "text": "اینک، من یهوه، خدای همه flesh هستم. آیا چیزی برای من سخت است؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "fa-IR",
+      "text": "هر که به پسر ایمان آورد، حیات ابدی دارد، اما هر که به پسر نافرمانی کند، حیات را نخواهد دید، بلکه خشم خدا بر او باقی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "fa-IR",
+      "text": "در امید شاد باشید، در مشکلات پایدار باشید، در دعا مداوم باشید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "fa-IR",
+      "text": "من جنگ خوب را جنگیدم. دوره را به پایان رساندم. ایمان را حفظ کردم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "fa-IR",
+      "text": "اینک، من در دروازه ایستاده‌ام و می‌کوبم. اگر کسی صدای مرا بشنود و دروازه را باز کند، به او می‌آیم و با او شام می‌خورم و او با من خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "fa-IR",
+      "text": "اما اگر کسی از شما حکمت کم دارد، از خدا بخواهد که به همه به فراوانی و بدون سرزنش می‌دهد و به او داده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "fa-IR",
+      "text": "هر هدیه نیکو و هر هدیه کامل از بالا می‌آید، از پدر نورها، که در او هیچ تغییری و سایه‌ای نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "fa-IR",
+      "text": "به خدا نزدیک شوید و او به شما نزدیک خواهد شد. دست‌های خود را پاک کنید، ای گناهکاران. دل‌های خود را پاک کنید، ای دو دل.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "fa-IR",
+      "text": "محبت صبور و مهربان است. محبت حسد نمی‌ورزد. محبت فخر نمی‌کند، مغرور نیست،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "fa-IR",
+      "text": "دوست در همه زمان‌ها محبت می‌کند و برادر برای سختی متولد می‌شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "fa-IR",
+      "text": "زیرا من رحمت را می‌خواهم و نه قربانی؛ و شناخت خدا را بیشتر از سوختنی‌ها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "fa-IR",
+      "text": "محبت بزرگتر از این نیست که کسی جان خود را برای دوستانش بدهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "fa-IR",
+      "text": "در محبت برادران نسبت به یکدیگر با محبت باشید؛ در احترام یکدیگر را مقدم بدارید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "fa-IR",
+      "text": "محبت در نادرستی رفتار نمی‌کند، به دنبال راه خود نیست، تحریک نمی‌شود، به بدی حساب نمی‌کند؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "fa-IR",
+      "text": "او به تو نشان داده است، ای انسان، چه چیز خوب است. یهوه از تو چه می‌خواهد، جز اینکه به انصاف عمل کنی، محبت را دوست بداری و با خدای خود به تواضع راه بروی؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "fa-IR",
+      "text": "اما من به شما می‌گویم، دشمنان خود را محبت کنید، به کسانی که به شما لعنت می‌کنند برکت دهید، به کسانی که شما را نفرت می‌ورزند نیکو کنید و برای کسانی که به شما بدی می‌کنند و شما را آزار می‌دهند دعا کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "fa-IR",
+      "text": "و نسبت به یکدیگر مهربان باشید، با دل نرم، یکدیگر را ببخشید، همان‌طور که خدا نیز در مسیح شما را بخشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "fa-IR",
+      "text": "در نادرستی شادی نمی‌کند، بلکه با حقیقت شادی می‌کند؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "fa-IR",
+      "text": "نفرت دعوا را برمی‌انگیزد، اما محبت همه گناهان را می‌پوشاند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "fa-IR",
+      "text": "یهوه، خدای تو، در میان توست، قوی که نجات خواهد داد. او بر تو با شادی شاد خواهد شد. او در محبت خود تو را آرام خواهد کرد. او بر تو با آواز شاد خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "fa-IR",
+      "text": "چنانکه می‌خواهید مردم با شما رفتار کنند، دقیقاً همین‌طور با آنها رفتار کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "fa-IR",
+      "text": "و بالاتر از همه چیزها در محبت نسبت به یکدیگر جدی باشید، زیرا محبت گناهان زیادی را می‌پوشاند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "fa-IR",
+      "text": "همه چیزها را تحمل می‌کند، به همه چیزها ایمان می‌آورد، به همه چیزها امید می‌بندد و همه چیزها را تحمل می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "fa-IR",
+      "text": "چقدر محبت تو، ای خدا، گرانبهاست! فرزندان آدم در سایه بال‌های تو پناه می‌برند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "fa-IR",
+      "text": "یاد بگیرید که نیکو عمل کنید. عدالت را جستجو کنید. مظلومان را رهایی دهید. یتیمان را دفاع کنید. برای بیوه‌ها دعا کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "fa-IR",
+      "text": "دومین نیز مانند این است همسایه خود را مانند خود محبت کن. هیچ فرمانی بزرگتر از اینها نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "fa-IR",
+      "text": "وقتی کودک بودم، مانند کودک سخن می‌گفتم، احساس می‌کردم مانند کودک، فکر می‌کردم مانند کودک. اکنون که مرد شده‌ام، چیزهای کودکانه را کنار گذاشته‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "fa-IR",
+      "text": "بهتر است که در جایی که محبت هست، شام سبزی بخورید، تا در جایی که نفرت هست، گوساله چاق بخورید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "fa-IR",
+      "text": "یهوه از قدیم به من ظاهر شد و گفت آری، من تو را با محبتی ابدی دوست داشته‌ام. بنابراین، من تو را با محبت نیکو کشانده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "fa-IR",
+      "text": "به وسیله این، همه خواهند دانست که شما شاگردان من هستید، اگر محبت نسبت به یکدیگر داشته باشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "fa-IR",
+      "text": "بالای همه اینها، در محبت راه بروید، که پیوند کمال است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "fa-IR",
+      "text": "زیرا اکنون ما در آینه‌ای، به طور مبهم می‌بینیم، اما سپس چهره به چهره. اکنون جزئی می‌دانم، اما سپس به طور کامل می‌دانم، همان‌طور که من نیز به طور کامل شناخته شده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "fa-IR",
+      "text": "رحمت و راستی با هم ملاقات می‌کنند. عدالت و صلح یکدیگر را بوسیده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "fa-IR",
+      "text": "من تو را برای همیشه به خود می‌زنم. آری، من تو را در عدالت، در انصاف، در محبت و در رحمت به خود می‌زنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "fa-IR",
+      "text": "بنابراین، هر چه برای مردان می‌خواهید، شما نیز باید همین‌طور برای آنها انجام دهید؛ زیرا این قانون و پیامبران است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "fa-IR",
+      "text": "باشد که خداوند شما را در محبت نسبت به یکدیگر و نسبت به همه مردم، حتی همان‌طور که ما نیز نسبت به شما می‌کنیم، افزایش دهد و فزونی بخشد،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "fa-IR",
+      "text": "بگذارید همه کارهایی که می‌کنید در محبت انجام شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "fa-IR",
+      "text": "آنچه مرد را مطلوب می‌سازد، مهربانی اوست. یک مرد فقیر بهتر از یک دروغگو است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "fa-IR",
+      "text": "اینها چیزهایی هستند که باید انجام دهید هر مردی با همسایه‌اش راست بگوید. قضاوت راست و صلح را در دروازه‌های خود اجرا کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "fa-IR",
+      "text": "دومین نیز همین‌طور است همسایه خود را مانند خود محبت کن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "fa-IR",
+      "text": "زیرا تمام قانون در یک کلمه تحقق می‌یابد، در این همسایه خود را مانند خود محبت کن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "fa-IR",
+      "text": "زیرا محبت تو بهتر از زندگی است، لب‌های من تو را ستایش خواهند کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "fa-IR",
+      "text": "زیرا من، یهوه، تغییر نمی‌کنم؛ بنابراین، شما، پسران یعقوب، هلاک نمی‌شوید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "fa-IR",
+      "text": "این است فرمان من که یکدیگر را محبت کنید، همان‌طور که من شما را محبت کرده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "fa-IR",
+      "text": "با تمام تواضع و فروتنی، با صبر، با یکدیگر در محبت تحمل کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "fa-IR",
+      "text": "ما او را محبت می‌کنیم، زیرا او نخست ما را محبت کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "fa-IR",
+      "text": "آهن، آهن را تیز می‌کند؛ بنابراین، یک مرد، چهره دوست خود را تیز می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "fa-IR",
+      "text": "زیرا سازندهٔ تو شوهر توست؛ نام او یهوهٔ لشکرهاست. قدوس اسرائیل، نجات‌دهندهٔ توست. او خداوند تمام زمین خوانده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "fa-IR",
+      "text": "او پاسخ داد تو باید خداوند خدای خود را با تمام دل و با تمام جان و با تمام قوت و با تمام فکر خود محبت کنی؛ و همسایهٔ خود را مانند خود محبت کن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "fa-IR",
+      "text": "پس بیایید به دنبال چیزهایی برویم که موجب صلح می‌شود و چیزهایی که می‌تواند یکدیگر را بنا کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "fa-IR",
+      "text": "ای فرزندان کوچک من، بیایید فقط در کلام یا با زبان محبت نکنیم، بلکه در عمل و حقیقت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "fa-IR",
+      "text": "چنانکه پدر بر فرزندان خود رحم می‌کند، یهوه نیز بر کسانی که او را می‌ترسند رحم می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "fa-IR",
+      "text": "زیرا تو در نظر من گرانبها و محترم بوده‌ای و من تو را دوست داشته‌ام، بنابراین من مردم را به جای تو و ملتها را به جای جان تو خواهم داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "fa-IR",
+      "text": "اما وقتی عیسی این را دید، با خشم برانگیخته شد و به آنها گفت بگذارید کودکان کوچک به من بیایند! آنها را منع نکنید، زیرا ملکوت خداوند برای چنین کسانی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "fa-IR",
+      "text": "بنابراین یکدیگر را تشویق کنید و یکدیگر را بنا کنید، همان‌طور که شما نیز این کار را می‌کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "fa-IR",
+      "text": "و امید ما ما را ناامید نمی‌کند، زیرا محبت خدا در دل‌های ما به وسیلهٔ روح‌القدس که به ما داده شده است، ریخته شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "fa-IR",
+      "text": "زن شایسته تاج شوهرش است، اما زن ننگین مانند پوسیدگی در استخوان‌های اوست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "fa-IR",
+      "text": "و اگر جان خود را به گرسنگان بریزی و روح رنجور را سیر کنی، آنگاه نور تو در تاریکی خواهد درخشید و تاریکی تو مانند نیمروز خواهد بود؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "fa-IR",
+      "text": "پدر و مادر خود را احترام کن. و همسایهٔ خود را مانند خود محبت کن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "fa-IR",
+      "text": "هیچ‌کس چیزی را از روی رقابت یا از روی خودپسندی انجام ندهد، بلکه در تواضع، هر یک دیگران را بهتر از خود بشمارد؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "fa-IR",
+      "text": "بدی را مغلوب نکنید، بلکه بدی را با نیکویی مغلوب کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "fa-IR",
+      "text": "کسی که غیبت می‌کند، اعتماد را خائن می‌کند، اما کسی که روحی قابل اعتماد دارد، راز را حفظ می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "fa-IR",
+      "text": "یهوهٔ لشکرها چنین گفته است قضاوت راستین را اجرا کنید و هر مرد به برادر خود محبت و رحمت نشان دهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "fa-IR",
+      "text": "بیایید در نظر بگیریم که چگونه یکدیگر را به محبت و کارهای نیکو تحریک کنیم،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "fa-IR",
+      "text": "بنابراین یکدیگر را بپذیرید، همان‌طور که مسیح نیز شما را پذیرفته است، به جلال خدا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "fa-IR",
+      "text": "کسی که با حکیمان راه می‌رود، حکیم می‌شود، اما رفیق احمق‌ها آسیب می‌بیند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "fa-IR",
+      "text": "اما نیکوکار نیکوکارانه می‌اندیشد و او در کارهای نیکو ادامه خواهد داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "fa-IR",
+      "text": "هیچ‌کس نباید به دنبال نفع خود باشد، بلکه هر یک به نفع همسایهٔ خود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "fa-IR",
+      "text": "بارهای یکدیگر را تحمل کنید و بنابراین قانون مسیح را به جا آورید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "fa-IR",
+      "text": "زخم‌های دوست وفادار است، اگرچه بوسه‌های دشمن فراوان است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "fa-IR",
+      "text": "بنابراین رحیم باشید، همان‌طور که پدر شما نیز رحیم است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "fa-IR",
+      "text": "شوهران، زنان خود را محبت کنید، همان‌طور که مسیح نیز کلیسا را محبت کرد و خود را برای او تسلیم کرد،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "fa-IR",
+      "text": "با این حال، با محبت به شما، ما خوشحال بودیم که نه تنها خبر خوش خدا را به شما برسانیم، بلکه جان‌های خود را نیز، زیرا شما برای ما بسیار عزیز شده‌اید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "fa-IR",
+      "text": "تمام راه‌های یهوه محبت و راستی است به کسانی که عهد و شهادت‌های او را حفظ می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "fa-IR",
+      "text": "اما بزرگ‌ترین شما خدمتگزار شما خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "fa-IR",
+      "text": "هر یک از شما نه تنها به چیزهای خود، بلکه به چیزهای دیگران نیز توجه کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "fa-IR",
+      "text": "بالاخره، همهٔ شما هم‌نظر باشید، با محبت، مانند برادران، با دل نرم، با ادب،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "fa-IR",
+      "text": "کسی که محبت پاکی از دل دارد و به نیکویی سخن می‌گوید، دوست پادشاه است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "fa-IR",
+      "text": "او دل‌های پدران را به سوی فرزندان و دل‌های فرزندان را به سوی پدران برمی‌گرداند، مبادا من بیایم و زمین را با لعنت بزنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "fa-IR",
+      "text": "صلح را با شما می‌گذارم. صلح من را به شما می‌دهم؛ نه به گونه‌ای که جهان می‌دهد، من به شما می‌دهم. دل شما مضطرب نشود و نترسد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "fa-IR",
+      "text": "در یکدیگر یکسان باشید. به چیزهای بزرگ فکر نکنید، بلکه با فروتنان معاشرت کنید. در نظر خود حکیم نباشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "fa-IR",
+      "text": "اما تو، ای مرد خدا، از این چیزها بگریز و به دنبال عدالت، دیانت، ایمان، محبت، استقامت و نرمی برو.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "fa-IR",
+      "text": "اما تو، ای خداوند، خداوندی رحیم و مهربان هستی، دیر به خشم و پر از محبت و راستی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "fa-IR",
+      "text": "یهوه، تو برای ما صلح را مقرر خواهی کرد، زیرا تو نیز تمام کارهای ما را برای ما انجام داده‌ای.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "fa-IR",
+      "text": "همان‌طور که پسر انسان نیامده است که خدمت شود، بلکه خدمت کند و جان خود را فدای بسیاری کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "fa-IR",
+      "text": "محبت برادرانه را ادامه دهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "fa-IR",
+      "text": "بالاخره، ای برادران، شاد باشید! کامل شوید. تسلی یابید. در یک ذهن باشید. در صلح زندگی کنید و خدای محبت و صلح با شما خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "fa-IR",
+      "text": "بسیاری از مردان ادعا می‌کنند که مردان محبت پایدار هستند، اما چه کسی می‌تواند مرد وفادار را پیدا کند؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "fa-IR",
+      "text": "زیرا اگر شما به طور کامل راه‌ها و کارهای خود را اصلاح کنید، اگر به طور کامل عدالت را بین یک مرد و همسایه‌اش اجرا کنید؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "fa-IR",
+      "text": "مراقب باشید. اگر برادر شما بر ضد شما گناه کند، او را توبیخ کنید. اگر توبه کرد، او را ببخشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "fa-IR",
+      "text": "در محبت راه بروید، همان‌طور که مسیح نیز ما را محبت کرد و خود را برای ما تسلیم کرد، قربانی و هدیه‌ای برای خدا به عنوان بوی خوش.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "fa-IR",
+      "text": "که به هیچ‌کس بدی نکنید، نه به جدل بپردازید، بلکه نرم باشید و به همهٔ مردان با تمام تواضع نشان دهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "fa-IR",
+      "text": "کسی که همسایهٔ خود را تحقیر می‌کند، گناه می‌کند، اما کسی که بر فقیر رحم می‌کند، برکت می‌یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "fa-IR",
+      "text": "بی‌بی، یتیم، بیگانه و فقیر را ستم نکنید؛ و هیچ‌یک از شما نباید در دل خود علیه برادرش شرّی تدبیر کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "fa-IR",
+      "text": "او نشسته و دوازده نفر را صدا کرد و به آنها گفت اگر کسی بخواهد اول باشد، باید آخر از همه و خدمتگزار همه باشد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "fa-IR",
+      "text": "اکنون ما که قوی هستیم باید ضعف‌های ضعیفان را تحمل کنیم و نه اینکه خود را خوشنود کنیم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "fa-IR",
+      "text": "این را دعا می‌کنم که محبت شما در دانش و تمام درک بیشتر و بیشتر فزونی یابد،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "fa-IR",
+      "text": "در آن روز، در وسط سرزمین مصر، قربانی برای یهوه خواهد بود و ستونی برای یهوه در مرز آن خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "fa-IR",
+      "text": "من نام تو را به آنها شناساندم و آن را شناسانده خواهم کرد؛ تا محبتی که با آن مرا محبت کردی در آنها باشد و من در آنها باشم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "fa-IR",
+      "text": "اما در مورد محبت برادرانه، نیازی نیست که کسی به شما بنویسد. زیرا شما خودتان از خدا آموخته‌اید که یکدیگر را محبت کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "fa-IR",
+      "text": "چون شما جان‌های خود را در اطاعت از حقیقت از طریق روح در محبت برادرانهٔ صادقانه پاک کرده‌اید، از دل با شدت یکدیگر را محبت کنید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "fa-IR",
+      "text": "کسی که به دنبال عدالت و محبت است، زندگی، عدالت و احترام می‌یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "fa-IR",
+      "text": "او برخاست و به سوی پدرش آمد. اما در حالی که هنوز دور بود، پدرش او را دید و با رحم برانگیخته شد و دوید و بر گردن او افتاد و او را بوسید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "fa-IR",
+      "text": "اگر ممکن است، تا جایی که به شما بستگی دارد، با همهٔ مردان در صلح باشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "fa-IR",
+      "text": "کسی که برادر خود را محبت می‌کند، در نور می‌ماند و در او هیچ‌گونه لغزشی نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "fa-IR",
+      "text": "او دل‌های شکسته را شفا می‌دهد و زخم‌های آنها را می‌بندد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "fa-IR",
+      "text": "من سرکشی‌های آنها را شفا می‌دهم. من آنها را به طور آزاد محبت می‌کنم؛ زیرا خشم من از آنها دور شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "fa-IR",
+      "text": "اما شما بروید و بیاموزید که این چه معنی دارد من رحمت می‌خواهم و نه قربانی زیرا که نیامده‌ام تا راست‌کاران را بخوانم، بلکه گناهکاران را به توبه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "fa-IR",
+      "text": "زیرا که آنها روح من و روح شما را تازه کردند. بنابراین کسانی را که چنین هستند بشناسید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "fa-IR",
+      "text": "اما اگر قانون سلطنتی را طبق کتاب مقدس انجام دهید، همسایه‌ات را مانند خودت محبت کن به خوبی عمل کرده‌اید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "fa-IR",
+      "text": "انسانی که دوستان زیادی دارد ممکن است ویران شود، اما دوستی هست که نزدیک‌تر از برادر است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "fa-IR",
+      "text": "زیرا خدا پسر خود را به جهان نفرستاد تا جهان را داوری کند، بلکه تا جهان از طریق او نجات یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "fa-IR",
+      "text": "فراموش نکنید که به بیگانگان مهمان‌نوازی کنید، زیرا در این کار، برخی از فرشتگان را بدون اینکه بدانند، مهمان کرده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "fa-IR",
+      "text": "ترس از یهوه آغاز دانش است، اما احمق‌ها حکمت و آموزش را تحقیر می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "fa-IR",
+      "text": "و هنگامی که به راست بپیچید و هنگامی که به چپ بپیچید، گوش‌های شما صدایی را از پشت خود خواهید شنید که می‌گوید این راه است. در آن بروید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "fa-IR",
+      "text": "اما شنوندگان کلام نباشید، بلکه عمل‌کنندگان آن باشید، تا خود را فریب ندهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "fa-IR",
+      "text": "پس به ما بیاموز تا روزهای خود را بشماریم، تا قلبی حکیم به دست آوریم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "fa-IR",
+      "text": "زیرا یهوه حکمت می‌دهد. از دهان او دانش و فهم بیرون می‌آید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "fa-IR",
+      "text": "به شما می‌گویم، مدام بخواهید و به شما داده خواهد شد. مدام جستجو کنید و خواهید یافت. مدام بکوبید و در به شما گشوده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "fa-IR",
+      "text": "کلام تو را در دل خود پنهان کرده‌ام، تا علیه تو گناه نکنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "fa-IR",
+      "text": "روح یهوه بر او خواهد بود روح حکمت و فهم، روح مشورت و قدرت، روح دانش و ترس از یهوه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "fa-IR",
+      "text": "او جمعیت را با شاگردانش به سوی خود خواند و به آنها گفت هر که می‌خواهد به دنبالم بیاید، باید خود را انکار کند و صلیب خود را بردارد و از پی من بیفتد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "fa-IR",
+      "text": "چه کسی است که از یهوه می‌ترسد؟ او را در راهی که باید انتخاب کند، تعلیم خواهد داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "fa-IR",
+      "text": "در چشم خود حکیم نباشید. از یهوه بترسید و از شر دوری کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "fa-IR",
+      "text": "خیر را جستجو کنید و نه شر، تا زنده بمانید؛ و بنابراین یهوه، خدای لشکرها، با شما خواهد بود، همان‌طور که می‌گویید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "fa-IR",
+      "text": "چراغ بدن چشم است. اگر بنابراین چشمتان سالم باشد، تمام بدن شما پر از نور خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "fa-IR",
+      "text": "قانون یهوه کامل است و جان را بازمی‌گرداند. عهد یهوه مطمئن است و ساده‌ها را حکیم می‌سازد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "fa-IR",
+      "text": "راه‌های پاهای خود را هموار کنید. بگذارید تمام راه‌های شما برقرار باشد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "fa-IR",
+      "text": "حکیمان مانند درخشش آسمان خواهند درخشید. کسانی که بسیاری را به راست‌کاری برمی‌گردانند، مانند ستاره‌ها تا ابد خواهند درخشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "fa-IR",
+      "text": "بنابراین با دقت مراقب باشید که چگونه راه می‌روید، نه به عنوان احمق، بلکه به عنوان حکیم،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "fa-IR",
+      "text": "ترس از یهوه آغاز حکمت است. همه کسانی که کار او را انجام می‌دهند، فهم خوبی دارند. ستایش او تا ابد باقی می‌ماند!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "fa-IR",
+      "text": "هر که اصلاح را دوست دارد، دانش را دوست دارد، اما کسی که از توبیخ متنفر است، احمق است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "fa-IR",
+      "text": "یهوه می‌گوید در حالی که می‌توان او را یافت، یهوه را جستجو کنید. در حالی که نزدیک است، بر او ندا کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "fa-IR",
+      "text": "چقدر تنگ است دروازه و راهی که به زندگی می‌رسد! و کسانی که آن را می‌یابند، کم هستند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "fa-IR",
+      "text": "اما حکمت که از بالا می‌آید، ابتدا پاک است، سپس صلح‌آمیز، ملایم، معقول، پر از رحمت و میوه‌های خوب، بدون تبعیض و بدون ریا است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "fa-IR",
+      "text": "قدم‌های انسان به وسیله یهوه برقرار می‌شود. او در راه او خوشنود است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "fa-IR",
+      "text": "جایی که مشاوره‌ای نیست، نقشه‌ها شکست می‌خورند؛ اما در کثرت مشاوران، آنها برقرار می‌شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "fa-IR",
+      "text": "یهوه می‌گوید حکیم نباید در حکمت خود فخر کند. مرد نیرومند نباید در قدرت خود فخر کند. مرد ثروتمند نباید در ثروت خود فخر کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "fa-IR",
+      "text": "اگر کسی بخواهد اراده او را انجام دهد، درباره تعلیم خواهد دانست که آیا از خداست یا اینکه من از خودم سخن می‌گویم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "fa-IR",
+      "text": "همه چیزها را آزمایش کنید و آنچه را که خوب است، محکم نگه دارید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "fa-IR",
+      "text": "ورود کلام تو نور می‌دهد. به ساده‌ها فهم می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "fa-IR",
+      "text": "کسی که به کلام توجه می‌کند، کامیابی می‌یابد. هر که به یهوه اعتماد کند، برکت می‌یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "fa-IR",
+      "text": "زیرا جایی که گنج توست، آنجا دل تو نیز خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "fa-IR",
+      "text": "زیرا ذهن جسمانی مرگ است، اما ذهن روحانی زندگی و صلح است؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "fa-IR",
+      "text": "به مشاوره گوش دهید و آموزش را دریافت کنید، تا در پایان عمر خود حکیم شوید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "fa-IR",
+      "text": "در حقیقت، تمام ملل ممکن است به نام خدایان خود راه بروند، اما ما به نام یهوه خدای خود تا ابد خواهیم رفت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "fa-IR",
+      "text": "خوشا به حال کسانی که برای عدالت گرسنه و تشنه‌اند، زیرا سیر خواهند شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "fa-IR",
+      "text": "کوشش کن تا خود را در پیشگاه خدا مقبول نشان دهی، کارگری که نیازی به شرم ندارد و کلام حقیقت را به درستی اداره می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "fa-IR",
+      "text": "چشم‌های من را باز کن، تا چیزهای شگفت‌انگیزی از قانون تو ببینم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "fa-IR",
+      "text": "راهی هست که به نظر انسان درست می‌آید، اما در پایان به مرگ می‌انجامد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "fa-IR",
+      "text": "پس او پاسخ داد و به من گفت این کلام یهوه به زربابل است، که می‌گوید نه به قدرت و نه به قوت، بلکه به روح من می‌گوید یهوه لشکرها.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "fa-IR",
+      "text": "مراقب باشید، بیدار باشید و دعا کنید؛ زیرا نمی‌دانید که زمان چه زمانی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "fa-IR",
+      "text": "در حکمت با کسانی که بیرون هستند، راه بروید و زمان را خریداری کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "fa-IR",
+      "text": "به من قضاوت خوب و دانش بیاموز، زیرا به احکام تو ایمان دارم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "fa-IR",
+      "text": "زیرا حکمت بهتر از یاقوت‌هاست. هیچ چیزهایی که ممکن است خواسته شود، نمی‌تواند با آن مقایسه شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "fa-IR",
+      "text": "یهوه، نجات‌دهنده تو، قدوس اسرائیل، می‌گوید من یهوه خدای تو هستم، که به تو یاد می‌دهد تا سود ببری، که تو را در راهی که باید بروی، هدایت می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "fa-IR",
+      "text": "پس مراقب باشید که چگونه می‌شنوید. زیرا هر که دارد، به او داده خواهد شد؛ و هر که ندارد، حتی آنچه را که فکر می‌کند دارد، از او گرفته خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "fa-IR",
+      "text": "پس خود را تسلیم خدا کنید. به شیطان مقاومت کنید و او از شما فرار خواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "fa-IR",
+      "text": "در حقیقت، مرا در راستی خود هدایت کن و به من بیاموز، زیرا تو خدای نجات من هستی. من تمام روز منتظر تو هستم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "fa-IR",
+      "text": "کسی که به خود اعتماد می‌کند، احمق است؛ اما کسی که در حکمت راه می‌رود، محفوظ می‌ماند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "fa-IR",
+      "text": "اکنون من قانون تو را دوست دارم! این تمام روز تفکر من است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "fa-IR",
+      "text": "حکمت را به دست آورید. فهم را به دست آورید. فراموش نکنید و از کلمات دهان من منحرف نشوید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "fa-IR",
+      "text": "من به عنوان نوری به جهان آمده‌ام، تا هر که به من ایمان آورد، در تاریکی نماند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "fa-IR",
+      "text": "قدم‌های مرا در کلام خود برقرار کن. نگذار هیچ گناهی بر من تسلط یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "fa-IR",
+      "text": "پسر حکیم به تعلیم پدر خود گوش می‌دهد، اما مسخره‌کننده به توبیخ گوش نمی‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "fa-IR",
+      "text": "بیدار باشید و دعا کنید، تا به وسوسه نیفتید. روح البته مایل است، اما جسم ضعیف است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "fa-IR",
+      "text": "اما غذای سخت برای کسانی است که بالغ شده‌اند، که به واسطه استفاده، حواس خود را برای تشخیص خوب و بد تمرین داده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "fa-IR",
+      "text": "ای کلام دهان من و تفکر دل من در نظر تو پسندیده باشد، ای یهوه، صخره من و فدیه من.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "fa-IR",
+      "text": "زیرا با مشاوره حکیمانه جنگ خود را می‌کنی و پیروزی در بسیاری از مشاوران است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "fa-IR",
+      "text": "یهوه را جستجو کنید، ای همهٔ فروتنان زمین، که احکام او را نگاه داشته‌اید. عدالت را جستجو کنید. فروتنی را جستجو کنید. شاید در روز خشم یهوه پنهان شوید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "fa-IR",
+      "text": "پس همیشه بیدار باشید و دعا کنید که شایستهٔ فرار از همهٔ این چیزها که خواهد آمد، و ایستادن در برابر پسر انسان باشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "fa-IR",
+      "text": "یک نفر روزی را مهم‌تر می‌داند. دیگری هر روز را یکسان می‌داند. هر کس باید در ذهن خود به طور کامل مطمئن باشد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "fa-IR",
+      "text": "من در احکام تو تفکر می‌کنم و راه‌های تو را در نظر می‌گیرم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "fa-IR",
+      "text": "کسی که حکمت را به دست می‌آورد، جان خود را دوست می‌دارد. کسی که فهم را حفظ می‌کند، نیکویی خواهد یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "fa-IR",
+      "text": "او به آنها گفت مراقب باشید چه می‌شنوید. با هر معیاری که اندازه می‌زنید، به شما اندازه زده خواهد شد و بیشتر به شما که می‌شنوید داده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "fa-IR",
+      "text": "زمان را خریداری کنید، زیرا ایام شر هستند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "fa-IR",
+      "text": "به من فهم عطا کن و من قانون تو را نگاه خواهم داشت. آری، من با تمام دل خود از آن اطاعت خواهم کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "fa-IR",
+      "text": "مرد عاقل خطر را می‌بیند و خود را پنهان می‌کند؛ اما ساده‌دل‌ها می‌گذرند و به آن دچار می‌شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "fa-IR",
+      "text": "در زمان‌های تو ثبات خواهد بود، فراوانی نجات، حکمت و دانش. ترس یهوه گنج توست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "fa-IR",
+      "text": "آنگاه راست‌گویان مانند خورشید در پادشاهی پدرشان خواهند درخشید. هر که گوش دارد، بشنود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "fa-IR",
+      "text": "تا ایمان شما در حکمت مردان نایستد، بلکه در قدرت خدا باشد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "fa-IR",
+      "text": "به انسان گفت اینک، ترس از خدا، آن حکمت است. دوری از شر، فهم است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "fa-IR",
+      "text": "نقشه‌های کوشا به یقین به سود می‌انجامد؛ و هر کس که شتاب‌زده باشد، به فقر می‌شتابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "fa-IR",
+      "text": "دل از همه چیز فریبنده‌تر است و به شدت فاسد است. کیست که آن را بشناسد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "fa-IR",
+      "text": "کسی که در اندکی وفادار است، در بسیاری نیز وفادار است. کسی که در اندکی نادرست است، در بسیاری نیز نادرست است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "fa-IR",
+      "text": "آری، و به همین دلیل با تمام جدیت، در ایمان خود فضیلت اخلاقی بیفزایید؛ و در فضیلت اخلاقی، دانش؛",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "fa-IR",
+      "text": "قانون دهان تو برای من بهتر از هزاران قطعه طلا و نقره است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "fa-IR",
+      "text": "گام‌های انسان از یهوه است؛ پس چگونه می‌تواند انسان راه خود را بفهمد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "fa-IR",
+      "text": "این نیز از یهوهٔ لشکرها می‌آید، که در مشاوره شگفت‌انگیز و در حکمت عالی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "fa-IR",
+      "text": "بیدار باشید و دعا کنید که به وسوسه نیفتید. روح به راستی مایل است، اما جسم ضعیف است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "fa-IR",
+      "text": "قبل از اینکه به عذاب بیفتم، گمراه شدم؛ اما اکنون کلام تو را نگاه می‌دارم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "fa-IR",
+      "text": "پس حکمت را برای جان خود خواهید شناخت. اگر آن را یافته‌اید، آنگاه پاداشی خواهد بود امید شما قطع نخواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "fa-IR",
+      "text": "زیرا چه سودی دارد که انسان تمام جهان را به دست آورد و جان خود را از دست بدهد؟ یا چه چیزی می‌تواند انسان در عوض جان خود بدهد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "fa-IR",
+      "text": "پس ایمان از شنیدن می‌آید و شنیدن از کلام خدا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "fa-IR",
+      "text": "من در آزادی راه می‌روم، زیرا احکام تو را جستجو کرده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "fa-IR",
+      "text": "زمانی که غرور می‌آید، آنگاه شرم می‌آید، اما با فروتنی حکمت می‌آید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "fa-IR",
+      "text": "او گرسنگان را با چیزهای خوب پر کرده است. او ثروتمندان را خالی فرستاده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "fa-IR",
+      "text": "ای برادران، در اندیشه‌ها کودک نباشید، اما در بدی‌ها بچه باشید، اما در اندیشه‌ها بالغ باشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "fa-IR",
+      "text": "فرمان‌های تو مرا از دشمنانم حکیم‌تر می‌سازد، زیرا فرمان‌های تو همیشه با من است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "fa-IR",
+      "text": "بشنو، پسرم، و حکیم باش و دل خود را بر راه راست نگه‌دار!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "fa-IR",
+      "text": "خوشا به حال پاک‌دل‌ها، زیرا آنها خدا را خواهند دید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "fa-IR",
+      "text": "اما خداوند خدا را در دل‌های خود مقدس کنید. همیشه آماده باشید که به هر کسی که از شما دلیلی دربارهٔ امیدی که در شماست، می‌پرسد، با فروتنی و ترس پاسخ دهید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "fa-IR",
+      "text": "من از پیران بیشتر می‌فهمم، زیرا احکام تو را نگاه داشته‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "fa-IR",
+      "text": "هیچ حکمت و فهم و مشاوره‌ای علیه یهوه نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "fa-IR",
+      "text": "به من نگاه کنید و نجات یابید، ای همهٔ سرزمین‌ها؛ زیرا من خدا هستم و دیگری نیست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "fa-IR",
+      "text": "آنگاه ذهن‌های آنها را گشود تا بتوانند کتب مقدس را بفهمند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "fa-IR",
+      "text": "و خدا قادر است که همهٔ نعمت را به شما فراوان کند، به طوری که شما همیشه در همه چیز کافی داشته باشید و در هر کار نیکو فزونی یابید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "fa-IR",
+      "text": "مرا در راه احکام خود هدایت کن، زیرا من در آنها شادی می‌کنم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "fa-IR",
+      "text": "مرد عاقل خطر را می‌بیند و پناه می‌گیرد؛ اما ساده‌دل‌ها می‌گذرند و به آن دچار می‌شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "fa-IR",
+      "text": "به من گوش دهید، ای کسانی که عدالت را می‌شناسید، ای مردمی که در دلشان قانون من است. از سرزنش مردان نترسید و از توهین‌های آنها نترسید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "fa-IR",
+      "text": "هر که خود را بلند کند، خوار خواهد شد و هر که خود را خوار کند، بلند خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "fa-IR",
+      "text": "تا بتوانید چیزهای عالی را تأیید کنید، تا بتوانید بی‌ریا و بی‌عیب باشید تا روز مسیح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "fa-IR",
+      "text": "این تسلی من در عذابم است، زیرا کلام تو مرا زنده کرده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "fa-IR",
+      "text": "حکمت در برابر چهره کسی که فهم دارد، است، اما چشمان احمق به انتهای زمین می‌گردد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "fa-IR",
+      "text": "چقدر پاهای او که بشارت خوب را می‌آورد، بر کوه‌ها زیباست، او که صلح را منتشر می‌کند، او که بشارت خوب را می‌آورد، او که نجات را اعلام می‌کند، او که به صهیون می‌گوید خدای تو سلطنت می‌کند!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "fa-IR",
+      "text": "تو باید خداوند خدای خود را با تمام دل خود، با تمام جان خود، با تمام ذهن خود و با تمام قدرت خود محبت کنی. این است نخستین فرمان.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "fa-IR",
+      "text": "خوشا به حال کسانی که احکام او را نگاه می‌دارند، که او را با تمام دل خود جستجو می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "fa-IR",
+      "text": "محکم به تعلیم چنگ بزن. او را رها نکن. او را نگه‌دار، زیرا او زندگی توست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "fa-IR",
+      "text": "به آنها نگاه کرده، عیسی گفت با مردان این غیرممکن است، اما با خدا همه چیز ممکن است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "fa-IR",
+      "text": "عیسی به او گفت من قیامت و حیات هستم. هر که به من ایمان آورد، حتی اگر بمیرد، زنده خواهد ماند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "fa-IR",
+      "text": "زیرا تو جان من را در شاول رها نخواهی کرد و قدوس خود را نخواهی گذاشت که فساد را ببیند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "fa-IR",
+      "text": "او اینجا نیست، بلکه برخاسته است. به یاد داشته باشید چه چیزی به شما گفت وقتی هنوز در جلیل بودید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "fa-IR",
+      "text": "زیرا مزد گناه مرگ است، اما هدیهٔ رایگان خدا حیات ابدی در مسیح عیسی، پروردگار ماست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "fa-IR",
+      "text": "زیرا من نخستین چیزی را که نیز دریافت کرده‌ام، به شما تسلیم کردم که مسیح برای گناهان ما بر اساس کتب مقدس مرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "fa-IR",
+      "text": "اما با تو آمرزش هست، بنابراین تو مورد ترس هستی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "fa-IR",
+      "text": "من آنها را از قدرت شاول فدیه می‌زنم. من آنها را از مرگ نجات می‌دهم! مرگ، بلاهای تو کجاست؟ شاول، ویرانی تو کجاست؟ رحمت از چشمان من پنهان خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "fa-IR",
+      "text": "او به آنها گفت تعجب نکنید. شما عیسی ناصری را جستجو می‌کنید که مصلوب شده است. او برخاسته است! او اینجا نیست. ببینید جایی که او را گذاشته‌اند!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "fa-IR",
+      "text": "در او ما رهایی خود را به وسیله خون او، آمرزش گناهان خود را، بر حسب ثروت فیض او داریم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "fa-IR",
+      "text": "که او دفن شد و در روز سوم بر حسب نوشته‌ها برخاست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "fa-IR",
+      "text": "کسی که گناهان خود را می‌پوشاند، رستگار نمی‌شود، اما هر که آنها را اعتراف کند و ترک نماید، رحمت می‌یابد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "fa-IR",
+      "text": "خداوند بازوی مقدس خود را در برابر همه ملت‌ها برهنه کرده است. همه سرزمین‌ها نجات خدای ما را دیده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "fa-IR",
+      "text": "زیرا این خون من است که برای بسیاری به خاطر آمرزش گناهان ریخته می‌شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "fa-IR",
+      "text": "پس مسیح نیز، یک بار برای تحمل گناهان بسیاری قربانی شد، و بار دیگر ظاهر خواهد شد، نه برای گناه، بلکه برای نجات کسانی که مشتاقانه منتظر او هستند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "fa-IR",
+      "text": "در هیچ کس دیگر نجات نیست، زیرا نام دیگری زیر آسمان به مردم داده نشده است که به وسیله آن باید نجات یابیم!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "fa-IR",
+      "text": "اینک روزهایی می‌آید، می‌گوید خداوند، که من با خانه اسرائیل و با خانه یهودا عهد جدیدی خواهم بست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "fa-IR",
+      "text": "او به آنها گفت چنین نوشته شده است و لازم بود که مسیح رنج بکشد و در روز سوم از مردگان برخیزد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "fa-IR",
+      "text": "با پاک کردن نوشته‌ای که بر ضد ما بود. او آن را از میان برداشت و به صلیب نایل کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "fa-IR",
+      "text": "اما اکنون مسیح از مردگان برخاسته است. او نخستین میوه کسانی است که خوابیده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "fa-IR",
+      "text": "هیچ یک از آنها نمی‌تواند به هیچ وجه برادر خود را فدیه دهد، و نه به خدا فدیه‌ای برای او بدهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "fa-IR",
+      "text": "من همچنین به شما قلبی نو می‌دهم و روحی نو در درون شما می‌گذارم. قلب سنگی شما را از گوشت شما می‌گیرم و قلبی از گوشت به شما می‌دهم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "fa-IR",
+      "text": "عیسای گفت زیرا تو مرا دیده‌ای، ایمان آورده‌ای. خوشا به حال کسانی که ندیده‌اند و ایمان آورده‌اند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "fa-IR",
+      "text": "پس اکنون هیچ محکومیتی برای کسانی که در مسیح عیسی هستند وجود ندارد، که بر حسب flesh راه نمی‌روند، بلکه بر حسب روح.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "fa-IR",
+      "text": "که به خاطر گناهان ما تسلیم شد و برای توجیه ما برخاست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "fa-IR",
+      "text": "که همه گناهان تو را می‌بخشد، که همه بیماری‌های تو را شفا می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "fa-IR",
+      "text": "آنها به یکدیگر گفتند آیا دل‌های ما در درون ما در حالی که او در راه با ما سخن می‌گفت و نوشته‌ها را برای ما می‌گشود، نمی‌سوخت؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "fa-IR",
+      "text": "او خود گناهان ما را در بدن خود بر درخت حمل کرد، تا ما، که به گناهان مرده‌ایم، به عدالت زندگی کنیم. شما به وسیله زخم‌های او شفا یافته‌اید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "fa-IR",
+      "text": "شهادت این است که خدا به ما زندگی ابدی داده است و این زندگی در پسر اوست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "fa-IR",
+      "text": "نجات من و عزت من با خداست. صخره قوت من و پناهگاه من در خداست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "fa-IR",
+      "text": "بسیاری از کسانی که در خاک زمین خوابیده‌اند، بیدار خواهند شد، برخی به زندگی ابدی و برخی به شرم و تحقیر ابدی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "fa-IR",
+      "text": "من شبان نیکو هستم. شبان نیکو جان خود را برای گوسفندان می‌گذارد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "fa-IR",
+      "text": "مسیح ما را از لعنت قانون رهایی بخشید، زیرا او به خاطر ما لعنت شد. زیرا نوشته شده است ملعون است هر که بر درخت آویخته شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "fa-IR",
+      "text": "کسی که پسر را دارد، زندگی دارد. کسی که پسر خدا را ندارد، زندگی ندارد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "fa-IR",
+      "text": "به وسیله رحمت و راستی، گناه آمرزیده می‌شود. به وسیله ترس خداوند، مردان از شر دور می‌شوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "fa-IR",
+      "text": "پس از رنج جان او، او نور را خواهد دید و راضی خواهد شد. خدمتگزار راستین من بسیاری را به وسیله شناخت خود توجیه خواهد کرد و او گناهان آنها را برمی‌دارد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "fa-IR",
+      "text": "عیسی با صدای بلند ندا داد ای پدر، روح خود را به دستان تو می‌سپارم! و این را گفت، سرش را خم کرد و جان سپرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "fa-IR",
+      "text": "نه به وسیله اعمال نیکویی که خود انجام دادیم، بلکه بر حسب رحمت او، او ما را از طریق شستشوی تجدید و تجدید روح‌القدس نجات داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "fa-IR",
+      "text": "اما اگر در نور راه برویم، چنانکه او در نور است، با یکدیگر fellowship داریم و خون عیسی مسیح پسر او، ما را از همه گناه پاک می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "fa-IR",
+      "text": "تو گناه مردم خود را بخشیده‌ای. تو همه گناه‌های آنها را پوشانده‌ای. سلاه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "fa-IR",
+      "text": "موسی، ماری از برنز ساخت و آن را بر روی میله قرار داد. اگر ماری کسی را نیش زده بود، وقتی به ماری برنز نگاه می‌کرد، زنده می‌ماند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "fa-IR",
+      "text": "این اراده کسی است که مرا فرستاده است، که هر کسی که پسر را ببیند و به او ایمان آورد، زندگی ابدی داشته باشد و من او را در روز آخر برمی‌انگیزم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "fa-IR",
+      "text": "اما اکنون در مسیح عیسی، شما که زمانی دور بودید، به وسیله خون مسیح نزدیک شده‌اید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "fa-IR",
+      "text": "که به رایگان به وسیله فیض او از طریق رهایی که در مسیح عیسی است، توجیه شده‌ایم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "fa-IR",
+      "text": "سنگی که بناکنندگان رد کردند، به سنگ زاویه تبدیل شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "fa-IR",
+      "text": "عیسی به آنها نزدیک شد و به آنها گفت تمام اقتدار به من در آسمان و بر زمین داده شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "fa-IR",
+      "text": "زیرا یک خدا و یک میانجی بین خدا و مردم، انسان مسیح عیسی است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "fa-IR",
+      "text": "زیرا مسیح نیز یک بار برای گناهان رنج کشید، راست‌کار برای نادرست، تا شما را به خدا بیاورد، در جسم مرده، اما در روح زنده شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "fa-IR",
+      "text": "او ترانه‌ای نو در دهان من گذاشته است، حتی ستایش به خداوند ما. بسیاری آن را خواهند دید و خواهند ترسید و به خداوند اعتماد خواهند کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "fa-IR",
+      "text": "ابراهیم نام آن مکان را خداوند فراهم خواهد کرد نهاد. چنانکه تا به امروز گفته می‌شود بر کوه خداوند، فراهم خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "fa-IR",
+      "text": "پس از آنکه عیسی سرکه را دریافت کرد، گفت تمام شد! سپس سرش را خم کرد و روح خود را تسلیم کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "fa-IR",
+      "text": "بنابراین او همچنین قادر است تا به نهایت کسانی را که به وسیله او به خدا نزدیک می‌شوند نجات دهد، زیرا او برای همیشه زنده است تا برای آنها شفاعت کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "fa-IR",
+      "text": "هنوز کمی مانده است و جهان مرا دیگر نخواهد دید؛ اما شما مرا خواهید دید. زیرا من زنده‌ام، شما نیز زنده خواهید بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "fa-IR",
+      "text": "من هنوز به این اطمینان دارم من خوبی خداوند را در سرزمین زندگان خواهم دید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "fa-IR",
+      "text": "خداوند یهوه به این استخوان‌ها می‌گوید اینک، من نفس را به شما وارد می‌کنم و شما زنده خواهید شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "fa-IR",
+      "text": "می‌گوید که پسر انسان باید به دست مردان گناهکار تسلیم شود و مصلوب گردد و در روز سوم دوباره برخیزد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "fa-IR",
+      "text": "تا او را بشناسم و قدرت قیام او و شراکت در رنج‌های او، به مرگ او شبیه شوم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "fa-IR",
+      "text": "و زنده است. من مرده بودم و اینک، برای همیشه زنده‌ام. آمین. من کلیدهای مرگ و جهنم را دارم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "fa-IR",
+      "text": "خداوند جان بندگان خود را فدیه می‌دهد. هیچ یک از کسانی که به او پناه می‌برند، محکوم نخواهند شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "fa-IR",
+      "text": "من گناهان تو را مانند ابری ضخیم محو کرده‌ام و مانند ابری، گناهان تو را. به من بازگرد، زیرا من تو را فدیه کرده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "fa-IR",
+      "text": "اما اینها نوشته شده‌اند که شما ایمان آورید که عیسی مسیح، پسر خداست و به ایمان آوردن، زندگی در نام او داشته باشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "fa-IR",
+      "text": "بسیار بیشتر، اکنون که به وسیله خون او توجیه شده‌ایم، ما از خشم خدا به وسیله او نجات خواهیم یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "fa-IR",
+      "text": "به وسیله این اراده، ما از طریق قربانی بدن عیسی مسیح یک بار برای همیشه مقدس شده‌ایم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "fa-IR",
+      "text": "در من قلبی پاک بیافرین، ای خدا. روحی راست در درون من نو کن.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "fa-IR",
+      "text": "از موسی و از همه پیامبران آغاز کرده، او به آنها در تمام نوشته‌ها چیزهایی را که مربوط به خود اوست، توضیح داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "fa-IR",
+      "text": "او برای همه مرد، تا کسانی که زندگی می‌کنند دیگر برای خود زندگی نکنند، بلکه برای او که به خاطر آنها مرد و برخاست زندگی کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "fa-IR",
+      "text": "و از طریق او همه چیز را به خود آشتی دهد، چه چیزهایی بر زمین و چه چیزهایی در آسمان، با خون صلیب او صلح برقرار کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "fa-IR",
+      "text": "زیرا محبت تو نسبت به من بزرگ است. تو جان من را از پایین‌ترین جهنم رهایی بخشیده‌ای.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "fa-IR",
+      "text": "زیرا پسر انسان نیز نیامده است که خدمت شود، بلکه خدمت کند و جان خود را به عنوان فدیه‌ای برای بسیاری بدهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "fa-IR",
+      "text": "و هنگامی که ما در گناهان خود مرده بودیم، ما را با مسیح زنده کرد—به فیض نجات یافته‌اید—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "fa-IR",
+      "text": "کیست که ما را محکوم کند؟ مسیح است که مرد، بلکه او که از مردگان برخاست، که در دست راست خداست، و او نیز برای ما شفاعت می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "fa-IR",
+      "text": "زیرا او نه خوار شمرده و نه از رنج رنجوران نفرت ورزیده است، و نه روی خود را از او پنهان کرده است؛ بلکه وقتی او به او فریاد زد، او شنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "fa-IR",
+      "text": "البته او بیماری‌های ما را بر دوش گرفته و رنج‌های ما را حمل کرده است؛ اما ما او را مبتلا و مضروب از جانب خدا و رنجور می‌پنداشتیم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "fa-IR",
+      "text": "به‌طور مسلم به شما می‌گویم، کسی که کلام من را می‌شنود و به کسی که مرا فرستاده است ایمان می‌آورد، حیات جاودانی دارد و به داوری نمی‌آید، بلکه از مرگ به حیات منتقل شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "fa-IR",
+      "text": "اما اکنون به ظهور نجات‌دهنده ما، مسیح عیسی، که مرگ را باطل کرد و حیات و جاودانگی را از طریق بشارت روشن ساخت، آشکار شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "fa-IR",
+      "text": "تو که به ما بسیاری و رنج‌های تلخ نشان داده‌ای، مرا زنده خواهی کرد. تو ما را از عمق زمین دوباره بالا خواهی آورد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "fa-IR",
+      "text": "بیایید! به سوی یهوه بازگردیم؛ زیرا او ما را پاره کرده است و ما را شفا خواهد داد؛ او به ما آسیب رسانده است و زخم‌های ما را باند پیچی خواهد کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "fa-IR",
+      "text": "چشم‌هایشان باز شد و او را شناختند؛ سپس او از دیدشان ناپدید شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "fa-IR",
+      "text": "زیرا با دل ایمان آورده می‌شود که به عدالت برسد؛ و با دهان اعتراف می‌شود که به نجات برسد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "fa-IR",
+      "text": "زیرا کلام صلیب برای کسانی که در حال هلاکت هستند، احمقانه است، اما برای ما که نجات یافته‌ایم، قدرت خداست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "fa-IR",
+      "text": "میوه راست‌کاران درخت حیات است. او که حکیم است، جان‌ها را به دست می‌آورد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "fa-IR",
+      "text": "بنابراین با شادی از چاه‌های نجات آب خواهی کشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "fa-IR",
+      "text": "چنانکه موسی مار را در بیابان بلند کرد، همچنین باید پسر انسان نیز بلند شود،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "fa-IR",
+      "text": "او که پسر خود را دریغ نکرد، بلکه او را برای همه ما تسلیم کرد، چگونه با او همه چیز را به ما نخواهد بخشید؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "fa-IR",
+      "text": "زیرا تو جان من را از مرگ، چشمانم را از اشک، و پایم را از افتادن رهایی داده‌ای.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "fa-IR",
+      "text": "عیسی به او گفت به‌طور مسلم به تو می‌گویم، امروز با من در بهشت خواهی بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "fa-IR",
+      "text": "با دانستن اینکه شما با چیزهای فاسد مانند نقره یا طلا فدیه نشده‌اید، از شیوه زندگی بی‌فایده‌ای که از پدران خود به شما رسیده است،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "fa-IR",
+      "text": "به دست تو روح خود را می‌سپارم. تو مرا رهایی می‌دهی، یهوه، خدای راستی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "fa-IR",
+      "text": "وقتی این را گفت، دست‌ها و پهلوی خود را به آنها نشان داد. بنابراین شاگردان شاد شدند وقتی که خداوند را دیدند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "fa-IR",
+      "text": "اما شکر خدا که پیروزی را از طریق خداوند ما عیسی مسیح به ما عطا می‌کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "fa-IR",
+      "text": "یهوه قوت و سرود من است. او نجات من شده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "fa-IR",
+      "text": "در حینی که به سوی شاگردانش می‌رفتند، ناگهان عیسی به آنها برخورد کرد و گفت شاد باشید! آنها آمدند و پای‌های او را گرفتند و او را پرستش کردند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "fa-IR",
+      "text": "در او نیز، شما که کلام حقیقت، بشارت نجات خود را شنیده‌اید—در او، که همچنین ایمان آورده‌اید، با روح‌القدس وعده داده شده مهر و موم شده‌اید،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "fa-IR",
+      "text": "که خدا او را برانگیخت و او را از درد مرگ آزاد کرد، زیرا ممکن نبود که او به آن گرفتار شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "fa-IR",
+      "text": "مزمور. به یهوه سرودی نو بخوانید، زیرا او کارهای شگفت‌انگیزی انجام داده است! دست راست او و بازوی مقدس او نجاتی برای او به عمل آورده است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "fa-IR",
+      "text": "در آن روز چاهی به خانه داوود و به ساکنان اورشلیم برای گناه و ناپاکی گشوده خواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "fa-IR",
+      "text": "او به آنها گفت چرا مضطرب هستید؟ چرا شک و تردید در دل‌های شما به وجود می‌آید؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "fa-IR",
+      "text": "زیرا من از بشارت مسیح شرمنده نیستم، زیرا این قدرت خدا برای نجات برای هر کسی است که ایمان می‌آورد، برای یهودی اول و همچنین برای یونانی.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "fa-IR",
+      "text": "زیرا اگر در حالی که دشمن بودیم، از طریق مرگ پسرش به خدا آشتی داده شدیم، بسیار بیشتر، آشتی داده شده، به واسطه حیات او نجات خواهیم یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "fa-IR",
+      "text": "که جان تو را از هلاکت می‌رهاند، و تو را با محبت و رحمت می‌تاجد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "fa-IR",
+      "text": "که با او در غسل دفن شده‌اید، که در آن نیز به وسیله ایمان به عمل خدا که او را از مردگان برخیزانید، با او برخیزانیده شده‌اید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "fa-IR",
+      "text": "شما به واسطه تخلفات و ختنه‌نشدگی جسم خود مرده بودید. او شما را با خود زنده کرد و همه تخلفات ما را بخشید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "fa-IR",
+      "text": "قربانی‌های خدا روح شکسته است. ای خدا، تو روح شکسته و متواضع را despise نخواهی کرد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "fa-IR",
+      "text": "به آنها گفت به تمام جهان بروید و بشارت نیکو را به تمام خلقت موعظه کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "fa-IR",
+      "text": "که خود را برای ما داد، تا ما را از همه ناپاکی‌ها رهایی بخشد و برای خود قومی پاک و مشتاق به کارهای نیکو فراهم کند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "fa-IR",
+      "text": "در این است محبت، نه اینکه ما خدا را محبت کردیم، بلکه او ما را محبت کرد و پسر خود را به عنوان قربانی کفاره برای گناهان ما فرستاد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "fa-IR",
+      "text": "ای اسرائیل، به یهوه امید داشته باش، زیرا محبت با یهوه است. رهایی فراوان با اوست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "fa-IR",
+      "text": "اکنون صدراعظم و کسانی که با او بودند، در حال تماشای عیسی، وقتی زلزله و کارهایی که انجام شد را دیدند، ترسیدند و گفتند به راستی این پسر خدا بود!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "fa-IR",
+      "text": "که خدا او را فرستاد تا قربانی کفاره‌ای باشد به وسیله ایمان به خون او، برای نمایاندن عدالت او از طریق گذشتن از گناهان پیشین، در صبر خدا.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "fa-IR",
+      "text": "خداوند در مورد وعده‌اش کند نیست، چنانکه بعضی کندی می‌شمارند؛ بلکه او با ما صبور است، و نمی‌خواهد که کسی هلاک شود، بلکه همه به توبه بیایند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "fa-IR",
+      "text": "به یهوه انتظار بکش. قوی باش و دل تو شجاعت بگیرد. آری، به یهوه انتظار بکش.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "fa-IR",
+      "text": "زیرا من در مرگ کسی که می‌میرد، خوشنود نیستم، می‌گوید خداوند یهوه. بنابراین به خود برگردید و زندگی کنید!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "fa-IR",
+      "text": "من درب هستم. اگر کسی به وسیله من وارد شود، نجات خواهد یافت و به درون و بیرون خواهد رفت و چراگاه خواهد یافت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "fa-IR",
+      "text": "این گفتار راست و شایسته تمام پذیرش است که مسیح عیسی به جهان آمد تا گناهکاران را نجات دهد، که من از آنها هستم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "fa-IR",
+      "text": "زیرا من متقاعد شده‌ام که نه مرگ، نه زندگی، نه فرشتگان، نه حکومت‌ها، نه چیزهای حال، نه چیزهای آینده، نه قدرت‌ها،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "fa-IR",
+      "text": "زیرا تو جان من را از مرگ رهایی داده‌ای و پای‌های من را از افتادن بازداشته‌ای، تا بتوانم در نور زندگان پیش خدا راه بروم.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "fa-IR",
+      "text": "من، حتی من، کسی هستم که گناهان تو را به خاطر خود محو می‌کنم؛ و گناهان تو را به یاد نخواهم آورد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "fa-IR",
+      "text": "به همین ترتیب، پس از شام، جام را گرفت و گفت این جام عهد جدید در خون من است که برای شما ریخته می‌شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "fa-IR",
+      "text": "که به قدرت روح‌القدس، به وسیله قیام از مردگان، پسر خدا با قدرت اعلام شد، عیسی مسیح، پروردار ما،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "fa-IR",
+      "text": "خدا برای ما خدا نجات است. به یهوه، خداوند، رهایی از مرگ تعلق دارد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "fa-IR",
+      "text": "و اما تو نیز، به خاطر خون عهدت، زندانیان خود را از چاهی که آبی در آن نیست آزاد کرده‌ام.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "fa-IR",
+      "text": "به آنها گفت شبکه را به سمت راست قایق بیندازید، و خواهید یافت. بنابراین آنها آن را انداختند و اکنون نتوانستند آن را به خاطر کثرت ماهی‌ها بکشند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "fa-IR",
+      "text": "اکنون خداوند را برانگیخت و ما را نیز به وسیله قدرت خود برخواهد انگیخت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "fa-IR",
+      "text": "زیرا همان‌طور که در آدم همه می‌میرند، همچنین در مسیح همه زنده خواهند شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "fa-IR",
+      "text": "اما خدا جان من را از قدرت شاول رهایی خواهد داد، زیرا او مرا خواهد پذیرفت. سلاه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "fa-IR",
+      "text": "اما من با صدای شکرگزاری به تو قربانی می‌کنم. آنچه را که نذر کرده‌ام، ادا می‌کنم. نجات از آن یهوه است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "fa-IR",
+      "text": "او آنها را تا بیت‌عبرانی برد و دست‌های خود را بلند کرد و برکتشان داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "fa-IR",
+      "text": "آنها با صدای بلند فریاد زدند و گفتند نجات به خدای ما باشد که بر تخت نشسته و به بره!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "fa-IR",
+      "text": "نجات از آن یهوه است. برکت تو بر قوم تو باد. سلاه.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "fa-IR",
+      "text": "زیرا یهوه قاضی ماست. یهوه قانون‌گذار ماست. یهوه پادشاه ماست. او ما را نجات خواهد داد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "fa-IR",
+      "text": "زیرا فیض خدا ظاهر شده است و نجات را برای همه مردم به ارمغان آورده است،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "fa-IR",
+      "text": "بنابراین مردی پدر و مادر خود را ترک خواهد کرد و به همسر خود خواهد پیوست و آن دو یک تن خواهند شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "fa-IR",
+      "text": "همه فرزندان تو به وسیله یهوه تعلیم خواهند دید و صلح فرزندان تو بسیار خواهد بود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "fa-IR",
+      "text": "و گفت به همین دلیل مرد باید پدر و مادر خود را ترک کند و به همسر خود بپیوندد؛ و آن دو یک تن خواهند شد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "fa-IR",
+      "text": "ای فرزندان، در خداوند به والدین خود اطاعت کنید، زیرا این درست است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "fa-IR",
+      "text": "پدر و مادر خود را احترام کن، تا ایام تو در زمینی که یهوه، خدای تو به تو می‌دهد، طولانی شود.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "fa-IR",
+      "text": "فرزند را در راهی که باید برود تربیت کن و وقتی بزرگ شد، از آن منحرف نخواهد شد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "fa-IR",
+      "text": "من به آنها قلبی می‌دهم تا مرا بشناسند، که من یهوه هستم. آنها قوم من خواهند بود و من خدای آنها خواهم بود؛ زیرا آنها با تمام دل خود به سوی من باز خواهند گشت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "fa-IR",
+      "text": "و او با آنها پایین آمد و به ناصره آمد. او به آنها تسلیم بود و مادرش همه این سخنان را در دل خود نگه داشت.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "fa-IR",
+      "text": "ای پدران، فرزندان خود را تحریک نکنید، تا ناامید نشوند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "fa-IR",
+      "text": "قوم من در مسکن صلح‌آمیز زندگی خواهند کرد، در جاهای امن و در مکان‌های آرامش‌بخش،",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "fa-IR",
+      "text": "زیرا هر که اراده خدا را انجام دهد، برادر من و خواهر من و مادر من است.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "fa-IR",
+      "text": "و شما باید آنها را به دقت به فرزندان خود تعلیم دهید و در زمانی که در خانه نشسته‌اید و وقتی که در راه می‌روید و وقتی که دراز می‌کشید و وقتی که برمی‌خیزید، درباره آنها صحبت کنید.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "fa-IR",
+      "text": "خیابان‌های شهر پر از پسران و دختران خواهد بود که در خیابان‌های آن بازی می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "fa-IR",
+      "text": "اگر شما، که بد هستید، می‌دانید که چگونه هدایای خوب به فرزندان خود بدهید، چقدر بیشتر پدر آسمانی شما به کسانی که از او درخواست می‌کنند، روح‌القدس خواهد داد؟",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "fa-IR",
+      "text": "اما ما در میان شما ملایم بودیم، مانند مادری که فرزندان خود را پرورش می‌دهد.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "fa-IR",
+      "text": "خدا تنها را در خانواده‌ها قرار می‌دهد. او زندانیان را با آواز بیرون می‌آورد، اما سرکش‌ها در سرزمین آفتابی زندگی می‌کنند.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "fa-IR",
+      "text": "فرزندان فرزندان، تاج پیرمردان هستند؛ و افتخار فرزندان، والدین آنهاست.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "fa-IR",
+      "text": "اگر شما، که بد هستید، می‌دانید که چگونه هدایای خوب به فرزندان خود بدهید، چقدر بیشتر پدر شما که در آسمان است، چیزهای خوب به کسانی که از او درخواست می‌کنند، خواهد داد!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

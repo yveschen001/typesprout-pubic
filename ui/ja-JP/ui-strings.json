@@ -1,0 +1,456 @@
+{
+  "language": "ja-JP",
+  "translations": {
+    "aboutBody": "TypeSproutは、1〜6年生向けのタイピング練習と成長のウェブサイトで、zh‑TW / zh‑CN / en‑USのサポートを提供し、世界中の子供たちが入力、理解、表現を練習できる安全でフレンドリーな環境を提供することを目指しています。",
+    "home": {
+      "aboutContent": "皆さん、こんにちは。私は台湾出身の父親、Yves.Cです。TypeSproutのインスピレーションは、子供たちがRobloxで世界中の友達とチャットしているのを見ていて、タイピングが子供たちがより大きな世界に開くための最初の鍵であることに気づいたことから来ました。そこで、ノーコードの概念とChatGPT/AIを使ってこのウェブタイピング練習を作成し、正しいキー入力ごとに小さな木が成長する視覚的フィードバックを追加しました。毎日の努力が目に見える成果に変わります。内容に関しては、1年生から6年生までの一般的に使用される単語を選択可能な問題集に整理しました。子供たちは母国語を練習し、設定で英語や他の練習したい言語に切り替えることができます。これらの単語は、学年の難易度に応じてAIによってフィルタリングされています。大人向けには、拡張された問題集を用意しました。現在、聖書APIとAI生成の聖書の節（無料のオンラインリソースから、正確性は限られる場合があります）を含んでおり、有名な引用などのトピックも徐々に追加して練習をより面白くします。TypeSproutでは、子供たちは徐々にポイントと日々の努力を蓄積し、画面上の小さな木も彼らのパフォーマンスに応じて成長し、努力→フィードバック→再参加のポジティブなサイクルを形成します。また、5日間のアクティブチャレンジを設計しました：5日間連続で練習すると、小さな果物の報酬が得られます。成果が目に見えると、モチベーションが高まります。これが、私が子供たちとあなたと共有したい学びのリズムです。教師向けには、個人ページにクラス機能を追加し、教師がクラスを作成し、クラスメートを招待して参加できるようにし、練習をより競争的に感じられるようにしました。これは私個人が維持している小さなプロジェクトです（エンジニアリングのバックグラウンドはなく、主にChatGPT/AIにガイダンスと協力を依存しています）。ご提案や使用中に問題が発生した場合は、GitHubのイシューセクションにメッセージを残してください。できる限り整理して解決に努めます。皆さん、事前にありがとうございます。GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "TypeSproutについて",
+      "ctaTest": "テストを受ける",
+      "googleUsersCount": "Googleログインユーザー",
+      "googleUsersTooltip": "Googleアカウントでログインしたユーザーの総数",
+      "heroSubtitle": "すべてのキー入力は、あなたの木を育てるためのエネルギーになります。多言語サポートは、正しいタイピング習慣を築き、集中力を高めるのに役立ちます。",
+      "heroTitle": "子供たちがタイプすると、芽が成長します。",
+      "tabs": {
+        "leader": "リーダーボード（プレビュー）",
+        "visitors": "訪問者"
+      },
+      "leaderEmpty": "データはまだありません",
+      "leaderViewFull": "全リーダーボードを見る",
+      "players": "プレイヤー",
+      "privacyNote": "私たちは個人データを収集しません。統計はランキングと学習フィードバックのためにのみ匿名化されています。",
+      "visitorsDesc": "サイト訪問者とプレイヤーの国別分布（匿名）。"
+    },
+    "absoluteScale": "緑 ≤{{low}}% · 黄 ≤{{mid}}% · 赤 >{{mid}}% (%はそのキーの最近の累積エラー率です)",
+    "accuracy": "精度 {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "精度トレンドチャート：線が高いほど正確です",
+      "accuracyChartTitle": "精度",
+      "accuracyChartTooltip": "Y軸: 精度（高いほど正確）；X軸: 時間順。青い線は各テストの精度の変化を示しています。",
+      "defaultDescription": "トップ: スピードスコアのトレンド; ボトム: 精度のトレンド。まず精度を向上させ、その後徐々にスピードを上げていきます。",
+      "speedChartAriaLabel": "スピードスコアトレンドチャート：線が高いほどパフォーマンスが良い",
+      "speedChartTitle": "スピードスコア（正確なスピード）",
+      "speedChartTooltip": "Y軸: スピードスコア（高いほど良い）；X軸: 時間順。緑の線は正しい文字のみのスピードを示し、スピードと正確さを組み合わせています。",
+      "recordNumber": "記録 {{number}}",
+      "speedScore": "スピードスコア {{score}}",
+      "totalQuestionChars": "問題の総文字数：{{chars}} 文字",
+      "actualInput": "実際の入力：{{chars}} 文字",
+      "timeSpent": "所要時間：{{seconds}} 秒",
+      "accuracy": "正確率 {{percent}}%",
+      "correctChars": "正しい文字数：{{chars}} 文字",
+      "percentile": "約{{percent}}%の人を上回っています",
+      "highestHere": "ここでの最高 {{value}}",
+      "recentValue": "最近 {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "正確性 = 正しい文字 ÷ 合計の質問文字数。注意：未入力の文字も合計にカウントされるため、欠落した文字は正確性を低下させます。",
+      "hideInsights": "インサイトを非表示",
+      "scoreTooltip": "合成スコア = 正しい文字のみの入力速度。計算式: 速度 (WPM/CPM) × 精度。目的: まず精度を安定させ、その後徐々に速度を上げる。",
+      "showInsights": "インサイトを表示",
+      "summary": "このセッションの概要",
+      "timeSpent": "所要時間：{{time}}",
+      "totalChars": "合計文字数：{{chars}} 文字",
+      "correctChars": "正しい文字数：{{chars}} 文字",
+      "accuracy": "正確率：{{accuracy}}%",
+      "adjWpm": "合成スコア（正しい速度）{{adjWpm}}",
+      "vsSiteAverage": "サイト平均（同じ言語）との比較：{{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "もう一度",
+      "chartDescription": "上：合成スコアの推移、下：正確率の推移。まず正確性を安定させ、次に速度を上げます。",
+      "seconds": "{{count}} 秒",
+      "minutes": "{{count}} 分",
+      "minutesSeconds": "{{minutes}} 分 {{seconds}} 秒",
+      "hours": "{{count}} 時間",
+      "hoursMinutes": "{{hours}} 時間 {{minutes}} 分"
+    },
+    "activeDays": "アクティブな日: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} 文字",
+    "adjWpm": "合成スコア（正確な速度）{{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "広告クッキー：上記のように、Google AdSenseを有効にすると、Googleは広告を表示するためにクッキーを使用します。いつでもGoogleの広告設定ページ（https://adssettings.google.com/）にアクセスして、パーソナライズされた広告を管理またはオプトアウトできます。",
+        "functionalCookies": "機能的クッキー: ログイン状態を維持するためにクッキーを使用します。"
+      },
+      "section5": {
+        "contactChannel": "連絡先: このプライバシーポリシーについて質問がある場合や、データ権利（照会、修正、削除など）を行いたい場合は、公式のGitHub Issuesページを通じてリクエストを送信してください。",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "重要なリマインダー：GitHub Issuesは公開プラットフォームです。個人のプライバシーを守るために、問題の内容にメールアドレス、実名、アカウントのスクリーンショットなどの個人識別情報を絶対に残さないでください。TypeSproutでのユーザー名と問題の説明を提供していただければ十分です。私たちはIssues以外のプライベートチャネルを通じて連絡を取ることはありません。",
+        "responseTime": "このプロジェクトは個人で管理されているため、私たちはできる限り迅速に対応いたします。ご理解とご協力に感謝します。"
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "あなたの年齢範囲、職業分野、言語、または地域を任意で提供できます。この情報は必須ではなく、主に質問バンクの推奨を最適化するため、匿名の統計分析、およびリーダーボードのグループ分けに使用されます。この情報の正確性を要求したり確認したりすることはありません。"
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (広告): 将来的に、ウェブサイトの運営費用をサポートするために広告を表示するためにGoogle AdSenseを使用する場合があります。Googleおよびそのパートナーは、過去の訪問履歴に基づいてパーソナライズされた広告を表示するためにCookies（DoubleClick Cookieなど）を使用する場合があります。",
+          "googleAnalytics": "Google Analytics: このサービスを使用して、ウェブサイトのトラフィックを分析し、サービスの利用状況を理解します。IPアドレス、ブラウザの種類、オペレーティングシステム、訪問したページなどの匿名情報を収集します。"
+        },
+        "principle": "私たちはミニマリズムの原則に従い、サービス運営に必要なデータのみを収集します：",
+        "googleAuth": {
+          "title": "Google ログイン認証",
+          "content": "Google アカウントでログインする際、本人確認のために Google の認証サービスのみを利用し、あなた専用の匿名ユーザー ID を作成します。氏名や住所など、Google アカウントの個人情報をこちらから取得・アクセス・保存することはありません。"
+        },
+        "gameData": {
+          "title": "ゲームデータ",
+          "content": "本サイトで行うすべてのタイピング練習のスコア（速度、正確性、使用時間など）は、あなたの匿名ユーザー ID と紐付けられ、個人の履歴およびリーダーボード生成のために使用されます。"
+        }
+      },
+      "section2": {
+        "coreFunction": "コア機能: あなたの匿名ユーザーIDとゲームデータはこのサービスのコア機能の一部であり、スコアを記録し、履歴チャートやグローバルリーダーボードを提供するために使用されます。",
+        "experienceOptimization": "体験最適化: あなたが自発的に提供する年齢、職業、その他の情報は、より適切なタイピング練習問題集とマッチングするために使用されます。",
+        "serviceMaintenance": "サービスメンテナンス：Google Analyticsを通じて収集された技術データは、ウェブサイトの運用状況を理解し、潜在的な問題を修正するのに役立ちます。",
+        "statisticalAnalysis": "統計分析: ユーザーが自発的に提供した情報を匿名化し集約して、ユーザーグループの全体的なプロフィールを理解し、サービスを改善します。"
+      },
+      "section3": {
+        "crossBorderTransfer": "クロスボーダー転送：GitHubおよびGoogle Firebaseサーバーは、あなたの国（例：アメリカ合衆国）以外に所在する場合があります。このサービスを利用することにより、あなたは自分のデータがこれらの海外サーバーで送信、保存、処理されることを理解し、同意するものとします。",
+        "dataRetention": "データ保持: このサービスは完全に無料のため、永久的なデータ保存を保証することはできません。通知なしにユーザーデータの一部またはすべてを削除する権利を留保します。",
+        "storageLocation": "ストレージ場所: このウェブサイトのコードはGitHubにホストされており、あなたのゲームデータと自発的に提供された情報はGoogle Firebaseのデータベースに保存されています。"
+      },
+      "effectiveDate": "有効日：2025年9月21日",
+      "introduction": "TypeSproutへようこそ！これは、個人の開発者が興味から作成した無料のタイピング練習ウェブサイトです。あなたのプライバシーが重要であることを理解しているので、このポリシーは私たちが収集するデータとそのデータの使用方法を説明することを目的としています。",
+      "notice": "このサービスは非営利であり、すべての機能はそのまま提供されます。このプライバシーポリシーの条件に同意しない場合は、直ちにこのサービスの使用を停止してください。引き続き使用することは、あなたがこのポリシーのすべての内容を読み、理解し、同意したことを示します。",
+      "titleSuffix": "プライバシーポリシー"
+    },
+    "leaderboard": {
+      "allGrades": "すべてのグレード",
+      "lastMonth": "先月のランキング",
+      "lastWeek": "先週のランキング",
+      "loading": "読み込み中...",
+      "loadingHint": "読み込みに失敗し続ける場合は、ネットワーク接続を確認するか、後でもう一度お試しください。",
+      "noData": "データがありません",
+      "reload": "リロード",
+      "signInHint": "ヒント: サインインしてテストスコアを自動的に保存しましょう。私たちはそれをランキングと学習フィードバックのためだけに使用し、個人の機密データは収集しません。",
+      "sortHint": "ヒント: Alt+↑/↓ を押してソートを切り替えます",
+      "today": "今日のランキング",
+      "tooltip": "🏆 リーダーボードはどのように計算されますか？&#10;• 今日: 今日のスコア（現地時間）&#10;• 昨日: 昨日のスコア（現地時間）&#10;• 先週: 先週の月曜日から日曜日まで&#10;• 先月: 先月の1日から最終日まで&#10;&#10;📊 スコアはどのように計算されますか？&#10;• 総合スコア = 最大速度 × 精度 × 練習時間&#10;• 同じ日に複数回の練習が合算されます&#10;• より長い練習時間 = より高いスコア&#10;&#10;💡 ヒント: 毎日少しずつ練習すると、あなたの木は成長します！",
+      "yesterday": "昨日のランキング"
+    },
+    "test": {
+      "allowBackspace": "バックスペースを許可",
+      "capsLock": "キャップスロック",
+      "difficulty": "難易度",
+      "difficultyEasy": "簡単",
+      "difficultyHard": "難しい",
+      "difficultyMedium": "ミディアム",
+      "finished": "完了",
+      "inputPrompt": "以下のテキストを入力してください",
+      "insightsSummary": "インサイト（キーボードヒートマップ、スピードと精度のトレンド）",
+      "loadingQuestions": "質問を読み込んでいます...",
+      "mistakes": "間違い",
+      "outOfFocus": "入力ボックスをクリックして、タイピングを続けてください",
+      "promptStart": "スタートを押して、上のテキストを入力してください。貼り付けは無効です。",
+      "questionCount": "質問数",
+      "questionPreview": "質問 (最初の24文字)",
+      "questionStats": "このセッションの質問統計（費やした時間 / 制限、間違いの数）",
+      "questionText": "質問テキスト（選択またはコピーできません）",
+      "shortcutsDescription": "スペース: 開始/一時停止 • R: リセット • F: 入力に集中",
+      "signInToSave": "進捗を保存するにはサインインしてください",
+      "submitAndReview": "結果を送信して表示",
+      "submitQuestion": "送信",
+      "timeLimit": "時間制限",
+      "timeSpent": "Time Spent: {{seconds}} 秒",
+      "title": "テスト",
+      "tryAgain": "もう一度試してください",
+      "shortcuts": "Enter で送信"
+    },
+    "profile": {
+      "alreadyJoined": "このクラスにはすでに参加しています。",
+      "analysis": "詳細分析",
+      "birthday": "誕生日 (YYYY-MM)",
+      "classCodePlaceholder": "クラスコード",
+      "classCodeTooltip": "サイト全体でユニーク（3～50文字；/を含むことはできません）。競技やリーダーボードのグループ化に使用されます；最大5つまで参加できます。教師は新しいコードを作成でき、作成後に自動的に参加します（満員でない場合）。",
+      "classCreatedAndJoined": "クラスが正常に作成され、参加しました",
+      "classNotFound": "クラスコードが見つかりません",
+      "codeAlreadyTaken": "クラスコードはすでに取得されています",
+      "confirmDelete": "このクラスコードを削除してもよろしいですか？",
+      "copy": "コピー",
+      "copyFailed": "コピーに失敗しました。手動で選択してコピーしてください。",
+      "copySuccess": "クラスコードがクリップボードにコピーされました。",
+      "country": "国/地域",
+      "create": "作成",
+      "delete": "削除",
+      "female": "女性",
+      "fruits": "果物",
+      "fruitsTooltip": "木から収穫した果物。毎日のポイント目標を達成することで獲得できます。",
+      "gender": "性別",
+      "googleAccount": "Googleアカウント",
+      "history": "履歴",
+      "invalidCodeFormat": "3〜50文字（/を含まない）を入力してください。",
+      "join": "参加する",
+      "joinError": "クラスへの参加に失敗しました",
+      "joinSuccess": "クラスに正常に参加しました",
+      "joinedClasses": "参加したクラス",
+      "language": "言語",
+      "male": "男性",
+      "maxClassesReached": "クラスの最大数に達しました",
+      "maxJoinedClasses": "参加可能なクラスの最大数に達しました",
+      "myClasses": "私のクラス",
+      "nickname": "ニックネーム",
+      "noClasses": "クラスはありません",
+      "noUser": "ユーザーが見つかりません",
+      "onlyTeacherCanCreate": "クラスコードを作成できるのは教師だけです。",
+      "other": "その他",
+      "points": "ポイント",
+      "pointsDetail": "合計ポイント; 詳細はご覧ください",
+      "pointsTooltip": "日々の練習で獲得したポイント。あなたの木を育て、報酬をアンロックするために使用します。",
+      "remove": "削除",
+      "role": "役割",
+      "roleCheckError": "ユーザーの役割を確認できませんでした",
+      "save": "保存",
+      "student": "学生",
+      "teacher": "教師",
+      "view": "表示",
+      "xp": "経験 (XP)",
+      "xpTooltip": "タイピング練習で獲得した経験値。精度と速度が高いほど、より多くのXPが得られます！",
+      "youOwnThis": "あなたはこれを所有しています",
+      "title": "プロフィール",
+      "auto": "自動",
+      "classCode": "クラスコード",
+      "error": "エラー",
+      "alreadyTaken": "使用済み",
+      "available": "利用可能",
+      "logout": "ログアウト",
+      "chartDescription": "個人の推移：上は合成スコア、下は正確率。",
+      "parent": "保護者"
+    },
+    "tips": {
+      "avgAdj": "平均合成（30日）",
+      "meVsSite": "私 vs サイト (30日)",
+      "totalChars": "合計文字数: {{chars}} 文字"
+    },
+    "admin": {
+      "bulkTranslationTool": "バルクローカリゼーションツール",
+      "execute": "実行",
+      "sourceLanguage": "ソース言語",
+      "targetLanguage": "ターゲット言語",
+      "usageDescription": "ソース言語とターゲット言語のコードを入力し、複数行のテキストを貼り付けて実行を押してください。結果は手動レビュー専用です。この機能を有効にするには管理者トークンが必要です。",
+      "usageInstructions": "使用手順"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "異なるステージの外観と解除条件（イラスト）。",
+      "growthChartTitle": "成長図",
+      "historyRule1": "ポイントは速度 × 精度 × 時間から計算され、木の成長を促進するために使用されます。",
+      "historyRule2": "以下のリストには各収益記録が表示されており、あなたの努力を簡単に追跡できます。",
+      "historyTitle": "歴史とは何ですか？",
+      "howToLevelUp": "レベルアップするには？",
+      "levelUpRule1": "毎日練習して活動を蓄積しましょう。タイプする時間が長いほど、成長が早くなります。",
+      "levelUpRule2": "最大ステージ5; ステージ5を毎日維持できれば、継続的に成果を生み出します。",
+      "levelUpRule3": "収集した果物はランキングに基づいてプラットフォーム報酬を提供します。現在、テスト時間をスコア蓄積として使用できます。",
+      "maxStage": "最大ステージ5",
+      "myTree": "私の木",
+      "noLogs": "現在、記録はありません",
+      "pointsExplanation": "ポイントはどのように機能しますか？日々のテストから生成され、効果的な入力時間、スピード、正確性に関連しています。1日の上限は100；短い練習（≥5秒かつ正確性≥30%）で少なくとも+1。",
+      "recalculateActivity": "活動とステージを再計算する",
+      "recalculateActivityTooltip": "Recalculateアクティビティとステージとは何ですか？これは、最近の5日間のテスト記録を再読み込みし、有効な入力時間を計算し、アクティビティリストと現在のステージを更新します。",
+      "recentActivity": "最近5日間の活動",
+      "recentLogs": "最近の記録",
+      "stage1Desc": "最初の芽が出る",
+      "stage2Desc": "2枚目の葉が成長します",
+      "stage3Desc": "葉の倍増",
+      "stage4Desc": "花が咲く",
+      "stage5Desc": "小さな樹冠の形成（果実）",
+      "todaySummary": "今日のまとめ"
+    },
+    "ui": {
+      "closeHint": "ヒントを閉じる",
+      "gotIt": "わかった",
+      "later": "後で",
+      "start": "開始",
+      "string089": "最初にサインインしてください。",
+      "string090": "個人情報",
+      "string092": "プライバシーポリシー",
+      "string154": "利用規約"
+    },
+    "terms": {
+      "section7": {
+        "title": "7. 連絡先",
+        "content1": "ご質問は公式 GitHub Issues まで",
+        "warning": "このプラットフォームは公開です。個人情報の記載は避けてください。"
+      },
+      "section5": {
+        "title": "5. 免責事項とサービスの制限",
+        "subtitle1": "現状のまま提供",
+        "content1": "本サービスは「現状有姿」で提供され、いかなる保証も行いません。",
+        "subtitle2": "データ保存",
+        "content2": "学習データは保証されず、永続保存を約束しません。",
+        "subtitle3": "サービス終了権",
+        "content3": "予告なく変更・停止・終了する場合があります。"
+      },
+      "footer": "© 2025 TypeSprout. 全著作権所有。",
+      "lastUpdated": "最終更新日：2025年9月21日",
+      "section2": {
+        "title": "2. サービスの説明とコンテンツの出典",
+        "subtitle1": "サービス目的",
+        "content1": "本サービスの唯一の目的は、タイピング技能の練習を提供することです。",
+        "subtitle2": "コンテンツの出典および免責",
+        "content2": "練習用テキストは複数のソースに由来します。",
+        "content3": "正確性や完全性・信仰資料としての適合性は保証されません。練習用テキストとして理解してください。",
+        "listItem1": "AI 生成內容：部分練習文章由 AI 模型（例如 ChatGPT）分析、收集或生成，僅供打字練習之用。",
+        "listItem2": "聖經文本：部分聖經題庫來自第三方 API.Bible 服務。當該服務無法存取時，可能由 AI 模型生成替代文本。"
+      },
+      "titleSuffix": "利用規約",
+      "section1": {
+        "title": "1. 総則および同意",
+        "content1": "本サービス（以下「本サービス」）は、個人開発者が提供する無料のタイピング練習サイトです。",
+        "content2": "本サービスを利用することにより、あなたは本規約に同意したものとみなされます。"
+      },
+      "section3": {
+        "title": "3. 利用許諾と制限",
+        "subtitle1": "個人・非商用での利用",
+        "content1": "本サービスは個人・教育目的に限り、非独占・譲渡不可・取消可能な利用を許可します。",
+        "subtitle2": "商用利用の禁止",
+        "content2": "本サービスを直接・間接の商用目的で利用することを禁止します。"
+      },
+      "section4": {
+        "title": "4. ユーザーの責任",
+        "subtitle1": "アカウントの安全",
+        "content1": "ログイン情報の適切な管理に責任を負います。",
+        "subtitle2": "濫用・不正行為の禁止",
+        "content2": "本サービスの正常な運用を妨げる行為やチートは禁止されます。"
+      },
+      "section6": {
+        "title": "6. プライバシーポリシー",
+        "content": "プライバシーポリシーをご確認ください。"
+      }
+    },
+    "correctChars": "Correct Chars: {{chars}} 文字",
+    "createError": "作成に失敗しました: {{error}}",
+    "ctaPractice": "練習を始める",
+    "layout": {
+      "dailyReminder": "リマインダー：毎日少し練習して、苗木を育て、タイピング力もアップ！",
+      "epExplanation": "ポイントを獲得する方法は？各テストは時間 × スピード × 精度（基本 × 分 × (スピード/目標，最大 ×2) × (0.5+0.5×精度)）で計算されます。日々の上限は100ポイント；励ましルール：精度が≥30%の時、10秒ごとに少なくとも+1ポイント（累積）；30秒以上かつ精度が≥50%の時、少なくとも+1ポイント。",
+      "loginSuggestion": "右上のGoogleでサインインを使用して、スコアと履歴を保存することをお勧めします。このサイトは匿名性とプライバシーを重視しており、個人の機密データを保存することはありません。",
+      "remaining": "残り",
+      "todayProgress": "今日は:"
+    },
+    "practice": {
+      "description": "このエリアは操作とコンテンツ管理専用です。"
+    },
+    "error": {
+      "errorOccurred": "エラーが発生しました",
+      "goBack": "戻る",
+      "goHome": "ホームに戻る",
+      "loadingError": "ページの読み込み中にエラーが発生しました。後でもう一度お試しください。"
+    },
+    "keyboard": {
+      "errorRate": "{{key}} エラー率 {{percent}}%",
+      "relativeScale": "相対スケール: 緑 ≤30% · 黄 ≤70% · 赤 >70% (最高エラーキーに対して相対的; 最近の累積エラー率に基づく)"
+    },
+    "estimatedMinutes": "推定{{minutes}}分",
+    "nav": {
+      "garden": "庭",
+      "home": "ホーム",
+      "leaderboard": "リーダーボード",
+      "practice": "練習",
+      "profile": "プロフィール",
+      "subtitle": "あなたに合った練習内容を選んでください",
+      "test": "テスト",
+      "result": "結果"
+    },
+    "meta": {
+      "gardenDescription": "タイピングポイントと報酬で木を育てましょう。",
+      "homeDescription": "子供向けのタイピング練習、ゲーム感覚の木の成長付き。",
+      "leaderboardDescription": "言語別のデイリー/ウィークリー/マンスリーリーダーボード。",
+      "practiceDescription": "IMEサポートとモードを備えた無料のタイピング練習。",
+      "profileDescription": "あなたの個人情報、成績、好み。",
+      "result": "結果",
+      "resultDescription": "あなたのタイピングテストの結果。",
+      "testDescription": "精度と総合スコアを表示するタイムテスト。"
+    },
+    "grade": "グレード {{grade}}",
+    "questionBank": {
+      "title": "問題集を選ぶ",
+      "subtitle": "自分に合った練習用の問題集を選びましょう",
+      "loading": "問題集を読み込み中...",
+      "gradeRange": "学年範囲",
+      "supportedLanguages": "対応言語",
+      "recommended": "おすすめ",
+      "totalQuestions": "合計質問数",
+      "noRecommendation": "現在の学年に適したおすすめの問題集はありません",
+      "children": {
+        "name": "子供向け質問バンク",
+        "description": "子どもに適した基礎タイピング練習"
+      },
+      "bible": {
+        "name": "聖書質問バンク",
+        "description": "聖書の節でタイピング練習"
+      }
+    },
+    "highestHere": "最高はこちら{{value}}",
+    "hours": "{{count}} 時間",
+    "hoursMinutes": "{{hours}} 時間 {{minutes}} 分⟧",
+    "leaderScore": "合成スコア",
+    "levelUpSuggestion": "ステージ {{needStage}} に到達するには、今日あと少なくとも {{moreMin}} 分の効果的な入力を提案します。",
+    "loadError": "リーダーボードの読み込みに失敗しました。後でもう一度お試しください。",
+    "auth": {
+      "signOut": "サインアウト",
+      "pleaseSignIn": "最初にGoogleでサインインしてください",
+      "signIn": "Googleでサインイン"
+    },
+    "metricsTip": "スピードと正確性の説明",
+    "minutes": "{{count}} 分",
+    "minutesSeconds": "{{minutes}} 分 {{seconds}} 秒",
+    "bible": {
+      "name": "聖書質問バンク"
+    },
+    "noRecommendation": "あなたの学年に推奨される問題集はありません",
+    "percentile": "約{{percent}}%の人々を超えています",
+    "progress": "進捗 {{current}} / {{total}}",
+    "recentValue": "最近 {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Firestoreにリアルタイムで保存されました",
+      "stage": "ステージ{{stage}}",
+      "stageOverview": "五段階の概要（外観比較用）"
+    },
+    "seconds": "{{count}} 秒",
+    "shortcuts": "スペースで開始/一時停止 · R リセット · F フォーカス · Enter この質問を送信",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} 文字 · {{accuracy}}% 精度",
+    "string094": "あなたの進捗と履歴を保存するために、Googleアカウントのみを使用します。",
+    "string095": "私たちはどのようなデータを収集しますか？",
+    "string096": "あなたのタイピングスコア、正確性、練習時間のみを収集します。名前、メールアドレス、その他の機微なデータなどの個人情報は収集しません。",
+    "string097": "このデータを使用して、あなたにパーソナライズされたフィードバックを提供し、時間の経過に伴う進捗を表示します。",
+    "string155": "このウェブサイトを使用することで、以下の条件に同意したことになります：",
+    "string156": "あなたは自分の学習と進捗に責任があります。",
+    "string157": "用語は何ですか？",
+    "string158": "利用規約には、ウェブサイトを教育目的のみに使用すること、不適切なコンテンツを共有しないこと、他のユーザーを尊重することが含まれます。",
+    "supportedLanguages": "サポートされている言語",
+    "totalQuestionChars": "合計質問文字数: {{chars}} 文字",
+    "vsSiteAverage": "サイトの平均と比較して（同じ言語）：{{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 333,
+  "lastUpdated": "2025-10-02T09:27:22.726Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "練習でポイントを獲得できます。ポイントは木の成長と報酬解放に使われます。毎日収穫で果実を得られます。"
+  },
+  "garden": {
+    "pointsExplanation": "ポイントは毎日の練習（有効入力・速度・正確性）から生成されます。収穫後は本日の成長値が果実に変換され、ポイントが小幅に調整される場合があります。"
+  },
+  "result": {
+    "summary": "このセッションの概要",
+    "timeSpent": "所要時間：{{time}}",
+    "totalChars": "合計文字数：{{chars}} 文字",
+    "correctChars": "正しい文字数：{{chars}} 文字",
+    "accuracy": "正確率：{{accuracy}}%",
+    "accuracyTooltip": "正確率＝正しい文字 ÷ 問題の総文字数。未入力も総文字数に含まれ、正確率が下がります。",
+    "adjWpm": "合成スコア（正しい速度）{{adjWpm}}",
+    "scoreTooltip": "スコアは「正しい文字の速度」のみで算出。まず正確性を安定させ、その後速度を上げます。",
+    "vsSiteAverage": "サイト平均（同じ言語）との比較：{{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "もう一度",
+    "showInsights": "インサイトを表示",
+    "hideInsights": "インサイトを隠す",
+    "chartDescription": "上：合成スコアの推移、下：正確率の推移。まず正確性を安定させ、次に速度を上げます。",
+    "seconds": "{{count}} 秒",
+    "minutes": "{{count}} 分",
+    "minutesSeconds": "{{minutes}} 分 {{seconds}} 秒",
+    "hours": "{{count}} 時間",
+    "hoursMinutes": "{{hours}} 時間 {{minutes}} 分"
+  },
+  "test": {
+    "submitQuestion": "送信 (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "毎日少しずつ練習すれば、タイピングはもっと上達します！"
+  }
+}

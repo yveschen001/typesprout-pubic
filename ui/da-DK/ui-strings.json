@@ -1,0 +1,455 @@
+{
+  "language": "da-DK",
+  "translations": {
+    "aboutBody": "TypeSprout er en skrivepraksis- og vækstwebsted for klasse 1–6 med støtte til zh‑TW / zh‑CN / en‑US, der har til formål at tilbyde et sikkert og venligt miljø for børn over hele verden til at øve input, forståelse og udtryk.",
+    "home": {
+      "aboutContent": "Hej alle sammen, jeg er Yves.C, en far fra Taiwan. Inspirationen til TypeSprout kom fra at se mine børn chatte med venner rundt om i verden på Roblox—jeg indså, at skrivning faktisk er den første nøgle for børn til at åbne op for en større verden. Så jeg skabte denne web-typræksis ved hjælp af no-code koncepter + ChatGPT/AI, og tilføjede lidt visuel feedback på trævækst: med hver korrekt tastetryk vokser træet lidt, hvilket gør daglige bestræbelser til synlige præstationer. Med hensyn til indhold har jeg organiseret almindeligt anvendte ord fra 1.-6. klasse i udvalgbare spørgebanker; børn kan øve deres modersmål og skifte til engelsk eller andre sprog, de ønsker at øve i Indstillinger. Disse ord filtreres af AI efter sværhedsgrad.For voksne har jeg forberedt en udvidet spørgebank, der i øjeblikket inkluderer Bibel API og AI-genererede bibelvers (fra gratis online ressourcer, nøjagtigheden kan være begrænset), og jeg vil gradvist tilføje emner som berømte citater for at gøre øvelsen mere interessant. I TypeSprout vil børn gradvist akkumulere point og daglige bestræbelser; det lille træ på skærmen vil også trives med deres præstationer, hvilket danner en positiv cyklus af indsats → feedback → gen-engagement. Jeg har også designet en 5-dages aktiv udfordring: at øve i 5 på hinanden følgende dage vil give en lille frugtagtig belønning. Når præstationer er synlige, vil motivationen vokse. Dette er den læringsrytme, jeg ønsker at dele med børn og dig. For lærere har jeg tilføjet en klassefunktion på den personlige side, der giver lærere mulighed for at oprette klasser og invitere klassekammerater til at deltage, hvilket gør øvelsen mere konkurrencepræget.Dette er et lille projekt, som jeg personligt vedligeholder (uden ingeniørbaggrund, hovedsageligt afhængig af ChatGPT/AI til vejledning og samarbejde). Hvis du har forslag eller støder på problemer under brug, er du velkommen til at efterlade en besked i GitHub-issues-sektionen, og jeg vil gøre mit bedste for at organisere og løse dem. Tak på forhånd. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Om TypeSprout",
+      "ctaTest": "Tag testen",
+      "googleUsersCount": "Google Login Brugere",
+      "googleUsersTooltip": "Det samlede antal brugere, der har logget ind med Google-konti",
+      "heroSubtitle": "Hver tastetryk bliver til energi til at vande dit træ. Flersproget support hjælper med at opbygge korrekte skrivevaner og fokus.",
+      "heroTitle": "Børn skriver, frøet vokser.",
+      "tabs": {
+        "leader": "Leaderboard (forhåndsvisning)",
+        "visitors": "Besøgende"
+      },
+      "leaderEmpty": "Ingen data endnu",
+      "leaderViewFull": "Se den fulde rangliste",
+      "players": "Spillere",
+      "privacyNote": "Vi indsamler ikke personlige data; statistikker er anonymiserede kun til rangering og læringsfeedback.",
+      "visitorsDesc": "Landfordeling af webstedets besøgende og spillere (anonyme)."
+    },
+    "absoluteScale": "Grøn ≤{{low}}% · Gul ≤{{mid}}% · Rød >{{mid}}% (% er den seneste kumulative fejlrate for den tast)",
+    "accuracy": "Nøjagtighed {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Nøjagtigheds trenddiagram: højere linje betyder mere præcist",
+      "accuracyChartTitle": "Nøjagtighed",
+      "accuracyChartTooltip": "Y-akse: Nøjagtighed (højere betyder mere nøjagtig); X-akse: tidsorden. Den blå linje viser ændringer i nøjagtighed for hver test.",
+      "defaultDescription": "Top: Hastighedsscore trend; Bottom: Nøjagtighedstrend. Først forbedr nøjagtigheden, og øg derefter gradvist hastigheden.",
+      "speedChartAriaLabel": "Hastighedsscore trenddiagram: højere linje betyder bedre præstation",
+      "speedChartTitle": "Hastighedsresultat (Korrekt Hastighed)",
+      "speedChartTooltip": "Y-akse: Hastighedsscore (højere er bedre); X-akse: tidsorden. Den grønne linje viser hastigheden af korrekte tegn kun, som kombinerer hastighed og nøjagtighed.",
+      "recordNumber": "Post {{number}}",
+      "speedScore": "Hastighedsscore {{score}}",
+      "totalQuestionChars": "Samlet antal tegn i spørgsmål: {{chars}}",
+      "actualInput": "Faktisk input: {{chars}} tegn",
+      "timeSpent": "Tidsforbrug: {{seconds}} s",
+      "accuracy": "Nøjagtighed {{percent}}%",
+      "correctChars": "Korrekte tegn: {{chars}}",
+      "percentile": "Bedre end ca. {{percent}}% af folk",
+      "highestHere": "Højeste her {{value}}",
+      "recentValue": "Seneste {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Nøjagtighed = korrekte tegn ÷ samlede spørgsmålstegn. Bemærk: ikke indtastede tegn tælles også med i totalen, så manglende tegn vil sænke nøjagtigheden.",
+      "hideInsights": "Skjul indsigt",
+      "scoreTooltip": "Sammensat score = indtastningshastighed af kun korrekte tegn. Beregning: hastighed (WPM/CPM) × nøjagtighed. Formål: først stabilisere nøjagtigheden, derefter gradvist øge hastigheden.",
+      "showInsights": "Vis indsigt",
+      "summary": "Denne sessionsoversigt",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Aktive dage: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} tegn",
+    "adjWpm": "Sammensat score (korrekt hastighed)",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Reklamecookies: Som nævnt ovenfor, hvis vi aktiverer Google AdSense, vil Google bruge cookies til at vise annoncer. Du kan til enhver tid besøge Googles annonceside (https://adssettings.google.com/) for at administrere eller fravælge personlige annoncer.",
+        "functionalCookies": "Funktionscookies: Vi bruger cookies til at opretholde din loginstatus."
+      },
+      "section5": {
+        "contactChannel": "Kontaktkanal: Hvis du har spørgsmål til denne fortrolighedspolitik eller ønsker at udnytte dine dat rettigheder (såsom forespørgsel, korrektion, sletning), bedes du indsende anmodninger via vores officielle GitHub Issues-side.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Vigtig påmindelse: Bemærk venligst, at GitHub Issues er en offentlig platform. For at beskytte dit personlige privatliv, må du absolut ikke efterlade nogen personlige identifikationsoplysninger i indholdet af problemet, såsom din e-mailadresse, rigtige navn eller kontoskærmbilleder. Vi har kun brug for, at du angiver dit brugernavn på TypeSprout og en beskrivelse af problemet. Vi vil ikke kontakte dig gennem andre private kanaler end Issues.",
+        "responseTime": "Da dette er et personligt vedligeholdt projekt, vil vi svare så hurtigt som muligt inden for vores muligheder. Tak for din tålmodighed og forståelse."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Du kan valgfrit angive din aldersgruppe, professionelle felt, sprog eller region. Disse oplysninger er ikke obligatoriske og er primært beregnet til at optimere anbefalinger til spørgsmålsbanks, til anonym statistisk analyse og til gruppering på ranglisten. Vi kræver ikke eller verificerer nøjagtigheden af disse oplysninger."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Reklame): Vi kan i fremtiden bruge Google AdSense til at vise annoncer for at støtte driftsomkostningerne for hjemmesiden. Google og dets partnere kan bruge cookies (såsom DoubleClick-cookie) til at vise personlige annoncer baseret på din tidligere besøgs historie.",
+          "googleAnalytics": "Google Analytics: Vi bruger denne tjeneste til at analysere webstedstrafik for at forstå brugen af tjenesten. Den indsamler anonymiserede oplysninger såsom din IP-adresse, browsertype, operativsystem, besøgte sider osv."
+        },
+        "principle": "Vi overholder princippet om minimalisme og indsamler kun de data, der er nødvendige for at opretholde serviceoperationen:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Kernefunktion: Dit anonyme bruger-ID og spildata er en del af kernefunktionaliteten i denne tjeneste, der bruges til at registrere dine point, give historiske diagrammer og globale ranglister.",
+        "experienceOptimization": "Oplevelsesoptimering: Den alder, profession og anden information, du frivilligt giver, vil blive brugt til at matche dig med mere passende spørgsmål til skriveøvelser.",
+        "serviceMaintenance": "Servicevedligeholdelse: Tekniske data indsamlet gennem Google Analytics hjælper os med at forstå webstedets driftsstatus og løse potentielle problemer.",
+        "statisticalAnalysis": "Statistisk Analyse: Vi vil anonymisere og aggregere alle bruger-tilvejebragte oplysninger, der er givet frivilligt, for at forstå den overordnede profil af brugergruppen og forbedre servicen."
+      },
+      "section3": {
+        "crossBorderTransfer": "Grænseoverskridende overførsel: GitHub og Google Firebase-servere kan være placeret uden for dit land (f.eks. USA). Ved at bruge denne tjeneste forstår og accepterer du, at dine data vil blive overført, opbevaret og behandlet på disse udenlandske servere.",
+        "dataRetention": "Dataopbevaring: Da denne tjeneste er helt gratis, kan vi ikke garantere permanent datalagring. Vi forbeholder os retten til at slette nogle eller alle brugerdata uden varsel.",
+        "storageLocation": "Lagringssted: Denne hjemmesides kode er hostet på GitHub, mens dine spildata og frivilligt leverede oplysninger er gemt i Google Firebases database."
+      },
+      "effectiveDate": "Ikrafttrædelsesdato: 21. september 2025",
+      "introduction": "Velkommen til TypeSprout! Dette er en gratis skrivepraksis hjemmeside skabt af en individuel udvikler ud af interesse. Vi forstår, at dit privatliv er vigtigt, så denne politik har til formål at forklare, hvilke data vi indsamler, og hvordan vi vil bruge disse data.",
+      "notice": "Bemærk venligst: Denne tjeneste er non-profit, og alle funktioner leveres som de er. Hvis du ikke er enig i vilkårene i denne fortrolighedspolitik, bedes du straks stoppe med at bruge denne tjeneste. Fortsat brug indikerer, at du har læst, forstået og accepteret alt indholdet i denne politik.",
+      "titleSuffix": "Privatlivspolitik"
+    },
+    "leaderboard": {
+      "allGrades": "Alle karakterer",
+      "lastMonth": "Sidste måneds rangordning",
+      "lastWeek": "Sidste uges rangering",
+      "loading": "Indlæser...",
+      "loadingHint": "Hvis det fortsætter med at fejle med at indlæse, skal du tjekke din netværksforbindelse eller prøve igen senere.",
+      "noData": "Ingen data",
+      "reload": "Genindlæs",
+      "signInHint": "Tip: Log ind for automatisk at gemme dine testresultater; vi bruger dem kun til rangering og feedback på læring, ingen personlige følsomme data indsamles.",
+      "sortHint": "Tip: Tryk Alt+↑/↓ for at skifte sortering",
+      "today": "Dagens rangliste",
+      "tooltip": "🏆 Hvordan beregnes leaderboardet?&#10;• I dag: dagens scorer (lokal tid)&#10;• I går: gårsdagens scorer (lokal tid)&#10;• Sidste uge: mandag til søndag i sidste uge&#10;• Sidste måned: 1. til sidste dag i sidste måned&#10;&#10;📊 Hvordan beregnes scorerne?&#10;• Samlet score = maksimal hastighed × nøjagtighed × træningstid&#10;• Flere træninger på samme dag kombineres&#10;• Længere træningstid = højere score&#10;&#10;💡 Tip: Øv lidt hver dag, så vil dit træ vokse!",
+      "yesterday": "I gårsdagens rangliste"
+    },
+    "test": {
+      "allowBackspace": "Tillad Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Sværhedsgrad",
+      "difficultyEasy": "Nem",
+      "difficultyHard": "Svær",
+      "difficultyMedium": "Medium",
+      "finished": "Færdig",
+      "inputPrompt": "Venligst skriv teksten nedenfor",
+      "insightsSummary": "Indsigter (tastatur varme kort, hastighed og nøjagtigheds tendenser)",
+      "loadingQuestions": "Indlæser spørgsmål...",
+      "mistakes": "Fejl",
+      "outOfFocus": "Venligst klik på inputboksen for at fortsætte med at skrive",
+      "promptStart": "Tryk på Start, og skriv teksten ovenfor. Indsætning er deaktiveret.",
+      "questionCount": "Spørgsmål Antal",
+      "questionPreview": "Spørgsmål (de første 24 tegn)",
+      "questionStats": "Denne sessions spørgsstatsistik (tid brugt / grænse, fejl antal)",
+      "questionText": "Spørgsmålstekst (kan ikke vælges eller kopieres)",
+      "shortcutsDescription": "Plads: Start/Pause • R: Nulstil • F: Fokuser input",
+      "signInToSave": "Log ind for at gemme din fremgang",
+      "submitAndReview": "Indsend og se resultater",
+      "submitQuestion": "Indsend dette spørgsmål (Enter)",
+      "timeLimit": "Tidsgrænse",
+      "timeSpent": "Tid brugt: {{seconds}} sek",
+      "title": "Test",
+      "tryAgain": "Prøv igen",
+      "shortcuts": "Tryk Enter for at sende"
+    },
+    "profile": {
+      "alreadyJoined": "Du har allerede tilmeldt dig denne klasse",
+      "analysis": "Dybdegående Analyse",
+      "birthday": "Fødselsdag (ÅÅÅÅ-MM)",
+      "classCodePlaceholder": "Klasskode",
+      "classCodeTooltip": "Unik for hele siden (3–50 tegn; må ikke indeholde /). Bruges til konkurrencer og leaderboard-gruppering; kan tilslutte op til 5. Lærere kan oprette nye koder; vil automatisk tilslutte efter oprettelse (hvis ikke fuld).",
+      "classCreatedAndJoined": "Klasse oprettet og tilsluttet med succes",
+      "classNotFound": "Klassekode ikke fundet",
+      "codeAlreadyTaken": "Klassens kode er allerede taget",
+      "confirmDelete": "Er du sikker på, at du vil slette denne klassekode?",
+      "copy": "Kopier",
+      "copyFailed": "Kopiering mislykkedes, venligst vælg og kopier manuelt.",
+      "copySuccess": "Klassens kode er kopieret til udklipsholderen.",
+      "country": "Land/Region",
+      "create": "Opret",
+      "delete": "Slet",
+      "female": "Kvinde",
+      "fruits": "Frugter",
+      "fruitsTooltip": "Frugter indsamlet fra dit træ. Tjent ved at nå daglige pointmål.",
+      "gender": "Køn",
+      "googleAccount": "Google-konto",
+      "history": "Historie",
+      "invalidCodeFormat": "Indtast venligst 3-50 tegn uden /",
+      "join": "Deltag",
+      "joinError": "Mislykkedes at tilslutte klasse",
+      "joinSuccess": "Succesfuldt sammenføjet klasse",
+      "joinedClasses": "Klasser, jeg deltog i",
+      "language": "Sprog",
+      "male": "Mand",
+      "maxClassesReached": "Maksimalt antal klasser nået",
+      "maxJoinedClasses": "Maksimalt antal sammenkoblede klasser nået",
+      "myClasses": "Mine klasser",
+      "nickname": "Kaldenavn",
+      "noClasses": "Der er ingen klasser",
+      "noUser": "Bruger ikke fundet",
+      "onlyTeacherCanCreate": "Kun lærere kan oprette klassekoder",
+      "other": "Andre",
+      "points": "Pointér",
+      "pointsDetail": "Pointtotal ovenfor; detaljer venligst gå til",
+      "pointsTooltip": "Point optjent fra daglig praksis. Bruges til at vokse dit træ og låse op for belønninger.",
+      "remove": "Fjern",
+      "role": "Rolle",
+      "roleCheckError": "Fejl ved kontrol af brugerrolle",
+      "save": "Gem",
+      "student": "Studerende",
+      "teacher": "Lærer",
+      "view": "vis",
+      "xp": "Erfaring (XP)",
+      "xpTooltip": "Erfaringspoint optjent gennem skriveøvelser. Højere nøjagtighed og hastighed = mere XP!",
+      "youOwnThis": "Du ejer dette",
+      "title": "Profil",
+      "auto": "Automatisk",
+      "classCode": "Klasskode",
+      "error": "Fejl",
+      "alreadyTaken": "Allerede taget",
+      "available": "Tilgængelig",
+      "logout": "Log ud",
+      "chartDescription": "Personlige tendenser: øverst samlet score, nederst nøjagtighed.",
+      "parent": "Forælder"
+    },
+    "tips": {
+      "avgAdj": "Gns. sammensat (30d)",
+      "meVsSite": "Mig vs Site (30d)",
+      "totalChars": "I alt tegn: {{chars}} tegn"
+    },
+    "admin": {
+      "bulkTranslationTool": "Bulk lokaliseringsværktøj",
+      "execute": "Udfør",
+      "sourceLanguage": "Kildesprog",
+      "targetLanguage": "Mål sprog",
+      "usageDescription": "Indtast kilde- og målsprogkoder, indsæt tekst i flere linjer og tryk på udfør, resultaterne er kun til manuel gennemgang. Denne funktion kræver en admin-token for at aktivere.",
+      "usageInstructions": "Brugsanvisning"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "Forskellige sceneoptrædener og låseforhold (illustration).",
+      "growthChartTitle": "Vækstdiagram",
+      "historyRule1": "Pointene beregnes ud fra hastighed × nøjagtighed × tid, og bruges til at fremme trævækst.",
+      "historyRule2": "Listen nedenfor viser hver indtjeningspost, hvilket gør det nemt for dig at følge dine bestræbelser.",
+      "historyTitle": "Hvad er historie?",
+      "howToLevelUp": "Hvordan opgraderer man?",
+      "levelUpRule1": "Øv dig dagligt for at opbygge aktivitet; jo længere du skriver, jo hurtigere vokser du.",
+      "levelUpRule2": "Maksimal niveau 5; hvis du kan opretholde niveau 5 dagligt, vil du kontinuerligt producere frugter.",
+      "levelUpRule3": "Indsamlede frugter vil give platformbelønninger baseret på rangordning; i øjeblikket kan testtiden bruges som scoreakkumulering.",
+      "maxStage": "Maksimal trin 5",
+      "myTree": "Mit træ",
+      "noLogs": "Ingen optegnelser i øjeblikket",
+      "pointsExplanation": "Hvordan fungerer point? Genereret fra daglige tests, relateret til effektiv indtastningstid, hastighed og nøjagtighed. Dagligt loft 100; kort praksis (≥5 sekunder og nøjagtighed ≥30%) mindst +1.",
+      "recalculateActivity": "Genberegn aktivitet og fase",
+      "recalculateActivityTooltip": "Hvad er genberegn aktivitet og fase? Det vil genlæse dine seneste 5 dages testoptegnelser, beregne effektive indtastningsminutter og opdatere aktivitetslisten og den nuværende fase.",
+      "recentActivity": "Seneste 5 dages aktivitet",
+      "recentLogs": "Seneste optegnelser",
+      "stage1Desc": "Første spirer dukker op",
+      "stage2Desc": "Andet blad vokser",
+      "stage3Desc": "Bladmultiplikation",
+      "stage4Desc": "Blomster blomstrer",
+      "stage5Desc": "Små trækroneformer (frugter)",
+      "todaySummary": "Dagens opsummering"
+    },
+    "ui": {
+      "closeHint": "Luk hint",
+      "gotIt": "Forstår det",
+      "later": "Senere",
+      "start": "Starte",
+      "string089": "Venligst log ind først.",
+      "string090": "Personlige oplysninger",
+      "string092": "Privatlivspolitik",
+      "string154": "Brugsvilkår"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Hvis du har spørgsmål til disse servicevilkår, bedes du rejse dem gennem vores officielle GitHub Issues-side: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Bemærk venligst, at dette er en offentlig platform, så venligst efterlad ikke dine personlige oplysninger her."
+      },
+      "section5": {
+        "content2": "Vi er ikke ansvarlige for tab eller skader på dine øvelsesoptegnelser eller brugerdata, og vi garanterer heller ikke permanent databevaring.",
+        "content3": "Vi forbeholder os retten til at ændre, suspendere eller permanent afslutte denne tjeneste når som helst af enhver grund, uden forudgående varsel.",
+        "subtitle1": "Leveres som de er:",
+        "subtitle2": "Databevaring:",
+        "subtitle3": "Ret til opsigelse af tjenesten:",
+        "content1": "Tjenesten leveres \"som den er\" uden nogen garantier.",
+        "title": "5. Ansvarsfraskrivelse og tjenestebegrænsninger"
+      },
+      "footer": "© 2025 TypeSprout. Alle rettigheder forbeholdes.",
+      "lastUpdated": "Sidst opdateret: 21. september 2025",
+      "section2": {
+        "listItem1": "AI-genereret indhold: Nogle øveartikler analyseres, indsamles eller genereres af AI-modeller (såsom ChatGPT) kun til skriveøvelse.",
+        "listItem2": "Bibelske tekster: Nogle bibelspørgsmål kommer fra tredjeparts API.Bibel-tjenester. Når den tjeneste ikke er tilgængelig, kan alternative tekster genereres af AI-modeller.",
+        "content1": "Formålet med tjenesten er udelukkende at tilbyde øvelser i skrivefærdigheder. Den er ikke et værktøj til akademisk forskning eller religiøs uddannelse. Alt indhold på hjemmesiden er kun til dette ene formål.",
+        "content2": "For at tilbyde rige øvelsestekster kommer indholdet i tjenestens opgavebank fra flere kilder. Vi erklærer hermed:",
+        "content3": "Der gives ingen garanti for nøjagtighed, fuldstændighed eller egnethed som troværdige oplysninger. Venligst forstå det kun som øvelsestekster.",
+        "subtitle1": "Formålet med tjenesten",
+        "subtitle2": "Kilde til indhold og ansvarsfraskrivelse",
+        "title": "2. Beskrivelse af tjenesten og kilde til indhold"
+      },
+      "section1": {
+        "content1": "Velkommen til at bruge TypeSprout (herefter kaldet \"tjenesten\"). Tjenesten er et gratis, non-profit projekt vedligeholdt af en individuel udvikler, der har til formål at give brugerne (særligt børn og lærende) et simpelt online skriveøvelsesmiljø.",
+        "content2": "Når du tilgår eller bruger tjenesten, betyder det, at du har læst, forstået og accepteret at være bundet af alle indholdet i disse \"Servicevilkår\" (herefter kaldet \"vilkårene\"). Hvis du ikke accepterer nogen del af vilkårene, skal du straks stoppe med at bruge tjenesten.",
+        "title": "1. Generelle bestemmelser og accept af vilkår"
+      },
+      "section3": {
+        "content1": "Tjenesten er kun til personlig, uddannelsesmæssig brug og gives i en ikke-eksklusiv, ikke-overdragelig, tilbagekaldelig licens.",
+        "content2": "Det er forbudt at bruge tjenesten direkte eller indirekte til kommercielle formål.",
+        "subtitle1": "Personlig, ikke-kommerciel brug",
+        "subtitle2": "Forbud mod kommerciel brug",
+        "title": "3. Brugsretter og begrænsninger"
+      },
+      "section4": {
+        "content1": "Brugeren er ansvarlig for korrekt håndtering af loginoplysninger.",
+        "content2": "Det er forbudt at forstyrre tjenestens normale drift eller at snyde.",
+        "subtitle1": "Kontosikkerhed",
+        "subtitle2": "Forbud mod misbrug og uretmæssig adfærd",
+        "title": "4. Brugerens ansvar"
+      },
+      "section6": {
+        "content": "Venligst bekræft privatlivspolitikken.",
+        "title": "6. Privatlivspolitik"
+      },
+      "titleSuffix": "Servicevilkår"
+    },
+    "correctChars": "Correct Chars: {{chars}} tegn",
+    "createError": "Oprettelse mislykkedes: {{error}}",
+    "ctaPractice": "Start Øvelse",
+    "layout": {
+      "dailyReminder": "Påmindelse: Øv lidt hver dag – så vokser spiren, og du bliver bedre til at taste!",
+      "epExplanation": "Hvordan tjener man point? Hver test beregnes ved tid × hastighed × nøjagtighed (basis × minutter × (hastighed/mål, maks ×2) × (0.5+0.5×nøjagtighed)). Daglig grænse 100; opmuntringsregler: når nøjagtigheden ≥30%, mindst +1 point pr. 10 sekunder (akkumuleret); ≥30 sekunder og nøjagtighed ≥50% mindst +1.",
+      "loginSuggestion": "Vi anbefaler at bruge Log ind med Google øverst til højre for at gemme dine scorer og din historik; denne side værdsætter anonymitet og privatliv og vil ikke gemme personlige følsomme data.",
+      "remaining": "resterende",
+      "todayProgress": "I dag:"
+    },
+    "practice": {
+      "description": "Dette område er kun til operationer og indholdsstyring."
+    },
+    "error": {
+      "errorOccurred": "Der opstod en fejl",
+      "goBack": "Gå tilbage",
+      "goHome": "Tilbage til Hjem",
+      "loadingError": "Der opstod en fejl under indlæsning af siden, prøv venligst igen senere."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} fejlrate {{percent}}%",
+      "relativeScale": "Relativ skala: Grøn ≤30% · Gul ≤70% · Rød >70% (relativt til den højeste fejl nøgle; baseret på nylig kumulativ fejlrate)"
+    },
+    "estimatedMinutes": "Estimeret {{minutes}} minutter",
+    "nav": {
+      "garden": "Have",
+      "home": "Hjem",
+      "leaderboard": "Leaderboard",
+      "practice": "Øv",
+      "profile": "Profil",
+      "subtitle": "Vælg det øvelsesindhold, der passer til dig",
+      "test": "Test",
+      "result": "Resultat"
+    },
+    "meta": {
+      "gardenDescription": "Vækst dit træ med skrivepoint og belønninger.",
+      "homeDescription": "Børns skriveøvelse med gamificeret trævækst.",
+      "leaderboardDescription": "Daglige/ugentlige/månedlige ranglister efter sprog.",
+      "practiceDescription": "Gratis skriveøvelse med IME-support og tilstande.",
+      "profileDescription": "Dine personlige oplysninger, karakter og præferencer.",
+      "result": "Resultat",
+      "resultDescription": "Dine skriveprøve resultater.",
+      "testDescription": "Tidsbegrænset test, der viser nøjagtighed og sammensat score."
+    },
+    "grade": "Karakter {{grade}}",
+    "questionBank": {
+      "gradeRange": "Klassetrin",
+      "recommended": "Anbefalet",
+      "totalQuestions": "Samlet antal spørgsmål",
+      "children": {
+        "name": "Spørgebank for børn",
+        "description": "Grundlæggende tasteøvelser for børn"
+      },
+      "title": "Vælg spørgebank",
+      "subtitle": "Vælg den øvelsesbank, der passer til dig",
+      "loading": "Indlæser spørgebanker...",
+      "supportedLanguages": "Understøttede sprog",
+      "noRecommendation": "Ingen anbefalet bank for dit klassetrin",
+      "bible": {
+        "name": "Bibel-spørgebank",
+        "description": "Tasteøvelser med bibelvers"
+      }
+    },
+    "highestHere": "Højeste her {{value}}",
+    "hours": "{{count}} timer",
+    "hoursMinutes": "{{hours}} timer {{minutes}} minutter",
+    "leaderScore": "Sammensat Score",
+    "levelUpSuggestion": "For at nå niveau {{needStage}}, foreslå mindst {{moreMin}} flere minutter med effektiv input i dag.",
+    "loadError": "Kunne ikke indlæse leaderboard, prøv venligst igen senere",
+    "auth": {
+      "signOut": "Log ud",
+      "pleaseSignIn": "Venligst log ind med Google først",
+      "signIn": "Log ind med Google"
+    },
+    "metricsTip": "Hastigheds- og nøjagtighedsbeskrivelse",
+    "minutes": "{{count}} minutter",
+    "minutesSeconds": "{{minutes}} minutter {{seconds}} sekunder",
+    "bible": {
+      "name": "Bibels spørgsmål bank"
+    },
+    "noRecommendation": "Ingen anbefalede spørgeskemaer til dit klassetrin",
+    "percentile": "Overskrider omkring {{percent}}% af folk",
+    "progress": "Fremskridt {{current}} / {{total}}",
+    "recentValue": "Seneste {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Real-time gemt til Firestore",
+      "stage": "Stage {{stage}}",
+      "stageOverview": "Fem-trins oversigt (til sammenligning af udseende)"
+    },
+    "seconds": "{{count}} sekunder",
+    "shortcuts": "Plads start/pause · R nulstil · F fokus · Enter indsend dette spørgsmål",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} tegn · {{accuracy}}% nøjagtighed",
+    "string094": "Vi bruger kun din Google-konto til at gemme din fremgang og historik.",
+    "string095": "Hvilke data indsamler vi?",
+    "string096": "Vi indsamler kun dine skrivevurderinger, nøjagtighed og træningstid. Vi indsamler ikke personlige oplysninger som dit navn, e-mail eller andre følsomme data.",
+    "string097": "Vi bruger disse data til at give dig personlig feedback og vise dig din fremgang over tid.",
+    "string155": "Ved at bruge dette website accepterer du følgende vilkår:",
+    "string156": "Du er ansvarlig for din egen læring og fremgang.",
+    "string157": "Hvad er betingelserne?",
+    "string158": "Betingelserne inkluderer: at bruge hjemmesiden kun til uddannelsesmæssige formål, ikke dele upassende indhold og respektere andre brugere.",
+    "supportedLanguages": "Understøttede sprog",
+    "totalQuestionChars": "Total Question Chars: {{chars}} tegn",
+    "vsSiteAverage": "Sammenlignet med sitegennemsnittet (samme sprog): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.659Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Send (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

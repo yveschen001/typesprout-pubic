@@ -1,0 +1,455 @@
+{
+  "language": "pt-BR",
+  "translations": {
+    "aboutBody": "TypeSprout é um site de prática de digitação e crescimento para alunos do 1º ao 6º ano, com suporte para zh‑TW / zh‑CN / en‑US, visando oferecer um ambiente seguro e amigável para crianças em todo o mundo praticarem entrada, compreensão e expressão.",
+    "home": {
+      "aboutContent": "Oi pessoal, sou Yves.C, um pai de Taiwan. A inspiração para o TypeSprout veio de ver meus filhos conversando com amigos ao redor do mundo no Roblox—percebi que digitar é, na verdade, a primeira chave para as crianças se abrirem para um mundo maior. Então, criei esta prática de digitação na web usando conceitos sem código + ChatGPT/IA, adicionando um pequeno feedback visual de crescimento da árvore: a cada tecla pressionada corretamente, a árvore cresce um pouco, transformando os esforços diários em conquistas visíveis. Em termos de conteúdo, organizei palavras comumente usadas do 1º ao 6º ano em bancos de perguntas selecionáveis; as crianças podem praticar sua língua nativa e alternar para inglês ou outros idiomas que desejam praticar nas Configurações. Essas palavras são filtradas pela IA de acordo com a dificuldade do ano escolar.Para adultos, preparei um banco de perguntas estendido, atualmente incluindo API da Bíblia e escrituras bíblicas geradas por IA (de recursos online gratuitos, a precisão pode ser limitada), e gradualmente adicionarei tópicos como citações famosas para tornar a prática mais interessante. No TypeSprout, as crianças acumularão pontos e esforços diários; a pequena árvore na tela também prosperará com seu desempenho, formando um ciclo positivo de esforço → feedback → reengajamento. Também desenhei um desafio ativo de 5 dias: praticar por 5 dias consecutivos ganhará uma pequena recompensa em forma de fruta. Quando as conquistas são visíveis, a motivação cresce. Este é o ritmo de aprendizado que quero compartilhar com as crianças e com vocês. Para os professores, adicionei uma função de Classe na página pessoal, permitindo que os professores criem turmas e convidem colegas para participar, tornando a prática mais competitiva.Este é um pequeno projeto mantido por mim pessoalmente (sem formação em engenharia, dependendo principalmente do ChatGPT/IA para orientação e colaboração). Se você tiver sugestões ou encontrar problemas durante o uso, sinta-se à vontade para deixar uma mensagem na seção de problemas do GitHub, e farei o meu melhor para organizá-los e resolvê-los. Agradeço a todos antecipadamente. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Sobre o TypeSprout",
+      "ctaTest": "Fazer Teste",
+      "googleUsersCount": "Usuários do Login do Google",
+      "googleUsersTooltip": "Número total de usuários que fizeram login com contas do Google",
+      "heroSubtitle": "Cada tecla pressionada se transforma em energia para regar sua árvore. O suporte a múltiplos idiomas ajuda a construir hábitos de digitação corretos e a manter o foco.",
+      "heroTitle": "As crianças digitam, a muda cresce.",
+      "tabs": {
+        "leader": "Classificação (prévia)",
+        "visitors": "Visitantes"
+      },
+      "leaderEmpty": "Sem dados ainda",
+      "leaderViewFull": "Ver classificação completa",
+      "players": "Jogadores",
+      "privacyNote": "Não coletamos dados pessoais; as estatísticas são anonimizadas apenas para classificação e feedback de aprendizado.",
+      "visitorsDesc": "Distribuição geográfica de visitantes e jogadores do site (anônimos)."
+    },
+    "absoluteScale": "Verde ≤{{low}}% · Amarelo ≤{{mid}}% · Vermelho >{{mid}}% (% é a taxa de erro cumulativa recente para essa tecla)",
+    "accuracy": "Acurácia {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Gráfico de tendência de precisão: linha mais alta significa mais precisão",
+      "accuracyChartTitle": "Precisão",
+      "accuracyChartTooltip": "Eixo Y: Precisão (quanto maior, mais precisa); Eixo X: ordem do tempo. A linha azul mostra as mudanças de precisão para cada teste.",
+      "defaultDescription": "Top: Tendência da pontuação de velocidade; Bottom: Tendência de precisão. Primeiro melhore a precisão, depois aumente gradualmente a velocidade.",
+      "speedChartAriaLabel": "Gráfico de tendência da pontuação de velocidade: linha mais alta significa melhor desempenho",
+      "speedChartTitle": "Pontuação de Velocidade (Velocidade Correta)",
+      "speedChartTooltip": "Eixo Y: Pontuação de velocidade (quanto maior, melhor); Eixo X: ordem do tempo. A linha verde mostra a velocidade apenas dos caracteres corretos, combinando velocidade e precisão.",
+      "recordNumber": "Registro {{number}}",
+      "speedScore": "Pontuação de velocidade {{score}}",
+      "totalQuestionChars": "Total de caracteres das perguntas: {{chars}}",
+      "actualInput": "Entrada real: {{chars}} caracteres",
+      "timeSpent": "Tempo gasto: {{seconds}} s",
+      "accuracy": "Precisão {{percent}}%",
+      "correctChars": "Caracteres corretos: {{chars}}",
+      "percentile": "Melhor que cerca de {{percent}}% das pessoas",
+      "highestHere": "Maior aqui {{value}}",
+      "recentValue": "Recente {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Acurácia = caracteres corretos ÷ total de caracteres da pergunta. Nota: caracteres não digitados também são contados no total, portanto, caracteres faltantes reduzirão a acurácia.",
+      "hideInsights": "Ocultar insights",
+      "scoreTooltip": "Pontuação composta = velocidade de caracteres corretos apenas. Cálculo: velocidade (WPM/CPM) × precisão. Objetivo: primeiro estabilizar a precisão, depois aumentar gradualmente a velocidade.",
+      "showInsights": "Mostrar insights",
+      "summary": "Resumo desta sessão",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Dias ativos: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} caracteres",
+    "adjWpm": "Pontuação composta (velocidade correta) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Cookies de Publicidade: Como mencionado acima, se ativarmos o Google AdSense, o Google usará cookies para exibir anúncios. Você pode visitar a página de configurações de anúncios do Google (https://adssettings.google.com/) a qualquer momento para gerenciar ou optar por não receber anúncios personalizados.",
+        "functionalCookies": "Cookies Funcionais: Usamos cookies para manter seu status de login."
+      },
+      "section5": {
+        "contactChannel": "Canal de Contato: Se você tiver alguma dúvida sobre esta política de privacidade ou desejar exercer seus direitos sobre dados (como consulta, correção, exclusão), envie solicitações através da nossa página oficial de Issues no GitHub.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Lembrete Importante: Por favor, note que o GitHub Issues é uma plataforma pública. Para proteger sua privacidade pessoal, por favor, não deixe nenhuma informação de identificação pessoal no conteúdo do Issue, como seu endereço de e-mail, nome real ou capturas de tela da conta. Precisamos apenas que você forneça seu Nome de Usuário no TypeSprout e uma descrição do problema. Não entraremos em contato com você por nenhum canal privado além dos Issues.",
+        "responseTime": "Como este é um projeto mantido pessoalmente, responderemos o mais rápido possível dentro de nossas capacidades. Obrigado pela sua paciência e compreensão."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Você pode opcionalmente fornecer sua faixa etária, área profissional, idioma ou região. Essas informações não são obrigatórias e têm como principal objetivo otimizar as recomendações do banco de perguntas, para análise estatística anônima e agrupamento de classificações. Não exigimos nem verificamos a precisão dessas informações."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Publicidade): Podemos usar o Google AdSense no futuro para exibir anúncios que ajudem a cobrir os custos de operação do site. O Google e seus parceiros podem usar Cookies (como o Cookie do DoubleClick) para mostrar anúncios personalizados com base no seu histórico de visitas anterior.",
+          "googleAnalytics": "Google Analytics: Usamos este serviço para analisar o tráfego do site e entender o uso do serviço. Ele coleta informações anonimizadas, como seu endereço IP, tipo de navegador, sistema operacional, páginas visitadas, etc."
+        },
+        "principle": "Adotamos o princípio do minimalismo, coletando apenas os dados necessários para manter a operação do serviço:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "A Função Principal: Seu ID de usuário anônimo e os dados do jogo são parte da funcionalidade principal deste serviço, usados para registrar suas pontuações, fornecer gráficos históricos e tabelas de classificação globais.",
+        "experienceOptimization": "Otimização da Experiência: A idade, profissão e outras informações que você fornecer voluntariamente serão usadas para combiná-lo com bancos de questões de prática de digitação mais adequados.",
+        "serviceMaintenance": "Manutenção de Serviço: Dados técnicos coletados através do Google Analytics nos ajudam a entender o status operacional do site e corrigir possíveis problemas.",
+        "statisticalAnalysis": "Análise Estatística: Iremos anonimizar e agregar todas as informações fornecidas voluntariamente pelos usuários para entender o perfil geral do grupo de usuários e melhorar o serviço."
+      },
+      "section3": {
+        "crossBorderTransfer": "Transferência Transfronteiriça: Os servidores do GitHub e do Google Firebase podem estar localizados fora do seu país (por exemplo, Estados Unidos). Ao usar este serviço, você entende e concorda que seus dados serão transmitidos, armazenados e processados nesses servidores no exterior.",
+        "dataRetention": "Data Retention: Como este serviço é completamente gratuito, não podemos garantir o armazenamento permanente de dados. Reservamo-nos o direito de excluir alguns ou todos os dados dos usuários sem aviso prévio.",
+        "storageLocation": "Local de Armazenamento: O código deste site está hospedado no GitHub, enquanto seus dados de jogo e informações fornecidas voluntariamente estão armazenados no banco de dados do Google Firebase."
+      },
+      "effectiveDate": "Data de Vigência: 21 de setembro de 2025",
+      "introduction": "Bem-vindo ao TypeSprout! Este é um site gratuito de prática de digitação criado por um desenvolvedor individual por interesse. Entendemos que sua privacidade é crucial, então esta política tem como objetivo explicar quais dados coletamos e como usaremos esses dados.",
+      "notice": "Por favor, note que este serviço é de natureza não lucrativa e todas as funcionalidades são fornecidas como estão. Se você não concorda com os termos desta política de privacidade, por favor, pare de usar este serviço imediatamente. O uso contínuo indica que você leu, entendeu e concorda com todo o conteúdo desta política.",
+      "titleSuffix": "Política de Privacidade"
+    },
+    "leaderboard": {
+      "allGrades": "Todas as notas",
+      "lastMonth": "Ranking do mês passado",
+      "lastWeek": "Ranking da semana passada",
+      "loading": "Carregando...",
+      "loadingHint": "Se continuar falhando ao carregar, verifique sua conexão de rede ou tente novamente mais tarde.",
+      "noData": "Sem dados",
+      "reload": "Recarregar",
+      "signInHint": "Dica: Faça login para salvar suas pontuações de teste automaticamente; nós as usamos apenas para classificação e feedback de aprendizado, nenhum dado pessoal sensível é coletado.",
+      "sortHint": "Dica: Pressione Alt+↑/↓ para alternar a ordenação",
+      "today": "Ranking de hoje",
+      "tooltip": "🏆 Como a classificação é calculada?&#10;• Hoje: pontuações de hoje (horário local)&#10;• Ontem: pontuações de ontem (horário local)&#10;• Última semana: de segunda a domingo da última semana&#10;• Último mês: do 1º ao último dia do mês passado&#10;&#10;📊 Como as pontuações são calculadas?&#10;• Pontuação composta = velocidade máxima × precisão × tempo de prática&#10;• Múltiplas práticas no mesmo dia são combinadas&#10;• Mais tempo de prática = pontuação mais alta&#10;&#10;💡 Dica: Pratique um pouco todos os dias e sua árvore crescerá!",
+      "yesterday": "Ranking de ontem"
+    },
+    "test": {
+      "allowBackspace": "Permitir Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Dificuldade",
+      "difficultyEasy": "Fácil",
+      "difficultyHard": "Difícil",
+      "difficultyMedium": "Médio",
+      "finished": "Concluído",
+      "inputPrompt": "Por favor, digite o texto abaixo",
+      "insightsSummary": "Insights (mapa de calor do teclado, tendências de velocidade e precisão)",
+      "loadingQuestions": "Carregando perguntas...",
+      "mistakes": "Erros",
+      "outOfFocus": "Por favor, clique na caixa de entrada para continuar digitando",
+      "promptStart": "Pressione Iniciar, depois digite o texto acima. Colar está desativado.",
+      "questionCount": "Contagem de Perguntas",
+      "questionPreview": "Pergunta (primeiros 24 caracteres)",
+      "questionStats": "Estatísticas de perguntas desta sessão (tempo gasto / limite, contagem de erros)",
+      "questionText": "Desculpe, não posso ajudar com isso.",
+      "shortcutsDescription": "Espaço: Iniciar/Pausar • R: Reiniciar • F: Focar entrada",
+      "signInToSave": "Faça login para salvar seu progresso",
+      "submitAndReview": "Enviar e ver resultados",
+      "submitQuestion": "Enviar esta pergunta (Enter)",
+      "timeLimit": "Limite de tempo",
+      "timeSpent": "Tempo Gasto: {{seconds}} seg",
+      "title": "Teste",
+      "tryAgain": "Tente novamente",
+      "shortcuts": "Pressione Enter para enviar"
+    },
+    "profile": {
+      "alreadyJoined": "Você já se juntou a esta turma",
+      "analysis": "Análise Aprofundada",
+      "birthday": "Aniversário (AAAA-MM)",
+      "classCodePlaceholder": "Código da Turma",
+      "classCodeTooltip": "Único em todo o site (3–50 caracteres; não pode conter /). Usado para competições e agrupamento de placares; pode juntar até 5. Professores podem criar novos códigos; juntar-se-á automaticamente após a criação (se não estiver cheio).",
+      "classCreatedAndJoined": "Classe criada e ingressada com sucesso",
+      "classNotFound": "Código da turma não encontrado",
+      "codeAlreadyTaken": "Código da turma já foi utilizado",
+      "confirmDelete": "Você tem certeza de que deseja excluir este código de classe?",
+      "copy": "Copy",
+      "copyFailed": "A cópia falhou, por favor selecione e copie manualmente.",
+      "copySuccess": "Código da turma copiado para a área de transferência.",
+      "country": "País/Região",
+      "create": "Criar",
+      "delete": "Excluir",
+      "female": "Feminino",
+      "fruits": "Frutas",
+      "fruitsTooltip": "Frutas coletadas da sua árvore. Ganhas ao alcançar metas diárias de pontos.",
+      "gender": "Gênero",
+      "googleAccount": "Conta do Google",
+      "history": "Histórico",
+      "invalidCodeFormat": "Por favor, insira de 3 a 50 caracteres sem /",
+      "join": "Junte-se",
+      "joinError": "Falha ao ingressar na aula",
+      "joinSuccess": "Entrou na aula com sucesso",
+      "joinedClasses": "Aulas que Eu Participei",
+      "language": "Idioma",
+      "male": "Masculino",
+      "maxClassesReached": "Número máximo de aulas atingido",
+      "maxJoinedClasses": "Número máximo de aulas unidas alcançado",
+      "myClasses": "Minhas Aulas",
+      "nickname": "Apelido",
+      "noClasses": "Sem aulas",
+      "noUser": "Usuário não encontrado",
+      "onlyTeacherCanCreate": "Apenas professores podem criar códigos de turma",
+      "other": "Outro",
+      "points": "Pontos",
+      "pointsDetail": "Pontos totais acima; detalhes, por favor, acesse",
+      "pointsTooltip": "Pontos ganhos com a prática diária. Usados para crescer sua árvore e desbloquear recompensas.",
+      "remove": "Remover",
+      "role": "Função",
+      "roleCheckError": "Falha ao verificar o papel do usuário",
+      "save": "Salvar",
+      "student": "Estudante",
+      "teacher": "Professor",
+      "view": "ver",
+      "xp": "Experiência (XP)",
+      "xpTooltip": "Pontos de experiência ganhos através da prática de digitação. Maior precisão e velocidade = mais XP!",
+      "youOwnThis": "Você possui isso",
+      "title": "Perfil",
+      "auto": "Automático",
+      "classCode": "Código da turma",
+      "error": "Erro",
+      "alreadyTaken": "Já utilizado",
+      "available": "Disponível",
+      "logout": "Sair",
+      "chartDescription": "Tendências pessoais: topo pontuação composta, embaixo precisão.",
+      "parent": "Responsável"
+    },
+    "tips": {
+      "avgAdj": "Média Composta (30d)",
+      "meVsSite": "Eu vs Site (30d)",
+      "totalChars": "Total de caracteres: {{chars}} caracteres"
+    },
+    "admin": {
+      "bulkTranslationTool": "Ferramenta de Localização em Massa",
+      "execute": "Executar",
+      "sourceLanguage": "Idioma de origem",
+      "targetLanguage": "Português (Brasil)",
+      "usageDescription": "Digite os códigos de idioma de origem e destino, cole o texto em várias linhas e pressione executar. Os resultados são apenas para revisão manual. Este recurso requer um token de administrador para ser ativado.",
+      "usageInstructions": "Instruções de Uso"
+    },
+    "garden": {
+      "charsUnit": "caracteres",
+      "growthChartSubtitle": "Aparências de palco diferentes e condições de desbloqueio (ilustração).",
+      "growthChartTitle": "Diagrama de crescimento",
+      "historyRule1": "Os pontos são calculados a partir da velocidade × precisão × tempo, usados para promover o crescimento das árvores.",
+      "historyRule2": "A lista abaixo mostra cada registro de ganhos, facilitando o acompanhamento dos seus esforços.",
+      "historyTitle": "O que é História?",
+      "howToLevelUp": "Como subir de nível?",
+      "levelUpRule1": "Pratique diariamente para acumular atividade; quanto mais você digita, mais rápido você cresce.",
+      "levelUpRule2": "Máximo estágio 5; se você conseguir manter o estágio 5 diariamente, você continuará produzindo frutos.",
+      "levelUpRule3": "As frutas coletadas fornecerão recompensas na plataforma com base na classificação; atualmente, é possível usar o tempo de teste como acumulação de pontos.",
+      "maxStage": "Máximo estágio 5",
+      "myTree": "Minha Árvore",
+      "noLogs": "Nenhum registro no momento",
+      "pointsExplanation": "Como funcionam os pontos? Gerados a partir de testes diários, relacionados ao tempo de entrada efetivo, velocidade e precisão. Limite diário de 100; prática curta (≥5 segundos e precisão ≥30%) pelo menos +1.",
+      "recalculateActivity": "Recalcular atividade e estágio",
+      "recalculateActivityTooltip": "O que é a atividade e estágio de Recalcular? Ele irá reler seus últimos 5 dias de registros de teste, calcular os minutos de entrada efetivos e atualizar a lista de atividades e o estágio atual.",
+      "recentActivity": "Atividade dos últimos 5 dias",
+      "recentLogs": "Registros recentes",
+      "stage1Desc": "Primeiro broto aparece",
+      "stage2Desc": "Segunda folha cresce",
+      "stage3Desc": "Multiplicação de folhas",
+      "stage4Desc": "As flores florescem",
+      "stage5Desc": "Pequenas coroas de árvore (frutos)",
+      "todaySummary": "Resumo de hoje"
+    },
+    "ui": {
+      "closeHint": "Fechar dica",
+      "gotIt": "Entendi",
+      "later": "Mais tarde",
+      "start": "Iniciar",
+      "string089": "Por favor, faça login primeiro.",
+      "string090": "Informações Pessoais",
+      "string092": "Política de Privacidade",
+      "string154": "Termos de Serviço"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Se você tiver alguma dúvida sobre estes Termos de Serviço, por favor, levante-as através da nossa página oficial de Issues no GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Por favor, note que esta é uma plataforma pública, então não deixe suas informações pessoais aqui."
+      },
+      "section5": {
+        "content2": "Não nos responsabilizamos por qualquer perda ou dano aos seus registros de prática ou dados de usuário, nem garantimos a preservação permanente dos dados.",
+        "content3": "Reservamos o direito de modificar, suspender ou encerrar permanentemente este serviço a qualquer momento, por qualquer motivo, sem aviso prévio.",
+        "subtitle1": "Fornecido como está:",
+        "subtitle2": "Preservação de Dados:",
+        "subtitle3": "Direitos de Rescisão de Serviço:",
+        "content1": "Este serviço é fornecido \"no estado em que se encontra\", sem garantias de qualquer tipo.",
+        "title": "5. Isenção de responsabilidade e limitações do serviço"
+      },
+      "footer": "© 2025 TypeSprout. Todos os direitos reservados.",
+      "lastUpdated": "Última atualização: 21 de setembro de 2025",
+      "section2": {
+        "listItem1": "Conteúdo Gerado por IA: Alguns artigos de prática são analisados, coletados ou gerados por modelos de IA (como o ChatGPT) apenas para prática de digitação.",
+        "listItem2": "Textos da Bíblia: Alguns bancos de perguntas da Bíblia vêm de serviços de API de terceiros. Quando esse serviço está inacessível, textos alternativos podem ser gerados por modelos de IA.",
+        "content1": "O único objetivo deste serviço é fornecer prática de habilidades de digitação. Não é uma ferramenta de pesquisa acadêmica ou educação religiosa. Todo o conteúdo do site serve a este único propósito.",
+        "content2": "Para fornecer textos de prática ricos, o conteúdo do banco de questões deste serviço vem de várias fontes. Declaramos aqui que:",
+        "content3": "A precisão, integridade e adequação como material de fé não são garantidas. Por favor, entenda isso apenas como texto para prática.",
+        "subtitle1": "Objetivo do serviço",
+        "subtitle2": "Fontes de conteúdo e isenção de responsabilidade",
+        "title": "2. Descrição do serviço e fontes de conteúdo"
+      },
+      "section1": {
+        "content1": "Bem-vindo ao TypeSprout (doravante denominado \"este serviço\"). Este serviço é um projeto gratuito e sem fins lucrativos mantido por um desenvolvedor individual, destinado a fornecer aos usuários (especialmente crianças e aprendizes) um ambiente simples de prática de digitação online.",
+        "content2": "Ao acessar ou usar este serviço, você concorda que leu, entendeu e aceita todas as disposições destes Termos de Serviço (doravante denominados \"estes termos\"). Se você não concorda com qualquer parte destes termos, pare imediatamente de usar este serviço.",
+        "title": "1. Disposições gerais e aceitação dos termos"
+      },
+      "section3": {
+        "content1": "Este serviço é destinado apenas para uso pessoal e educacional, e é concedido sob uma licença não exclusiva, intransferível e revogável.",
+        "content2": "É proibido o uso deste serviço para fins comerciais, direta ou indiretamente.",
+        "subtitle1": "Uso pessoal e não comercial",
+        "subtitle2": "Proibido o uso comercial",
+        "title": "3. Licença de uso e restrições"
+      },
+      "section4": {
+        "content1": "Os usuários são responsáveis por gerenciar adequadamente suas informações de login.",
+        "content2": "É proibido qualquer comportamento que prejudique o funcionamento normal deste serviço e fraudes.",
+        "subtitle1": "Segurança da conta",
+        "subtitle2": "Proibido abuso e conduta inadequada",
+        "title": "4. Responsabilidades dos usuários"
+      },
+      "section6": {
+        "content": "Por favor, revise a política de privacidade.",
+        "title": "6. Política de privacidade"
+      },
+      "titleSuffix": "Termos de serviço"
+    },
+    "correctChars": "Correct Chars: {{chars}} caracteres",
+    "createError": "Criar falhou:",
+    "ctaPractice": "Iniciar Prática",
+    "layout": {
+      "dailyReminder": "Lembrete: pratique um pouco todos os dias para ajudar a muda a crescer e melhorar sua digitação!",
+      "epExplanation": "Como ganhar pontos? Cada teste é calculado por tempo × velocidade × precisão (base × minutos × (velocidade/alvo, máximo ×2) × (0.5+0.5×precisão)). Limite diário 100; regras de incentivo: quando a precisão ≥30%, pelo menos +1 ponto a cada 10 segundos (cumulativo); ≥30 segundos e precisão ≥50% pelo menos +1.",
+      "loginSuggestion": "Recomendamos usar o Login com o Google no canto superior direito para salvar suas pontuações e histórico; este site valoriza a anonimidade e a privacidade, e não armazenará dados pessoais sensíveis.",
+      "remaining": "remaining",
+      "todayProgress": "Hoje:"
+    },
+    "practice": {
+      "description": "Esta área é apenas para operações e gerenciamento de conteúdo."
+    },
+    "error": {
+      "errorOccurred": "Ocorreu um erro",
+      "goBack": "Voltar",
+      "goHome": "Voltar para a Página Inicial",
+      "loadingError": "Ocorreu um erro ao carregar a página, por favor tente novamente mais tarde."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} taxa de erro {{percent}}%",
+      "relativeScale": "Escala relativa: Verde ≤30% · Amarelo ≤70% · Vermelho >70% (relativo à tecla de erro mais alta; com base na taxa de erro cumulativa recente)"
+    },
+    "estimatedMinutes": "Estimado {{minutes}} minutos",
+    "nav": {
+      "garden": "Jardim",
+      "home": "Início",
+      "leaderboard": "Classificação",
+      "practice": "Praticar",
+      "profile": "Perfil",
+      "subtitle": "Escolha o conteúdo de prática que mais se adequa a você",
+      "test": "Teste",
+      "result": "Resultado"
+    },
+    "meta": {
+      "gardenDescription": "Cultive sua árvore com pontos de digitação e recompensas.",
+      "homeDescription": "Prática de digitação para crianças com crescimento de árvore gamificado.",
+      "leaderboardDescription": "Classificações diárias/semanais/mensais por idioma.",
+      "practiceDescription": "Prática de digitação gratuita com suporte a IME e modos.",
+      "profileDescription": "Suas informações pessoais, nota e preferências.",
+      "result": "Resultado",
+      "resultDescription": "Seus resultados do teste de digitação.",
+      "testDescription": "Teste cronometrado mostrando precisão e pontuação composta."
+    },
+    "grade": "Nota {{grade}}",
+    "questionBank": {
+      "gradeRange": "Série",
+      "recommended": "Recomendado",
+      "totalQuestions": "Total de questões",
+      "children": {
+        "name": "Banco de questões para crianças",
+        "description": "Prática básica de digitação para crianças"
+      },
+      "title": "Escolher banco de questões",
+      "subtitle": "Selecione o banco de prática que combina com você",
+      "loading": "Carregando bancos de questões...",
+      "supportedLanguages": "Idiomas compatíveis",
+      "noRecommendation": "Não há bancos recomendados para sua série",
+      "bible": {
+        "name": "Banco de questões bíblicas",
+        "description": "Prática de digitação com versículos bíblicos"
+      }
+    },
+    "highestHere": "Mais alto aqui {{value}}",
+    "hours": "{{count}} horas",
+    "hoursMinutes": "{{hours}} horas {{minutes}} minutos",
+    "leaderScore": "Pontuação Composta",
+    "levelUpSuggestion": "Para alcançar o estágio {{needStage}}, sugira pelo menos {{moreMin}} minutos a mais de input efetivo hoje.",
+    "loadError": "Falha ao carregar a classificação, por favor tente novamente mais tarde.",
+    "auth": {
+      "signOut": "Sair",
+      "pleaseSignIn": "Por favor, faça login com o Google primeiro",
+      "signIn": "Entrar com o Google"
+    },
+    "metricsTip": "Explicação de velocidade e precisão",
+    "minutes": "{{count}} minutos",
+    "minutesSeconds": "{{minutes}} minutos {{seconds}} segundos",
+    "bible": {
+      "name": "Banco de Questões da Bíblia"
+    },
+    "noRecommendation": "Nenhum banco de questões recomendado para o seu nível de série",
+    "percentile": "Excede cerca de {{percent}}% das pessoas",
+    "progress": "Progresso {{current}} / {{total}}",
+    "recentValue": "Recente {{value}} {{trend}}",
+    "recordNumber": "Registro {{number}}",
+    "dev": {
+      "savedToFirestore": "Salvo em tempo real no Firestore",
+      "stage": "Fase {{stage}}",
+      "stageOverview": "Visão geral em cinco etapas (para comparação de aparência)"
+    },
+    "seconds": "{{count}} segundos",
+    "shortcuts": "Iniciar/pause espaço · R reiniciar · F focar · Enter enviar esta pergunta",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} caracteres · {{accuracy}}% de precisão",
+    "string094": "Nós usamos sua conta do Google apenas para salvar seu progresso e histórico.",
+    "string095": "Que dados coletamos?",
+    "string096": "Nós coletamos apenas suas pontuações de digitação, precisão e tempo de prática. Não coletamos informações pessoais, como seu nome, e-mail ou outros dados sensíveis.",
+    "string097": "Usamos esses dados para fornecer feedback personalizado e mostrar seu progresso ao longo do tempo.",
+    "string155": "Ao usar este site, você concorda com os seguintes termos:",
+    "string156": "Você é responsável pelo seu próprio aprendizado e progresso.",
+    "string157": "Quais são os termos?",
+    "string158": "Os termos incluem: usar o site apenas para fins educacionais, não compartilhar conteúdo inadequado e respeitar outros usuários.",
+    "supportedLanguages": "Idiomas Suportados",
+    "totalQuestionChars": "Total Question Chars: {{chars}} caracteres",
+    "vsSiteAverage": "Comparado à média do site (mesma língua): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.742Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Enviar (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

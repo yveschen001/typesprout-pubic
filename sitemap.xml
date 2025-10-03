@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/en-US/</loc></url>
+  <url><loc>https://example.com/en-US/practice</loc></url>
+  <url><loc>https://example.com/en-US/test</loc></url>
+  <url><loc>https://example.com/en-US/result</loc></url>
+  <url><loc>https://example.com/en-US/leaderboard</loc></url>
+  <url><loc>https://example.com/en-US/profile</loc></url>
+  <url><loc>https://example.com/en-US/garden</loc></url>
+  <url><loc>https://example.com/zh-TW/</loc></url>
+  <url><loc>https://example.com/zh-TW/practice</loc></url>
+  <url><loc>https://example.com/zh-TW/test</loc></url>
+  <url><loc>https://example.com/zh-TW/result</loc></url>
+  <url><loc>https://example.com/zh-TW/leaderboard</loc></url>
+  <url><loc>https://example.com/zh-TW/profile</loc></url>
+  <url><loc>https://example.com/zh-TW/garden</loc></url>
+  <url><loc>https://example.com/zh-CN/</loc></url>
+  <url><loc>https://example.com/zh-CN/practice</loc></url>
+  <url><loc>https://example.com/zh-CN/test</loc></url>
+  <url><loc>https://example.com/zh-CN/result</loc></url>
+  <url><loc>https://example.com/zh-CN/leaderboard</loc></url>
+  <url><loc>https://example.com/zh-CN/profile</loc></url>
+  <url><loc>https://example.com/zh-CN/garden</loc></url>
+</urlset>

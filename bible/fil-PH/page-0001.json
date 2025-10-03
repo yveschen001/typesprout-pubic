@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-JHN-003-016",
+      "lang": "fil-PH",
+      "text": "Sapagkat gayon na lamang ang pag-ibig ng Dios sa sanglibutan, na ibinigay niya ang kaniyang bugtong na Anak, upang ang sinomang sumampalataya sa kaniya ay huwag mapahamak, kundi magkaroon ng buhay na walang hanggan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-001",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay aking pastor hindi ako mangangailangan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-031",
+      "lang": "fil-PH",
+      "text": "Ngunit ang nagsisihintay sa Panginoon ay magpapanibagong lakas silay magbabangon na may mga pakpak na parang mga agila silay tatakbo, at hindi mapapagod silay lalakad, at hindi manghihina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-014",
+      "lang": "fil-PH",
+      "text": "Kayoy ilaw ng sanglibutan. Ang isang bayan na nakatayo sa ibabaw ng bundok ay hindi maitatago.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-013",
+      "lang": "fil-PH",
+      "text": "Maaari kong gawin ang lahat ng bagay sa pamamagitan ni Cristo na nagpapalakas sa akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-001-001",
+      "lang": "fil-PH",
+      "text": "Sa pasimula ay nilikha ng Dios ang langit at ang lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-001",
+      "lang": "fil-PH",
+      "text": "Mapalad ang tao na hindi lumalakad sa payo ng mga masama, ni tumatayo sa daan ng mga makasalanan, ni umuupo sa upuan ng mga manglilibak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat nalalaman ko ang mga pagiisip na iniisip ko tungkol sa inyo, sabi ng Panginoon, mga pagiisip ng kapayapaan, at hindi ng kasamaan, upang bigyan kayo ng hinaharap at pag-asa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-008-012",
+      "lang": "fil-PH",
+      "text": "Kayat muling nagsalita si Jesus sa kanila, na sinasabi, Ako ang ilaw ng sanglibutan ang sumusunod sa akin ay hindi lalakad sa kadiliman, kundi magkakaroon ng ilaw ng buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028",
+      "lang": "fil-PH",
+      "text": "At nalalaman natin na ang lahat ng mga bagay ay nagsasama-sama sa ikabubuti sa kanila na umiibig sa Dios, sa kanila na tinawag ayon sa kaniyang layunin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-014-014",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay makikipaglaban para sa inyo, at kayoy mananahimik.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-001",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay aking liwanag at aking kaligtasan kanino ako matatakot? Ang Panginoon ay ang lakas ng aking buhay kanino ako matatakot?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-003",
+      "lang": "fil-PH",
+      "text": "Iingatan mo siya sa ganap na kapayapaan, na ang isip ay nananatili sa iyo sapagkat siyay nagtitiwala sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-033",
+      "lang": "fil-PH",
+      "text": "Ngunit hanapin muna ang kaharian ng Dios at ang kaniyang katuwiran at ang lahat ng mga bagay na ito ay idaragdag sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-011-001",
+      "lang": "fil-PH",
+      "text": "Ngayon ang pananampalataya ay ang katibayan ng mga bagay na inaasahan, ang katibayan ng mga bagay na hindi nakikita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-006",
+      "lang": "fil-PH",
+      "text": "Magpakatatag kayo at magpakatatag huwag mangatakot, ni manglupaypay man sa kanila sapagkat ang Panginoon mong Dios, siya ang kasama mo hindi ka niya iiwan, ni pababayaan man.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-005",
+      "lang": "fil-PH",
+      "text": "Magtiwala ka sa Panginoon ng buong puso at huwag kang manalig sa iyong sariling kaunawaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-010",
+      "lang": "fil-PH",
+      "text": "Huwag kang matakot sapagkat akoy kasama mo huwag kang manglupaypay sapagkat akoy iyong Dios palalakasin kita oo, tutulungan kita oo, iingatan kita ng aking kanang kamay ng aking katuwiran.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-006",
+      "lang": "fil-PH",
+      "text": "Sinabi sa kaniya ni Jesus, Ako ang daan, at ang katotohanan, at ang buhay walang makaparoroon sa Ama kundi sa pamamagitan ko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-017",
+      "lang": "fil-PH",
+      "text": "Kayat kung ang sinoman ay na kay Cristo, siya ay isang bagong nilalang ang mga bagay na luma ay lumipas narito, ang lahat ng mga bagay ay naging bago.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105",
+      "lang": "fil-PH",
+      "text": "Ang iyong salita ay ilaw sa aking mga paa, at liwanag sa aking landas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-005",
+      "lang": "fil-PH",
+      "text": "Ngunit siyay nasugatan dahil sa ating mga pagsalangsang siyay nadurog dahil sa ating mga kasamaan ang parusa ng ating kapayapaan ay nasa kaniya at sa pamamagitan ng kaniyang mga sugat ay nagsigaling tayo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-028",
+      "lang": "fil-PH",
+      "text": "Lumapit kayo sa akin, kayong lahat na nahihirapan at nabibigatan, at akoy magbibigay sa inyo ng kapahingahan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-009",
+      "lang": "fil-PH",
+      "text": "Na kung ikaw ay umamin sa iyong bibig na si Jesucristo ay Panginoon, at sumampalataya ka sa iyong puso na siyay binuhay ng Dios mula sa mga patay, ikaw ay maliligtas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-004",
+      "lang": "fil-PH",
+      "text": "Magalak ka rin sa Panginoon at siyay magbibigay sa iyo ng mga ninanais ng iyong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-001",
+      "lang": "fil-PH",
+      "text": "Ang tumatahan sa lihim na dako ng Kataas-taasan ay mananatili sa lilim ng Makapangyarihan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-007",
+      "lang": "fil-PH",
+      "text": "Mapalad ang tao na nagtitiwala sa Panginoon, at ang pag-asa ay ang Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-005",
+      "lang": "fil-PH",
+      "text": "Ako ang puno ng ubas, kayo ang mga sanga ang nananatili sa akin, at ako sa kaniya, ay nagbubunga ng marami sapagkat kung wala ako, ay wala kayong magagawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-008",
+      "lang": "fil-PH",
+      "text": "Sapagkat sa biyaya kayoy naligtas sa pamamagitan ng pananampalataya at itoy hindi sa inyong sarili itoy kaloob ng Dios",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-100-004",
+      "lang": "fil-PH",
+      "text": "Pumasok kayo sa kaniyang mga pintuan na may pasasalamat, at sa kaniyang mga looban na may pagpupuri magpasalamat kayo sa kaniya, at purihin ang kaniyang pangalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-003",
+      "lang": "fil-PH",
+      "text": "Ihandog mo ang iyong mga gawa sa Panginoon, at ang iyong mga pagiisip ay itatatag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-008",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang aking mga pagiisip ay hindi inyong mga pagiisip, at ang inyong mga daan ay hindi aking mga daan, sabi ng Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-007",
+      "lang": "fil-PH",
+      "text": "Humingi, at itoy ibibigay sa inyo hanapin, at kayoy makakasumpong kumatok, at itoy bubuksan sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-013",
+      "lang": "fil-PH",
+      "text": "Ngunit ngayoy nananatili ang pananampalataya, pag-asa, at pag-ibig, ang tatlong ito ngunit ang pinakamalaki sa mga ito ay ang pag-ibig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-001",
+      "lang": "fil-PH",
+      "text": "Awit ng mga pagsampa. Itataas ko ang aking mga mata sa mga bundok saan manggagaling ang aking tulong?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-008",
+      "lang": "fil-PH",
+      "text": "Oh, tikman at tingnan na ang Panginoon ay mabuti mapalad ang tao na tumatakbo sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-010",
+      "lang": "fil-PH",
+      "text": "Ang magnanakaw ay hindi dumarating kundi upang magnakaw, pumatay, at sumira akoy naparito upang silay magkaroon ng buhay, at magkaroon ng kasaganaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002",
+      "lang": "fil-PH",
+      "text": "Huwag kayong makiayon sa sanglibutang ito, kundi magbago kayo sa pamamagitan ng pagbabago ng inyong isipan, upang mapatunayan ninyo kung ano ang mabuti, at kaaya-aya, at ganap na kalooban ng Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-018-002",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay aking bato, aking kuta, at aking tagapagligtas aking Dios, aking bato, na aking pinagtatakbuhan aking kalasag, at ang sungay ng aking kaligtasan, aking mataas na tore.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-139-014",
+      "lang": "fil-PH",
+      "text": "Akoy magpapasalamat sa iyo sapagkat akoy kahanga-hanga at kahanga-hangang nilikha ang iyong mga gawa ay kahanga-hanga ang aking kaluluwa ay nalalaman na lubos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-020",
+      "lang": "fil-PH",
+      "text": "na nagtuturo sa kanila na tuparin ang lahat ng mga bagay na iniutos ko sa inyo. Narito, akoy sumasa inyo sa lahat ng mga araw, hanggang sa katapusan ng panahon. Siyay Amen.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007",
+      "lang": "fil-PH",
+      "text": "Sapagkat hindi tayo binigyan ng Dios ng espiritu ng takot, kundi ng kapangyarihan, at ng pag-ibig, at ng maayos na pag-iisip.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-010",
+      "lang": "fil-PH",
+      "text": "Ang pangalan ng Panginoon ay isang matibay na tore ang mga matuwid ay tumatakbo sa kaniya, at ligtas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033",
+      "lang": "fil-PH",
+      "text": "Sinasabi ko sa inyo ang mga bagay na ito, upang sa akin ay magkaroon kayo ng kapayapaan. Sa sanlibutan ay mayroon kayong kapighatian ngunit magalak kayo akoy nanaig sa sanlibutan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-022",
+      "lang": "fil-PH",
+      "text": "Ngunit ang bunga ng Espiritu ay pag-ibig, kagalakan, kapayapaan, pagtitiis, kabaitan, kabutihan, pananampalataya,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-020-007",
+      "lang": "fil-PH",
+      "text": "Ang ilan ay nagtitiwala sa mga karo, at ang ilan ay sa mga kabayo ngunit kami ay nagtitiwala sa pangalan ng Panginoon na aming Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang Panginoon ay Dios ay araw at kalasag ang Panginoon ay magbibigay ng biyaya at kaluwalhatian hindi niya pinapawalang-sala ang mabuting bagay sa mga lumalakad ng walang kapintasan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-060-001",
+      "lang": "fil-PH",
+      "text": "Bumangon, lumiwanag sapagkat ang iyong liwanag ay dumating, at ang kaluwalhatian ng Panginoon ay sumikat sa iyo!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-037",
+      "lang": "fil-PH",
+      "text": "Sinabi sa kaniya ni Jesus, Ibigin mo ang Panginoon mong Dios ng buong puso, at ng buong kaluluwa, at ng buong pag-iisip.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-023",
+      "lang": "fil-PH",
+      "text": "At anuman ang inyong gawin, gawin ninyo ng buong puso, na parang sa Panginoon, at hindi sa mga tao",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-018",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay malapit sa mga may pusong wasak at inililigtas ang mga may espiritung bagbag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-002",
+      "lang": "fil-PH",
+      "text": "Ang aking tulong ay mula sa Panginoon, na gumawa ng langit at lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-002",
+      "lang": "fil-PH",
+      "text": "Narito, ang Dios ay aking kaligtasan. Akoy magtitiwala, at hindi matatakot sapagkat si Yah, si Yahweh, ay aking lakas at awit at siyay naging aking kaligtasan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-017",
+      "lang": "fil-PH",
+      "text": "Ihiwalay mo sila sa iyong katotohanan. Ang iyong salita ay katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-008",
+      "lang": "fil-PH",
+      "text": "Ngunit ipinakikita ng Dios ang kaniyang sariling pag-ibig sa atin, sa ganitong paraan na habang tayoy mga makasalanan, si Cristo ay namatay para sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-018",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay malapit sa lahat ng tumatawag sa kaniya, sa lahat ng tumatawag sa kaniya sa katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-009-010",
+      "lang": "fil-PH",
+      "text": "Ang takot sa Panginoon ay pasimula ng karunungan ang kaalaman ng Banal ay pagkaunawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-064-008",
+      "lang": "fil-PH",
+      "text": "Ngunit ngayoy, Oh Panginoon, ikaw ang aming Ama kami ang luwad, at ikaw ang aming magpapalayok kami ang lahat ay gawa ng iyong kamay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026",
+      "lang": "fil-PH",
+      "text": "Nang tumingin si Jesus sa kanila, ay sinabi, Sa mga tao itoy hindi posible ngunit sa Dios ang lahat ng mga bagay ay posible.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-011",
+      "lang": "fil-PH",
+      "text": "Magsuot kayo ng buong baluti ng Dios, upang kayoy makapagtagumpay laban sa mga pakana ng diyablo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-005",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang galit niyay sa isang sandali lamang ang kaniyang kabaitan ay sa buong buhay. Ang pag-iyak ay maaaring magtagal sa gabi, ngunit ang kagalakan ay dumarating sa umaga.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-012",
+      "lang": "fil-PH",
+      "text": "Gaya ng layo ng silangan sa kanluran, gayon inalis niya ang ating mga pagsalangsang sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-002",
+      "lang": "fil-PH",
+      "text": "Yahweh, maawa ka sa amin kamiy naghihintay sa iyo. Maging lakas mo kami sa bawat umaga, at kaligtasan din namin sa panahon ng kaguluhan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006",
+      "lang": "fil-PH",
+      "text": "Sa anuman ay huwag kayong mangabalisa, kundi sa lahat ng mga bagay, sa pamamagitan ng panalangin at ng pagsusumamo na may pasasalamat, ay ipaalam ninyo ang inyong mga kahilingan sa Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-005",
+      "lang": "fil-PH",
+      "text": "Sapagkat ikaw, Panginoon, ay mabuti, at handang magpatawad, at sagana sa kagandahang-loob sa lahat ng tumatawag sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-020",
+      "lang": "fil-PH",
+      "text": "Sapagkat kung saan may dalawa o tatlong nagkakatipon sa aking pangalan, naroon ako sa gitna nila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-016",
+      "lang": "fil-PH",
+      "text": "Kayat lumapit tayo nang may katapangan sa trono ng biyaya, upang tayoy tumanggap ng awa at makatagpo ng biyaya upang makatulong sa panahon ng pangangailangan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-084-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang isang araw sa iyong mga looban ay higit na mabuti kay sa isang libo. Mas nais ko pang maging tagapagbantay sa bahay ng aking Diyos, kay sa tumira sa mga tolda ng kasamaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-023",
+      "lang": "fil-PH",
+      "text": "Ingatan mo ang iyong puso ng buong sikap sapagkat dito nagmumula ang mga bukal ng buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017",
+      "lang": "fil-PH",
+      "text": "Ang gawa ng katuwiran ay kapayapaan at ang bunga ng katuwiran, katahimikan at katiyakan magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-006",
+      "lang": "fil-PH",
+      "text": "Hindi siya narito, sapagkat siyay nabuhay na maguli, gaya ng sinabi niya. Halika, tingnan mo ang dako kung saan siya nakahiga.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-007",
+      "lang": "fil-PH",
+      "text": "Ilagay ang lahat ng iyong mga alalahanin sa kaniya, sapagkat siyay nagmamalasakit sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-008",
+      "lang": "fil-PH",
+      "text": "Inilagay ko si Yahweh sa aking harapan palagi sapagkat siyay nasa aking kanang kamay, hindi ako makikilos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-136-001",
+      "lang": "fil-PH",
+      "text": "Magpasalamat kayo kay Yahweh, sapagkat siyay mabuti sapagkat ang kaniyang kagandahang-loob ay magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-007-014",
+      "lang": "fil-PH",
+      "text": "Kayat ang Panginoon mismo ay magbibigay sa inyo ng tanda. Narito, ang dalaga ay maglilihi, at manganganak ng isang anak na lalaki, at tatawagin ang kaniyang pangalan na Emmanuel.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat sa inyoy ipinanganak sa araw na ito, sa bayan ni David, ang isang Tagapagligtas, na siya ang Cristo na Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013",
+      "lang": "fil-PH",
+      "text": "Ngayon ay punuin nawa kayo ng Diyos ng pag-asa ng buong kagalakan at kapayapaan sa pananampalataya, upang kayoy sumagana sa pag-asa sa kapangyarihan ng Espiritu Santo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-028-007",
+      "lang": "fil-PH",
+      "text": "Si Yahweh ay aking lakas at aking kalasag ang aking pusoy nagtitiwala sa kaniya, at akoy tinulungan. Kayat ang aking pusoy labis na nagagalak sa aking awit ay pupurihin ko siya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-150-006",
+      "lang": "fil-PH",
+      "text": "Purihin ang lahat ng may hininga purihin si Yah!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022",
+      "lang": "fil-PH",
+      "text": "Tumingin kayo sa akin, at kayoy maligtas, kayong lahat na sa mga dulo ng lupa sapagkat akoy Diyos, at wala nang iba.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009",
+      "lang": "fil-PH",
+      "text": "Mapalad ang mga tagagawa ng kapayapaan, sapagkat silay tatawaging mga anak ng Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009",
+      "lang": "fil-PH",
+      "text": "Si Yahweh ay magiging mataas na tore para sa mga inaapi isang mataas na tore sa mga panahon ng kaguluhan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-024",
+      "lang": "fil-PH",
+      "text": "Ito ang araw na ginawa ni Yahweh tayoy magagalak at magagalak dito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-008",
+      "lang": "fil-PH",
+      "text": "Ang damo ay natutuyo, ang bulaklak ay nalalanta ngunit ang salita ng ating Diyos ay nananatili magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-018",
+      "lang": "fil-PH",
+      "text": "Sinasabi ko sa iyo, na ikaw ay Pedro, at sa batong ito ay itatayo ko ang aking iglesia at ang mga pintuan ng Hades ay hindi magwawagi laban dito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-018",
+      "lang": "fil-PH",
+      "text": "Walang takot sa pag-ibig kundi ang ganap na pag-ibig ay nagtataboy ng takot, sapagkat ang takot ay may parusa. Ang natatakot ay hindi ginawang ganap sa pag-ibig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-009",
+      "lang": "fil-PH",
+      "text": "Si Yahweh ay mabuti sa lahat ang kaniyang mga kahabagan ay nasa lahat ng kaniyang mga gawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-025",
+      "lang": "fil-PH",
+      "text": "Ang malugod na kaluluwa ay magiging masagana ang nagdidilig ay dinidilig din.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-016",
+      "lang": "fil-PH",
+      "text": "Narito, inukit kita sa mga palad ng aking mga kamay ang iyong mga pader ay palaging nasa aking harapan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang Anak ng Tao ay naparito upang hanapin at iligtas ang nawala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-020",
+      "lang": "fil-PH",
+      "text": "Ngayon sa kaniya na makagawa ng labis na sagana sa lahat ng ating hinihiling o iniisip, ayon sa kapangyarihang gumagawa sa atin,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-004",
+      "lang": "fil-PH",
+      "text": "Ipakita mo sa akin ang iyong mga daan, Yahweh ituro mo sa akin ang iyong mga landas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014",
+      "lang": "fil-PH",
+      "text": "Maging katanggap-tanggap nawa sa iyong paningin, Yahweh, ang mga salita ng aking bibig at ang pagninilay ng aking puso, aking bato at aking tagapagligtas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-009",
+      "lang": "fil-PH",
+      "text": "Hindi sila mangdadamay o mangwawasak sa lahat ng aking banal na bundok sapagkat ang lupa ay mapupuno ng kaalaman kay Yahweh, gaya ng mga tubig na bumabalot sa dagat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-024-035",
+      "lang": "fil-PH",
+      "text": "Ang langit at lupa ay lilipas, ngunit ang aking mga salita ay hindi lilipas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-008",
+      "lang": "fil-PH",
+      "text": "Si Jesucristo ay pareho kahapon, ngayon, at magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-010",
+      "lang": "fil-PH",
+      "text": "Tumahimik ka, at alamin mong akoy Diyos akoy itataas sa gitna ng mga bansa, akoy itataas sa lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006",
+      "lang": "fil-PH",
+      "text": "Sa lahat ng iyong mga lakad ay kilalanin mo siya, at siyay magtutuwid ng iyong mga landas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-029",
+      "lang": "fil-PH",
+      "text": "Siyay nagbibigay ng kapangyarihan sa mga mahihina siyay nagpapalakas ng lakas ng walang lakas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-016",
+      "lang": "fil-PH",
+      "text": "Gayundin, hayaan mong ang iyong ilaw ay magningning sa harapan ng mga tao, upang kanilang makita ang iyong mabubuting gawa at luwalhatiin ang iyong Ama na nasa langit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-039",
+      "lang": "fil-PH",
+      "text": "ni taas, ni lalim, ni anuman sa mga nilikhang bagay ang makapaghiwalay sa atin sa pag-ibig ng Diyos na nasa kay Cristo Jesus na ating Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-009",
+      "lang": "fil-PH",
+      "text": "Hindi bat inutusan kita? Magpakatatag ka at magpakatatag. Huwag kang matakot, ni manghinaan ng loob, sapagkat si Yahweh na iyong Diyos ay kasama mo saan ka man pumaroon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-008",
+      "lang": "fil-PH",
+      "text": "Si Yahweh ay mag-iingat sa iyong paglabas at sa iyong pagpasok, mula ngayon at magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-009",
+      "lang": "fil-PH",
+      "text": "Ang puso ng tao ay nagbabalak ng kaniyang lakad ngunit si Yahweh ang nagtutuwid ng kaniyang mga hakbang.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-001",
+      "lang": "fil-PH",
+      "text": "Ngunit ngayon, si Yahweh na lumikha sa iyo, Jacob, at siya na humubog sa iyo, Israel, ay nagsasabi Huwag kang matakot, sapagkat akoy tinubos kita tinawag kita sa iyong pangalan ikaw ay akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-001-012",
+      "lang": "fil-PH",
+      "text": "Ngunit sa lahat ng tumanggap sa kaniya, ay binigyan niya ng karapatang maging mga anak ng Diyos, sa mga naniniwala sa kaniyang pangalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007",
+      "lang": "fil-PH",
+      "text": "At ang kapayapaan ng Diyos, na higit sa lahat ng kaalaman, ay mag-iingat sa inyong mga puso at mga pag-iisip kay Cristo Jesus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-007",
+      "lang": "fil-PH",
+      "text": "Sapagkat tayoy lumalakad sa pananampalataya, hindi sa paningin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat siyay maglalagay ng kaniyang mga anghel sa iyong mga kamay, upang ingatan ka sa lahat ng iyong mga lakad.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007",
+      "lang": "fil-PH",
+      "text": "Ang karunungan ay pinakamahalaga. Kumuha ka ng karunungan oo, kahit na itoy magastos sa lahat ng iyong pag-aari, kumuha ka ng kaalaman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-037",
+      "lang": "fil-PH",
+      "text": "Sapagkat walang bagay na sinalita ng Diyos ang hindi posible.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat tayoy kaniyang nilikha, na nilikha kay Cristo Jesus para sa mga mabubuting gawa, na inihanda ng Diyos bago pa man upang tayoy lumakad sa mga ito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-004",
+      "lang": "fil-PH",
+      "text": "Hinahanap ko si Yahweh, at siyay sumagot sa akin, at iniligtas ako mula sa lahat ng aking mga takot.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-022",
+      "lang": "fil-PH",
+      "text": "Ang masayang puso ay nakagagaling ng mabuti ngunit ang durog na espiritu ay natutuyo ng mga buto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-003",
+      "lang": "fil-PH",
+      "text": "Tumawag ka sa akin, at akoy sasagot sa iyo, at ipapakita ko sa iyo ang mga dakila at mahirap na bagay, na hindi mo nalalaman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-029",
+      "lang": "fil-PH",
+      "text": "Kunin mo ang aking pamatok sa iyo, at matuto sa akin sapagkat akoy maamo at mapagpakumbaba sa puso at makakasumpong kayo ng kapahingahan para sa inyong mga kaluluwa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-023",
+      "lang": "fil-PH",
+      "text": "Hawakan natin ang ating pag-amin ng pag-asa nang hindi nag-aalinlangan sapagkat siya na nangako ay tapat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-055-022",
+      "lang": "fil-PH",
+      "text": "Ihagis mo ang iyong pasanin kay Yahweh, at siyay magpapanatili sa iyo hindi niya pahihintulutan ang matuwid na makilos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021",
+      "lang": "fil-PH",
+      "text": "Ang kamatayan at buhay ay nasa kapangyarihan ng dila at ang mga umiibig dito ay kakain ng bunga nito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015",
+      "lang": "fil-PH",
+      "text": "Sapagkat ganito ang sabi ng Panginoong Yahweh, ang Banal ng Israel, Kayoy maliligtas sa pagbabalik at kapahingahan. Ang inyong lakas ay nasa katahimikan at sa pagtitiwala. Ngunit kayoy tumanggi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-035",
+      "lang": "fil-PH",
+      "text": "Sinabi sa kanila ni Jesus, Ako ang tinapay ng buhay. Ang sinumang lumapit sa akin ay hindi magugutom, at ang sinumang sumampalataya sa akin ay hindi kailanman mauuhaw.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-001",
+      "lang": "fil-PH",
+      "text": "Kayat tayoy inaring-ganap sa pamamagitan ng pananampalataya, tayoy may kapayapaan sa Diyos sa pamamagitan ng ating Panginoong Jesucristo",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-026",
+      "lang": "fil-PH",
+      "text": "Ang aking laman at ang aking puso ay nanghihina ngunit ang Diyos ang lakas ng aking puso at ang aking bahagi magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025",
+      "lang": "fil-PH",
+      "text": "Ang pag-aalala sa puso ng tao ay nagpapabigat dito ngunit ang mabuting salita ay nagpapasaya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-004",
+      "lang": "fil-PH",
+      "text": "Magtiwala sa Panginoon magpakailanman sapagkat sa Panginoon, sa Panginoon, ay isang walang hanggan na Bato.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-023",
+      "lang": "fil-PH",
+      "text": "Sinabi sa kanya ni Jesus, Kung ikaw ay makapananampalataya, ang lahat ng bagay ay posible sa kanya na nananampalataya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-017",
+      "lang": "fil-PH",
+      "text": "Siya ang una sa lahat ng mga bagay, at sa kanya ang lahat ng mga bagay ay pinanatili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008",
+      "lang": "fil-PH",
+      "text": "Aking ituturo sa iyo at ituturo sa iyo ang daang iyong lalakaran. Aking papayuhan ka na may aking mata sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-001",
+      "lang": "fil-PH",
+      "text": "Ang mahinahong sagot ay nagpapawalang-bisa ng galit ngunit ang mabagsik na salita ay nagpapasiklab ng poot.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-013",
+      "lang": "fil-PH",
+      "text": "Sapagkat ako, ang Panginoon mong Diyos, ay hahawak sa iyong kanang kamay, na sinasabi sa iyo, Huwag kang matakot. Aking tutulungan ka.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-003",
+      "lang": "fil-PH",
+      "text": "Mapalad ang mga dukha sa espiritu, sapagkat kanila ang Kaharian ng Langit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019",
+      "lang": "fil-PH",
+      "text": "Ang pag-asang ito ay mayroon tayo bilang ang angkla ng kaluluwa, isang pag-asa na tiyak at matatag at pumapasok sa loob ng tabing,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-003",
+      "lang": "fil-PH",
+      "text": "Huwag mong hayaang iwanan ka ng kabutihan at katotohanan. Ibigkis mo ang mga ito sa iyong leeg. Isulat mo ang mga ito sa tablet ng iyong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-027",
+      "lang": "fil-PH",
+      "text": "Narito, ako ang Panginoon, ang Diyos ng lahat ng laman. Mayroon bang anuman na masyadong mahirap para sa akin?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-036",
+      "lang": "fil-PH",
+      "text": "Ang sinumang nananampalataya sa Anak ay may buhay na walang hanggan, ngunit ang sinumang hindi sumusunod sa Anak ay hindi makakakita ng buhay, kundi ang galit ng Diyos ay nananatili sa kanya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012",
+      "lang": "fil-PH",
+      "text": "Nagsasaya sa pag-asa, nagtitiis sa mga kapighatian, patuloy na matatag sa panalangin,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-004-007",
+      "lang": "fil-PH",
+      "text": "Nakipaglaban ako sa mabuting laban. Natapos ko ang takbuhin. Napanatili ko ang pananampalataya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-003-020",
+      "lang": "fil-PH",
+      "text": "Narito, akoy nakatayo sa pintuan at kumakatok. Kung sinuman ang makarinig ng aking tinig at magbukas ng pinto, akoy papasok sa kanya at makikisalo sa kanya, at siyay makikisalo sa akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005",
+      "lang": "fil-PH",
+      "text": "Ngunit kung sinuman sa inyo ang kulang sa karunungan, ay humingi sa Diyos, na nagbibigay sa lahat ng sagana at walang kapintasan, at itoy ibibigay sa kanya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-017",
+      "lang": "fil-PH",
+      "text": "Bawat mabuting kaloob at bawat ganap na kaloob ay mula sa itaas, na bumababa mula sa Ama ng mga ilaw, na sa kaniyay walang pagbabago o anino ng paglipat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-008",
+      "lang": "fil-PH",
+      "text": "Lumapit kayo sa Diyos, at siyay lalapit sa inyo. Linisin ninyo ang inyong mga kamay, kayong mga makasalanan. Linisin ninyo ang inyong mga puso, kayong mga may dalawang isip.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-004",
+      "lang": "fil-PH",
+      "text": "Ang pag-ibig ay mapagpasensya at mabait. Ang pag-ibig ay hindi naiinggit. Ang pag-ibig ay hindi nagmamataas, hindi mapagmataas,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017",
+      "lang": "fil-PH",
+      "text": "Ang kaibigan ay nagmamahal sa lahat ng panahon at ang kapatid ay ipinanganak para sa kapighatian.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-006",
+      "lang": "fil-PH",
+      "text": "Sapagkat akoy nagnanais ng awa, at hindi ng hain at ng kaalaman sa Diyos higit sa mga handog na susunugin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-013",
+      "lang": "fil-PH",
+      "text": "Walang higit na pag-ibig kaysa sa pag-ibig na ito, na ang isang tao ay magbigay ng kanyang buhay para sa kanyang mga kaibigan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-010",
+      "lang": "fil-PH",
+      "text": "Sa pag-ibig ng mga kapatid ay maging maawain sa isat isa sa karangalan ay pahalagahan ang isat isa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-005",
+      "lang": "fil-PH",
+      "text": "hindi kumikilos ng hindi nararapat, hindi naghahanap ng sariling kapakinabangan, hindi nagagalit, hindi nagtatala ng masama",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008",
+      "lang": "fil-PH",
+      "text": "Ipinakita niya sa iyo, O tao, kung ano ang mabuti. Ano ang hinihingi ng Panginoon sa iyo, kundi ang gumawa ng matuwid, at mahalin ang awa, at lumakad na mapagpakumbaba kasama ng iyong Diyos?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-044",
+      "lang": "fil-PH",
+      "text": "Ngunit sinasabi ko sa inyo, ibigin ninyo ang inyong mga kaaway, pagpalain ang mga sumusumpa sa inyo, gumawa ng mabuti sa mga napopoot sa inyo, at manalangin para sa mga umaapi sa inyo at inuusig kayo,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-032",
+      "lang": "fil-PH",
+      "text": "At maging mabait sa isat isa, maawain, pinapatawad ang isat isa, gaya ng pinatawad din kayo ng Diyos sa pamamagitan ni Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-006",
+      "lang": "fil-PH",
+      "text": "hindi nagagalak sa kasamaan, kundi nagagalak sa katotohanan",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-012",
+      "lang": "fil-PH",
+      "text": "Ang poot ay nagpapasiklab ng alitan ngunit ang pag-ibig ay sumasakop sa lahat ng pagkakamali.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017",
+      "lang": "fil-PH",
+      "text": "Si Yahweh, ang iyong Dios, ay nasa gitna mo, isang makapangyarihang tagapagligtas. Siyay magagalak sa iyo ng kagalakan. Siyay magpapakalma sa iyo sa kaniyang pag-ibig. Siyay magagalak sa iyo na may awit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-031",
+      "lang": "fil-PH",
+      "text": "Kung ano ang nais mong gawin ng mga tao sa iyo, gawin mo rin sa kanila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-008",
+      "lang": "fil-PH",
+      "text": "At higit sa lahat ng mga bagay ay maging masigasig sa inyong pag-ibig sa isat isa, sapagkat ang pag-ibig ay sumasakop sa maraming kasalanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-007",
+      "lang": "fil-PH",
+      "text": "Ang pag-ibig ay nagdadala ng lahat ng bagay, nananampalataya sa lahat ng bagay, umaasa sa lahat ng bagay, at nagtitiis sa lahat ng bagay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-036-007",
+      "lang": "fil-PH",
+      "text": "Gaano kayaman ang iyong pag-ibig, O Diyos! Ang mga anak ng mga tao ay kumukupkop sa lilim ng iyong mga pakpak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-001-017",
+      "lang": "fil-PH",
+      "text": "Matutong gumawa ng mabuti. Hanapin ang katarungan. Alisin ang mga inaapi. Ipagtanggol ang mga ulila. Ipaglaban ang mga balo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-031",
+      "lang": "fil-PH",
+      "text": "Ang pangalawa ay katulad nito Ibigin mo ang iyong kapwa gaya ng iyong sarili. Walang ibang utos na higit na dakila kaysa sa mga ito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-011",
+      "lang": "fil-PH",
+      "text": "Nang akoy bata, akoy nagsalita na parang bata, nakaramdam na parang bata, nag-isip na parang bata. Ngayon na akoy naging tao, inalis ko na ang mga bagay ng pagkabata.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-017",
+      "lang": "fil-PH",
+      "text": "Mas mabuti ang hapunan ng mga gulay, kung saan naroon ang pag-ibig, kaysa sa isang pinatabang guya na may poot.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-003",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay nagpakita sa akin ng matagal na panahon, na sinasabi, Oo, inibig kita ng isang walang hanggan na pag-ibig. Kayat akoy humatak sa iyo ng may pag-ibig na kabutihan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-035",
+      "lang": "fil-PH",
+      "text": "Sa pamamagitan nitoy makikilala ng lahat na kayoy aking mga alagad, kung kayoy may pag-ibig sa isat isa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-014",
+      "lang": "fil-PH",
+      "text": "Sa itaas ng lahat ng mga bagay na ito, lumakad sa pag-ibig, na siyang tali ng kasakdalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-013-012",
+      "lang": "fil-PH",
+      "text": "Sapagkat ngayoy sa salamin ay nakikita natin na parang sa isang anino ngunit kung magkagayoy mukha sa mukha. Ngayoy nakakaalam ako ng bahagya ngunit kung magkagayoy makakaalam ako ng lubos, gaya ng akoy lubos na nakilala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-010",
+      "lang": "fil-PH",
+      "text": "Ang awa at katotohanan ay nagtatagpo. Ang katuwiran at kapayapaan ay naghalikan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-002-019",
+      "lang": "fil-PH",
+      "text": "Aking ipagkakasal ka sa akin magpakailanman. Oo, aking ipagkakasal ka sa akin sa katuwiran, sa katarungan, sa pag-ibig na kabutihan, at sa habag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012",
+      "lang": "fil-PH",
+      "text": "Kayat anuman ang nais mong gawin ng mga tao sa iyo, gawin mo rin sa kanila sapagkat ito ang batas at ang mga propeta.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-012",
+      "lang": "fil-PH",
+      "text": "Naway gawin ng Panginoon na kayoy dumami at sumagana sa pag-ibig sa isat isa at sa lahat ng tao, gaya ng ginagawa namin sa inyo,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014",
+      "lang": "fil-PH",
+      "text": "Hayaan ang lahat ng inyong ginagawa ay gawin sa pag-ibig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-022",
+      "lang": "fil-PH",
+      "text": "Ang bagay na ginagawang kanais-nais ng isang tao ay ang kanyang kabutihan. Ang isang dukhang tao ay mas mabuti kaysa sa isang sinungaling.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016",
+      "lang": "fil-PH",
+      "text": "Ito ang mga bagay na inyong gagawin magsalita ng katotohanan ang bawat tao sa kanyang kapwa. Isagawa ang hatol ng katotohanan at kapayapaan sa inyong mga pintuan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-022-039",
+      "lang": "fil-PH",
+      "text": "Ang pangalawa ay katulad nito, Ibigin mo ang iyong kapwa gaya ng iyong sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-005-014",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang buong kautusan ay natutupad sa isang salita, sa ganitong Ibigin mo ang iyong kapwa gaya ng iyong sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-003",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang iyong pag-ibig ay higit na mabuti kaysa sa buhay, ang aking mga labi ay magpupuri sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-003-006",
+      "lang": "fil-PH",
+      "text": "Sapagkat ako, ang Panginoon, ay hindi nagbabago kayat kayo, mga anak ni Jacob, ay hindi natupok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-012",
+      "lang": "fil-PH",
+      "text": "Ito ang aking utos, na inyong ibigin ang isat isa, gaya ng iniibig ko kayo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-002",
+      "lang": "fil-PH",
+      "text": "na may buong kababaang-loob at kapakumbabaan, na may pagtitiis, na nagt تحمل sa isat isa sa pag-ibig,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-019",
+      "lang": "fil-PH",
+      "text": "Iniibig natin siya, sapagkat siyay unang umibig sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-017",
+      "lang": "fil-PH",
+      "text": "Ang bakal ay nagpapatalas ng bakal gayon din ang isang tao ay nagpapatalas ng mukha ng kanyang kaibigan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-005",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang iyong Manlilikha ay iyong asawa si Yahweh ng mga Hukbo ang kaniyang pangalan. Ang Banal ng Israel ay iyong Manunubos. Siya ay tatawaging Diyos ng buong lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-010-027",
+      "lang": "fil-PH",
+      "text": "Sumagot siya, Ibigin mo ang Panginoon mong Diyos ng buong puso mo, at ng buong kaluluwa mo, at ng buong lakas mo, at ng buong pag-iisip mo at ang iyong kapwa gaya ng iyong sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019",
+      "lang": "fil-PH",
+      "text": "Kayat tayoy magsikap sa mga bagay na nagdudulot ng kapayapaan, at mga bagay na sa pamamagitan nitoy maitaguyod natin ang isat isa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-018",
+      "lang": "fil-PH",
+      "text": "Mga anak ko, huwag tayong umibig sa salita o sa dila lamang, kundi sa gawa at sa katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013",
+      "lang": "fil-PH",
+      "text": "Gaya ng pagkawawa ng isang ama sa kaniyang mga anak, gayon ang pagkawawa ni Yahweh sa mga natatakot sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-004",
+      "lang": "fil-PH",
+      "text": "Sapagkat ikaw ay naging mahalaga at marangal sa aking paningin, at akoy umibig sa iyo, kayat ibibigay ko ang mga tao sa iyong kalagayan, at mga bansa sa halip ng iyong buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-014",
+      "lang": "fil-PH",
+      "text": "Ngunit nang makita ito ni Jesus, siyay nagalit at sinabi sa kanila, Pabayaan ninyong lumapit sa akin ang mga bata! Huwag silang pagbawalan, sapagkat sa mga ganito ang kaharian ng Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-011",
+      "lang": "fil-PH",
+      "text": "Kayat magpakatatag kayo sa isat isa, at itayo ang isat isa, gaya ng inyong ginagawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005",
+      "lang": "fil-PH",
+      "text": "At ang pag-asa ay hindi nagdadala ng kahihiyan, sapagkat ang pag-ibig ng Diyos ay ibinuhos sa ating mga puso sa pamamagitan ng Banal na Espiritu na ibinigay sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004",
+      "lang": "fil-PH",
+      "text": "Ang isang marangal na babae ay korona ng kaniyang asawa, ngunit ang isang kahihiyan na asawa ay parang pagkabulok sa kaniyang mga buto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010",
+      "lang": "fil-PH",
+      "text": "at kung iyong ibubuhos ang iyong kaluluwa sa mga nagugutom, at iyong kasiyahan ang nagdadalamhating kaluluwa, kung gayon ang iyong liwanag ay sisikat sa kadiliman, at ang iyong kadiliman ay magiging gaya ng katanghaliang tapat",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019",
+      "lang": "fil-PH",
+      "text": "Igalang mo ang iyong ama at ang iyong ina. At, Ibigin mo ang iyong kapwa gaya ng iyong sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-003",
+      "lang": "fil-PH",
+      "text": "na huwag gumawa ng anuman sa pamamagitan ng pag-aaway o sa pamamagitan ng pagmamataas, kundi sa kababaan ng loob, na ang bawat isay itinuturing na higit kaysa sa kaniyang sarili",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-021",
+      "lang": "fil-PH",
+      "text": "Huwag kang magpatalo sa masama, kundi magtagumpay ka sa masama sa mabuti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-013",
+      "lang": "fil-PH",
+      "text": "Ang nagdadala ng tsismis ay nagtataksil sa tiwala, ngunit ang may tapat na espiritu ay nag-iingat ng lihim.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009",
+      "lang": "fil-PH",
+      "text": "Ganito ang sinabi ni Yahweh ng mga Hukbo, Gumawa kayo ng tunay na paghuhukom, at magpakita ng kabaitan at pagkawawa sa bawat tao sa kaniyang kapatid.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024",
+      "lang": "fil-PH",
+      "text": "Isipin natin kung paano natin mapupukaw ang isat isa sa pag-ibig at sa mabubuting gawa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-007",
+      "lang": "fil-PH",
+      "text": "Kayat tanggapin ninyo ang isat isa, gaya ng tinanggap din kayo ni Cristo, sa kaluwalhatian ng Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-020",
+      "lang": "fil-PH",
+      "text": "Ang naglalakad na kasama ng mga marurunong ay nagiging marunong, ngunit ang kasama ng mga hangal ay nagdurusa ng pinsala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-008",
+      "lang": "fil-PH",
+      "text": "Ngunit ang marangal ay nag-iisip ng mga marangal na bagay, at siyay magpapatuloy sa mga marangal na bagay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-024",
+      "lang": "fil-PH",
+      "text": "Huwag maghanap ng sariling kabutihan, kundi ang kabutihan ng kapwa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002",
+      "lang": "fil-PH",
+      "text": "Pasanin ninyo ang mga pasanin ng isat isa, at sa gayoy tuparin ang kautusan ni Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-006",
+      "lang": "fil-PH",
+      "text": "Ang mga sugat ng kaibigan ay tapat, ngunit ang mga halik ng kaaway ay sagana.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-006-036",
+      "lang": "fil-PH",
+      "text": "Kayat maging maawain kayo, gaya ng inyong Ama ay maawain din.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-025",
+      "lang": "fil-PH",
+      "text": "Mga asawang lalaki, ibigin ninyo ang inyong mga asawa, gaya ng inibig din ni Cristo ang iglesia at ibinigay ang kaniyang sarili para dito,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-008",
+      "lang": "fil-PH",
+      "text": "Sa gayon, na may masidhing pagnanasa sa inyo, kamiy nalugod na ipagkaloob sa inyo, hindi lamang ang Mabuting Balita ng Dios, kundi pati na rin ang aming mga kaluluwa, sapagkat kayoy naging napaka-mahalaga sa amin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-010",
+      "lang": "fil-PH",
+      "text": "Ang lahat ng mga landas ni Yahweh ay pag-ibig at katotohanan sa mga nagsisigawa ng kaniyang tipan at ng kaniyang mga patotoo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-011",
+      "lang": "fil-PH",
+      "text": "Ngunit ang pinakamalaki sa inyo ay magiging lingkod ninyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-004",
+      "lang": "fil-PH",
+      "text": "Huwag tumingin ang bawat isa sa kaniyang sariling mga bagay, kundi ang bawat isay tumingin din sa mga bagay ng iba.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-008",
+      "lang": "fil-PH",
+      "text": "Sa wakas, kayong lahat ay magkaisa ng pag-iisip, maawain, nagmamahalan na parang mga kapatid, mahabagin, magalang,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-011",
+      "lang": "fil-PH",
+      "text": "Ang umiibig sa kalinisan ng puso at nagsasalita ng may biyaya ay kaibigan ng hari.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAL-004-006",
+      "lang": "fil-PH",
+      "text": "At kaniyang ibabalik ang mga puso ng mga ama sa mga anak, at ang mga puso ng mga anak sa mga ama, baka akoy dumating at saktan ang lupa ng sumpa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027",
+      "lang": "fil-PH",
+      "text": "Kapayapaan ang iiwan ko sa inyo. Ang aking kapayapaan ay ibinibigay ko sa inyo hindi gaya ng ibinibigay ng sanlibutan, ibinibigay ko sa inyo. Huwag magulumihanan ang inyong puso, ni matakot man.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-016",
+      "lang": "fil-PH",
+      "text": "Maging magkakapareho ang isip ng isat isa. Huwag itakda ang inyong isipan sa mga mataas na bagay, kundi makisama sa mga mapagpakumbaba. Huwag maging marunong sa inyong sariling mga kaisipan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-011",
+      "lang": "fil-PH",
+      "text": "Ngunit ikaw, tao ng Diyos, tumakas sa mga bagay na ito, at magsikap sa katuwiran, kabanalan, pananampalataya, pag-ibig, pagtitiis, at kaamuan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-015",
+      "lang": "fil-PH",
+      "text": "Ngunit ikaw, Panginoon, ay isang maawain at mapagbigay na Diyos, mabagal sa galit, at sagana sa pag-ibig at katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012",
+      "lang": "fil-PH",
+      "text": "Yahweh, ikaw ay magtatakda ng kapayapaan para sa amin, sapagkat ikaw din ang gumawa ng lahat ng aming mga gawa para sa amin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-028",
+      "lang": "fil-PH",
+      "text": "gaya ng pagdating ng Anak ng Tao, hindi upang paglingkuran, kundi upang maglingkod, at upang ibigay ang kaniyang buhay bilang pantubos para sa marami.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-001",
+      "lang": "fil-PH",
+      "text": "Hayaan ninyong magpatuloy ang pag-ibig ng magkakapatid.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-013-011",
+      "lang": "fil-PH",
+      "text": "Sa wakas, mga kapatid, magalak kayo! Maging ganap. Maging kaaliwan. Maging magkakapareho ang isip. Mamuhay sa kapayapaan, at ang Diyos ng pag-ibig at kapayapaan ay sumasainyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-006",
+      "lang": "fil-PH",
+      "text": "Maraming tao ang nagsasabi na silay mga tao ng walang hanggan na pag-ibig, ngunit sino ang makakasumpong ng isang tapat na tao?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-007-005",
+      "lang": "fil-PH",
+      "text": "Sapagkat kung inyong lubos na ituwid ang inyong mga lakad at ang inyong mga gawa, kung inyong lubos na isagawa ang katarungan sa pagitan ng isang tao at ng kaniyang kapwa",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-003",
+      "lang": "fil-PH",
+      "text": "Mag-ingat kayo. Kung ang iyong kapatid ay nagkasala laban sa iyo, sawayin mo siya. Kung siyay magsisi, patawarin mo siya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-002",
+      "lang": "fil-PH",
+      "text": "Lumakad sa pag-ibig, gaya ng inibig din tayo ni Cristo at ibinigay ang kaniyang sarili para sa atin, isang handog at isang hain sa Diyos para sa isang mabangong samyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-002",
+      "lang": "fil-PH",
+      "text": "na huwag magsalita ng masama sa sinuman, huwag maging mapaghimagsik, maging maamo, na nagpapakita ng lahat ng kababaan ng loob sa lahat ng tao.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-021",
+      "lang": "fil-PH",
+      "text": "Ang humahamak sa kaniyang kapwa ay nagkakasala, ngunit ang may awa sa mga dukha ay pinagpala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-010",
+      "lang": "fil-PH",
+      "text": "Huwag mang-api sa balo, sa ulila, sa dayuhan, ni sa mahirap at huwag kayong mag-isip ng masama laban sa inyong kapatid sa inyong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-035",
+      "lang": "fil-PH",
+      "text": "Umupo siya at tinawag ang labindalawa at sinabi sa kanila, Kung sinuman ang nagnanais na maging una, siyay magiging huli sa lahat, at lingkod ng lahat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001",
+      "lang": "fil-PH",
+      "text": "Ngayon tayo na mga malalakas ay dapat pasanin ang mga kahinaan ng mga mahihina, at huwag tayong magpasaya sa ating mga sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-009",
+      "lang": "fil-PH",
+      "text": "Ito ang aking dalangin, na ang inyong pag-ibig ay sumagana pa at higit pa sa kaalaman at sa lahat ng kaalaman,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-019-019",
+      "lang": "fil-PH",
+      "text": "Sa araw na iyon, magkakaroon ng altar kay Yahweh sa gitna ng lupain ng Egipto, at isang haligi kay Yahweh sa kaniyang hangganan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-026",
+      "lang": "fil-PH",
+      "text": "Ipinakilala ko sa kanila ang iyong pangalan, at aking ipapahayag upang ang pag-ibig na iyong inibig ako ay mapasa kanila, at akoy nasa kanila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-009",
+      "lang": "fil-PH",
+      "text": "Ngunit tungkol sa pag-ibig sa magkakapatid, wala kayong pangangailangan na may sumulat sa inyo. Sapagkat kayoy tinuruan ng Diyos na mag-ibigan sa isat isa,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-022",
+      "lang": "fil-PH",
+      "text": "Dahil sa inyong nilinis ang inyong mga kaluluwa sa inyong pagsunod sa katotohanan sa pamamagitan ng Espiritu sa tapat na pagmamahalan sa kapatid, ibigin ang isat isa mula sa puso ng may kasigasigan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-021",
+      "lang": "fil-PH",
+      "text": "Ang sumusunod sa katuwiran at kabaitan ay nakakakita ng buhay, katuwiran, at karangalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-020",
+      "lang": "fil-PH",
+      "text": "Nang siyay bumangon at lumapit sa kaniyang ama. Ngunit habang siyay malayo pa, nakita siya ng kaniyang ama at nahabag, at tumakbo, at nahulog sa kaniyang leeg, at hinagkan siya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-018",
+      "lang": "fil-PH",
+      "text": "Kung maaari, sa abot ng inyong makakaya, makipagpayapaan sa lahat ng tao.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-002-010",
+      "lang": "fil-PH",
+      "text": "Ang umiibig sa kaniyang kapatid ay nananatili sa liwanag, at walang pagkakataon ng pagkatisod sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-147-003",
+      "lang": "fil-PH",
+      "text": "Pinapagaling niya ang mga sugatang puso, at binibigkis ang kanilang mga sugat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-014-004",
+      "lang": "fil-PH",
+      "text": "Aking pagagalingin ang kanilang pagkamakabayan. Aking iibigin sila ng walang pasubali sapagkat ang aking galit ay nalihis sa kanila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-013",
+      "lang": "fil-PH",
+      "text": "Ngunit kayoy magsiparoon at matutunan kung ano ang kahulugan nito Nais ko ang awa, at hindi handog, sapagkat hindi ako naparito upang tawagin ang mga matuwid, kundi ang mga makasalanan sa pagsisisi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-018",
+      "lang": "fil-PH",
+      "text": "Sapagkat kanilang pinatnubayan ang aking espiritu at ang sa inyo. Kayat kilalanin ninyo ang mga gaya nito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-008",
+      "lang": "fil-PH",
+      "text": "Ngunit kung inyong tinutupad ang maharlikang kautusan ayon sa Kasulatan, Ibigin mo ang iyong kapwa na gaya ng iyong sarili, ay mabuti ang inyong ginagawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-024",
+      "lang": "fil-PH",
+      "text": "Ang tao na maraming kasama ay mapapahamak ngunit may isang kaibigan na lalong malapit kay sa isang kapatid.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-017",
+      "lang": "fil-PH",
+      "text": "Sapagkat hindi sinugo ng Dios ang kaniyang Anak sa sanlibutan upang hatulan ang sanlibutan, kundi upang ang sanlibutan ay maligtas sa pamamagitan niya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-002",
+      "lang": "fil-PH",
+      "text": "Huwag ninyong kalimutan na ipakita ang pagkamapagpatuloy sa mga estranghero, sapagkat sa paggawa nito, ang ilan ay nakapag-aliw ng mga anghel na hindi nalalaman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-001-007",
+      "lang": "fil-PH",
+      "text": "Ang pagkatakot sa Panginoon ay simula ng kaalaman ngunit ang mga hangal ay humahamak ng karunungan at ng turo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-021",
+      "lang": "fil-PH",
+      "text": "At kapag ikaw ay lumingon sa kanan, at kapag ikaw ay lumingon sa kaliwa, ang iyong mga tainga ay makarinig ng tinig sa likuran mo, na nagsasabi, Ito ang daan. Lumakad ka rito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-022",
+      "lang": "fil-PH",
+      "text": "Ngunit maging mga tagagawa ng salita, at huwag lamang mga tagapakinig, na dinadaya ang inyong mga sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-012",
+      "lang": "fil-PH",
+      "text": "Kayat turuan mo kami na bilangin ang aming mga araw, upang kami ay magkaroon ng isang pusong marunong.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-002-006",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang Panginoon ay nagbibigay ng karunungan. Mula sa kaniyang bibig ay nagmumula ang kaalaman at unawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-009",
+      "lang": "fil-PH",
+      "text": "Sinasabi ko sa inyo, patuloy na humingi, at itoy ibibigay sa inyo. Patuloy na maghanap, at kayoy makatagpo. Patuloy na kumatok, at itoy bubuksan sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-011",
+      "lang": "fil-PH",
+      "text": "Itinatago ko ang iyong salita sa aking puso, upang hindi ako magkasala laban sa iyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-011-002",
+      "lang": "fil-PH",
+      "text": "Ang Espiritu ng Panginoon ay mananatili sa kaniya ang espiritu ng karunungan at ng unawa, ang espiritu ng payo at ng lakas, ang espiritu ng kaalaman at ng pagkatakot sa Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-034",
+      "lang": "fil-PH",
+      "text": "Tinawag niya ang karamihan sa kaniya na kasama ang kaniyang mga alagad at sinabi sa kanila, Sinomang nagnanais na sumunod sa akin, ay magpasawalang-saysay sa kaniyang sarili, at pasanin ang kaniyang krus, at sumunod sa akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-025-012",
+      "lang": "fil-PH",
+      "text": "Ano ang tao na natatakot sa Panginoon? Siyay kaniyang tuturuan sa daang kaniyang pipiliin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-007",
+      "lang": "fil-PH",
+      "text": "Huwag kang maging marunong sa iyong sariling mga mata. Matakot ka sa Panginoon, at lumayo sa kasamaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-014",
+      "lang": "fil-PH",
+      "text": "Hanapin ang mabuti, at hindi ang masama, upang ikaw ay mabuhay at sa gayoy ang Panginoon, ang Dios ng mga Hukbo, ay magiging kasama mo, gaya ng iyong sinasabi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-022",
+      "lang": "fil-PH",
+      "text": "Ang ilaw ng katawan ay ang mata. Kung ang iyong mata ay matuwid, ang buong katawan mo ay mapupuno ng liwanag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-007",
+      "lang": "fil-PH",
+      "text": "Ang kautusan ng Panginoon ay sakdal, na nagbabalik ng kaluluwa. Ang tipan ng Panginoon ay tiyak, na nagbibigay ng karunungan sa mga simple.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026",
+      "lang": "fil-PH",
+      "text": "Gawin mong pantay ang landas ng iyong mga paa. Hayaan mong ang lahat ng iyong mga daan ay maitatag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-003",
+      "lang": "fil-PH",
+      "text": "Ang mga marunong ay magniningning na gaya ng liwanag ng kalangitan. Ang mga nagdadala ng marami sa katuwiran ay magniningning na gaya ng mga bituin magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-015",
+      "lang": "fil-PH",
+      "text": "Kayat mag-ingat kayo kung paano kayo lumalakad, hindi bilang mga hangal, kundi bilang mga marunong,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-111-010",
+      "lang": "fil-PH",
+      "text": "Ang pagkatakot sa Panginoon ay simula ng karunungan. Ang lahat ng gumagawa ng kaniyang gawain ay may mabuting unawa. Ang kaniyang papuri ay nananatili magpakailanman!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-001",
+      "lang": "fil-PH",
+      "text": "Ang sinumang umiibig sa pagtutuwid ay umiibig sa kaalaman ngunit ang napopoot sa pagsaway ay hangal.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006",
+      "lang": "fil-PH",
+      "text": "Hanapin ang Panginoon habang siyay matatagpuan. Tumawag sa kaniya habang siyay malapit.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-014",
+      "lang": "fil-PH",
+      "text": "Gaano kahigpit ang pintuan at ang daan ay makitid na humahantong sa buhay! Kaunti ang mga nakakasumpong nito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-003-017",
+      "lang": "fil-PH",
+      "text": "Ngunit ang karunungan na mula sa itaas ay una sa lahat ay dalisay, pagkatapos ay mapayapa, mahinahon, makatuwiran, puno ng awa at mabubuting bunga, walang pagkiling, at walang pagkukunwari.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023",
+      "lang": "fil-PH",
+      "text": "Ang mga hakbang ng tao ay itinatag ng Panginoon. Siyay nalulugod sa kaniyang daan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022",
+      "lang": "fil-PH",
+      "text": "Kung saan walang payo, ang mga plano ay nabibigo ngunit sa karamihan ng mga tagapayo ay naitatag.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-009-023",
+      "lang": "fil-PH",
+      "text": "Sinasabi ni Yahweh, Huwag magyabang ang marunong sa kaniyang karunungan. Huwag magyabang ang makapangyarihan sa kaniyang kalakasan. Huwag magyabang ang mayaman sa kaniyang mga kayamanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-007-017",
+      "lang": "fil-PH",
+      "text": "Kung sinuman ang nagnanais na gawin ang kaniyang kalooban, ay makakaalam tungkol sa turo, kung itoy mula sa Dios o kung akoy nagsasalita mula sa aking sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-021",
+      "lang": "fil-PH",
+      "text": "Subukin ang lahat ng bagay, at hawakan ang matibay na mabuti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-130",
+      "lang": "fil-PH",
+      "text": "Ang pagpasok ng iyong mga salita ay nagbibigay ng liwanag. Nagbibigay ito ng unawa sa mga simple.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-020",
+      "lang": "fil-PH",
+      "text": "Ang sinumang nakikinig sa Salita ay nakatagpo ng kasaganaan. Ang sinumang nagtitiwala sa Panginoon ay pinagpala.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-034",
+      "lang": "fil-PH",
+      "text": "Sapagkat kung saan naroon ang iyong kayamanan, doon din naman naroon ang iyong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-006",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang pag-iisip ng laman ay kamatayan, ngunit ang pag-iisip ng Espiritu ay buhay at kapayapaan",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-020",
+      "lang": "fil-PH",
+      "text": "Makinig sa payo at tumanggap ng turo, upang ikaw ay maging marunong sa iyong huling wakas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-005",
+      "lang": "fil-PH",
+      "text": "Tunay na ang lahat ng mga bansa ay makalalakad sa pangalan ng kanilang mga dios ngunit kami ay lalakad sa pangalan ng Panginoon na aming Dios magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-006",
+      "lang": "fil-PH",
+      "text": "Mapalad ang mga nagugutom at nauuhaw sa katuwiran, sapagkat silay mabubusog.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-015",
+      "lang": "fil-PH",
+      "text": "Magbigay ng pagsisikap upang ipakita ang iyong sarili na tinanggap ng Dios, isang manggagawa na hindi kinakailangang mapahiya, na maayos na humahawak ng Salita ng Katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-018",
+      "lang": "fil-PH",
+      "text": "Buksan mo ang aking mga mata, upang makita ko ang mga kahanga-hangang bagay mula sa iyong kautusan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-012",
+      "lang": "fil-PH",
+      "text": "May daan na tila matuwid sa isang tao, ngunit sa wakas ay humahantong ito sa kamatayan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-004-006",
+      "lang": "fil-PH",
+      "text": "At siyay sumagot at nagsalita sa akin, na sinasabi, Ito ang salita ni Yahweh kay Zerubbabel, na sinasabi, Hindi sa pamamagitan ng lakas, ni sa pamamagitan ng kapangyarihan, kundi sa pamamagitan ng aking Espiritu, sabi ni Yahweh ng mga hukbo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-013-033",
+      "lang": "fil-PH",
+      "text": "Magbantay, mag-ingat, at manalangin sapagkat hindi ninyo alam kung kailan ang panahon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-005",
+      "lang": "fil-PH",
+      "text": "Lumakad sa karunungan sa mga nasa labas, na tinutubos ang panahon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-105B",
+      "lang": "fil-PH",
+      "text": "Turuan mo ako ng mabuting paghatol at kaalaman, sapagkat akoy naniniwala sa iyong mga utos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-008-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang karunungan ay higit na mabuti kaysa sa mga rubi. Ang lahat ng mga bagay na maaaring hangarin ay hindi maihahambing dito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-048-017",
+      "lang": "fil-PH",
+      "text": "Sinabi ng Panginoon, iyong Manunubos, ang Banal ng Israel, Ako ang Panginoon mong Dios, na nagtuturo sa iyo upang kumita, na naglalakad sa daang dapat mong tahakin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-018",
+      "lang": "fil-PH",
+      "text": "Mag-ingat kayo kung paano kayo nakikinig. Sapagkat sinumang mayroon, ay bibigyan at sinumang wala, kahit ang sa kaniya ay aalisin sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-007",
+      "lang": "fil-PH",
+      "text": "Magpasakop nga kayo sa Dios. Tumutol sa diyablo, at siyay lalayo sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-019-014B",
+      "lang": "fil-PH",
+      "text": "Gabayan mo ako sa iyong katotohanan, at turuan mo ako, sapagkat ikaw ang Dios ng aking kaligtasan. Akoy naghihintay sa iyo buong araw.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-026",
+      "lang": "fil-PH",
+      "text": "Ang sinumang nagtitiwala sa kaniyang sarili ay hangal ngunit ang sinumang lumalakad sa karunungan ay ligtas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-097",
+      "lang": "fil-PH",
+      "text": "Ngayoy iniibig ko ang iyong kautusan! Ito ang aking pagninilay-nilay buong araw.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-007B",
+      "lang": "fil-PH",
+      "text": "Kumuha ka ng karunungan. Kumuha ka ng unawa. Huwag kalimutan, at huwag lumihis sa mga salita ng aking bibig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-012-046",
+      "lang": "fil-PH",
+      "text": "Akoy naparito bilang ilaw sa sanlibutan, upang sinumang sumampalataya sa akin ay huwag manatili sa kadiliman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-133",
+      "lang": "fil-PH",
+      "text": "Itatag mo ang aking mga hakbang sa iyong salita. Huwag mong hayaang ang anumang kasamaan ay maghari sa akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-001",
+      "lang": "fil-PH",
+      "text": "Ang isang matalinong anak ay nakikinig sa turo ng kaniyang ama ngunit ang isang mang-uuyam ay hindi nakikinig sa pagsaway.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041",
+      "lang": "fil-PH",
+      "text": "Magbantay at manalangin, upang hindi kayo pumasok sa tukso. Ang espiritu nga ay masigasig, ngunit ang laman ay mahina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-005-014",
+      "lang": "fil-PH",
+      "text": "Ngunit ang matibay na pagkain ay para sa mga ganap na tao, na sa pamamagitan ng paggamit ay nagkaroon ng kanilang mga pandama na sanay na makilala ang mabuti at masama.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-032-008B",
+      "lang": "fil-PH",
+      "text": "Dinggin mo ang mga salita ng aking bibig, at ang pagninilay-nilay ng aking puso ay maging kalugud-lugod sa iyong paningin, Oh Yahweh, aking bato, at aking Manunubos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-006",
+      "lang": "fil-PH",
+      "text": "Sapagkat sa pamamagitan ng matalinong payo ay makikipagdigma ka, at ang tagumpay ay nasa maraming tagapayo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-002-003",
+      "lang": "fil-PH",
+      "text": "Hanapin si Yahweh, kayong lahat na mapagpakumbaba ng lupain, na nagsisunod sa kaniyang mga utos. Hanapin ang katuwiran. Hanapin ang kababaang-loob. Maaaring kayoy maitago sa araw ng galit ni Yahweh.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-036",
+      "lang": "fil-PH",
+      "text": "Kayat magbantay kayong palagi, na nananalangin, upang kayoy maging karapat-dapat na makatanim sa lahat ng mga bagay na mangyayari, at upang makatayo sa harapan ng Anak ng Tao.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-005",
+      "lang": "fil-PH",
+      "text": "Ang isang tao ay nagtatangi ng isang araw na higit na mahalaga. Ang isa naman ay nagtatangi ng bawat araw na magkapareho. Hayaan ang bawat tao na maging ganap na tiyak sa kaniyang sariling isipan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-015",
+      "lang": "fil-PH",
+      "text": "Akoy magninilay sa iyong mga utos, at isasaalang-alang ko ang iyong mga daan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-008",
+      "lang": "fil-PH",
+      "text": "Ang nagkakaroon ng karunungan ay umiibig sa kaniyang sariling kaluluwa. Ang nag-iingat ng kaalaman ay makakatagpo ng kabutihan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-024",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Mag-ingat kayo sa inyong naririnig. Sa anumang sukat na inyong sukatin, ay susukatin sa inyo at higit pang ibibigay sa inyo na nakikinig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-016",
+      "lang": "fil-PH",
+      "text": "na tinutubos ang panahon, sapagkat ang mga araw ay masama.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-034",
+      "lang": "fil-PH",
+      "text": "Bigyan mo ako ng kaunawaan, at aking iingatan ang iyong kautusan. Oo, aking susundin ito ng aking buong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-003",
+      "lang": "fil-PH",
+      "text": "Ang matalino ay nakakakita ng panganib at nagtatago ngunit ang mga hangal ay dumadaan, at nagdurusa dahil dito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-006",
+      "lang": "fil-PH",
+      "text": "Magkakaroon ng katatagan sa iyong mga panahon, kasaganaan ng kaligtasan, karunungan, at kaalaman. Ang takot kay Yahweh ay iyong kayamanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-043",
+      "lang": "fil-PH",
+      "text": "Kung magkagayoy ang mga matuwid ay magniningning na parang araw sa Kaharian ng kanilang Ama. Ang may mga tainga upang makinig, ay makinig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-002-005",
+      "lang": "fil-PH",
+      "text": "upang ang inyong pananampalataya ay huwag tumayo sa karunungan ng mga tao, kundi sa kapangyarihan ng Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-028-028",
+      "lang": "fil-PH",
+      "text": "Sa tao ay sinabi niya, Narito, ang takot sa Panginoon, iyan ang karunungan. Ang umalis sa kasamaan ay pagkaunawa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005",
+      "lang": "fil-PH",
+      "text": "Ang mga balak ng masigasig ay tiyak na nagdadala sa pakinabang at ang sinumang nagmamadali ay tiyak na nagmamadali sa kahirapan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-009",
+      "lang": "fil-PH",
+      "text": "Ang puso ay mapanlinlang sa lahat ng mga bagay at itoy labis na masama. Sino ang makakaalam nito?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-010",
+      "lang": "fil-PH",
+      "text": "Ang tapat sa kaunti ay tapat din sa marami. Ang hindi tapat sa kaunti ay hindi tapat din sa marami.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-001-005",
+      "lang": "fil-PH",
+      "text": "Oo, at sa kadahilanang ito ay nagdaragdag sa inyong bahagi ng lahat ng kasipagan, sa inyong pananampalataya ay magbigay ng moral na kahusayan at sa moral na kahusayan, kaalaman",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-072",
+      "lang": "fil-PH",
+      "text": "Ang kautusan ng iyong bibig ay higit na mabuti sa akin kaysa sa libu-libong piraso ng ginto at pilak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-024",
+      "lang": "fil-PH",
+      "text": "Ang mga hakbang ng tao ay mula kay Yahweh paano nga makakaunawa ang tao sa kaniyang daan?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-028-029",
+      "lang": "fil-PH",
+      "text": "Ito rin ay nagmumula kay Yahweh ng mga Hukbo, na kahanga-hanga sa payo, at mahusay sa karunungan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-038",
+      "lang": "fil-PH",
+      "text": "Magbantay at manalangin, upang huwag kayong pumasok sa tukso. Ang espiritu nga ay masigasig, ngunit ang laman ay mahina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-067",
+      "lang": "fil-PH",
+      "text": "Bago ako nausig, akoy naligaw ngunit ngayoy aking sinusunod ang iyong salita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-014",
+      "lang": "fil-PH",
+      "text": "kayat makikilala mo ang karunungan na maging sa iyong kaluluwa. Kung iyong natagpuan ito, magkakaroon ng gantimpala Ang iyong pag-asa ay hindi mapuputol.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-016-026",
+      "lang": "fil-PH",
+      "text": "Sapagkat ano ang pakinabang ng tao kung siyay makakuha ng buong sanlibutan at mawala ang kaniyang buhay? O ano ang maibibigay ng tao bilang kapalit ng kaniyang buhay?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-017",
+      "lang": "fil-PH",
+      "text": "Kayat ang pananampalataya ay dumarating sa pakikinig, at ang pakikinig ay sa pamamagitan ng salita ng Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-045",
+      "lang": "fil-PH",
+      "text": "Akoy lalakad sa kalayaan, sapagkat aking hinanap ang iyong mga utos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002",
+      "lang": "fil-PH",
+      "text": "Kapag ang kayabangan ay dumarating, kung gayon ay dumarating ang kahihiyan ngunit sa kababaang-loob ay dumarating ang karunungan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-053",
+      "lang": "fil-PH",
+      "text": "Pinuno niya ang mga nagugutom ng mabubuting bagay. Pinadala niya ang mga mayayaman na walang laman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-014-020",
+      "lang": "fil-PH",
+      "text": "Mga kapatid, huwag kayong maging mga bata sa mga kaisipan, kundi sa masamang gawa ay mga sanggol, ngunit sa mga kaisipan ay maging mga ganap.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-098",
+      "lang": "fil-PH",
+      "text": "Ang iyong mga utos ay nagpapalakas sa akin ng higit sa aking mga kaaway, sapagkat ang iyong mga utos ay palaging kasama ko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-019",
+      "lang": "fil-PH",
+      "text": "Makinig ka, aking anak, at maging matalino, at ingatan mo ang iyong puso sa tamang landas!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-008",
+      "lang": "fil-PH",
+      "text": "Mapalad ang mga may dalisay na puso, sapagkat silay makakakita sa Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-015",
+      "lang": "fil-PH",
+      "text": "Ngunit itaga mo sa iyong mga puso ang Panginoong Dios. Lagi kang maging handa na magbigay ng kasagutan sa sinumang humihingi sa iyo ng dahilan tungkol sa pag-asa na nasa iyo, na may kababaang-loob at takot,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-100",
+      "lang": "fil-PH",
+      "text": "Naiintindihan ko ang higit pa sa mga matanda, sapagkat aking tinupad ang iyong mga utos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-030",
+      "lang": "fil-PH",
+      "text": "Walang karunungan, ni kaalaman, ni payo laban kay Yahweh.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-022B",
+      "lang": "fil-PH",
+      "text": "Tumingin kayo sa akin, at kayoy maligtas, kayong lahat na nasa dulo ng lupa sapagkat akoy Diyos, at wala nang iba.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-045",
+      "lang": "fil-PH",
+      "text": "At binuksan niya ang kanilang mga isipan, upang kanilang maunawaan ang mga Kasulatan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008",
+      "lang": "fil-PH",
+      "text": "At ang Diyos ay makapagbibigay sa inyo ng lahat ng biyaya, upang kayo, na laging may kasapatan sa lahat ng bagay, ay sumagana sa bawat gawang mabuti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-035",
+      "lang": "fil-PH",
+      "text": "Ituro mo ako sa landas ng iyong mga utos, sapagkat akoy nalulugod sa mga yaon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-012",
+      "lang": "fil-PH",
+      "text": "Ang matalino ay nakakakita ng panganib at nagtatago ngunit ang mga hangal ay dumadaan at nagdurusa dahil dito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-007",
+      "lang": "fil-PH",
+      "text": "Makinig kayo sa akin, kayong mga nakakaalam ng katuwiran, ang bayan na ang puso ay nasa aking kautusan. Huwag matakot sa kapintasan ng mga tao, at huwag manghina sa kanilang mga insulto.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-023-012",
+      "lang": "fil-PH",
+      "text": "Sinumang nagtataguyod sa kanyang sarili ay mapapahiya at sinumang nagpapakumbaba sa kanyang sarili ay itataas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-010",
+      "lang": "fil-PH",
+      "text": "upang inyong maaprubahan ang mga bagay na mainam, upang kayoy maging tapat at walang kapintasan hanggang sa araw ni Cristo,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050",
+      "lang": "fil-PH",
+      "text": "Ito ang aking kaaliwan sa aking kapighatian, sapagkat ang iyong salita ay nagpasigla sa akin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-024",
+      "lang": "fil-PH",
+      "text": "Ang karunungan ay nasa harapan ng mukha ng may kaunawaan ngunit ang mga mata ng hangal ay naliligaw hanggang sa mga dulo ng lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-007",
+      "lang": "fil-PH",
+      "text": "Gaano kaganda sa mga bundok ang mga paa ng nagdadala ng mabuting balita, na nag-uulat ng kapayapaan, na nagdadala ng mabuting balita, na nagtataguyod ng kaligtasan, na nagsasabi sa Sion, Ang iyong Dios ay naghahari!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-030",
+      "lang": "fil-PH",
+      "text": "Ibigin mo ang Panginoon mong Diyos ng buong puso mo, at ng buong kaluluwa mo, at ng buong pag-iisip mo, at ng buong lakas mo. Ito ang unang utos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-002",
+      "lang": "fil-PH",
+      "text": "Mapalad ang mga nag-iingat ng kanyang mga tuntunin, na humahanap sa kanya ng kanilang buong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-013",
+      "lang": "fil-PH",
+      "text": "Hawakan mong mabuti ang turo. Huwag mo siyang pakawalan. Ingatan mo siya, sapagkat siya ang iyong buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-026B",
+      "lang": "fil-PH",
+      "text": "Tumingin sa kanila, sinabi ni Jesus, Sa mga tao itoy imposible, ngunit sa Diyos ang lahat ng bagay ay posible.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-025",
+      "lang": "fil-PH",
+      "text": "Sinabi ni Jesus sa kanya, Ako ang pagkabuhay na mag-uli at ang buhay. Ang sinumang sumasampalataya sa akin ay mabubuhay pa, kahit siyay mamatay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-016-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat hindi mo iiwan ang aking kaluluwa sa Sheol, ni hindi mo pahihintulutang makita ng iyong banal ang pagkasira.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-006",
+      "lang": "fil-PH",
+      "text": "Wala siya rito, kundi siyay nabuhay na mag-uli. Alalahanin ninyo ang sinabi niya sa inyo nang siyay naroon pa sa Galilea,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-023",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang kabayaran ng kasalanan ay kamatayan ngunit ang kaloob na walang bayad ng Diyos ay buhay na walang hanggan kay Cristo Jesus na ating Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-003",
+      "lang": "fil-PH",
+      "text": "Sapagkat ibinigay ko sa inyo ang una sa lahat ng aking tinanggap na si Cristo ay namatay dahil sa ating mga kasalanan ayon sa mga Kasulatan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-004",
+      "lang": "fil-PH",
+      "text": "Ngunit may kapatawaran sa iyo, kayat ikaw ay kinatatakutan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-013-014",
+      "lang": "fil-PH",
+      "text": "Aking ililigtas sila mula sa kapangyarihan ng Sheol. Aking tutubusin sila mula sa kamatayan! Kamatayan, saan ang iyong mga salot? Sheol, saan ang iyong pagkawasak? Ang awa ay itatago sa aking mga mata.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-006",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Huwag kayong magtaka. Hinahanap ninyo si Jesus, ang Nazareno, na ipinako sa krus. Siyay nabuhay! Wala siya rito. Tingnan ang lugar kung saan siya inihiga!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-007",
+      "lang": "fil-PH",
+      "text": "Sa kanya ay mayroon tayong pagtubos sa pamamagitan ng kanyang dugo, ang kapatawaran ng ating mga pagkakasala, ayon sa mga kayamanan ng kanyang biyaya",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-004",
+      "lang": "fil-PH",
+      "text": "na siyay inilibing, na siyay muling nabuhay sa ikatlong araw ayon sa mga Kasulatan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013",
+      "lang": "fil-PH",
+      "text": "Ang sinumang nagtago ng kanyang mga kasalanan ay hindi magtatagumpay ngunit sinumang umamin at tumalikod sa mga ito ay makakakita ng awa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-052-010",
+      "lang": "fil-PH",
+      "text": "Si Yahweh ay nagpalabas ng kanyang banal na bisig sa paningin ng lahat ng mga bansa. Lahat ng dulo ng lupa ay nakakita ng kaligtasan ng ating Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-028",
+      "lang": "fil-PH",
+      "text": "sapagkat ito ang aking dugo ng bagong tipan, na ibinuhos para sa marami para sa kapatawaran ng mga kasalanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-009-028",
+      "lang": "fil-PH",
+      "text": "gayon din si Cristo, na inialay isang beses upang dalhin ang mga kasalanan ng marami, ay magpapakita sa ikalawang pagkakataon, hindi upang makitungo sa kasalanan, kundi upang iligtas ang mga sabik na naghihintay sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-004-012",
+      "lang": "fil-PH",
+      "text": "Walang kaligtasan sa sinuman kundi sa kanya, sapagkat walang ibang pangalan sa ilalim ng langit na ibinigay sa mga tao, na sa pamamagitan nito ay dapat tayong maligtas!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-031",
+      "lang": "fil-PH",
+      "text": "Narito, ang mga araw ay dumarating, sabi ni Yahweh, na akoy gagawa ng bagong tipan sa bahay ng Israel, at sa bahay ng Juda,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-046",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Gayon nasusulat, at gayon kinakailangan na ang Cristo ay magdusa at muling mabuhay mula sa mga patay sa ikatlong araw,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-014",
+      "lang": "fil-PH",
+      "text": "na pinapawalang bisa ang mga sulat na laban sa atin. Inalis niya ito sa daan, na ipinako sa krus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-020",
+      "lang": "fil-PH",
+      "text": "Ngunit ngayon si Cristo ay muling nabuhay mula sa mga patay. Siya ang naging unang bunga ng mga natutulog.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-007",
+      "lang": "fil-PH",
+      "text": "Ngunit walang sinuman ang makakapagligtas sa kanyang kapatid, ni makapagbibigay ng kabayaran sa Diyos para sa kanya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-036-026",
+      "lang": "fil-PH",
+      "text": "Aking ibibigay sa inyo ang isang bagong puso, at aking ilalagay ang isang bagong espiritu sa loob ninyo. Aking aalisin ang batong puso mula sa inyong laman, at aking bibigyan kayo ng puso ng laman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-029",
+      "lang": "fil-PH",
+      "text": "Sinabi ni Jesus sa kanya, Sapagkat ikaw ay nakakita sa akin, ikaw ay sumampalataya. Mapalad ang mga hindi nakakita at sumampalataya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-001",
+      "lang": "fil-PH",
+      "text": "Kayat ngayon ay walang hatol sa mga nasa kay Cristo Jesus, na hindi lumalakad ayon sa laman, kundi ayon sa Espiritu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-004-025",
+      "lang": "fil-PH",
+      "text": "na ibinigay dahil sa ating mga pagkakasala, at muling nabuhay para sa ating pag-aaring-ganap.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-003",
+      "lang": "fil-PH",
+      "text": "na nagpapatawad sa lahat ng iyong mga kasalanan, na nagpapagaling sa lahat ng iyong mga sakit,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-032",
+      "lang": "fil-PH",
+      "text": "Silay nagsabi sa isat isa, Hindi bat ang ating mga puso ay nag-aalab sa loob natin habang siyay nagsasalita sa atin sa daan, at habang siyay nagbubukas ng mga Kasulatan sa atin?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024",
+      "lang": "fil-PH",
+      "text": "Siyay nagdala ng ating mga kasalanan sa kaniyang katawan sa punong kahoy, upang tayo, na namatay sa mga kasalanan, ay makabuhay sa katuwiran. Kayoy pinagaling sa pamamagitan ng kaniyang mga sugat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-011",
+      "lang": "fil-PH",
+      "text": "Ang patotoo ay ito na ang Diyos ay nagbigay sa atin ng buhay na walang hanggan, at ang buhay na ito ay nasa kanyang Anak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-007",
+      "lang": "fil-PH",
+      "text": "Ang aking kaligtasan at ang aking karangalan ay kay Diyos. Ang bato ng aking lakas, at aking kanlungan, ay kay Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-012-002",
+      "lang": "fil-PH",
+      "text": "Marami sa mga natutulog sa alabok ng lupa ay magigising, ang ilan sa buhay na walang hanggan, at ang ilan sa kahihiyan at walang hanggan na paghamak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-011",
+      "lang": "fil-PH",
+      "text": "Ako ang mabuting pastor. Ang mabuting pastor ay naglalagay ng kanyang buhay para sa mga tupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-003-013",
+      "lang": "fil-PH",
+      "text": "Si Cristo ay tumubos sa atin mula sa sumpa ng kautusan, na naging sumpa para sa atin. Sapagkat nasusulat, Sumpain ang sinumang nakabitin sa punong kahoy,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-012",
+      "lang": "fil-PH",
+      "text": "Ang sinumang may Anak ay may buhay. Ang sinumang walang Anak ng Diyos ay walang buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-006",
+      "lang": "fil-PH",
+      "text": "Sa pamamagitan ng awa at katotohanan ay napapawalang-sala ang kasamaan. Sa takot kay Yahweh ay umiiwas ang mga tao sa kasamaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-011",
+      "lang": "fil-PH",
+      "text": "Pagkatapos ng pagdurusa ng kaniyang kaluluwa, siyay makakakita ng liwanag at masisiyahan. Ang aking matuwid na lingkod ay magpapawalang-sala sa marami sa pamamagitan ng kaalaman sa kaniyang sarili at siyay magdadala ng kanilang mga kasamaan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-046",
+      "lang": "fil-PH",
+      "text": "Si Jesus, na sumisigaw ng malakas na tinig, ay nagsabi, Ama, sa iyong mga kamay ay inilalaan ko ang aking espiritu! Nang masabi ito, siyay huminga ng kanyang huling hininga.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-005",
+      "lang": "fil-PH",
+      "text": "hindi sa pamamagitan ng mga gawa ng katuwiran na aming ginawa, kundi ayon sa kanyang awa, tayoy iniligtas sa pamamagitan ng paghuhugas ng pagbabagong-buhay at ng pag-renew ng Banal na Espiritu,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-001-007",
+      "lang": "fil-PH",
+      "text": "Ngunit kung tayoy lumalakad sa liwanag gaya ng siyay nasa liwanag, tayoy may pakikisama sa isat isa, at ang dugo ni Jesucristo na kanyang Anak ay nililinis tayo mula sa lahat ng kasalanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-085-002",
+      "lang": "fil-PH",
+      "text": "Ikaw ay nagpatawad sa kasamaan ng iyong bayan. Ikaw ay nagtakip sa lahat ng kanilang kasalanan. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-021-009",
+      "lang": "fil-PH",
+      "text": "Gumawa si Moises ng isang ahas na tanso, at inilagay ito sa poste. Kung ang sinuman ay nakagat ng ahas, kapag siyay tumingin sa ahas na tanso, siyay nabuhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-040",
+      "lang": "fil-PH",
+      "text": "Ito ang kalooban ng nagsugo sa akin, na ang sinumang nakakakita sa Anak at sumasampalataya sa kanya ay magkaroon ng buhay na walang hanggan at akoy muling bubuhayin siya sa huling araw.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-013",
+      "lang": "fil-PH",
+      "text": "Ngunit ngayon sa kay Cristo Jesus, kayo na dating malayo ay nalapit sa dugo ni Cristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-024",
+      "lang": "fil-PH",
+      "text": "na pinawalang-sala ng walang bayad sa pamamagitan ng kaniyang biyaya sa pamamagitan ng pagtubos na nasa kay Cristo Jesus,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-022",
+      "lang": "fil-PH",
+      "text": "Ang batong itinakuwil ng mga tagapagtayo ay naging pangulo ng sulok.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-018",
+      "lang": "fil-PH",
+      "text": "At si Jesus ay lumapit sa kanila at nagsalita sa kanila, na sinasabi, Ang lahat ng kapangyarihan ay ibinigay sa akin sa langit at sa lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-005",
+      "lang": "fil-PH",
+      "text": "Sapagkat may isang Dios at isang tagapamagitan sa Dios at sa mga tao, ang tao na si Cristo Jesus,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-003-018",
+      "lang": "fil-PH",
+      "text": "Sapagkat si Cristo man ay nagdusa ng minsan dahil sa mga kasalanan, ang matuwid para sa mga di-matuwid, upang dalhin kayo sa Dios, na pinatay sa laman, ngunit binuhay sa Espiritu",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-040-003",
+      "lang": "fil-PH",
+      "text": "Kaniyay inilagay ang isang bagong awit sa aking bibig, kahit na papuri sa ating Dios. Marami ang makakakita nito, at matatakot, at magtitiwala sa Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-022-014",
+      "lang": "fil-PH",
+      "text": "Tinawag ni Abraham ang pangalan ng dakong yaon na Ang Panginoon ang Magbibigay. Gaya ng sinasabi hanggang sa araw na ito, Sa bundok ng Panginoon, itoy ibibigay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-030",
+      "lang": "fil-PH",
+      "text": "Kayat nang tinanggap ni Jesus ang suka, ay sinabi niya, Natapos na! At siyay yumuko ng kaniyang ulo at ibinigay ang kaniyang espiritu.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-007-025",
+      "lang": "fil-PH",
+      "text": "Kayat siya rin ay makapagligtas ng lubos sa mga lumalapit sa Dios sa pamamagitan niya, na nakikita na siyay nabubuhay magpakailanman upang makapanalangin para sa kanila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-019",
+      "lang": "fil-PH",
+      "text": "Ngunit sa kaunting panahon, at ang sanlibutan ay hindi na makakakita sa akin ngunit makakakita kayo sa akin. Sapagkat akoy nabubuhay, kayoy mabubuhay din.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-013",
+      "lang": "fil-PH",
+      "text": "Akoy tiyak na may pag-asa sa bagay na ito makikita ko ang kabutihan ng Panginoon sa lupain ng mga buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-037-005",
+      "lang": "fil-PH",
+      "text": "Sinabi ng Panginoong Yahweh sa mga buto na ito Narito, aking ipapasok ang hininga sa inyo, at kayoy mabubuhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-007",
+      "lang": "fil-PH",
+      "text": "na sinasabi na ang Anak ng Tao ay dapat ipagkanulo sa mga kamay ng mga makasalanan at ipako sa krus, at sa ikatlong araw ay muling mabuhay?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-003-010",
+      "lang": "fil-PH",
+      "text": "upang aking makilala siya at ang kapangyarihan ng kaniyang pagkabuhay na mag-uli, at ang pakikisama ng kaniyang mga pagdurusa, na nagiging katulad sa kaniyang kamatayan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-001-018",
+      "lang": "fil-PH",
+      "text": "at ang buháy. Akoy namatay, at narito, akoy nabubuhay magpakailanman. Siya nawa. Ako ang may mga susi ng Kamatayan at ng Hades.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-022",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay nagliligtas ng kaluluwa ng kaniyang mga lingkod. Walang sinumang tumatakbo sa kaniya ang mapapahamak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-022",
+      "lang": "fil-PH",
+      "text": "Aking pinawi, na parang makapal na ulap, ang inyong mga pagsalangsang, at, na parang ulap, ang inyong mga kasalanan. Magsibalik kayo sa akin, sapagkat akoy tumubos sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-031",
+      "lang": "fil-PH",
+      "text": "ngunit ang mga itoy nasusulat upang kayoy sumampalataya na si Jesus ang Cristo, ang Anak ng Dios, at sa pagsampalataya ay magkaroon kayo ng buhay sa kaniyang pangalan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-009",
+      "lang": "fil-PH",
+      "text": "Kayat higit pa, na ngayon ay pinawalang-sala sa pamamagitan ng kaniyang dugo, tayoy maliligtas mula sa poot ng Dios sa pamamagitan niya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-010",
+      "lang": "fil-PH",
+      "text": "sa pamamagitan ng kaloob na ito ay tayoy pinabanal sa pamamagitan ng alay ng katawan ni Cristo Jesus minsan magpakailanman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-010",
+      "lang": "fil-PH",
+      "text": "Lumikha ka sa akin ng isang malinis na puso, O Dios. Ipanumbalik mo ang isang matuwid na espiritu sa loob ko.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-027",
+      "lang": "fil-PH",
+      "text": "Mula kay Moises at sa lahat ng mga propeta, ay ipinaliwanag niya sa kanila sa lahat ng mga Kasulatan ang mga bagay na may kinalaman sa kaniyang sarili.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-005-015",
+      "lang": "fil-PH",
+      "text": "Siyay namatay para sa lahat, upang ang mga nabubuhay ay huwag nang mabuhay para sa kanilang sarili, kundi para sa kaniya na dahil sa kanilay namatay at muling nabuhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-020",
+      "lang": "fil-PH",
+      "text": "at sa pamamagitan niyay ipagkasundo ang lahat ng mga bagay sa kaniyang sarili, maging ang mga bagay sa lupa o mga bagay sa langit, na gumawa ng kapayapaan sa pamamagitan ng dugo ng kaniyang krus.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-013",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang iyong pag-ibig ay dakila sa akin. Iniligtas mo ang aking kaluluwa mula sa pinakamababang Sheol.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang Anak ng Tao ay hindi naparito upang paglingkuran kundi upang maglingkod, at upang ibigay ang kaniyang buhay bilang pantubos para sa marami.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-002-005",
+      "lang": "fil-PH",
+      "text": "kahit na tayoy mga patay sa pamamagitan ng ating mga pagsalangsang, ay binuhay tayong kasama ni Cristo—sa biyaya kayoy naligtas—",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-034",
+      "lang": "fil-PH",
+      "text": "Sino ang siyang humahatol? Si Cristo na namatay, oo, sa halip, na muling binuhay mula sa mga patay, na nasa kanang kamay ng Dios, na siya ring nananalangin para sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-022-024",
+      "lang": "fil-PH",
+      "text": "Sapagkat hindi niya hinamak ni hinamak ang pagdurusa ng mga nagdurusa, ni hindi niya itinago ang kaniyang mukha sa kaniya kundi nang siyay tumawag sa kaniya, siyay dininig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-053-004",
+      "lang": "fil-PH",
+      "text": "Tunay na siyay nagdala ng ating mga sakit at nagdala ng ating mga pagdurusa gayon may inisip natin siyay sinaktan, sinaktan ng Dios, at pinahirapan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-005-024",
+      "lang": "fil-PH",
+      "text": "Katotohanang sinasabi ko sa inyo, ang nakikinig sa aking salita at sumasampalataya sa kaniya na nagsugo sa akin ay may buhay na walang hanggan, at hindi napapasok sa paghatol, kundi lumipat na mula sa kamatayan tungo sa buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-010",
+      "lang": "fil-PH",
+      "text": "ngunit ngayoy nahayag sa pamamagitan ng pagpapakita ng ating Tagapagligtas, si Cristo Jesus, na nagwakas sa kamatayan, at nagdala ng buhay at ng imortalidad sa liwanag sa pamamagitan ng Mabuting Balita.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-071-020",
+      "lang": "fil-PH",
+      "text": "Ikaw, na nagpakita sa amin ng marami at mapait na mga kapighatian, ay pahihintulutan mo akong mabuhay. Aking ibabangon mula sa mga kalaliman ng lupa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-006-001",
+      "lang": "fil-PH",
+      "text": "Halikayo! Magsibalik tayo sa Panginoon sapagkat siyay nagwasak sa atin, at siyay magpapagaling sa atin siyay nasugatan sa atin, at siyay magbabalot ng ating mga sugat.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-031",
+      "lang": "fil-PH",
+      "text": "Nang kanilang mga mata ay nabuksan at siyay nakilala nila at siyay nawala sa kanilang paningin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-010-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat sa puso ay sumasampalataya ang tao sa ikapapawalang-sala at sa bibig ay ang pagtanggap ay ginagawa sa ikaliligtas.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-001-018",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang salita ng krus ay kahangalan sa mga naliligaw, ngunit sa atin na naliligtas ay ito ang kapangyarihan ng Dios.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-030",
+      "lang": "fil-PH",
+      "text": "Ang bunga ng matuwid ay punong kahoy ng buhay. Siya na may karunungan ay nananalo ng mga kaluluwa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-003",
+      "lang": "fil-PH",
+      "text": "Kayat sa kagalakan ay kukuha kayo ng tubig mula sa mga balon ng kaligtasan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-003-014",
+      "lang": "fil-PH",
+      "text": "Kung paanong itinataas ni Moises ang ahas sa ilang, gayon din naman ang Anak ng Tao ay dapat itaas,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-032",
+      "lang": "fil-PH",
+      "text": "Sino ang hindi nagtipid sa kaniyang sariling Anak, kundi ibinigay siya sa ating lahat, paano hindi niya rin ibibigay sa atin ang lahat ng mga bagay na kasama niya?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-008",
+      "lang": "fil-PH",
+      "text": "Sapagkat iniligtas mo ang aking kaluluwa mula sa kamatayan, ang aking mga mata mula sa mga luha, at ang aking mga paa mula sa pagkadapa.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-023-043",
+      "lang": "fil-PH",
+      "text": "Sinabi sa kaniya ni Jesus, Katotohanang sinasabi ko sa iyo, sa araw na ito ay makakasama mo ako sa Paraiso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-018",
+      "lang": "fil-PH",
+      "text": "na naligtas, hindi sa mga bagay na nasisira na gaya ng pilak o ginto, mula sa walang kabuluhang paraan ng buhay na ipinasa sa inyo ng inyong mga magulang,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-005",
+      "lang": "fil-PH",
+      "text": "Sa iyong kamay ay iniaabot ko ang aking espiritu. Iniligtas mo ako, O Panginoon, Dios ng katotohanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-020",
+      "lang": "fil-PH",
+      "text": "Nang kaniyang masabi ito, ay ipinakita niya sa kanila ang kaniyang mga kamay at ang kaniyang tagiliran. Ang mga alagad ngay nagalak nang kanilang makita ang Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-057",
+      "lang": "fil-PH",
+      "text": "Ngunit salamat sa Dios, na nagbibigay sa atin ng tagumpay sa pamamagitan ng ating Panginoong Jesucristo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-014",
+      "lang": "fil-PH",
+      "text": "Si Yah ay aking lakas at awit. Siyay naging aking kaligtasan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-028-009",
+      "lang": "fil-PH",
+      "text": "At nang silay nagsisipagpunta upang sabihin sa kaniyang mga alagad, narito, si Jesus ay sinalubong sila, na sinasabi, Magalak! At silay lumapit at humawak sa kaniyang mga paa, at sinamba siya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-001-013",
+      "lang": "fil-PH",
+      "text": "Sa kaniya rin, kayo rin, na nakarinig ng salita ng katotohanan, ang Mabuting Balita ng inyong kaligtasan—sa kaniya, na sa pagkasampalataya, kayoy tinatakan ng ipinangakong Espiritu Santo,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ACT-002-024",
+      "lang": "fil-PH",
+      "text": "na siyay binuhay ng Dios, na pinalaya siya mula sa pagdurusa ng kamatayan, sapagkat hindi posible na siyay mapigil nito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-098-001",
+      "lang": "fil-PH",
+      "text": "Isang Awit. Umawit kayo kay Yahweh ng bagong awit, sapagkat siyay gumawa ng mga kahanga-hangang bagay! Ang kaniyang kanang kamay at ang kaniyang banal na bisig ay gumawa ng kaligtasan para sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-013-001",
+      "lang": "fil-PH",
+      "text": "Sa araw na yaon ay magkakaroon ng bukal na bubuksan sa bahay ni David at sa mga nananahan sa Jerusalem, para sa kasalanan at sa karumihan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-038",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Bakit kayo nababalisa? Bakit may mga pagdududa sa inyong mga puso?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-016",
+      "lang": "fil-PH",
+      "text": "Sapagkat hindi ako nahihiya sa Mabuting Balita ni Cristo, sapagkat ito ang kapangyarihan ng Dios sa kaligtasan para sa lahat ng sumasampalataya, sa Judio muna, at gayon din sa Griego.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-010",
+      "lang": "fil-PH",
+      "text": "Sapagkat kung habang tayoy mga kaaway, tayoy nakipagkasundo sa Dios sa pamamagitan ng kamatayan ng kaniyang Anak, lalo na, na nakipagkasundo, tayoy maliligtas sa pamamagitan ng kaniyang buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-004",
+      "lang": "fil-PH",
+      "text": "na nagliligtas ng iyong buhay mula sa pagkawasak, na nagwawalang-bisa sa iyo ng pag-ibig at mga kaawaan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-012",
+      "lang": "fil-PH",
+      "text": "na inilibing na kasama niya sa bautismo, na sa kaniyay muling binuhay sa pamamagitan ng pananampalataya sa paggawa ng Dios, na bumuhay sa kaniya mula sa mga patay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-013",
+      "lang": "fil-PH",
+      "text": "Kayoy mga patay sa pamamagitan ng inyong mga pagsalangsang at sa hindi pagtutuli ng inyong laman. Siyay binuhay na kasama niya, na pinatawad ang lahat ng ating mga pagsalangsang,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-051-017",
+      "lang": "fil-PH",
+      "text": "Ang mga handog ng Dios ay isang wasak na espiritu. O Dios, hindi mo hihiyain ang isang wasak at mapagpakumbabang puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-016-015",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Humayo kayo sa buong sanlibutan at ipangaral ang Mabuting Balita sa buong nilikha.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-014",
+      "lang": "fil-PH",
+      "text": "na nagbigay ng kaniyang sarili para sa atin, upang tayoy tubusin mula sa lahat ng kasamaan at linisin para sa kaniyang sarili ang isang bayan na kaniyang pag-aari, na masigasig sa mga gawang mabuti.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-010",
+      "lang": "fil-PH",
+      "text": "Dito ay ang pag-ibig, hindi sa tayoy umibig sa Diyos, kundi sa siyay umibig sa atin, at sinugo ang kaniyang Anak bilang handog na pangkabayaran para sa ating mga kasalanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-130-007",
+      "lang": "fil-PH",
+      "text": "O Israel, asahan mo ang Panginoon, sapagkat may kagandahang-loob sa Panginoon. Sagana ang pagtubos sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-027-054",
+      "lang": "fil-PH",
+      "text": "At nang makita ng senturya at ng mga kasama niya na nagbabantay kay Jesus ang lindol at ang mga bagay na nangyari, silay nangatakot, na nagsasabi, Tunay na itoy Anak ng Diyos!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-003-025",
+      "lang": "fil-PH",
+      "text": "na sinugo ng Dios upang maging handog na pang-aton sa pamamagitan ng pananampalataya sa kaniyang dugo, para sa isang pagpapakita ng kaniyang katuwiran sa pamamagitan ng paglipas ng mga naunang kasalanan, sa pagtitiis ng Dios",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2PE-003-009",
+      "lang": "fil-PH",
+      "text": "Ang Panginoon ay hindi mabagal sa kaniyang pangako, gaya ng ilan ay nagbibilang ng kabagalan kundi siyay mapagpasensya sa atin, na hindi ibig na sinoman ay mapahamak, kundi ang lahat ay magsisi.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-014",
+      "lang": "fil-PH",
+      "text": "Maghintay ka sa Panginoon. Magpakatatag ka, at ang iyong pusoy magpakatatag. Oo, maghintay ka sa Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EZK-018-032",
+      "lang": "fil-PH",
+      "text": "Sapagkat wala akong kaluguran sa kamatayan ng namamatay, sabi ng Panginoong Yahweh. Kayat kayoy magbalik, at mangabuhay!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-010-009",
+      "lang": "fil-PH",
+      "text": "Ako ang pintuan. Kung sinoman ay pumasok sa pamamagitan ko, siyay maliligtas, at papasok at lalabas at makakasumpong ng pastulan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-001-015",
+      "lang": "fil-PH",
+      "text": "Tapat ang sinasabi, at karapat-dapat ng lahat ng pagtanggap, na si Cristo Jesus ay naparito sa sanlibutan upang iligtas ang mga makasalanan, na ako ang pinaka-una.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-038",
+      "lang": "fil-PH",
+      "text": "Sapagkat akoy lubos na kumbinsido na ni kamatayan, ni buhay, ni mga anghel, ni mga pamunuan, ni mga bagay na kasalukuyan, ni mga bagay na darating, ni mga kapangyarihan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-013",
+      "lang": "fil-PH",
+      "text": "Sapagkat iniligtas mo ang aking kaluluwa mula sa kamatayan, at pinigilan mo ang aking mga paa na madapa, upang akoy makalakad sa harap ng Diyos sa liwanag ng mga buhay.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-025",
+      "lang": "fil-PH",
+      "text": "Ako, ako nga, ang siyang nagtatanggal ng iyong mga pagsalangsang dahil sa aking sariling kapakanan at hindi ko aalalahanin ang iyong mga kasalanan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-020",
+      "lang": "fil-PH",
+      "text": "Gayundin, kinuha niya ang saro pagkatapos ng hapunan, na sinasabi, Ang saro na ito ay ang bagong tipan sa aking dugo, na ibinuhos para sa inyo.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-001-004",
+      "lang": "fil-PH",
+      "text": "na itinaguyod na Anak ng Diyos na may kapangyarihan ayon sa Espiritu ng kabanalan, sa pamamagitan ng pagkabuhay na mag-uli mula sa mga patay, si Jesucristo na ating Panginoon,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-020",
+      "lang": "fil-PH",
+      "text": "Ang Diyos ay sa atin isang Diyos ng kaligtasan. Sa Panginoon, ang Panginoon, ay nauukol ang pagtakas mula sa kamatayan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-011",
+      "lang": "fil-PH",
+      "text": "Tungkol sa inyo rin, dahil sa dugo ng inyong tipan, pinakawalan ko ang inyong mga bilanggo mula sa hukay na walang tubig.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006",
+      "lang": "fil-PH",
+      "text": "Sinabi niya sa kanila, Ihagis ang lambat sa kanang bahagi ng bangka, at kayoy makakasumpong ng ilan. Kayat inihagis nila ito, at ngayon ay hindi nila kayang hilahin ito dahil sa dami ng isda.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-006-014",
+      "lang": "fil-PH",
+      "text": "Ngayon ay binuhay ng Diyos ang Panginoon, at tayoy bubuhayin din sa pamamagitan ng kaniyang kapangyarihan.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-022",
+      "lang": "fil-PH",
+      "text": "Sapagkat kung paano sa pamamagitan ni Adan ang lahat ay namamatay, gayon din naman sa pamamagitan ni Cristo ang lahat ay bubuhayin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-015",
+      "lang": "fil-PH",
+      "text": "Ngunit ang Diyos ay magliligtas ng aking kaluluwa mula sa kapangyarihan ng Sheol, sapagkat siyay tatanggap sa akin. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JON-002-009",
+      "lang": "fil-PH",
+      "text": "Ngunit akoy maghahandog sa iyo ng tinig ng pasasalamat. Aking babayaran ang aking ipinangako. Ang kaligtasan ay sa Panginoon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-050",
+      "lang": "fil-PH",
+      "text": "Inilabas niya sila hanggang sa Betania, at itinaas ang kaniyang mga kamay at pinagpala sila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-REV-007-010",
+      "lang": "fil-PH",
+      "text": "Silay sumigaw ng malakas na tinig, na nagsasabi, Ang kaligtasan ay sa ating Diyos, na nakaupo sa trono, at sa Kordero!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-003-008",
+      "lang": "fil-PH",
+      "text": "Ang kaligtasan ay sa Panginoon. Naway ang iyong pagpapala ay mapasa iyong bayan. Selah.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-033-022",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang Panginoon ang ating hukom. Ang Panginoon ang ating tagapagbigay ng batas. Ang Panginoon ang ating hari. Siya ang magliligtas sa atin.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-011",
+      "lang": "fil-PH",
+      "text": "Sapagkat ang biyaya ng Diyos ay nahayag, na nagdadala ng kaligtasan sa lahat ng tao,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-002-024",
+      "lang": "fil-PH",
+      "text": "Kayat ang isang tao ay iiwan ang kaniyang ama at ina, at makikisama sa kaniyang asawa, at silay magiging isang laman.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-054-013",
+      "lang": "fil-PH",
+      "text": "Ang lahat ng iyong mga anak ay tuturuan ng Panginoon, at ang kapayapaan ng iyong mga anak ay magiging dakila.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-005",
+      "lang": "fil-PH",
+      "text": "at sinabi, Dahil dito, ang isang tao ay iiwan ang kaniyang ama at ina, at makikisama sa kaniyang asawa at ang dalawa ay magiging isang laman?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-001",
+      "lang": "fil-PH",
+      "text": "Mga anak, sumunod kayo sa inyong mga magulang sa Panginoon, sapagkat itoy tama.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-020-012",
+      "lang": "fil-PH",
+      "text": "Igalang mo ang iyong ama at iyong ina, upang ang iyong mga araw ay humaba sa lupain na ibinibigay sa iyo ng Panginoon mong Diyos.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-006",
+      "lang": "fil-PH",
+      "text": "Sanayin mo ang isang bata sa daang dapat niyang lakaran, at kapag siyay matanda na, ay hindi siya hihiwalay sa kaniya.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-024-007",
+      "lang": "fil-PH",
+      "text": "Bibigyan ko sila ng isang puso upang makilala ako, na akoy Panginoon. Silay magiging aking bayan, at akoy magiging kanilang Diyos sapagkat silay babalik sa akin ng kanilang buong puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-051",
+      "lang": "fil-PH",
+      "text": "At siyay bumaba sa kanila at naparoon sa Nazaret. Siyay naging masunurin sa kanila, at ang kaniyang ina ay iningatan ang lahat ng mga salitang ito sa kaniyang puso.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-021",
+      "lang": "fil-PH",
+      "text": "Mga ama, huwag ninyong pasakitan ang inyong mga anak, upang silay huwag manghina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-018",
+      "lang": "fil-PH",
+      "text": "Ang aking bayan ay mananahan sa mapayapang tahanan, sa mga ligtas na tahanan, at sa tahimik na mga pahingahan,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-003-035",
+      "lang": "fil-PH",
+      "text": "Sapagkat sinoman ang gumagawa ng kalooban ng Diyos ay aking kapatid, aking kapatid na babae, at ina.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-006-007",
+      "lang": "fil-PH",
+      "text": "at ituturo mo ang mga ito ng masigasig sa iyong mga anak, at iyong pag-uusapan ang mga ito kapag ikaw ay nakaupo sa iyong bahay, at kapag ikaw ay naglalakad sa daan, at kapag ikaw ay nahihiga, at kapag ikaw ay bumangon.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-005",
+      "lang": "fil-PH",
+      "text": "Ang mga lansangan ng bayan ay magiging puno ng mga batang lalaki at babae na naglalaro sa mga lansangan nito.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013",
+      "lang": "fil-PH",
+      "text": "Kung kayo nga, na masasama, ay nakakaalam na magbigay ng mabubuting kaloob sa inyong mga anak, gaano pa kaya ang inyong Ama sa langit na magbibigay ng Banal na Espiritu sa mga humihingi sa kaniya?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-002-007",
+      "lang": "fil-PH",
+      "text": "Ngunit kami ay naging mahinahon sa gitna ninyo, na parang isang inang nag-aalaga sa kaniyang sariling mga anak.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-068-006",
+      "lang": "fil-PH",
+      "text": "Itinatag ng Diyos ang mga nag-iisa sa mga pamilya. Inilabas niya ang mga bilanggo na may awit, ngunit ang mga mapaghimagsik ay nananahan sa lupain na pinapaso ng araw.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-006",
+      "lang": "fil-PH",
+      "text": "Ang mga anak ng mga anak ay ang korona ng mga matatanda ang kaluwalhatian ng mga anak ay ang kanilang mga magulang.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-011",
+      "lang": "fil-PH",
+      "text": "Kung kayo nga, na masasama, ay nakakaalam na magbigay ng mabubuting bagay sa inyong mga anak, gaano pa kaya ang inyong Ama na nasa langit ay magbibigay ng mabubuting bagay sa mga humihingi sa kaniya!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 1,
+  "next": 2
+}

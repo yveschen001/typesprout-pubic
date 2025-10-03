@@ -1,0 +1,455 @@
+{
+  "language": "nl-NL",
+  "translations": {
+    "aboutBody": "TypeSprout is een typetraining en groeiwebsite voor groepen 1–6 met ondersteuning voor zh‑TW / zh‑CN / en‑US, gericht op het bieden van een veilige en vriendelijke omgeving voor kinderen wereldwijd om inbreng, begrip en expressie te oefenen.",
+    "home": {
+      "aboutContent": "Hallo iedereen, ik ben Yves.C, een vader uit Taiwan. De inspiratie voor TypeSprout kwam voort uit het kijken naar mijn kinderen die met vrienden over de hele wereld chatten op Roblox—ik realiseerde me dat typen eigenlijk de eerste sleutel is voor kinderen om zich open te stellen voor een grotere wereld. Dus heb ik deze web-typelessen gemaakt met behulp van no-code concepten + ChatGPT/AI, met een visuele feedback van de groei van een boompje: met elke correcte toetsaanslag groeit de boom een beetje, waardoor dagelijkse inspanningen zichtbaar worden als prestaties. Wat betreft de inhoud heb ik veelgebruikte woorden van groep 1-6 georganiseerd in selecteerbare vraagbanken; kinderen kunnen hun moedertaal oefenen en overschakelen naar het Engels of andere talen die ze willen oefenen in Instellingen. Deze woorden worden door AI gefilterd op basis van de moeilijkheidsgraad van de klas.Voor volwassenen heb ik een uitgebreide vraagbank voorbereid, die momenteel de Bijbel-API en AI-gegenereerde bijbelverzen (van gratis online bronnen, de nauwkeurigheid kan beperkt zijn) omvat, en ik zal geleidelijk onderwerpen zoals beroemde citaten toevoegen om de oefening interessanter te maken. In TypeSprout zullen kinderen geleidelijk punten en dagelijkse inspanningen accumuleren; de kleine boom op het scherm zal ook gedijen met hun prestaties, wat een positieve cyclus van inspanning → feedback → hernieuwde betrokkenheid vormt. Ik heb ook een 5-daagse actieve uitdaging ontworpen: 5 dagen achter elkaar oefenen levert een kleine fruitbeloning op. Wanneer prestaties zichtbaar zijn, zal de motivatie groeien. Dit is het leerritme dat ik wil delen met kinderen en jullie. Voor leraren heb ik een Klassedfunctie toegevoegd op de persoonlijke pagina, waarmee leraren klassen kunnen aanmaken en klasgenoten kunnen uitnodigen om deel te nemen, waardoor de oefening competitiever aanvoelt.Dit is een klein project dat ik persoonlijk onderhoud (geen technische achtergrond, voornamelijk afhankelijk van ChatGPT/AI voor begeleiding en samenwerking). Als je suggesties hebt of problemen ondervindt tijdens het gebruik, laat dan gerust een bericht achter in de GitHub-issuesectie, en ik zal mijn best doen om ze te organiseren en op te lossen. Alvast bedankt. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Over TypeSprout",
+      "ctaTest": "Neem Test",
+      "googleUsersCount": "Google Login Gebruikers",
+      "googleUsersTooltip": "Totaal aantal gebruikers dat is ingelogd met Google-accounts",
+      "heroSubtitle": "Elke toetsaanslag wordt energie om je boom water te geven. Meertalige ondersteuning helpt bij het opbouwen van correcte typgewoonten en focus.",
+      "heroTitle": "Kinderen typen, de zaailing groeit.",
+      "tabs": {
+        "leader": "Leaderboard (voorbeeld)",
+        "visitors": "Bezoekers"
+      },
+      "leaderEmpty": "Geen gegevens beschikbaar",
+      "leaderViewFull": "Bekijk volledige ranglijst",
+      "players": "Spelers",
+      "privacyNote": "We verzamelen geen persoonlijke gegevens; statistieken zijn geanonimiseerd voor rangschikking en leerfeedback alleen.",
+      "visitorsDesc": "Landverdeling van sitebezoekers en spelers (anoniem)."
+    },
+    "absoluteScale": "Groen ≤{{low}}% · Geel ≤{{mid}}% · Rood >{{mid}}% (% is de recente cumulatieve foutpercentage voor die toets)",
+    "accuracy": "Nauwkeurigheid {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Nauwkeurigheidstrendgrafiek: een hogere lijn betekent meer nauwkeurig",
+      "accuracyChartTitle": "Nauwkeurigheid",
+      "accuracyChartTooltip": "Y-as: Nauwkeurigheid (hoe hoger, hoe nauwkeuriger); X-as: tijdsvolgorde. De blauwe lijn toont de veranderingen in nauwkeurigheid voor elke test.",
+      "defaultDescription": "Top: Snelheidsscore-trend; Onder: Nauwkeurigheidstrend. Verbeter eerst de nauwkeurigheid, verhoog daarna geleidelijk de snelheid.",
+      "speedChartAriaLabel": "Snelheidsscore-trendgraf: een hogere lijn betekent betere prestaties",
+      "speedChartTitle": "Snelheidsscore (Juiste snelheid)",
+      "speedChartTooltip": "Y-as: Snelheidsscore (hoe hoger, hoe beter); X-as: tijdsvolgorde. De groene lijn toont de snelheid van alleen correcte karakters, waarbij snelheid en nauwkeurigheid worden gecombineerd.",
+      "recordNumber": "Record {{number}}",
+      "speedScore": "Snelheidsscore {{score}}",
+      "totalQuestionChars": "Totale tekens in vragen: {{chars}}",
+      "actualInput": "Werkelijke invoer: {{chars}} tekens",
+      "timeSpent": "Bestede tijd: {{seconds}} s",
+      "accuracy": "Nauwkeurigheid {{percent}}%",
+      "correctChars": "Juiste tekens: {{chars}}",
+      "percentile": "Beter dan ongeveer {{percent}}% van de mensen",
+      "highestHere": "Hoogste hier {{value}}",
+      "recentValue": "Recent {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Nauwkeurigheid = correcte tekens ÷ totale vraagtekens. Opmerking: niet-getypte tekens worden ook meegeteld in totaal, dus ontbrekende tekens verlagen de nauwkeurigheid.",
+      "hideInsights": "Verberg inzichten",
+      "scoreTooltip": "Composite score = invoersnelheid van alleen correcte tekens. Berekening: snelheid (WPM/CPM) × nauwkeurigheid. Doel: eerst nauwkeurigheid stabiliseren, daarna geleidelijk de snelheid verhogen.",
+      "showInsights": "Toon inzichten",
+      "summary": "Deze sessie samenvatting",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Actieve dagen: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} tekens",
+    "adjWpm": "Samenstellingsscore (juiste snelheid) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Advertentiecookies: Zoals hierboven vermeld, als we Google AdSense inschakelen, zal Google cookies gebruiken om advertenties weer te geven. Je kunt op elk moment de advertentie-instellingenpagina van Google (https://adssettings.google.com/) bezoeken om gepersonaliseerde advertenties te beheren of je af te melden.",
+        "functionalCookies": "Functionele Cookies: We gebruiken cookies om je inlogstatus te behouden."
+      },
+      "section5": {
+        "contactChannel": "Contactkanaal: Als u vragen heeft over dit privacybeleid of uw gegevensrechten wilt uitoefenen (zoals opvragen, corrigeren, verwijderen), dien dan verzoeken in via onze officiële GitHub Issues-pagina.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Belangrijke herinnering: Houd er rekening mee dat GitHub Issues een openbaar platform is. Om uw persoonlijke privacy te beschermen, laat alstublieft absoluut geen persoonlijke identificatie-informatie achter in de inhoud van het probleem, zoals uw e-mailadres, echte naam of accountscreenshots. We hebben alleen uw gebruikersnaam op TypeSprout en een beschrijving van het probleem nodig. We zullen u niet via andere privékanalen dan Issues contacteren.",
+        "responseTime": "Aangezien dit een persoonlijk beheerd project is, zullen we zo snel mogelijk binnen onze mogelijkheden reageren. Bedankt voor uw geduld en begrip."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "U kunt optioneel uw leeftijdsgroep, beroepsveld, taal of regio opgeven. Deze informatie is niet verplicht en is voornamelijk bedoeld om aanbevelingen voor de vragenbank te optimaliseren, voor anonieme statistische analyse en voor het groeperen van ranglijsten. We vereisen of verifiëren de nauwkeurigheid van deze informatie niet."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Advertenties): We kunnen in de toekomst Google AdSense gebruiken om advertenties weer te geven ter ondersteuning van de operationele kosten van de website. Google en zijn partners kunnen Cookies (zoals de DoubleClick Cookie) gebruiken om gepersonaliseerde advertenties te tonen op basis van uw eerdere bezoekgeschiedenis.",
+          "googleAnalytics": "Google Analytics: We gebruiken deze service om het websiteverkeer te analyseren en het gebruik van de service te begrijpen. Het verzamelt geanonimiseerde informatie zoals uw IP-adres, browsertype, besturingssysteem, bezochte pagina's, enz."
+        },
+        "principle": "We houden ons aan het principe van minimalisme, waarbij we alleen de gegevens verzamelen die nodig zijn voor het onderhouden van de service:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Kernfunctie: Je anonieme gebruikers-ID en speldgegevens maken deel uit van de kernfunctionaliteit van deze service, gebruikt om je scores vast te leggen, historische grafieken te bieden en wereldwijde ranglijsten.",
+        "experienceOptimization": "Ervaringsoptimalisatie: De leeftijd, beroep en andere informatie die je vrijwillig verstrekt, worden gebruikt om je te matchen met geschiktere typpraktijkvraagbanken.",
+        "serviceMaintenance": "Serviceonderhoud: Technische gegevens verzameld via Google Analytics helpen ons de operationele status van de website te begrijpen en mogelijke problemen op te lossen.",
+        "statisticalAnalysis": "Statistische Analyse: We zullen alle door gebruikers vrijwillig verstrekte informatie anonimiseren en aggregeren om het algemene profiel van de gebruikersgroep te begrijpen en de service te verbeteren."
+      },
+      "section3": {
+        "crossBorderTransfer": "Cross-Border Transfer: GitHub en Google Firebase-servers kunnen zich buiten uw land bevinden (bijv. de Verenigde Staten). Door deze service te gebruiken, begrijpt en stemt u ermee in dat uw gegevens worden verzonden, opgeslagen en verwerkt op deze buitenlandse servers.",
+        "dataRetention": "Gegevensbewaring: Aangezien deze service volledig gratis is, kunnen we geen permanente gegevensopslag garanderen. We behouden ons het recht voor om sommige of alle gebruikersgegevens zonder voorafgaande kennisgeving te wissen.",
+        "storageLocation": "Opslaglocatie: De code van deze website is gehost op GitHub, terwijl je spelgegevens en vrijwillig verstrekte informatie zijn opgeslagen in de database van Google Firebase."
+      },
+      "effectiveDate": "Ingangsdatum: 21 september 2025",
+      "introduction": "Welkom bij TypeSprout! Dit is een gratis typpraktijkwebsite, gemaakt door een individuele ontwikkelaar uit interesse. We begrijpen dat uw privacy cruciaal is, dus dit beleid is bedoeld om uit te leggen welke gegevens we verzamelen en hoe we deze gegevens zullen gebruiken.",
+      "notice": "Houd er rekening mee dat deze service non-profit van aard is en dat alle functies worden aangeboden zoals ze zijn. Als u het niet eens bent met de voorwaarden van dit privacybeleid, stop dan onmiddellijk met het gebruik van deze service. Voortgezet gebruik geeft aan dat u alle inhoud van dit beleid heeft gelezen, begrepen en ermee akkoord gaat.",
+      "titleSuffix": "Privacybeleid"
+    },
+    "leaderboard": {
+      "allGrades": "Alle cijfers",
+      "lastMonth": "De ranking van vorige maand",
+      "lastWeek": "De ranking van vorige week",
+      "loading": "Laden...",
+      "loadingHint": "Als het blijft falen om te laden, controleer dan uw netwerkverbinding of probeer het later opnieuw.",
+      "noData": "Geen gegevens",
+      "reload": "Herlaad",
+      "signInHint": "Tip: Meld je aan om je testresultaten automatisch op te slaan; we gebruiken ze alleen voor rangschikking en leerfeedback, er worden geen persoonlijke gevoelige gegevens verzameld.",
+      "sortHint": "Tip: Druk op Alt+↑/↓ om sorteren te wisselen",
+      "today": "Vandaag's ranglijst",
+      "tooltip": "🏆 Hoe wordt de ranglijst berekend?&#10;• Vandaag: de scores van vandaag (lokale tijd)&#10;• Gisteren: de scores van gisteren (lokale tijd)&#10;• Vorige week: maandag tot zondag van vorige week&#10;• Vorige maand: 1e tot laatste dag van vorige maand&#10;&#10;📊 Hoe worden scores berekend?&#10;• Samengestelde score = maximale snelheid × nauwkeurigheid × oefentijd&#10;• Meerdere oefeningen op dezelfde dag worden samengevoegd&#10;• Langere oefentijd = hogere score&#10;&#10;💡 Tip: Oefen elke dag een beetje en je boom zal groeien!",
+      "yesterday": "Gisteren's ranglijst"
+    },
+    "test": {
+      "allowBackspace": "Toetsenbordtoetsen toestaan",
+      "capsLock": "Caps Lock",
+      "difficulty": "Moeilijkheidsgraad",
+      "difficultyEasy": "Gemakkelijk",
+      "difficultyHard": "Hard",
+      "difficultyMedium": "Gemiddeld",
+      "finished": "Klaar",
+      "inputPrompt": "Typ alstublieft de onderstaande tekst",
+      "insightsSummary": "Inzichten (toetsenbord hittekaart, snelheid en nauwkeurigheid trends)",
+      "loadingQuestions": "Vragen laden...",
+      "mistakes": "Fouten",
+      "outOfFocus": "Klik op het invoerveld om door te gaan met typen",
+      "promptStart": "Druk op Start, typ dan de tekst hierboven. Plakken is uitgeschakeld.",
+      "questionCount": "Vragen Telling",
+      "questionPreview": "Vraag (eerste 24 tekens)",
+      "questionStats": "De vraagstatistieken van deze sessie (tijd besteed / limiet, aantal fouten)",
+      "questionText": "Vraagtekst (kan niet worden geselecteerd of gekopieerd)",
+      "shortcutsDescription": "Ruimte: Start/Pauze • R: Reset • F: Focus invoer",
+      "signInToSave": "Meld je aan om je voortgang op te slaan",
+      "submitAndReview": "Indienen en resultaten bekijken",
+      "submitQuestion": "Dien deze vraag in (Enter)",
+      "timeLimit": "Tijdslimiet",
+      "timeSpent": "Tijd Besteed: {{seconds}} sec",
+      "title": "Test",
+      "tryAgain": "Probeer het opnieuw",
+      "shortcuts": "Druk op Enter om te verzenden"
+    },
+    "profile": {
+      "alreadyJoined": "Je bent al lid van deze klas",
+      "analysis": "Diepgaande Analyse",
+      "birthday": "Verjaardag (JJJJ-MM)",
+      "classCodePlaceholder": "Klassecode",
+      "classCodeTooltip": "Site-wide uniek (3–50 tekens; mag geen / bevatten). Gebruikt voor wedstrijden en het groeperen van ranglijsten; kan tot 5 samenvoegen. Docenten kunnen nieuwe codes aanmaken; worden automatisch toegevoegd na aanmaak (indien niet vol).",
+      "classCreatedAndJoined": "Klas succesvol aangemaakt en lid geworden",
+      "classNotFound": "Klassecode niet gevonden",
+      "codeAlreadyTaken": "Cursuscode al in gebruik",
+      "confirmDelete": "Weet je zeker dat je deze klascode wilt verwijderen?",
+      "copy": "Kopiëren",
+      "copyFailed": "Kopiëren mislukt, selecteer en kopieer handmatig.",
+      "copySuccess": "Classcode naar het klembord gekopieerd.",
+      "country": "Land/Regio",
+      "create": "Aanmaken",
+      "delete": "Verwijderen",
+      "female": "Vrouwelijk",
+      "fruits": "Fruit",
+      "fruitsTooltip": "Vruchten verzameld van je boom. Verdiend door dagelijkse puntdoelen te bereiken.",
+      "gender": "Geslacht",
+      "googleAccount": "Google-account",
+      "history": "Geschiedenis",
+      "invalidCodeFormat": "Voer 3-50 tekens in zonder /",
+      "join": "Meedoen",
+      "joinError": "Kon niet deelnemen aan de les",
+      "joinSuccess": "Met succes lid geworden van de klas",
+      "joinedClasses": "Klassen waaraan ik heb deelgenomen",
+      "language": "Taal",
+      "male": "Man",
+      "maxClassesReached": "Maximaal aantal klassen bereikt",
+      "maxJoinedClasses": "Maximaal aantal aangesloten lessen bereikt",
+      "myClasses": "Mijn Cursussen",
+      "nickname": "Bijnaam",
+      "noClasses": "Geen lessen",
+      "noUser": "Gebruiker niet gevonden",
+      "onlyTeacherCanCreate": "Alleen leraren kunnen klascodes aanmaken",
+      "other": "Andere",
+      "points": "Punten",
+      "pointsDetail": "Totaal aantal punten hierboven; details ga naar",
+      "pointsTooltip": "Punten verdiend met dagelijkse oefening. Gebruikt om je boom te laten groeien en beloningen te ontgrendelen.",
+      "remove": "Verwijderen",
+      "role": "Rol",
+      "roleCheckError": "Kon gebruikersrol niet controleren",
+      "save": "Opslaan",
+      "student": "Student",
+      "teacher": "Leraar",
+      "view": "weergave",
+      "xp": "Ervaring (XP)",
+      "xpTooltip": "Ervaringspunten verdiend door typpraktijk. Hogere nauwkeurigheid en snelheid = meer XP!",
+      "youOwnThis": "Je bezit dit",
+      "title": "Profiel",
+      "auto": "Automatisch",
+      "classCode": "Klascode",
+      "error": "Fout",
+      "alreadyTaken": "Al in gebruik",
+      "available": "Beschikbaar",
+      "logout": "Uitloggen",
+      "chartDescription": "Persoonlijke trends: boven samengestelde score, onder nauwkeurigheid.",
+      "parent": "Ouder"
+    },
+    "tips": {
+      "avgAdj": "Gemiddelde Samenstelling (30d)",
+      "meVsSite": "Ik vs Site (30d)",
+      "totalChars": "Totaal aantal tekens: {{chars}} tekens"
+    },
+    "admin": {
+      "bulkTranslationTool": "Bulk Localisatietool",
+      "execute": "Uitvoeren",
+      "sourceLanguage": "Brontaal",
+      "targetLanguage": "Doeltaal",
+      "usageDescription": "Voer de bron- en doeltaalcodes in, plak meerregelige tekst en druk op uitvoeren. De resultaten zijn alleen voor handmatige beoordeling. Deze functie vereist een beheerders-token om in te schakelen.",
+      "usageInstructions": "Gebruikshandleiding"
+    },
+    "garden": {
+      "charsUnit": "tekens",
+      "growthChartSubtitle": "Verschillende podiumverschijningen en ontgrendelvoorwaarden (illustratie).",
+      "growthChartTitle": "Groei diagram",
+      "historyRule1": "Punten worden berekend op basis van snelheid × nauwkeurigheid × tijd, en worden gebruikt om de groei van bomen te bevorderen.",
+      "historyRule2": "De onderstaande lijst toont elk verdienrecord, waardoor het gemakkelijk is om je inspanningen bij te houden.",
+      "historyTitle": "Wat is Geschiedenis?",
+      "howToLevelUp": "Hoe kun je levelen?",
+      "levelUpRule1": "Oefen dagelijks om activiteit op te bouwen; hoe langer je typt, hoe sneller je groeit.",
+      "levelUpRule2": "Maximaal niveau 5; als je niveau 5 dagelijks kunt behouden, zul je continu vruchten voortbrengen.",
+      "levelUpRule3": "Verzamelde vruchten bieden platformbeloningen op basis van ranking; momenteel kan testtijd worden gebruikt als scoreaccumulatie.",
+      "maxStage": "Maximale fase 5",
+      "myTree": "Mijn Boom",
+      "noLogs": "Geen records momenteel",
+      "pointsExplanation": "Hoe werken punten? Genereerd uit dagelijkse tests, gerelateerd aan effectieve invoertijd, snelheid en nauwkeurigheid. Dagelijkse limiet 100; korte oefening (≥5 seconden en nauwkeurigheid ≥30%) minimaal +1.",
+      "recalculateActivity": "Hernieuw activiteit en fase",
+      "recalculateActivityTooltip": "Wat is de activiteit en fase Herberekenen? Het zal je recente 5 dagen testrecords opnieuw lezen, effectieve invoerminuten berekenen en de activiteitenlijst en huidige fase bijwerken.",
+      "recentActivity": "Recente 5 dagen activiteit",
+      "recentLogs": "Recente records",
+      "stage1Desc": "Eerste spruit verschijnt",
+      "stage2Desc": "Tweede blad groeit",
+      "stage3Desc": "Bladvermenigvuldiging",
+      "stage4Desc": "Bloemen bloeien",
+      "stage5Desc": "Kleine boomkruin vormen (vruchten)",
+      "todaySummary": "Vandaag's samenvatting"
+    },
+    "ui": {
+      "closeHint": "Sluit hint",
+      "gotIt": "Ik snap het",
+      "later": "Later",
+      "start": "Starten",
+      "string089": "Gelieve eerst in te loggen.",
+      "string090": "Persoonlijke Informatie",
+      "string092": "Privacybeleid",
+      "string154": "Gebruiksvoorwaarden"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Als u vragen heeft over deze Servicevoorwaarden, stel ze dan via onze officiële GitHub Issues-pagina: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Houd er rekening mee dat dit een openbaar platform is, dus laat alstublieft uw persoonlijke privacy-informatie hier niet achter."
+      },
+      "section5": {
+        "content2": "Wij zijn niet verantwoordelijk voor verlies of schade aan uw oefenrecords of gebruikersgegevens, noch garanderen wij permanente gegevensbewaring.",
+        "content3": "We behouden ons het recht voor om deze service op elk moment om welke reden dan ook te wijzigen, op te schorten of permanent te beëindigen, zonder voorafgaande kennisgeving.",
+        "subtitle1": "Verstrekt zoals het is:",
+        "subtitle2": "Gegevensbewaring:",
+        "subtitle3": "Rechten bij beëindiging van de dienst:",
+        "content1": "Deze service wordt geleverd \"zoals deze is\" en zonder enige garantie.",
+        "title": "5. Aansprakelijkheidsbeperkingen en servicebeperkingen"
+      },
+      "footer": "© 2025 TypeSprout. Alle rechten voorbehouden.",
+      "lastUpdated": "Laatst bijgewerkt: 21 september 2025",
+      "section2": {
+        "listItem1": "AI gegenereerde inhoud: Sommige oefenartikelen worden geanalyseerd, verzameld of gegenereerd door AI-modellen (zoals ChatGPT) alleen voor typpraktijk.",
+        "listItem2": "Bijbelteksten: Sommige bijbelvraagbanken komen van derden API.Bijbelservices. Wanneer die service niet toegankelijk is, kunnen alternatieve teksten door AI-modellen worden gegenereerd.",
+        "content1": "Het enige doel van deze service is het bieden van typetraining. Het is geen hulpmiddel voor academisch onderzoek of religieuze educatie. Alle inhoud van de website dient dit enkele doel.",
+        "content2": "Om een rijke oefentekst te bieden, komt de inhoud van de vraagbank van deze service uit verschillende bronnen. We verklaren hierbij uitdrukkelijk:",
+        "content3": "De juistheid, volledigheid en geschiktheid als geloofsmateriaal worden niet gegarandeerd. Beschouw het alleen als oefentekst.",
+        "subtitle1": "Doel van de service",
+        "subtitle2": "Bronnen van inhoud en aansprakelijkheidsbeperkingen",
+        "title": "2. Beschrijving van de service en bronnen van inhoud"
+      },
+      "section1": {
+        "content1": "Welkom bij TypeSprout (hierna \"deze service\"). Deze service is een gratis, non-profit project dat wordt onderhouden door een individuele ontwikkelaar, met als doel gebruikers (vooral kinderen en leerlingen) een eenvoudige online omgeving voor typetraining te bieden.",
+        "content2": "Door toegang te krijgen tot of gebruik te maken van deze service, verklaart u dat u deze Algemene Voorwaarden (hierna \"deze voorwaarden\") heeft gelezen, begrepen en akkoord gaat met de inhoud ervan. Als u niet akkoord gaat met enige bepaling van deze voorwaarden, stop dan onmiddellijk met het gebruik van deze service.",
+        "title": "1. Algemene bepalingen en aanvaarding van de voorwaarden"
+      },
+      "section3": {
+        "content1": "Deze service is uitsluitend bedoeld voor persoonlijk en educatief gebruik, en wordt verleend op een niet-exclusieve, niet-overdraagbare en herroepbare basis.",
+        "content2": "Het is verboden deze service direct of indirect voor commerciële doeleinden te gebruiken.",
+        "subtitle1": "Persoonlijk, niet-commercieel gebruik",
+        "subtitle2": "Verboden voor commercieel gebruik",
+        "title": "3. Gebruik licentie en beperkingen"
+      },
+      "section4": {
+        "content1": "Gebruikers zijn verantwoordelijk voor het goed beheren van hun inloggegevens.",
+        "content2": "Het is verboden om de normale werking van deze service te verstoren of om te frauderen.",
+        "subtitle1": "Accountbeveiliging",
+        "subtitle2": "Verboden misbruik en ongepast gedrag",
+        "title": "4. Verantwoordelijkheden van de gebruiker"
+      },
+      "section6": {
+        "content": "Controleer het privacybeleid.",
+        "title": "6. Privacybeleid"
+      },
+      "titleSuffix": "Algemene Voorwaarden"
+    },
+    "correctChars": "Correcte tekens: {{chars}} tekens",
+    "createError": "Create mislukt:",
+    "ctaPractice": "Begin Oefening",
+    "layout": {
+      "dailyReminder": "Herinnering: oefen elke dag een beetje om je boompje te laten groeien en je typen te verbeteren!",
+      "epExplanation": "Hoe punten te verdienen? Elke test wordt berekend door tijd × snelheid × nauwkeurigheid (basis × minuten × (snelheid/doel, max ×2) × (0.5+0.5×nauwkeurigheid)). Dagelijkse limiet 100; aanmoedigingsregels: wanneer nauwkeurigheid ≥30%, minimaal +1 punt per 10 seconden (cumulatief); ≥30 seconden en nauwkeurigheid ≥50% minimaal +1.",
+      "loginSuggestion": "We raden aan om in te loggen met Google rechtsboven om je scores en geschiedenis op te slaan; deze site hecht waarde aan anonimiteit en privacy en zal geen persoonlijke gevoelige gegevens opslaan.",
+      "remaining": "overgebleven",
+      "todayProgress": "Vandaag:"
+    },
+    "practice": {
+      "description": "Dit gebied is alleen voor operaties en contentbeheer."
+    },
+    "error": {
+      "errorOccurred": "Er is een fout opgetreden",
+      "goBack": "Teruggaan",
+      "goHome": "Terug naar Startpagina",
+      "loadingError": "Er is een fout opgetreden bij het laden van de pagina, probeer het later opnieuw."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} foutpercentage {{percent}}%",
+      "relativeScale": "Relatieve schaal: Groen ≤30% · Geel ≤70% · Rood >70% (relatief ten opzichte van de hoogste fouttoets; gebaseerd op recente cumulatieve foutpercentage)"
+    },
+    "estimatedMinutes": "Geschatte {{minutes}} minuten",
+    "nav": {
+      "garden": "Tuin",
+      "home": "Home",
+      "leaderboard": "Leaderboard",
+      "practice": "Oefenen",
+      "profile": "Profiel",
+      "subtitle": "Kies de oefeninhoud die bij je past",
+      "test": "Test",
+      "result": "Resultaat"
+    },
+    "meta": {
+      "gardenDescription": "Laat je boom groeien met typpunten en beloningen.",
+      "homeDescription": "Kinderen typen oefenen met gamified boomgroei.",
+      "leaderboardDescription": "Dagelijkse/wekelijkse/maandelijkse ranglijsten per taal.",
+      "practiceDescription": "Gratis type-oefeningen met IME-ondersteuning en modi.",
+      "profileDescription": "Je persoonlijke informatie, cijfer en voorkeuren.",
+      "result": "Resultaat",
+      "resultDescription": "Je type-testresultaten.",
+      "testDescription": "Tijdtest die nauwkeurigheid en samengestelde score toont."
+    },
+    "grade": "Cijfer {{grade}}",
+    "questionBank": {
+      "gradeRange": "Leerjaar",
+      "recommended": "Aanbevolen",
+      "totalQuestions": "Totaal aantal vragen",
+      "children": {
+        "name": "Vraagbank voor kinderen",
+        "description": "Basis type-oefeningen voor kinderen"
+      },
+      "title": "Vraagbank kiezen",
+      "subtitle": "Kies de oefenbank die bij je past",
+      "loading": "Vraagbanken laden...",
+      "supportedLanguages": "Ondersteunde talen",
+      "noRecommendation": "Geen aanbevolen vraagbank voor jouw leerjaar",
+      "bible": {
+        "name": "Bijbel-vraagbank",
+        "description": "Type-oefeningen met Bijbelverzen"
+      }
+    },
+    "highestHere": "Hoogste hier {{value}}",
+    "hours": "{{count}} uren",
+    "hoursMinutes": "{{hours}} uren {{minutes}} minuten",
+    "leaderScore": "Samengestelde Score",
+    "levelUpSuggestion": "Om fase {{needStage}} te bereiken, stel ten minste {{moreMin}} extra minuten effectieve input vandaag voor.",
+    "loadError": "Kon het leaderboard niet laden, probeer het later opnieuw.",
+    "auth": {
+      "signOut": "Afmelden",
+      "pleaseSignIn": "Log eerst in met Google",
+      "signIn": "Aanmelden met Google"
+    },
+    "metricsTip": "Snelheid en nauwkeurigheid uitleg",
+    "minutes": "{{count}} minuten",
+    "minutesSeconds": "{{minutes}} minuten {{seconds}} seconden",
+    "bible": {
+      "name": "Bijbel Vraag Bank"
+    },
+    "noRecommendation": "Geen aanbevolen vraagbanken voor jouw niveau",
+    "percentile": "Overschrijdt ongeveer {{percent}}% van de mensen",
+    "progress": "Voortgang {{current}} / {{total}}",
+    "recentValue": "Recente {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "In real-time opgeslagen in Firestore",
+      "stage": "Stage {{stage}}",
+      "stageOverview": "Vijf-stappenoverzicht (voor uiterlijkvergelijking)"
+    },
+    "seconds": "{{count}} seconden",
+    "shortcuts": "Ruimte start/pauze · R reset · F focus · Enter dien deze vraag in",
+    "speedScore": "Snelheidsscore: {{score}}",
+    "stats": "{{chars}} tekens · {{accuracy}}% nauwkeurigheid",
+    "string094": "We gebruiken alleen je Google-account om je voortgang en geschiedenis op te slaan.",
+    "string095": "Welke gegevens verzamelen we?",
+    "string096": "We verzamelen alleen je type-scores, nauwkeurigheid en oefentijd. We verzamelen geen persoonlijke informatie zoals je naam, e-mailadres of andere gevoelige gegevens.",
+    "string097": "We gebruiken deze gegevens om je persoonlijke feedback te geven en om je voortgang in de loop van de tijd te tonen.",
+    "string155": "Door deze website te gebruiken, gaat u akkoord met de volgende voorwaarden:",
+    "string156": "Je bent verantwoordelijk voor je eigen leren en vooruitgang.",
+    "string157": "Wat zijn de voorwaarden?",
+    "string158": "De voorwaarden omvatten: het gebruik van de website voor educatieve doeleinden, het niet delen van ongepaste inhoud en het respecteren van andere gebruikers.",
+    "supportedLanguages": "Ondersteunde Talen",
+    "totalQuestionChars": "Totaal aantal vraagtekens: {{chars}} tekens",
+    "vsSiteAverage": "In vergelijking met de sitegemiddelde (zelfde taal): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.734Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Verzenden (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

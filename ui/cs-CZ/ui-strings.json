@@ -1,0 +1,455 @@
+{
+  "language": "cs-CZ",
+  "translations": {
+    "aboutBody": "TypeSprout je webová stránka pro procvičování psaní a růst pro 1.–6. třídu s podporou zh‑TW / zh‑CN / en‑US, jejímž cílem je nabídnout bezpečné a přátelské prostředí pro děti po celém světě, aby mohly procvičovat vstup, porozumění a vyjadřování.",
+    "home": {
+      "aboutContent": "Ahoj všichni, jsem Yves.C, táta z Tchaj-wanu. Inspirace pro TypeSprout přišla z toho, jak jsem sledoval své děti, jak si povídají s přáteli z celého světa na Robloxu—uvědomil jsem si, že psaní je vlastně prvním klíčem, jak se děti otevírají většímu světu. Tak jsem vytvořil tuto webovou aplikaci na procvičování psaní pomocí konceptů bez kódování + ChatGPT/AI, přidávající malé vizuální zpětné vazby o růstu stromu: s každým správným stiskem klávesy strom trochu vyroste, což přetváří každodenní úsilí na viditelné úspěchy. Co se týče obsahu, uspořádal jsem běžně používaná slova z 1.-6. třídy do výběrových bank otázek; děti si mohou procvičovat svůj mateřský jazyk a přepnout na angličtinu nebo jiné jazyky, které chtějí procvičovat v Nastavení. Tato slova jsou filtrována AI podle obtížnosti třídy.Pro dospělé jsem připravil rozšířenou banku otázek, která v současnosti zahrnuje API Bible a AI-generované biblické verše (z volně dostupných online zdrojů, přesnost může být omezená), a postupně přidám témata jako slavné citáty, aby bylo procvičování zajímavější. V TypeSprout děti postupně sbírají body a každodenní úsilí; malý strom na obrazovce také poroste s jejich výkonem, čímž se vytváří pozitivní cyklus úsilí → zpětná vazba → znovu zapojení. Také jsem navrhl 5denní aktivní výzvu: procvičování po dobu 5 po sobě jdoucích dnů přinese malou ovocnou odměnu. Když jsou úspěchy viditelné, motivace poroste. Toto je rytmus učení, který chci sdílet s dětmi a vámi. Pro učitele jsem na osobní stránce přidal funkci Třída, která umožňuje učitelům vytvářet třídy a zvát spolužáky k účasti, což činí procvičování více soutěživým.Toto je malý projekt, který udržuji osobně (bez inženýrského zázemí, hlavně se spoléhám na ChatGPT/AI pro vedení a spolupráci). Pokud máte návrhy nebo narazíte na problémy během používání, neváhejte zanechat zprávu v sekci problémů na GitHubu a udělám vše pro to, abych je uspořádal a vyřešil. Děkuji všem předem. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "O TypeSprout",
+      "ctaTest": "Zahájit test",
+      "googleUsersCount": "Uživatelé přihlášení přes Google",
+      "googleUsersTooltip": "Celkový počet uživatelů, kteří se přihlásili pomocí účtů Google",
+      "heroSubtitle": "Každý stisk klávesy se stává energií pro zalévání vašeho stromu. Podpora více jazyků pomáhá budovat správné psací návyky a soustředění.",
+      "heroTitle": "Děti píší, sazenice roste.",
+      "tabs": {
+        "leader": "Žebříček (náhled)",
+        "visitors": "Návštěvníci"
+      },
+      "leaderEmpty": "Žádná data zatím nejsou.",
+      "leaderViewFull": "Zobrazit plný žebříček",
+      "players": "Hráči",
+      "privacyNote": "Neshromažďujeme osobní údaje; statistiky jsou anonymizovány pouze pro hodnocení a zpětnou vazbu při učení.",
+      "visitorsDesc": "Distribuce zemí návštěvníků a hráčů na stránkách (anonymní)."
+    },
+    "absoluteScale": "Zelená ≤{{low}}% · Žlutá ≤{{mid}}% · Červená >{{mid}}% (% je aktuální kumulativní chybovost pro tuto klávesu)",
+    "accuracy": "Přesnost {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Graf trendu přesnosti: vyšší čára znamená přesnější",
+      "accuracyChartTitle": "Přesnost",
+      "accuracyChartTooltip": "Y-osa: Přesnost (vyšší znamená přesnější); X-osa: časový pořadí. Modrá čára ukazuje změny přesnosti pro každý test.",
+      "defaultDescription": "Top: Trend skóre rychlosti; Bottom: Trend přesnosti. Nejprve zlepšete přesnost, poté postupně zvyšujte rychlost.",
+      "speedChartAriaLabel": "Graf trendu skóre rychlosti: vyšší čára znamená lepší výkon",
+      "speedChartTitle": "Rychlostní skóre (Správná rychlost)",
+      "speedChartTooltip": "Y-osa: Skóre rychlosti (čím vyšší, tím lepší); X-osa: časový pořádek. Zelená čára ukazuje rychlost správných znaků pouze, kombinuje rychlost a přesnost.",
+      "recordNumber": "Záznam {{number}}",
+      "speedScore": "Skóre rychlosti {{score}}",
+      "totalQuestionChars": "Celkový počet znaků otázek: {{chars}}",
+      "actualInput": "Skutečný vstup: {{chars}} znaků",
+      "timeSpent": "Strávený čas: {{seconds}} s",
+      "accuracy": "Přesnost {{percent}}%",
+      "correctChars": "Správné znaky: {{chars}}",
+      "percentile": "Lepší než asi {{percent}}% lidí",
+      "highestHere": "Nejvyšší zde {{value}}",
+      "recentValue": "Nedávno {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Přesnost = správné znaky ÷ celkové znaky otázky. Poznámka: nezapsané znaky se také počítají do celkového počtu, takže chybějící znaky sníží přesnost.",
+      "hideInsights": "Skrýt poznatky",
+      "scoreTooltip": "Složené skóre = vstupní rychlost pouze správných znaků. Výpočet: rychlost (WPM/CPM) × přesnost. Účel: nejprve stabilizovat přesnost, poté postupně zvyšovat rychlost.",
+      "showInsights": "Zobrazit přehledy",
+      "summary": "Tento souhrn relace",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Aktivní dny: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} znaky",
+    "adjWpm": "Kombinované skóre (správná rychlost) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Reklamní soubory cookie: Jak bylo zmíněno výše, pokud aktivujeme Google AdSense, Google použije soubory cookie k zobrazování reklam. Kdykoli můžete navštívit stránku nastavení reklam Google (https://adssettings.google.com/), abyste spravovali nebo se odhlásili z personalizovaných reklam.",
+        "functionalCookies": "Funkční cookies: Používáme cookies k udržení vašeho stavu přihlášení."
+      },
+      "section5": {
+        "contactChannel": "Kontaktní kanál: Pokud máte jakékoli dotazy ohledně této zásady ochrany osobních údajů nebo si přejete uplatnit svá práva na data (například dotaz, opravu, odstranění), prosím, zasílejte žádosti prostřednictvím naší oficiální stránky GitHub Issues.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Důležité upozornění: Vezměte prosím na vědomí, že GitHub Issues je veřejná platforma. Abychom chránili vaše osobní soukromí, prosím, nezapomeňte do obsahu Issues nezanechávat žádné osobní identifikační informace, jako je vaše e-mailová adresa, skutečné jméno nebo snímky obrazovky účtu. Potřebujeme pouze vaše uživatelské jméno na TypeSprout a popis problému. Nebudeme vás kontaktovat prostřednictvím žádných soukromých kanálů kromě Issues.",
+        "responseTime": "Jelikož se jedná o osobně spravovaný projekt, odpovíme co nejrychleji v rámci našich možností. Děkujeme za vaši trpělivost a pochopení."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Můžete volitelně uvést svůj věkový rozsah, profesní obor, jazyk nebo region. Tyto informace nejsou povinné a slouží především k optimalizaci doporučení otázkového banku, pro anonymní statistickou analýzu a skupinování v žebříčku. Tyto informace nevyžadujeme ani neověřujeme jejich přesnost."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Reklama): V budoucnu můžeme použít Google AdSense k zobrazení reklam na podporu provozních nákladů webových stránek. Google a jeho partneři mohou používat Cookies (například DoubleClick Cookie) k zobrazení personalizovaných reklam na základě vaší historie návštěv.",
+          "googleAnalytics": "Google Analytics: Tento služba používáme k analýze návštěvnosti webových stránek, abychom pochopili využívání služeb. Shromažďuje anonymizované informace, jako je vaše IP adresa, typ prohlížeče, operační systém, navštívené stránky atd."
+        },
+        "principle": "Držíme se principu minimalismu, shromažďujeme pouze data nezbytná k udržení provozu služby:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Jádrová funkce: Vaše anonymní uživatelské ID a herní data jsou součástí základní funkčnosti této služby, používané k zaznamenávání vašich skóre, poskytování historických grafů a globálních žebříčků.",
+        "experienceOptimization": "Optimalizace zkušeností: Věk, povolání a další informace, které dobrovolně poskytnete, budou použity k přiřazení k vhodnějším otázkovým bankám pro cvičení psaní.",
+        "serviceMaintenance": "Údržba služby: Technická data shromážděná prostřednictvím Google Analytics nám pomáhají pochopit provozní stav webových stránek a opravit potenciální problémy.",
+        "statisticalAnalysis": "Statistická analýza: Anonymizujeme a agregujeme všechny informace poskytnuté uživateli dobrovolně, abychom pochopili celkový profil uživatelské skupiny a zlepšili službu."
+      },
+      "section3": {
+        "crossBorderTransfer": "Přeshraniční převod: Servery GitHub a Google Firebase mohou být umístěny mimo vaši zemi (např. Spojené státy). Používáním této služby chápete a souhlasíte s tím, že vaše data budou přenášena, ukládána a zpracovávána na těchto zahraničních serverech.",
+        "dataRetention": "Data Retention: Vzhledem k tomu, že tato služba je zcela zdarma, nemůžeme zaručit trvalé uchovávání dat. Vyhrazujeme si právo vymazat některá nebo všechna uživatelská data bez předchozího upozornění.",
+        "storageLocation": "Úložiště: Kód této webové stránky je hostován na GitHubu, zatímco vaše herní data a dobrovolně poskytnuté informace jsou uloženy v databázi Google Firebase."
+      },
+      "effectiveDate": "Datum účinnosti: 21. září 2025",
+      "introduction": "Vítejte na TypeSprout! Toto je bezplatná webová stránka pro procvičování psaní, kterou vytvořil jednotlivý vývojář z zájmu. Chápeme, že vaše soukromí je zásadní, takže tento dokument má za cíl vysvětlit, jaká data shromažďujeme a jak tato data použijeme.",
+      "notice": "Vezměte prosím na vědomí, že tato služba je nezisková a všechny funkce jsou poskytovány tak, jak jsou. Pokud nesouhlasíte s podmínkami této zásady ochrany osobních údajů, okamžitě přestaňte tuto službu používat. Pokračování v používání znamená, že jste si přečetli, porozuměli a souhlasíte se všemi obsahem této politiky.",
+      "titleSuffix": "Zásady ochrany osobních údajů"
+    },
+    "leaderboard": {
+      "allGrades": "Všechny známky",
+      "lastMonth": "Žebříček z minulého měsíce",
+      "lastWeek": "Žebříček z minulého týdne",
+      "loading": "Načítání...",
+      "loadingHint": "Pokud se načítání stále nedaří, zkontrolujte své připojení k síti nebo to zkuste znovu později.",
+      "noData": "Žádná data",
+      "reload": "Obnovit",
+      "signInHint": "Tip: Přihlaste se, abyste automaticky uložili své výsledky testů; používáme je pouze pro hodnocení a zpětnou vazbu k učení, žádná osobní citlivá data nejsou shromažďována.",
+      "sortHint": "Tip: Stiskněte Alt+↑/↓ pro přepínání řazení",
+      "today": "Dnešní žebříček",
+      "tooltip": "🏆 Jak se počítá žebříček?&#10;• Dnes: dnešní skóre (místní čas)&#10;• Včera: včerejší skóre (místní čas)&#10;• Minulý týden: pondělí až neděle minulého týdne&#10;• Minulý měsíc: 1. až poslední den minulého měsíce&#10;&#10;📊 Jak se počítají skóre?&#10;• Složené skóre = maximální rychlost × přesnost × čas cvičení&#10;• Více cvičení ve stejný den se spočítá dohromady&#10;• Delší čas cvičení = vyšší skóre&#10;&#10;💡 Tip: Cvičte trochu každý den a vaše strom poroste!",
+      "yesterday": "Včerejší pořadí"
+    },
+    "test": {
+      "allowBackspace": "Povolit zpětné mazání",
+      "capsLock": "Caps Lock",
+      "difficulty": "Obtížnost",
+      "difficultyEasy": "Snadné",
+      "difficultyHard": "Těžké",
+      "difficultyMedium": "Střední",
+      "finished": "Hotovo",
+      "inputPrompt": "Prosím, napište text níže",
+      "insightsSummary": "Přehledy (teploměr klávesnice, trendy rychlosti a přesnosti)",
+      "loadingQuestions": "Načítání otázek...",
+      "mistakes": "Chyby",
+      "outOfFocus": "Prosím, klikněte do vstupního pole a pokračujte v psaní.",
+      "promptStart": "Stiskněte Start, poté napište text výše. Vkládání je zakázáno.",
+      "questionCount": "Počet otázek",
+      "questionPreview": "Otázka (prvních 24 znaků)",
+      "questionStats": "Statistiky otázek této relace (čas strávený / limit, počet chyb)",
+      "questionText": "Otázka textu (nelze vybrat ani zkopírovat)",
+      "shortcutsDescription": "Prostor: Start/Pauza • R: Resetovat • F: Zaměřit vstup",
+      "signInToSave": "Přihlaste se, abyste si uložili svůj pokrok",
+      "submitAndReview": "Odeslat a zobrazit výsledky",
+      "submitQuestion": "Odeslat tuto otázku (Enter)",
+      "timeLimit": "Časový limit",
+      "timeSpent": "Čas strávený: {{seconds}} sek",
+      "title": "Test",
+      "tryAgain": "Zkusit znovu",
+      "shortcuts": "Stiskněte Enter pro odeslání"
+    },
+    "profile": {
+      "alreadyJoined": "Tuto třídu jste již navštívili.",
+      "analysis": "Hluboká analýza",
+      "birthday": "Narozeniny (RRRR-MM)",
+      "classCodePlaceholder": "Kód třídy",
+      "classCodeTooltip": "Unikátní pro celý web (3–50 znaků; nesmí obsahovat /). Používá se pro soutěže a skupiny na žebříčku; může se spojit až 5. Učitelé mohou vytvářet nové kódy; po vytvoření se automaticky připojí (pokud není plný).",
+      "classCreatedAndJoined": "Třída byla úspěšně vytvořena a připojena",
+      "classNotFound": "Kód třídy nebyl nalezen",
+      "codeAlreadyTaken": "Kód třídy již byl použit",
+      "confirmDelete": "Opravdu chcete smazat tento kód třídy?",
+      "copy": "Kopírovat",
+      "copyFailed": "Kopírování selhalo, prosím vyberte a zkopírujte ručně.",
+      "copySuccess": "Kód třídy zkopírován do schránky.",
+      "country": "Země/Region",
+      "create": "Vytvořit",
+      "delete": "Smazat",
+      "female": "Žena",
+      "fruits": "Ovoce",
+      "fruitsTooltip": "Ovoce nasbírané z vašeho stromu. Získáno dosažením denních bodových cílů.",
+      "gender": "Pohlaví",
+      "googleAccount": "Účet Google",
+      "history": "Historie",
+      "invalidCodeFormat": "Prosím zadejte 3-50 znaků bez /",
+      "join": "Připojit",
+      "joinError": "Nepodařilo se připojit k třídě",
+      "joinSuccess": "Úspěšně připojena třída",
+      "joinedClasses": "Třídy, které jsem navštívil",
+      "language": "Jazyk",
+      "male": "Muž",
+      "maxClassesReached": "Byl dosažen maximální počet tříd",
+      "maxJoinedClasses": "Maximální počet připojených tříd byl dosažen",
+      "myClasses": "Moje třídy",
+      "nickname": "Přezdívka",
+      "noClasses": "Žádné hodiny",
+      "noUser": "Uživatel nebyl nalezen",
+      "onlyTeacherCanCreate": "Pouze učitelé mohou vytvářet kódy tříd.",
+      "other": "Jiné",
+      "points": "Body",
+      "pointsDetail": "Celkové body; podrobnosti prosím navštivte",
+      "pointsTooltip": "Body získané z denní praxe. Používá se k růstu vašeho stromu a odemykání odměn.",
+      "remove": "Odebrat",
+      "role": "Role",
+      "roleCheckError": "Nepodařilo se zkontrolovat roli uživatele",
+      "save": "Uložit",
+      "student": "Student",
+      "teacher": "Učitel",
+      "view": "zobrazit",
+      "xp": "Zkušenosti (XP)",
+      "xpTooltip": "Zkušenostní body získané prostřednictvím psací praxe. Vyšší přesnost a rychlost = více XP!",
+      "youOwnThis": "Toto vlastníte",
+      "title": "Profil",
+      "auto": "Automaticky",
+      "classCode": "Kód třídy",
+      "error": "Chyba",
+      "alreadyTaken": "Již obsazeno",
+      "available": "K dispozici",
+      "logout": "Odhlásit se",
+      "chartDescription": "Osobní trendy: nahoře složené skóre, dole přesnost.",
+      "parent": "Rodič"
+    },
+    "tips": {
+      "avgAdj": "Průměrný kompozit (30d)",
+      "meVsSite": "Já vs. stránka (30d)",
+      "totalChars": "Celkem znaků: {{chars}} znaků"
+    },
+    "admin": {
+      "bulkTranslationTool": "Nástroj pro hromadnou lokalizaci",
+      "execute": "Provést",
+      "sourceLanguage": "Zdrojový jazyk",
+      "targetLanguage": "Cílový jazyk",
+      "usageDescription": "Zadejte kódy zdrojového a cílového jazyka, vložte vícero řádků textu a stiskněte spustit, výsledky jsou určeny pouze k ručnímu přezkoumání. Tato funkce vyžaduje administrátorský token pro aktivaci.",
+      "usageInstructions": "Pokyny k použití"
+    },
+    "garden": {
+      "charsUnit": "znaky",
+      "growthChartSubtitle": "Různé vzhledy scén a podmínky odemykání (ilustrace).",
+      "growthChartTitle": "Diagram růstu",
+      "historyRule1": "Body se počítají z rychlosti × přesnosti × času, používané k podpoře růstu stromů.",
+      "historyRule2": "Seznam níže zobrazuje každou záznam o výdělku, což vám usnadňuje sledování vašich snah.",
+      "historyTitle": "Co je historie?",
+      "howToLevelUp": "Jak se zlepšit?",
+      "levelUpRule1": "Cvičte denně, abyste nasbírali aktivitu; čím déle píšete, tím rychleji rostete.",
+      "levelUpRule2": "Maximální úroveň 5; pokud dokážete udržet úroveň 5 denně, budete neustále sklízet plody.",
+      "levelUpRule3": "Nasbírané ovoce poskytne odměny na platformě na základě hodnocení; v současnosti lze využít testovací čas jako akumulaci skóre.",
+      "maxStage": "Maximální úroveň 5",
+      "myTree": "Můj strom",
+      "noLogs": "Žádné záznamy momentálně",
+      "pointsExplanation": "Jak fungují body? Generovány z denních testů, související s efektivním časem zadávání, rychlostí a přesností. Denní limit 100; krátký trénink (≥5 sekund a přesnost ≥30%) alespoň +1.",
+      "recalculateActivity": "Přepočítat aktivitu a fázi",
+      "recalculateActivityTooltip": "Co je aktivita a fáze Přepočítat? Znovu přečte vaše nedávné záznamy testů za posledních 5 dní, vypočítá efektivní minuty psaní a aktualizuje seznam aktivit a aktuální fázi.",
+      "recentActivity": "Aktivita za posledních 5 dní",
+      "recentLogs": "Nedávné záznamy",
+      "stage1Desc": "První výhonek se objevuje",
+      "stage2Desc": "Druhý list roste",
+      "stage3Desc": "Násobení listů",
+      "stage4Desc": "Květy kvetou",
+      "stage5Desc": "Malé koruny stromů (plody)",
+      "todaySummary": "Dnešní shrnutí"
+    },
+    "ui": {
+      "closeHint": "Zavřít nápovědu",
+      "gotIt": "Rozumím",
+      "later": "Později",
+      "start": "Start",
+      "string089": "Prosím, nejprve se přihlaste.",
+      "string090": "Osobní informace",
+      "string092": "Zásady ochrany osobních údajů",
+      "string154": "Podmínky služby"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Pokud máte jakékoli dotazy k těmto Podmínkám služby, prosím, položte je prostřednictvím naší oficiální stránky GitHub Issues: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Prosím, vezměte na vědomí, že se jedná o veřejnou platformu, takže na ní nezanechávejte své osobní údaje."
+      },
+      "section5": {
+        "content2": "Neseme odpovědnost za jakoukoli ztrátu nebo poškození vašich záznamů o cvičení nebo uživatelských dat, ani nezaručujeme trvalé uchování dat.",
+        "content3": "Vyhrazujeme si právo tuto službu kdykoli z jakéhokoli důvodu upravit, pozastavit nebo trvale ukončit, bez předchozího upozornění.",
+        "subtitle1": "Poskytováno tak, jak je:",
+        "subtitle2": "Data zachování:",
+        "subtitle3": "Práva na ukončení služby:",
+        "content1": "Tato služba je poskytována \"tak, jak je\", bez jakýchkoli záruk.",
+        "title": "5. Odpovědnost a omezení služeb"
+      },
+      "footer": "© 2025 TypeSprout. Všechna práva vyhrazena.",
+      "lastUpdated": "Nap poslední aktualizace: 21. září 2025",
+      "section2": {
+        "listItem1": "AI Generovaný obsah: Některé cvičné články jsou analyzovány, shromažďovány nebo generovány AI modely (např. ChatGPT) pouze pro účely psací praxe.",
+        "listItem2": "Bible Texts: Některé otázkové banky Bible pocházejí z API třetích stran. Když je tato služba nedostupná, mohou být alternativní texty generovány AI modely.",
+        "content1": "Hlavním cílem této služby je poskytovat cvičení v psaní. Není určena jako nástroj pro akademický výzkum nebo náboženské vzdělávání. Všechna obsah webu slouží pouze tomuto jedinému účelu.",
+        "content2": "Abychom poskytli bohatý obsah pro cvičení, obsah této služby pochází z různých zdrojů. Tímto výslovně prohlašujeme:",
+        "content3": "Není zaručena přesnost, úplnost ani vhodnost jako důvěryhodný materiál. Prosím, chápete to pouze jako text pro cvičení.",
+        "subtitle1": "Cíl služby",
+        "subtitle2": "Zdroje obsahu a odmítnutí odpovědnosti",
+        "title": "2. Popis služby a zdroje obsahu"
+      },
+      "section1": {
+        "content1": "Vítejte v aplikaci TypeSprout (dále jen \"tato služba\"). Tato služba je bezplatný, neziskový projekt, který spravuje jednotlivý vývojář a jehož cílem je poskytnout uživatelům (zejména dětem a studentům) jednoduché online prostředí pro procvičování psaní.",
+        "content2": "Pokud přistupujete k této službě nebo ji používáte, znamená to, že jste si přečetli, porozuměli a souhlasíte se všemi podmínkami těchto \"Podmínek služby\" (dále jen \"tyto podmínky\"). Pokud nesouhlasíte s jakoukoli částí těchto podmínek, okamžitě přestaňte tuto službu používat.",
+        "title": "1. Obecná ustanovení a přijetí podmínek"
+      },
+      "section3": {
+        "content1": "Tato služba je určena pouze pro osobní a vzdělávací účely a je poskytována na základě nevýhradní, nepřenosné a odvolatelné licence.",
+        "content2": "Je zakázáno používat tuto službu přímo nebo nepřímo pro obchodní účely.",
+        "subtitle1": "Osobní, nekomerční použití",
+        "subtitle2": "Zakázáno pro komerční použití",
+        "title": "3. Licenční podmínky a omezení"
+      },
+      "section4": {
+        "content1": "Uživatel je odpovědný za řádné zacházení s přihlašovacími informacemi.",
+        "content2": "Je zakázáno jakýmkoli způsobem narušovat normální fungování této služby a podvádět.",
+        "subtitle1": "Bezpečnost účtu",
+        "subtitle2": "Zakázáno zneužívání a nepoctivé jednání",
+        "title": "4. Odpovědnost uživatele"
+      },
+      "section6": {
+        "content": "Prosím, zkontrolujte zásady ochrany soukromí.",
+        "title": "6. Zásady ochrany soukromí"
+      },
+      "titleSuffix": "Podmínky služby"
+    },
+    "correctChars": "Správné znaky: {{chars}} znaky",
+    "createError": "Vytvoření se nezdařilo: {{error}}",
+    "ctaPractice": "Začít cvičení",
+    "layout": {
+      "dailyReminder": "Připomínka: Cvičte každý den trochu – sazenice poroste a psaní se zlepší!",
+      "epExplanation": "Jak získat body? Každý test se počítá jako čas × rychlost × přesnost (základ × minuty × (rychlost/cíl, max ×2) × (0.5+0.5×přesnost)). Denní limit 100; pravidla povzbuzení: když je přesnost ≥30%, alespoň +1 bod za každých 10 sekund (kumulativně); ≥30 sekund a přesnost ≥50% alespoň +1.",
+      "loginSuggestion": "Doporučujeme se přihlásit pomocí Google v pravém horním rohu, abyste si uložili své skóre a historii; tento web si cení anonymity a soukromí a nebude uchovávat citlivé osobní údaje.",
+      "remaining": "zbývá",
+      "todayProgress": "Dnes:"
+    },
+    "practice": {
+      "description": "Tato oblast je určena pouze pro operace a správu obsahu."
+    },
+    "error": {
+      "errorOccurred": "Došlo k chybě",
+      "goBack": "Jít zpět",
+      "goHome": "Zpět na domovskou stránku",
+      "loadingError": "Došlo k chybě při načítání stránky, prosím zkuste to znovu později."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} chybovost {{percent}}%",
+      "relativeScale": "Relativní měřítko: Zelená ≤30% · Žlutá ≤70% · Červená >70% (vzhledem k nejvyšší chybové klíč; na základě nedávné kumulativní chybovosti)"
+    },
+    "estimatedMinutes": "Odhadované {{minutes}} minuty",
+    "nav": {
+      "garden": "Zahrada",
+      "home": "Domů",
+      "leaderboard": "Žebříček",
+      "practice": "Cvičení",
+      "profile": "Profil",
+      "subtitle": "Vyberte si obsah cvičení, který vám vyhovuje",
+      "test": "Test",
+      "result": "Výsledek"
+    },
+    "meta": {
+      "gardenDescription": "Získejte body za psaní a odměny pro růst svého stromu.",
+      "homeDescription": "Dětský psací trénink s gamifikovaným růstem stromu.",
+      "leaderboardDescription": "Denní/týdenní/měsíční žebříčky podle jazyka.",
+      "practiceDescription": "Bezplatný psací trénink s podporou IME a režimy.",
+      "profileDescription": "Vaše osobní informace, hodnocení a preference.",
+      "result": "Výsledek",
+      "resultDescription": "Vaše výsledky testu psaní.",
+      "testDescription": "Časovaný test ukazující přesnost a složené skóre."
+    },
+    "grade": "Hodnocení {{grade}}",
+    "questionBank": {
+      "gradeRange": "Ročník",
+      "recommended": "Doporučeno",
+      "totalQuestions": "Celkový počet otázek",
+      "children": {
+        "name": "Dětská banka otázek",
+        "description": "Základní nácvik psaní pro děti"
+      },
+      "title": "Vyberte banku otázek",
+      "subtitle": "Vyberte tréninkovou banku, která vám vyhovuje",
+      "loading": "Načítání bank otázek...",
+      "supportedLanguages": "Podporované jazyky",
+      "noRecommendation": "Pro váš ročník nejsou doporučené banky",
+      "bible": {
+        "name": "Biblická banka otázek",
+        "description": "Nácvik psaní biblických veršů"
+      }
+    },
+    "highestHere": "Nejvyšší zde {{value}}",
+    "hours": "{{count}} hodiny",
+    "hoursMinutes": "{{hours}} hodiny {{minutes}} minuty",
+    "leaderScore": "Composite Score",
+    "levelUpSuggestion": "Abychom dosáhli fáze {{needStage}}, navrhněte ještě alespoň {{moreMin}} minut efektivního vstupu dnes.",
+    "loadError": "Nepodařilo se načíst žebříček, zkuste to prosím později.",
+    "auth": {
+      "signOut": "Odhlásit se",
+      "pleaseSignIn": "Prosím, nejprve se přihlaste pomocí Google.",
+      "signIn": "Přihlásit se pomocí Google"
+    },
+    "metricsTip": "Vysvětlení rychlosti a přesnosti",
+    "minutes": "{{count}} minuty",
+    "minutesSeconds": "{{minutes}} minut {{seconds}} sekund",
+    "bible": {
+      "name": "Otázková banka Bible"
+    },
+    "noRecommendation": "Nemáme doporučené otázkové banky pro vaši úroveň.",
+    "percentile": "Přesahuje přibližně {{percent}}% lidí",
+    "progress": "Pokrok {{current}} / {{total}}",
+    "recentValue": "Nedávné {{value}} {{trend}}",
+    "recordNumber": "Záznam {{number}}",
+    "dev": {
+      "savedToFirestore": "Uloženo v reálném čase do Firestore",
+      "stage": "Stage {{stage}}",
+      "stageOverview": "Pětistupňový přehled (pro porovnání vzhledu)"
+    },
+    "seconds": "{{count}} sekundy",
+    "shortcuts": "Začít/pauza · R reset · F zaměřit · Enter odeslat tuto otázku",
+    "speedScore": "Rychlostní skóre: {{score}}",
+    "stats": "{{chars}} znaky · {{accuracy}}% přesnost",
+    "string094": "Používáme váš účet Google pouze k uložení vašeho pokroku a historie.",
+    "string095": "Jaká data shromažďujeme?",
+    "string096": "Shromažďujeme pouze vaše výsledky psaní, přesnost a čas cvičení. Neshromažďujeme osobní informace, jako je vaše jméno, e-mail nebo jiná citlivá data.",
+    "string097": "Tato data používáme k tomu, abychom vám poskytli osobní zpětnou vazbu a ukázali vám váš pokrok v průběhu času.",
+    "string155": "Používáním této webové stránky souhlasíte s následujícími podmínkami:",
+    "string156": "Jste zodpovědní za své vlastní učení a pokrok.",
+    "string157": "Jaké jsou podmínky?",
+    "string158": "Použití webové stránky pouze pro vzdělávací účely, nesdílení nevhodného obsahu a respektování ostatních uživatelů.",
+    "supportedLanguages": "Podporované jazyky",
+    "totalQuestionChars": "Celkem znaků otázky: {{chars}} znaků",
+    "vsSiteAverage": "Ve srovnání s průměrem stránek (stejný jazyk): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.655Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Odeslat (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

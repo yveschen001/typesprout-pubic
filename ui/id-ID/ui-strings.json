@@ -1,0 +1,455 @@
+{
+  "language": "id-ID",
+  "translations": {
+    "aboutBody": "TypeSprout adalah situs latihan mengetik dan pertumbuhan untuk kelas 1–6 dengan dukungan zh‑TW / zh‑CN / en‑US, yang bertujuan untuk menawarkan lingkungan yang aman dan ramah bagi anak-anak di seluruh dunia untuk berlatih input, pemahaman, dan ekspresi.",
+    "home": {
+      "aboutContent": "Hai semuanya, saya Yves.C, seorang ayah dari Taiwan. Inspirasi untuk TypeSprout datang dari melihat anak-anak saya mengobrol dengan teman-teman di seluruh dunia di Roblox—saya menyadari bahwa mengetik sebenarnya adalah kunci pertama bagi anak-anak untuk membuka dunia yang lebih besar. Jadi saya membuat latihan mengetik web ini menggunakan konsep tanpa kode + ChatGPT/AI, menambahkan umpan balik visual pertumbuhan pohon kecil: dengan setiap ketikan yang benar, pohon tumbuh sedikit, mengubah usaha sehari-hari menjadi pencapaian yang terlihat. Dalam hal konten, saya telah mengorganisir kata-kata yang umum digunakan dari kelas 1-6 ke dalam bank soal yang dapat dipilih; anak-anak dapat berlatih bahasa ibu mereka dan beralih ke bahasa Inggris atau bahasa lain yang ingin mereka latih di Pengaturan. Kata-kata ini disaring oleh AI sesuai dengan tingkat kesulitan kelas.Untuk orang dewasa, saya telah menyiapkan bank soal yang diperluas, saat ini termasuk API Alkitab dan ayat-ayat Alkitab yang dihasilkan AI (dari sumber online gratis, akurasi mungkin terbatas), dan saya akan secara bertahap menambahkan topik seperti kutipan terkenal untuk membuat latihan lebih menarik. Di TypeSprout, anak-anak akan secara bertahap mengumpulkan poin dan usaha harian; pohon kecil di layar juga akan tumbuh seiring dengan kinerja mereka, membentuk siklus positif dari usaha → umpan balik → keterlibatan kembali. Saya juga merancang tantangan aktif selama 5 hari: berlatih selama 5 hari berturut-turut akan mendapatkan hadiah buah kecil. Ketika pencapaian terlihat, motivasi akan tumbuh. Ini adalah ritme belajar yang ingin saya bagikan kepada anak-anak dan Anda. Untuk guru, saya menambahkan fungsi Kelas di halaman pribadi, memungkinkan guru untuk membuat kelas dan mengundang teman sekelas untuk berpartisipasi, membuat latihan terasa lebih kompetitif.Ini adalah proyek kecil yang saya kelola secara pribadi (tanpa latar belakang teknik, terutama mengandalkan ChatGPT/AI untuk panduan dan kolaborasi). Jika Anda memiliki saran atau mengalami masalah selama penggunaan, silakan tinggalkan pesan di bagian isu GitHub, dan saya akan melakukan yang terbaik untuk mengorganisir dan menyelesaikannya. Terima kasih sebelumnya. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Tentang TypeSprout",
+      "ctaTest": "Ambil Tes",
+      "googleUsersCount": "Pengguna Masuk Google",
+      "googleUsersTooltip": "Total jumlah pengguna yang masuk dengan akun Google",
+      "heroSubtitle": "Setiap ketukan menjadi energi untuk menyiram pohonmu. Dukungan multi-bahasa membantu membangun kebiasaan mengetik yang benar dan fokus.",
+      "heroTitle": "Anak-anak mengetik, bibit tumbuh.",
+      "tabs": {
+        "leader": "Papan Peringkat (prabaca)",
+        "visitors": "Pengunjung"
+      },
+      "leaderEmpty": "Belum ada data",
+      "leaderViewFull": "Lihat papan peringkat lengkap",
+      "players": "Pemain",
+      "privacyNote": "Kami tidak mengumpulkan data pribadi; statistik dianonimkan hanya untuk peringkat dan umpan balik pembelajaran.",
+      "visitorsDesc": "Distribusi negara pengunjung dan pemain situs (anonim)."
+    },
+    "absoluteScale": "Hijau ≤{{low}}% · Kuning ≤{{mid}}% · Merah >{{mid}}% (% adalah tingkat kesalahan kumulatif terbaru untuk tombol tersebut)",
+    "accuracy": "Akurasi {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Grafik tren akurasi: garis yang lebih tinggi berarti lebih akurat",
+      "accuracyChartTitle": "Akurasi",
+      "accuracyChartTooltip": "Sumbu Y: Akurasi (semakin tinggi berarti semakin akurat); Sumbu X: urutan waktu. Garis biru menunjukkan perubahan akurasi untuk setiap tes.",
+      "defaultDescription": "Atas: Tren skor kecepatan; Bawah: Tren akurasi. Pertama tingkatkan akurasi, lalu secara bertahap tingkatkan kecepatan.",
+      "speedChartAriaLabel": "Grafik tren skor kecepatan: garis yang lebih tinggi berarti kinerja yang lebih baik",
+      "speedChartTitle": "Skor Kecepatan (Kecepatan Benar)",
+      "speedChartTooltip": "Sumbu Y: Skor kecepatan (semakin tinggi semakin baik); Sumbu X: urutan waktu. Garis hijau menunjukkan kecepatan karakter yang benar saja, menggabungkan kecepatan dan akurasi.",
+      "recordNumber": "Rekaman {{number}}",
+      "speedScore": "Skor kecepatan {{score}}",
+      "totalQuestionChars": "Total karakter soal: {{chars}}",
+      "actualInput": "Input aktual: {{chars}} karakter",
+      "timeSpent": "Waktu yang dihabiskan: {{seconds}} dtk",
+      "accuracy": "Akurasi {{percent}}%",
+      "correctChars": "Karakter benar: {{chars}}",
+      "percentile": "Lebih baik dari sekitar {{percent}}% orang",
+      "highestHere": "Tertinggi di sini {{value}}",
+      "recentValue": "Terbaru {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Akurasi = karakter yang benar ÷ total karakter pertanyaan. Catatan: karakter yang tidak diketik juga dihitung dalam total, jadi karakter yang hilang akan menurunkan akurasi.",
+      "hideInsights": "Sembunyikan wawasan",
+      "scoreTooltip": "Composite score = kecepatan input karakter yang benar saja. Perhitungan: kecepatan (WPM/CPM) × akurasi. Tujuan: pertama menstabilkan akurasi, lalu secara bertahap meningkatkan kecepatan.",
+      "showInsights": "Tampilkan wawasan",
+      "summary": "Ringkasan sesi ini",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Hari aktif: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} karakter",
+    "adjWpm": "Skor komposit (kecepatan benar) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Cookies Iklan: Seperti yang disebutkan di atas, jika kami mengaktifkan Google AdSense, Google akan menggunakan cookie untuk menampilkan iklan. Anda dapat mengunjungi halaman pengaturan iklan Google (https://adssettings.google.com/) kapan saja untuk mengelola atau memilih keluar dari iklan yang dipersonalisasi.",
+        "functionalCookies": "Fungsi Cookie: Kami menggunakan cookie untuk menjaga status login Anda."
+      },
+      "section5": {
+        "contactChannel": "Saluran Kontak: Jika Anda memiliki pertanyaan tentang kebijakan privasi ini atau ingin menggunakan hak data Anda (seperti permintaan, koreksi, penghapusan), silakan kirim permintaan melalui halaman Isu GitHub resmi kami.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Peringatan Penting: Harap dicatat bahwa GitHub Issues adalah platform publik. Untuk melindungi privasi pribadi Anda, harap jangan meninggalkan informasi identifikasi pribadi dalam konten Isu, seperti alamat email, nama asli, atau tangkapan layar akun. Kami hanya perlu Anda memberikan Nama Pengguna Anda di TypeSprout dan deskripsi masalahnya. Kami tidak akan menghubungi Anda melalui saluran pribadi lainnya selain Issues.",
+        "responseTime": "Karena ini adalah proyek yang dikelola secara pribadi, kami akan merespons secepat mungkin sesuai kemampuan kami. Terima kasih atas kesabaran dan pengertian Anda."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Anda dapat memberikan rentang usia, bidang profesional, bahasa, atau wilayah Anda. Informasi ini tidak wajib dan terutama dimaksudkan untuk mengoptimalkan rekomendasi bank pertanyaan, untuk analisis statistik anonim, dan pengelompokan papan peringkat. Kami tidak memerlukan atau memverifikasi akurasi informasi ini."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Periklanan): Kami mungkin akan menggunakan Google AdSense di masa depan untuk menampilkan iklan guna mendukung biaya operasional situs web. Google dan mitranya dapat menggunakan Cookies (seperti Cookie DoubleClick) untuk menampilkan iklan yang dipersonalisasi berdasarkan riwayat kunjungan Anda sebelumnya.",
+          "googleAnalytics": "Google Analytics: Kami menggunakan layanan ini untuk menganalisis lalu lintas situs web guna memahami penggunaan layanan. Ini mengumpulkan informasi anonim seperti alamat IP Anda, jenis browser, sistem operasi, halaman yang dikunjungi, dll."
+        },
+        "principle": "Kami mematuhi prinsip minimalisme, hanya mengumpulkan data yang diperlukan untuk menjaga operasi layanan:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Fungsi Utama: ID pengguna anonim dan data permainan Anda adalah bagian dari fungsi inti layanan ini, digunakan untuk mencatat skor Anda, menyediakan grafik historis, dan papan peringkat global.",
+        "experienceOptimization": "Optimasi Pengalaman: Usia, profesi, dan informasi lain yang Anda berikan secara sukarela akan digunakan untuk mencocokkan Anda dengan bank soal latihan mengetik yang lebih sesuai.",
+        "serviceMaintenance": "Pemeliharaan Layanan: Data teknis yang dikumpulkan melalui Google Analytics membantu kami memahami status operasional situs web dan memperbaiki masalah yang mungkin terjadi.",
+        "statisticalAnalysis": "Analisis Statistik: Kami akan menganonimkan dan mengagregasi semua informasi yang diberikan pengguna secara sukarela untuk memahami profil keseluruhan kelompok pengguna dan meningkatkan layanan."
+      },
+      "section3": {
+        "crossBorderTransfer": "Transfer Lintas Batas: Server GitHub dan Google Firebase mungkin terletak di luar negara Anda (misalnya, Amerika Serikat). Dengan menggunakan layanan ini, Anda memahami dan setuju bahwa data Anda akan ditransmisikan, disimpan, dan diproses di server luar negeri ini.",
+        "dataRetention": "Data Retention: Karena layanan ini sepenuhnya gratis, kami tidak dapat menjamin penyimpanan data secara permanen. Kami berhak untuk menghapus sebagian atau seluruh data pengguna tanpa pemberitahuan.",
+        "storageLocation": "Lokasi Penyimpanan: Kode situs web ini dihosting di GitHub, sementara data permainan Anda dan informasi yang diberikan secara sukarela disimpan di database Google Firebase."
+      },
+      "effectiveDate": "Tanggal Efektif: 21 September 2025",
+      "introduction": "Selamat datang di TypeSprout! Ini adalah situs web latihan mengetik gratis yang dibuat oleh seorang pengembang individu karena minat. Kami memahami bahwa privasi Anda sangat penting, jadi kebijakan ini bertujuan untuk menjelaskan data apa yang kami kumpulkan dan bagaimana kami akan menggunakan data ini.",
+      "notice": "Harap dicatat: Layanan ini bersifat non-profit, dan semua fitur disediakan apa adanya. Jika Anda tidak setuju dengan syarat kebijakan privasi ini, harap berhenti menggunakan layanan ini segera. Penggunaan yang berkelanjutan menunjukkan bahwa Anda telah membaca, memahami, dan setuju dengan semua isi kebijakan ini.",
+      "titleSuffix": "Kebijakan Privasi"
+    },
+    "leaderboard": {
+      "allGrades": "Semua kelas",
+      "lastMonth": "Peringkat bulan lalu",
+      "lastWeek": "Peringkat minggu lalu",
+      "loading": "Sedang memuat...",
+      "loadingHint": "Jika masih gagal memuat, silakan periksa koneksi jaringan Anda atau coba lagi nanti.",
+      "noData": "Tidak ada data",
+      "reload": "Muat Ulang",
+      "signInHint": "Tip: Masuk untuk menyimpan skor tes Anda secara otomatis; kami hanya menggunakannya untuk peringkat dan umpan balik pembelajaran, tidak ada data pribadi yang sensitif yang dikumpulkan.",
+      "sortHint": "Tip: Tekan Alt+↑/↓ untuk mengubah urutan sorting",
+      "today": "Peringkat hari ini",
+      "tooltip": "🏆 Bagaimana perhitungan papan peringkat?&#10;• Hari ini: skor hari ini (waktu setempat)&#10;• Kemarin: skor kemarin (waktu setempat)&#10;• Minggu lalu: Senin hingga Minggu minggu lalu&#10;• Bulan lalu: dari hari pertama hingga hari terakhir bulan lalu&#10;&#10;📊 Bagaimana skor dihitung?&#10;• Skor komposit = kecepatan maksimum × akurasi × waktu latihan&#10;• Latihan ganda pada hari yang sama digabungkan&#10;• Waktu latihan yang lebih lama = skor lebih tinggi&#10;&#10;💡 Tip: Latihan sedikit setiap hari dan pohonmu akan tumbuh!",
+      "yesterday": "Peringkat kemarin"
+    },
+    "test": {
+      "allowBackspace": "Izinkan Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Kesulitan",
+      "difficultyEasy": "Mudah",
+      "difficultyHard": "Susah",
+      "difficultyMedium": "Sedang",
+      "finished": "Selesai",
+      "inputPrompt": "Silakan ketik teks di bawah ini",
+      "insightsSummary": "Insights (peta panas keyboard, tren kecepatan dan akurasi)",
+      "loadingQuestions": "Memuat pertanyaan...",
+      "mistakes": "Kesalahan",
+      "outOfFocus": "Silakan klik kotak input untuk melanjutkan mengetik",
+      "promptStart": "Tekan Mulai, lalu ketik teks di atas. Menempel tidak diizinkan.",
+      "questionCount": "Jumlah Pertanyaan",
+      "questionPreview": "Pertanyaan",
+      "questionStats": "Statistik pertanyaan sesi ini (waktu yang dihabiskan / batas, jumlah kesalahan)",
+      "questionText": "Teks pertanyaan (tidak dapat dipilih atau disalin)",
+      "shortcutsDescription": "Ruang: Mulai/Jeda • R: Atur Ulang • F: Fokus input",
+      "signInToSave": "Masuk untuk menyimpan kemajuan Anda",
+      "submitAndReview": "Kirim dan lihat hasil",
+      "submitQuestion": "Kirim pertanyaan ini (Masuk)",
+      "timeLimit": "Batas waktu",
+      "timeSpent": "Waktu yang Dihabiskan: {{seconds}} detik",
+      "title": "Tes",
+      "tryAgain": "Coba lagi",
+      "shortcuts": "Tekan Enter untuk mengirim"
+    },
+    "profile": {
+      "alreadyJoined": "Anda sudah bergabung dengan kelas ini",
+      "analysis": "Analisis Mendalam",
+      "birthday": "Ulang Tahun (YYYY-MM)",
+      "classCodePlaceholder": "Kode Kelas",
+      "classCodeTooltip": "Unik di seluruh situs (3–50 karakter; tidak boleh mengandung /). Digunakan untuk kompetisi dan pengelompokan papan peringkat; dapat bergabung hingga 5. Guru dapat membuat kode baru; akan bergabung secara otomatis setelah dibuat (jika belum penuh).",
+      "classCreatedAndJoined": "Kelas berhasil dibuat dan bergabung",
+      "classNotFound": "Kode kelas tidak ditemukan",
+      "codeAlreadyTaken": "Kode kelas sudah diambil",
+      "confirmDelete": "Apakah Anda yakin ingin menghapus kode kelas ini?",
+      "copy": "Salin",
+      "copyFailed": "Salin gagal, silakan pilih dan salin secara manual.",
+      "copySuccess": "Kode kelas disalin ke clipboard.",
+      "country": "Negara/Region",
+      "create": "Buat",
+      "delete": "Hapus",
+      "female": "Perempuan",
+      "fruits": "Buah-buahan",
+      "fruitsTooltip": "Buah yang dikumpulkan dari pohon Anda. Diperoleh dengan mencapai tujuan poin harian.",
+      "gender": "Jenis Kelamin",
+      "googleAccount": "Akun Google",
+      "history": "Sejarah",
+      "invalidCodeFormat": "Silakan masukkan 3-50 karakter tanpa /",
+      "join": "Bergabung",
+      "joinError": "Gagal bergabung dengan kelas",
+      "joinSuccess": "Berhasil bergabung ke kelas",
+      "joinedClasses": "Kelas yang Saya Ikuti",
+      "language": "Bahasa",
+      "male": "Pria",
+      "maxClassesReached": "Jumlah maksimum kelas telah tercapai",
+      "maxJoinedClasses": "Jumlah maksimum kelas yang diikuti telah tercapai",
+      "myClasses": "Kelas Saya",
+      "nickname": "Nama Panggilan",
+      "noClasses": "Tidak ada kelas",
+      "noUser": "Pengguna tidak ditemukan",
+      "onlyTeacherCanCreate": "Hanya guru yang dapat membuat kode kelas",
+      "other": "Lainnya",
+      "points": "Poin",
+      "pointsDetail": "Total poin di atas; silakan lihat rincian di",
+      "pointsTooltip": "Poin yang diperoleh dari latihan harian. Digunakan untuk menumbuhkan pohonmu dan membuka hadiah.",
+      "remove": "Hapus",
+      "role": "Peran",
+      "roleCheckError": "Gagal memeriksa peran pengguna",
+      "save": "Simpan",
+      "student": "Siswa",
+      "teacher": "Guru",
+      "view": "lihat",
+      "xp": "Pengalaman (XP)",
+      "xpTooltip": "Poin pengalaman yang diperoleh melalui latihan mengetik. Akurasi dan kecepatan yang lebih tinggi = lebih banyak XP!",
+      "youOwnThis": "Anda memiliki ini",
+      "title": "Profil",
+      "auto": "Otomatis",
+      "classCode": "Kode kelas",
+      "error": "Kesalahan",
+      "alreadyTaken": "Sudah digunakan",
+      "available": "Tersedia",
+      "logout": "Keluar",
+      "chartDescription": "Tren pribadi: atas skor gabungan, bawah akurasi.",
+      "parent": "Orang tua"
+    },
+    "tips": {
+      "avgAdj": "Avg Komposit (30h)",
+      "meVsSite": "Saya vs Situs (30h)",
+      "totalChars": "Total karakter: {{chars}} karakter"
+    },
+    "admin": {
+      "bulkTranslationTool": "Alat Lokalisasi Massal",
+      "execute": "Jalankan",
+      "sourceLanguage": "Bahasa Sumber",
+      "targetLanguage": "Bahasa Target",
+      "usageDescription": "Masukkan kode bahasa sumber dan target, tempelkan teks multi-baris dan tekan eksekusi, hasil hanya untuk tinjauan manual. Fitur ini memerlukan token admin untuk diaktifkan.",
+      "usageInstructions": "Petunjuk Penggunaan"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "Penampilan panggung yang berbeda dan syarat pembukaan (ilustrasi).",
+      "growthChartTitle": "Diagram pertumbuhan",
+      "historyRule1": "Poin dihitung dari kecepatan × akurasi × waktu, digunakan untuk mempromosikan pertumbuhan pohon.",
+      "historyRule2": "Daftar di bawah ini menunjukkan setiap catatan penghasilan, memudahkan Anda untuk melacak usaha Anda.",
+      "historyTitle": "Apa itu Sejarah?",
+      "howToLevelUp": "Bagaimana cara naik level?",
+      "levelUpRule1": "Latihan setiap hari untuk mengumpulkan aktivitas; semakin lama Anda mengetik, semakin cepat Anda berkembang.",
+      "levelUpRule2": "Maksimum tahap 5; jika Anda dapat mempertahankan tahap 5 setiap hari, Anda akan terus menghasilkan buah.",
+      "levelUpRule3": "Buah yang dikumpulkan akan memberikan hadiah platform berdasarkan peringkat; saat ini dapat menggunakan waktu uji sebagai akumulasi skor.",
+      "maxStage": "Maksimum tahap 5",
+      "myTree": "Pohonku",
+      "noLogs": "Tidak ada catatan saat ini",
+      "pointsExplanation": "Bagaimana cara kerja poin? Dihasilkan dari tes harian, terkait dengan waktu input yang efektif, kecepatan, dan akurasi. Batas harian 100; latihan singkat (≥5 detik dan akurasi ≥30%) setidaknya +1.",
+      "recalculateActivity": "Hitung ulang aktivitas dan tahap",
+      "recalculateActivityTooltip": "Apa itu aktivitas dan tahap Hitung Ulang? Ini akan membaca ulang 5 hari catatan tes terbaru Anda, menghitung menit input yang efektif, dan memperbarui daftar aktivitas serta tahap saat ini.",
+      "recentActivity": "Aktivitas 5 hari terakhir",
+      "recentLogs": "Rekaman terbaru",
+      "stage1Desc": "Tunas pertama muncul",
+      "stage2Desc": "Daun kedua tumbuh",
+      "stage3Desc": "Perkalian daun",
+      "stage4Desc": "Bunga mekar",
+      "stage5Desc": "Bentuk mahkota pohon kecil (buah)",
+      "todaySummary": "Ringkasan hari ini"
+    },
+    "ui": {
+      "closeHint": "Tutup petunjuk",
+      "gotIt": "Mengerti",
+      "later": "Nanti",
+      "start": "Awal",
+      "string089": "Silakan masuk terlebih dahulu.",
+      "string090": "Informasi Pribadi",
+      "string092": "Kebijakan Privasi",
+      "string154": "Syarat Layanan"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Jika Anda memiliki pertanyaan tentang Ketentuan Layanan ini, silakan ajukan melalui halaman Isu GitHub resmi kami: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Harap dicatat bahwa ini adalah platform publik, jadi mohon jangan meninggalkan informasi privasi pribadi Anda di sini."
+      },
+      "section5": {
+        "content2": "Kami tidak bertanggung jawab atas kehilangan atau kerusakan pada catatan latihan atau data pengguna Anda, dan kami juga tidak menjamin pelestarian data secara permanen.",
+        "content3": "Kami berhak untuk mengubah, menangguhkan, atau menghentikan layanan ini secara permanen kapan saja dan untuk alasan apa pun, tanpa pemberitahuan sebelumnya.",
+        "subtitle1": "Disediakan Apa Adanya:",
+        "subtitle2": "Data Pemeliharaan:",
+        "subtitle3": "Hak Penghentian Layanan:",
+        "content1": "Layanan ini disediakan \"sebagaimana adanya\" tanpa jaminan apa pun.",
+        "title": "5. Penafian dan Pembatasan Layanan"
+      },
+      "footer": "© 2025 TypeSprout. Semua hak dilindungi.",
+      "lastUpdated": "Terakhir diperbarui: 21 September 2025",
+      "section2": {
+        "listItem1": "Konten yang Dihasilkan AI: Beberapa artikel latihan dianalisis, dikumpulkan, atau dihasilkan oleh model AI (seperti ChatGPT) hanya untuk latihan mengetik.",
+        "listItem2": "Teks Alkitab: Beberapa bank soal Alkitab berasal dari layanan API Alkitab pihak ketiga. Ketika layanan tersebut tidak dapat diakses, teks alternatif dapat dihasilkan oleh model AI.",
+        "content1": "Tujuan utama Layanan ini adalah untuk menyediakan latihan keterampilan mengetik. Ini bukan alat penelitian akademis atau pendidikan agama. Semua konten situs web disediakan untuk tujuan tunggal ini.",
+        "content2": "Untuk menyediakan teks latihan yang kaya, konten bank soal Layanan ini berasal dari berbagai sumber. Kami dengan ini menyatakan:",
+        "content3": "Kami tidak memberikan jaminan atas akurasi, kelengkapan, dan kesesuaian sebagai materi kepercayaan. Harap hanya memahami ini sebagai teks untuk latihan.",
+        "subtitle1": "Tujuan Layanan",
+        "subtitle2": "Sumber Konten dan Penafian",
+        "title": "2. Deskripsi Layanan dan Sumber Konten"
+      },
+      "section1": {
+        "content1": "Selamat datang di TypeSprout (selanjutnya disebut \"Layanan ini\"). Layanan ini adalah proyek gratis dan non-profit yang dikelola oleh pengembang individu, bertujuan untuk menyediakan lingkungan latihan mengetik online yang sederhana bagi pengguna (terutama anak-anak dan pelajar).",
+        "content2": "Dengan mengakses atau menggunakan Layanan ini, Anda menyatakan bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh semua ketentuan dalam \"Syarat Layanan\" ini (selanjutnya disebut \"Ketentuan ini\"). Jika Anda tidak setuju dengan bagian mana pun dari Ketentuan ini, harap segera hentikan penggunaan Layanan ini.",
+        "title": "1. Ketentuan Umum dan Penerimaan Ketentuan"
+      },
+      "section3": {
+        "content1": "Layanan ini hanya untuk penggunaan pribadi dan pendidikan, dan diberikan dengan lisensi non-eksklusif, tidak dapat dipindah tangankan, dan dapat dicabut.",
+        "content2": "Penggunaan Layanan ini untuk tujuan komersial secara langsung atau tidak langsung dilarang.",
+        "subtitle1": "Penggunaan untuk tujuan pribadi dan non-komersial",
+        "subtitle2": "Larangan penggunaan untuk tujuan komersial",
+        "title": "3. Izin dan Pembatasan Penggunaan"
+      },
+      "section4": {
+        "content1": "Pengguna bertanggung jawab untuk mengelola informasi login dengan baik.",
+        "content2": "Dilarang melakukan tindakan yang mengganggu operasi normal Layanan ini dan tindakan curang.",
+        "subtitle1": "Keamanan Akun",
+        "subtitle2": "Larangan Penyalahgunaan dan Perilaku Tidak Benar",
+        "title": "4. Tanggung Jawab Pengguna"
+      },
+      "section6": {
+        "content": "Silakan tinjau kebijakan privasi.",
+        "title": "6. Kebijakan Privasi"
+      },
+      "titleSuffix": "Syarat Layanan"
+    },
+    "correctChars": "Correct Chars: {{chars}} karakter",
+    "createError": "Buat gagal:",
+    "ctaPractice": "Mulai Latihan",
+    "layout": {
+      "dailyReminder": "Pengingat: Berlatih sedikit setiap hari agar bibit tumbuh dan kemampuan mengetik meningkat!",
+      "epExplanation": "Bagaimana cara mendapatkan poin? Setiap tes dihitung berdasarkan waktu × kecepatan × akurasi (dasar × menit × (kecepatan/target, max ×2) × (0.5+0.5×akurasi)). Batas harian 100; aturan dorongan: ketika akurasi ≥30%, setidaknya +1 poin per 10 detik (kumulatif); ≥30 detik dan akurasi ≥50% setidaknya +1.",
+      "loginSuggestion": "Kami sarankan untuk menggunakan Masuk dengan Google di kanan atas untuk menyimpan skor dan riwayat Anda; situs ini menghargai anonimitas dan privasi, dan tidak akan menyimpan data pribadi yang sensitif.",
+      "remaining": "sisa",
+      "todayProgress": "Hari ini:"
+    },
+    "practice": {
+      "description": "Area ini hanya untuk operasi dan manajemen konten."
+    },
+    "error": {
+      "errorOccurred": "Terjadi kesalahan",
+      "goBack": "Kembali",
+      "goHome": "Kembali ke Beranda",
+      "loadingError": "Terjadi kesalahan saat memuat halaman, silakan coba lagi nanti."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} tingkat kesalahan {{percent}}%",
+      "relativeScale": "Skala relatif: Hijau ≤30% · Kuning ≤70% · Merah >70% (relatif terhadap kunci kesalahan tertinggi; berdasarkan tingkat kesalahan kumulatif terbaru)"
+    },
+    "estimatedMinutes": "Perkiraan {{minutes}} menit",
+    "nav": {
+      "garden": "Taman",
+      "home": "Beranda",
+      "leaderboard": "Papan Peringkat",
+      "practice": "Latihan",
+      "profile": "Profil",
+      "subtitle": "Pilih konten latihan yang sesuai untukmu",
+      "test": "Tes",
+      "result": "Hasil"
+    },
+    "meta": {
+      "gardenDescription": "Tumbuhkan pohonmu dengan poin mengetik dan hadiah.",
+      "homeDescription": "Latihan mengetik untuk anak-anak dengan pertumbuhan pohon yang gamified.",
+      "leaderboardDescription": "Papan peringkat harian/mingguan/bulanan berdasarkan bahasa.",
+      "practiceDescription": "Latihan mengetik gratis dengan dukungan IME dan mode.",
+      "profileDescription": "Informasi pribadi Anda, nilai, dan preferensi.",
+      "result": "Hasil",
+      "resultDescription": "Hasil tes mengetik Anda.",
+      "testDescription": "Tes waktu yang menunjukkan akurasi dan skor komposit."
+    },
+    "grade": "Grade {{grade}}",
+    "questionBank": {
+      "gradeRange": "Tingkat kelas",
+      "recommended": "Direkomendasikan",
+      "totalQuestions": "Total pertanyaan",
+      "children": {
+        "name": "Bank Soal Anak",
+        "description": "Latihan mengetik dasar untuk anak"
+      },
+      "title": "Pilih Bank Soal",
+      "subtitle": "Pilih bank latihan yang cocok untukmu",
+      "loading": "Memuat bank soal...",
+      "supportedLanguages": "Bahasa yang didukung",
+      "noRecommendation": "Tidak ada bank yang direkomendasikan untuk tingkatmu",
+      "bible": {
+        "name": "Bank Soal Alkitab",
+        "description": "Latihan mengetik ayat Alkitab"
+      }
+    },
+    "highestHere": "Tertinggi di sini {{value}}",
+    "hours": "{{count}} jam",
+    "hoursMinutes": "{{hours}} jam {{minutes}} menit",
+    "leaderScore": "Skor Komposit",
+    "levelUpSuggestion": "Untuk mencapai tahap {{needStage}}, sarankan setidaknya {{moreMin}} menit lagi input efektif hari ini.",
+    "loadError": "Gagal memuat papan peringkat, silakan coba lagi nanti",
+    "auth": {
+      "signOut": "Keluar",
+      "pleaseSignIn": "Silakan masuk dengan Google terlebih dahulu",
+      "signIn": "Masuk dengan Google"
+    },
+    "metricsTip": "Penjelasan kecepatan dan akurasi",
+    "minutes": "{{count}} menit",
+    "minutesSeconds": "{{minutes}} menit {{seconds}} detik",
+    "bible": {
+      "name": "Bank Soal Alkitab"
+    },
+    "noRecommendation": "Tidak ada bank soal yang direkomendasikan untuk tingkat kelas Anda",
+    "percentile": "Melebihi sekitar {{percent}}% orang",
+    "progress": "Progress {{current}} / {{total}}",
+    "recentValue": "Terbaru {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Disimpan secara real-time ke Firestore",
+      "stage": "Stage {{stage}}",
+      "stageOverview": "Tinjauan lima tahap (untuk perbandingan penampilan)"
+    },
+    "seconds": "{{count}} detik",
+    "shortcuts": "Space mulai/jeda · R reset · F fokus · Enter kirim pertanyaan ini",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} karakter · {{accuracy}}% akurasi",
+    "string094": "Kami hanya menggunakan akun Google Anda untuk menyimpan kemajuan dan riwayat Anda.",
+    "string095": "Data apa yang kami kumpulkan?",
+    "string096": "Kami hanya mengumpulkan skor mengetik Anda, akurasi, dan waktu latihan. Kami tidak mengumpulkan informasi pribadi seperti nama, email, atau data sensitif lainnya.",
+    "string097": "Kami menggunakan data ini untuk memberikan umpan balik yang dipersonalisasi dan untuk menunjukkan kemajuan Anda seiring waktu.",
+    "string155": "Dengan menggunakan situs web ini, Anda setuju dengan syarat berikut:",
+    "string156": "Anda bertanggung jawab atas pembelajaran dan kemajuan Anda sendiri.",
+    "string157": "Apa istilahnya?",
+    "string158": "Syaratnya mencakup: menggunakan situs web hanya untuk tujuan pendidikan, tidak membagikan konten yang tidak pantas, dan menghormati pengguna lain.",
+    "supportedLanguages": "Bahasa yang Didukung",
+    "totalQuestionChars": "Total Question Chars: {{chars}} karakter",
+    "vsSiteAverage": "Dibandingkan dengan rata-rata situs (bahasa yang sama): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.722Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Kirim (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

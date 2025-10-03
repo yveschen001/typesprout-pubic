@@ -1,0 +1,240 @@
+key,description,text
+absoluteScale,"UI string from absoluteScale",""Yeşil ≤{{low}}% · Sarı ≤{{mid}}% · Kırmızı ＞{{mid}}% (Yüzde"
+accuracy,"UI string from accuracy","Doğruluk: {{percent}}%"
+accuracyChartAriaLabel,"UI string from accuracyChartAriaLabel"," jo mer nøyaktig er den.""
+accuracyChartTitle,"UI string from accuracyChartTitle","Doğruluk"
+accuracyChartTooltip,"UI string from accuracyChartTooltip","উল্লম্ব অক্ষ: সঠিকতা (বেশি মানে আরও সঠিক); অনুভূমিক অক্ষ: সময়ের ক্রম। নীল রেখাটি প্রতিটি পরীক্ষার জন্য সঠিকতার পরিবর্তনগুলি দেখায়।"
+actualInput,"UI string from actualInput","Gerçek giriş: {{chars}} karakter"
+admin.bulkTranslateTitle,"UI string from admin.bulkTranslateTitle","Birçok yerelleştirme aracı"
+admin.description,"UI string from admin.description","Bu alan yalnızca bakım ve içerik yönetimi amaçları içindir."
+admin.multiLineText,"UI string from admin.multiLineText","Çok satırlı metin (her satırda bir giriş)"
+admin.sourceLanguage,"UI string from admin.sourceLanguage","Kaynak Dil"
+admin.targetLanguage,"UI string from admin.targetLanguage","Hedef dil"
+admin.title,"UI string from admin.title","Yönetici Paneli"
+admin.usageDescription,"UI string from admin.usageDescription"," plak de meerregelige tekst en klik op Uitvoeren. De resultaten zijn alleen voor handmatige beoordeling. Deze functie vereist een beheerders-token om ingeschakeld te worden.""
+admin.usageTitle,"UI string from admin.usageTitle","Kullanıcı Kılavuzu"
+auth.pleaseSignIn,"UI string from auth.pleaseSignIn","Sila log masuk menggunakan Google terlebih dahulu."
+auth.signIn,"UI string from auth.signIn","Google ile giriş yap"
+auth.signOut,"UI string from auth.signOut","Çıkış yap"
+correctChars,"UI string from correctChars","Doğru karakter sayısı: {{chars}} karakter"
+defaultDescription,"UI string from defaultDescription"," pagkatapos ay unti-unting pabilisin.""
+dev.savedToFirestore,"UI string from dev.savedToFirestore","Gerçek zamanlı olarak Firestore'a kaydedildi."
+dev.stage,"UI string from dev.stage","Aşama"
+dev.stageOverview,"UI string from dev.stageOverview","Beş Aşamalı Genel Bakış (kolay görsel karşılaştırma için)"
+distanceToUpgrade,"UI string from distanceToUpgrade"," anbefales det å skrive inn minst {{minutes}} flere minutter i dag.""
+effectiveDate,"UI string from effectiveDate",""কার্যকর তারিখ: ২১ সেপ্টেম্বর"
+error.errorOccurred,"UI string from error.errorOccurred","Bir hata oluştu"
+error.goBack,"UI string from error.goBack","Önceki sayfaya geri dön"
+error.goHome,"UI string from error.goHome","Ana Sayfaya Dön"
+error.loadingError,"UI string from error.loadingError",""Det oppstod en feil under lasting av siden"
+errorRate,"UI string from errorRate","{{key}} Hata Oranı {{percent}}%"
+highestHere,"UI string from highestHere","Buradaki en yüksek {{value}}."
+home.aboutBody,"UI string from home.aboutBody"," hiểu biết và diễn đạt.""
+home.aboutTitle,"UI string from home.aboutTitle","Typesprout Hakkında"
+home.cards.avgAdj,"UI string from home.cards.avgAdj","Ortalama Bileşik Puan (30 Gün)"
+home.cards.meVsSite,"UI string from home.cards.meVsSite","Ben vs Tüm Siteler (30 Gün)"
+home.cards.players,"UI string from home.cards.players","Oyuncu Sayısı"
+home.cards.totalChars,"UI string from home.cards.totalChars","Toplam Kelime Sayısı (30 Gün)"
+home.ctaPractice,"UI string from home.ctaPractice","Şimdi Pratik Yapmaya Başla"
+home.ctaTest,"UI string from home.ctaTest","Testi al"
+home.googleUsersCount,"UI string from home.googleUsersCount","Google Giriş Kullanıcı Sayısı"
+home.googleUsersTooltip,"UI string from home.googleUsersTooltip","מספר כולל של משתמשים שנכנסו עם חשבון Google"
+home.heroSubtitle,"UI string from home.heroSubtitle"," hỗ trợ nhiều ngôn ngữ và giúp xây dựng thói quen gõ đúng và tập trung.""
+home.heroTitle,"UI string from home.heroTitle"," plantor växer sig höga.""
+home.howToUpgrade,"UI string from home.howToUpgrade","Nasıl yükseltirim?"
+home.leaderEmpty,"UI string from home.leaderEmpty","No data avAIlable"
+home.leaderViewFull,"UI string from home.leaderViewFull","Tam Sıralamayı Görüntüle"
+home.privacyNote,"UI string from home.privacyNote","کوئی ذاتی معلومات جمع نہیں کی جاتی؛ شماریاتی معلومات صرف نامعلوم رینکنگ اور سیکھنے کی فیڈبیک کے لیے استعمال کی جاتی ہیں۔"
+home.tabs.leader,"UI string from home.tabs.leader","Liderlik Tablosu Önizlemesi"
+home.tabs.visitors,"UI string from home.tabs.visitors","Ziyaretçi Dağılımı"
+home.title,"UI string from home.title","ٹائپ اسپراؤٹ — بچوں کی ٹائپنگ اور درخت کی نشوونما"
+home.upgradeRule1,"UI string from home.upgradeRule1",""Jelentkezz be"
+home.upgradeRule2,"UI string from home.upgradeRule2",""Basta't mag-practice ka araw-araw"
+home.upgradeRule3,"UI string from home.upgradeRule3"," щоб почати отримувати результати (плоди).""
+home.upgradeRule4,"UI string from home.upgradeRule4"," medan mindre aktivitet innebär att du går ner i nivå.""
+home.upgradeRule5,"UI string from home.upgradeRule5",""Opp til nivå 5; hvis du kan opprettholde nivå 5 hver dag"
+home.upgradeRule6,"UI string from home.upgradeRule6",""Οι συλλεγμένοι καρποί θα παρέχουν ανταμοιβές στην πλατφόρμα με βάση τις κατατάξεις. Αυτή τη στιγμή"
+home.upgradeRules,"UI string from home.upgradeRules"," тем легче повысить уровень. Максимальный уровень - 5.""
+home.visitorsDesc,"UI string from home.visitorsDesc","Web sitesi ziyaretçileri ve oyuncuların ülke dağılımı (anonim istatistikler)."
+howToUpgrade,"UI string from howToUpgrade","Nasıl yükseltilir"
+introduction,"UI string from introduction"," więc ta polityka ma na celu wyjaśnienie"
+leaderboard.classCodePlaceholder,"UI string from leaderboard.classCodePlaceholder","Sınıf Kodu"
+leaderboard.tooltip,"UI string from leaderboard.tooltip"," at ang maliit na puno ay lalaki!""
+meta.gardenDescription,"UI string from meta.gardenDescription","Ağaçların büyümesini ve ödüllerini yazma puanlarıyla geliştirin."
+meta.homeDescription,"UI string from meta.homeDescription","Çocuklar için yazma pratiği ve ağaç büyütme oyunu. Geleneksel Çince / Basit Çince / İngilizce desteği."
+meta.leaderboardDescription,"UI string from meta.leaderboardDescription","Dil Bazında GÜNLÜK/HAFTALIK/AYLIK Sıralamalar."
+meta.practiceDescription,"UI string from meta.practiceDescription",""Gratis skriveøvelser"
+meta.profileDescription,"UI string from meta.profileDescription"," ocena i preferencje.""
+meta.result,"UI string from meta.result","Sonuç"
+meta.resultDescription,"UI string from meta.resultDescription","Yazma test sonuçlarınız."
+meta.testDescription,"UI string from meta.testDescription",""Tidstest"
+nav.garden,"UI string from nav.garden","Bir ağaç dik"
+nav.home,"UI string from nav.home","Ana Sayfa"
+nav.leaderboard,"UI string from nav.leaderboard","Sıralama Tablosu"
+nav.practice,"UI string from nav.practice","Pratik yap"
+nav.profile,"UI string from nav.profile","Kişisel"
+nav.subtitle,"UI string from nav.subtitle","Çocukların Yazma ve Ağaç Büyümesi"
+nav.test,"UI string from nav.test","Test"
+notice,"UI string from notice"," hiểu và đồng ý với tất cả nội dung của chính sách này.""
+percentile,"UI string from percentile","Yaklaşık {{percent}}%'den fazla insan"
+profile.chartDescription,"UI string from profile.chartDescription",""Boven: Algemeen Score Trend; Onder: Nauwkeurigheid Trend. Verhoog eerst de nauwkeurigheid"
+profile.classCode,"UI string from profile.classCode","Sınıf Kodu"
+profile.classCodePlaceholder,"UI string from profile.classCodePlaceholder",""Skriv inn et hvilket som helst navn"
+profile.classCodeTooltip,"UI string from profile.classCodeTooltip",""Unik på tvers av nettstedet (3–50 tegn; kan ikke inkludere /). Brukt for konkurranser og gruppeinndeling på lederbordet; opptil 5 kan legges til. Lærere kan opprette nye koder; når de er opprettet"
+recentValue,"UI string from recentValue","Son zamanlarda {{value}} {{trend}}"
+recordNumber,"UI string from recordNumber","Öğe {{number}}"
+relativeScale,"UI string from relativeScale","نسبتی پیمانہ: سبز ≤30% · پیلا ≤70% · سرخ ＞70% (سب سے زیادہ غلطی والے کلید کے لحاظ سے؛ "تازہ ترین مجموعی" غلطی کی شرح کی بنیاد پر حساب کیا گیا)"
+result.accuracyTooltip,"UI string from result.accuracyTooltip"," więc brakujące znaki obniżą dokładność.""
+result.chartDescription,"UI string from result.chartDescription"," pagbutihin ang katumpakan"
+result.scoreTooltip,"UI string from result.scoreTooltip",""Sammensat score = Indtastningshastigheden beregnet udelukkende baseret på korrekte tegn. Beregningsmetode: Hastighed (WPM/CPM) × Nøjagtighedsrate. Formål: At stabilisere nøjagtighedsraten først"
+section1.gameData.content,"UI string from section1.gameData.content"," precisione"
+section1.gameData.title,"UI string from section1.gameData.title","Oyun Verileri:"
+section1.googleAuth.content,"UI string from section1.googleAuth.content",""Khi bạn đăng nhập bằng tài khoản Google của mình"
+section1.googleAuth.title,"UI string from section1.googleAuth.title","Google Girişi Kimlik Doğrulama:"
+section1.principle,"UI string from section1.principle",""Ми дотримуємося принципу спрощення і збираємо лише дані"
+section1.technicalData.googleAdsense,"UI string from section1.technicalData.googleAdsense",""Google AdSense (Hirdetések): Lehetséges"
+section1.technicalData.googleAnalytics,"UI string from section1.technicalData.googleAnalytics"," il tipo di browser"
+section1.technicalData.title,"UI string from section1.technicalData.title","داده‌های فنی به‌طور خودکار توسط خدمات شخص ثالث جمع‌آوری می‌شوند:"
+section1.title,"UI string from section1.title","1. Jenis data yang kami kumpul"
+section1.voluntaryInfo.content,"UI string from section1.voluntaryInfo.content"," atau wilayah Anda. Informasi ini tidak wajib dan terutama ditujukan untuk mengoptimalkan rekomendasi bank pertanyaan"
+section1.voluntaryInfo.title,"UI string from section1.voluntaryInfo.title","Kullanıcı isteğe bağlı olarak kesin olmayan bilgiler sağladı (isteğe bağlı):"
+section2.coreFunction,"UI string from section2.coreFunction"," cung cấp biểu đồ lịch sử và bảng xếp hạng toàn cầu.""
+section2.experienceOptimization,"UI string from section2.experienceOptimization"," trabaho"
+section2.serviceMaintenance,"UI string from section2.serviceMaintenance","Penyelenggaraan Perkhidmatan: Data teknikal yang dikumpul melalui Google Analytics membantu kami memahami prestasi laman web dan menyelesaikan isu-isu yang berpotensi."
+section2.statisticalAnalysis,"UI string from section2.statisticalAnalysis",""Statisztikai elemzés: Az összes"
+section2.title,"UI string from section2.title","2. Verilerinizi nasıl kullanıyoruz"
+section3.crossBorderTransfer,"UI string from section3.crossBorderTransfer"," dan diproses di server luar negeri ini.""
+section3.dataRetention,"UI string from section3.dataRetention"," kan vi ikke garantere permanent lagring av data. Vi forbeholder oss retten til å slette noe eller all brukerdata uten forvarsel.""
+section3.storageLocation,"UI string from section3.storageLocation",""Lagringssted: Koden for dette nettstedet er vert på GitHub"
+section3.title,"UI string from section3.title","3. Veri Depolama ve Sınır Ötesi Transfer"
+section4.advertisingCookies,"UI string from section4.advertisingCookies"," Google будет использовать файлы cookie для показа рекламы. Вы можете в любое время посетить страницу настроек рекламы Google (https://adssettings.google.com/)"
+section4.functionalCookies,"UI string from section4.functionalCookies","עוגיות פונקציונליות: אנו משתמשים בעוגיות כדי לשמור על מצב הכניסה שלך."
+section4.title,"UI string from section4.title","4. Çerezler ve Reklamlar Hakkında"
+section5.contactChannel,"UI string from section5.contactChannel",""Контакт: Если у вас есть вопросы по этой политике конфиденциальности или вы хотите воспользоваться своими правами на данные (такими как доступ"
+section5.githubLink,"UI string from section5.githubLink","https://github.com/yveschen001/typesprout-pubic/issues"
+section5.importantReminder,"UI string from section5.importantReminder",""Penting: Harap dicatat bahwa GitHub Issues adalah platform publik. Untuk melindungi privasi pribadi Anda"
+section5.responseTime,"UI string from section5.responseTime"," odpowiemy tak szybko"
+section5.title,"UI string from section5.title","5. Haklarınız ve İletişim Bilgileriniz"
+speedChartAriaLabel,"UI string from speedChartAriaLabel"," jo bedre er prestasjonen.""
+speedChartTitle,"UI string from speedChartTitle","Genel Puan (Doğru Hız)"
+speedChartTooltip,"UI string from speedChartTooltip","المحور العمودي: الدرجة الإجمالية (كلما كانت أعلى، كان أفضل)؛ المحور الأفقي: تسلسل الوقت. الخط الأخضر يمثل السرعة بناءً على الكلمات الصحيحة فقط، مما يجمع بين السرعة والدقة."
+speedScore,"UI string from speedScore","Overall Score: {{score}}"
+terms.footer,"UI string from terms.footer","© 2025 Typesprout. Tüm hakları saklıdır."
+terms.lastUpdated,"UI string from terms.lastUpdated"," ২০২৫""
+terms.section1.content1,"UI string from terms.section1.content1"," non-profit project dat wordt onderhouden door individuele ontwikkelaars"
+terms.section1.content2,"UI string from terms.section1.content2"," ti preghiamo di interrompere immediatamente l'uso del servizio.""
+terms.section1.title,"UI string from terms.section1.title","1. Genel Hükümler ve Şartların Kabulü"
+terms.section2.content1,"UI string from terms.section2.content1","اس خدمت کا واحد مقصد ٹائپنگ مہارت کی مشق فراہم کرنا ہے۔ یہ کوئی تعلیمی تحقیق یا مذہبی تعلیم کا ذریعہ نہیں ہے۔ ویب سائٹ کا تمام مواد صرف اسی واحد مقصد کے لیے ہے۔"
+terms.section2.content2,"UI string from terms.section2.content2","For at give en rig øvelsestekst kommer indholdet af denne tjenestes spørgsmål bank fra flere kilder. Vi erklærer hermed:"
+terms.section2.content3,"UI string from terms.section2.content3",""Отказ от ответственности по точности: Поэтому мы не даем никаких гарантий или рекомендаций относительно точности"
+terms.section2.listItem1,"UI string from terms.section2.listItem1"," zbierane lub generowane przez modele AI (takie jak ChatGPT) i służą wyłącznie do ćwiczenia pisania.""
+terms.section2.listItem2,"UI string from terms.section2.listItem2"," kan alternativ tekst genereres av AI-modellen.""
+terms.section2.subtitle1,"UI string from terms.section2.subtitle1","Hizmet Amacı:"
+terms.section2.subtitle2,"UI string from terms.section2.subtitle2","Soru bankası içeriği ve feragatname:"
+terms.section2.title,"UI string from terms.section2.title","2. Hizmet Açıklaması ve İçerik Kaynakları"
+terms.section3.content1,"UI string from terms.section3.content1"," non trasferibile e revocabile per utilizzare questo servizio Esclusivamente per scopi personali"
+terms.section3.content2,"UI string from terms.section3.content2"," louer ou utiliser une partie de ce service à des fins commerciales directes ou indirectes. Cela inclut (mAIs sans s'y limiter) l'utilisation du contenu de ce site Web dans le cadre de cours payants"
+terms.section3.subtitle1,"UI string from terms.section3.subtitle1","مجوز استفاده شخصی غیرتجاری:"
+terms.section3.subtitle2,"UI string from terms.section3.subtitle2","Ticari kullanım için kesinlikle yasaktır:"
+terms.section3.title,"UI string from terms.section3.title","3. Kullanım Yetkisi ve Kısıtlamalar"
+terms.section4.content1,"UI string from terms.section4.content1"," ami a fiókod alatt történik.""
+terms.section4.content2,"UI string from terms.section4.content2",""Vous acceptez de ne pas attaquer"
+terms.section4.subtitle1,"UI string from terms.section4.subtitle1","Hesap Güvenliği:"
+terms.section4.subtitle2,"UI string from terms.section4.subtitle2","Yasaklanan Suistimal ve Hile:"
+terms.section4.title,"UI string from terms.section4.title","4. Kullanıcı Sorumlulukları"
+terms.section5.content1,"UI string from terms.section5.content1"," aber nicht bEschränkt auf die STabilität"
+terms.section5.content2,"UI string from terms.section5.content2",""Vi er ikke ansvarlige for tap eller skade på dine praksisopptegnelser eller brukerdata"
+terms.section5.content3,"UI string from terms.section5.content3"," o permanenteng itigil ang serbisyong ito anumang oras para sa anumang dahilan nang walang paunang abiso.""
+terms.section5.subtitle1,"UI string from terms.section5.subtitle1",""I'm sorry"
+terms.section5.subtitle2,"UI string from terms.section5.subtitle2","Veri Kaydedildi:"
+terms.section5.subtitle3,"UI string from terms.section5.subtitle3","Hizmeti Sonlandırma Hakkı:"
+terms.section5.title,"UI string from terms.section5.title","5. Feragatname ve Hizmet Sınırlamaları"
+terms.section6.content,"UI string from terms.section6.content"," Anda juga setuju dengan kebijakan tersebut.""
+terms.section6.title,"UI string from terms.section6.title","6. Gizlilik Politikası"
+terms.section7.content1,"UI string from terms.section7.content1",""Om du har några frågor om dessa användarvillkor"
+terms.section7.title,"UI string from terms.section7.title","7. İletişim Bilgileri"
+terms.section7.warning,"UI string from terms.section7.warning",""Vennligst merk at dette er en offentlig plattform"
+terms.title,"UI string from terms.title","Typesprout Hizmet Şartları"
+terms.titleSuffix,"UI string from terms.titleSuffix","Hizmet Şartları"
+test.chartDescription,"UI string from test.chartDescription"," patatagin ang katumpakan sa itaas ng 90%"
+test.insightsSummary,"UI string from test.insightsSummary","Derinlemesine Analiz (Hız ve Doğruluk Eğilimleri)"
+test.metricsTip,"UI string from test.metricsTip","Hız ve Doğruluk Açıklaması"
+test.questionText,"UI string from test.questionText","سوال کا متن (منتخب یا کاپی نہیں کیا جا سکتا)"
+test.startMessage,"UI string from test.startMessage"," vänligen skriv texten ovan. Klipp och klistra är inte tillåtet.""
+test.title,"UI string from test.title","Yazma Testi"
+timeSpent,"UI string from timeSpent","Geçen süre: {{seconds}} saniye"
+title,"UI string from title","Typesprout Gizlilik Politikası"
+titleSuffix,"UI string from titleSuffix","Gizlilik Politikası"
+totalQuestionChars,"UI string from totalQuestionChars","تعداد کل کلمات: {{chars}} کاراکتر"
+ui.closeHint,"UI string from ui.closeHint","پرامپٹ بند کریں"
+ui.later,"UI string from ui.later","Sonra"
+ui.loginSuggestion,"UI string from ui.loginSuggestion",""Ми рекомендуємо використовувати опцію "Увійти за допомогою Google" у верхньому правому куті"
+ui.string089,"UI string from ui.string089"," спочатку увійдіть.""
+ui.string090,"UI string from ui.string090","Kişisel Bilgiler"
+ui.string091,"UI string from ui.string091","Ana Sayfaya Dön"
+ui.string092,"UI string from ui.string092","Gizlilik Politikası"
+ui.string093,"UI string from ui.string093","ہم ذاتی معلومات جمع نہیں کرتے؛ شماریاتی معلومات صرف نامعلوم درجہ بندی اور سیکھنے کی آراء کے لیے استعمال کی جاتی ہیں۔"
+ui.string094,"UI string from ui.string094","שמור את ההתקדמות וההיסטוריה שלך באמצעות חשבון Google שלך."
+ui.string095,"UI string from ui.string095","Hangi verileri topluyoruz?"
+ui.string096,"UI string from ui.string096"," nauwkeurigheid en oefentijd. We verzamelen geen persoonlijke gevoelige informatie zoals je naam of e-mail.""
+ui.string097,"UI string from ui.string097","আপনার ব্যক্তিগতকৃত প্রতিক্রিয়া প্রদান করতে এবং আপনার অগ্রগতির যাত্রা প্রদর্শন করতে এই ডেটা ব্যবহার করুন।"
+ui.string154,"UI string from ui.string154","Hizmet Şartları"
+ui.string155,"UI string from ui.string155","Ved at bruge dette website accepterer du følgende vilkår:"
+ui.string156,"UI string from ui.string156","Kendi öğreniminiz ve ilerlemenizden siz sorumlusunuz."
+ui.string157,"UI string from ui.string157","Terimlerin içeriği nedir?"
+ui.string158,"UI string from ui.string158",""Het gebruik van de website is alleen voor educatieve doeleinden"
+ui.string200,"UI string from ui.string200",""Ми рекомендуємо використовувати опцію "Увійти через Google" у верхньому правому куті"
+ui.string201,"UI string from ui.string201","Sonra"
+ui.string202,"UI string from ui.string202"," щоб допомогти маленькому дереву стати сильнішим.""
+upgradeRule1,"UI string from upgradeRule1","Günde en az 10 dakika yazma pratiği yapın."
+upgradeRule2,"UI string from upgradeRule2","I'm ready to assist with your translation. Please provide the segments you would like to have translated."
+upgradeRule3,"UI string from upgradeRule3","Günde en az 3 yazma testi tamamlayın."
+upgradeRule4,"UI string from upgradeRule4","Doğru parmak yerleşimini kullanın"
+upgradeRule5,"UI string from upgradeRule5","Farklı zorluk seviyelerinde pratik yapın"
+upgradeRule6,"UI string from upgradeRule6","Günlük pratik tutarlılığını sürdür"
+upgradeRules,"UI string from upgradeRules","Kuralları Yükselt"
+ui.string203,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Bugün: {current}/{total} (Kalan {remaining})"
+ui.string204,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Yaklaşık {minutes} dakika"
+ui.string205,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Paano kumita ng mga puntos? Ang bawat pagsusulit ay kinakalkula batay sa "oras × bilis × katumpakan" (batayan × minuto × (bilis/target"
+ui.string206,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," как минимум +1.""
+ui.string207,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Baseret på din seneste præstation"
+ui.string208,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," så vokser træet!""
+ui.string209,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Bugünün Özeti"
+ui.string210,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," snelheid en nauwkeurigheid. De dagelijkse limiet is 100; korte oefeningen (≥5 seconden en nauwkeurigheid ≥30%) verdienen minimaal +1.""
+ui.string211,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Etkili giriş: {minutes} dakika · Kazanılan puan: {current} / {total} (Kalan {remaining})"
+ui.string212,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Küçük ağacım"
+ui.string213,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Etkinliği ve aşamayı yeniden hesapla"
+ui.string214,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Co to jest "Przelicz Aktywność i Etap"? Ponownie odczyta Twoje rekordy testowe z ostatnich 5 dni"
+ui.string215,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Büyüme Diyagramı"
+ui.string216,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Farklı görünüm aşamaları ve kilit açma koşulları (illüstrasyon)."
+ui.string217,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Aşama {number}"
+ui.string218,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Büyüyen・Varsayılan Görünüm"
+ui.string219,"Complete Traditional Chinese sentence with variable placeholders for AI translation","İkinci bir yaprak büyüt"
+ui.string220,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Yaprak hiperplazisi"
+ui.string221,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Dallar uzanır + yan dallar"
+ui.string222,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Küçük ağacın tepe kısmı oluştu (meyve verme)"
+ui.string223,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Son {days} günde aktif"
+ui.string224,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Aktif günler: {active}/{total}"
+ui.string225,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," які ви заробляєте після кожного тесту (що також додасть до вашого XP).""
+ui.string226,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Poeng beregnes ut fra hastighet × nøyaktighet × tid"
+ui.string227,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Den effektive inntaket de siste {days} dagene vil påvirke frøplantefasen; jo flere dager du er aktiv"
+ui.string228,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," noe som gjør det enkelt for deg å følge med på innsatsen din.""
+ui.string229,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Son Kayıtlar"
+ui.string230,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Soru {current}/{total} · Zaman limiti {seconds} sani · Bu sorudaki karakter sayısı {chars} · Toplam {correct}/{total}"
+ui.string231,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Sila taip teks di bawah"
+ui.string232,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Yükleniyor..."
+ui.string233,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Backspace Tuşuna İzin Ver"
+ui.string234,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Alan Aç/Kapat・R Sıfırla・F Odakla・Enter Gönder Ana Konu"
+ui.string235,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Frågehämtning misslyckades eller data är tom: Automatiskt växlat till den lokala backupfrågebanken (påverkar inte svarandet). För att använda molnfrågebanken"
+ui.string236,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Doğruluk {percent}% · Genel Puan {score}"
+ui.string237,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Doğru karakterler/Toplam karakterler {correct}/{total}"
+ui.string238,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Her girdi akıcı hale gelecektir."
+ui.string239,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Doğru yazma alışkanlıkları"
+ui.string240,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Ortalama Genel Puan ({days} gün)"
+ui.string241,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Toplam karakter ({days} gün)"
+ui.string242,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Ben vs Tüm site ({days} gün)"
+ui.string243,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Süre {seconds} saniye"
+ui.string244,"Complete Traditional Chinese sentence with variable placeholders for AI translation","Doğruluk {percent}%"
+ui.string245,"Complete Traditional Chinese sentence with variable placeholders for AI translation",""Каждый тест рассчитывается на основе "Время × Скорость × Точность" (базовые минуты × (скорость/цель"
+ui.string246,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," ít nhất +{points} điểm mỗi {interval} giây (có thể tích lũy); ít nhất +{points2} nếu ≥ {minTime} giây và độ chính xác ≥ {minAcc2}%. Dựa trên hiệu suất gần đây của bạn"
+ui.string247,"Complete Traditional Chinese sentence with variable placeholders for AI translation"," kakalkulahin ang epektibong minuto ng input"

@@ -1,0 +1,455 @@
+{
+  "language": "vi-VN",
+  "translations": {
+    "aboutBody": "TypeSprout là một trang web luyện gõ và phát triển cho học sinh lớp 1–6 với hỗ trợ zh‑TW / zh‑CN / en‑US, nhằm cung cấp một môi trường an toàn và thân thiện cho trẻ em trên toàn thế giới để luyện tập nhập liệu, hiểu biết và diễn đạt.",
+    "home": {
+      "aboutContent": "Chào mọi người, tôi là Yves.C, một người cha đến từ Đài Loan. Cảm hứng cho TypeSprout đến từ việc xem các con tôi trò chuyện với bạn bè trên khắp thế giới qua Roblox—tôi nhận ra rằng gõ phím thực sự là chìa khóa đầu tiên để trẻ em mở ra một thế giới lớn hơn. Vì vậy, tôi đã tạo ra trang web luyện gõ này bằng các khái niệm không mã + ChatGPT/AI, thêm phản hồi hình ảnh về sự phát triển của cây nhỏ: với mỗi lần gõ đúng, cây sẽ lớn lên một chút, biến nỗ lực hàng ngày thành những thành tựu có thể nhìn thấy. Về nội dung, tôi đã tổ chức các từ thường dùng từ lớp 1-6 thành các ngân hàng câu hỏi có thể chọn; trẻ em có thể luyện tập ngôn ngữ mẹ đẻ của mình và chuyển sang tiếng Anh hoặc các ngôn ngữ khác mà chúng muốn luyện tập trong Cài đặt. Những từ này được AI lọc theo độ khó của lớp học.Đối với người lớn, tôi đã chuẩn bị một ngân hàng câu hỏi mở rộng, hiện bao gồm API Kinh Thánh và các câu Kinh Thánh do AI tạo ra (từ các nguồn trực tuyến miễn phí, độ chính xác có thể bị hạn chế), và tôi sẽ dần dần thêm các chủ đề như câu nói nổi tiếng để làm cho việc luyện tập thú vị hơn. Trong TypeSprout, trẻ em sẽ dần dần tích lũy điểm và nỗ lực hàng ngày; cây nhỏ trên màn hình cũng sẽ phát triển cùng với hiệu suất của chúng, tạo thành một chu trình tích cực của nỗ lực → phản hồi → tái tham gia. Tôi cũng thiết kế một thử thách hoạt động 5 ngày: luyện tập trong 5 ngày liên tiếp sẽ nhận được một phần thưởng trái cây nhỏ. Khi thành tựu có thể nhìn thấy, động lực sẽ tăng lên. Đây là nhịp điệu học tập mà tôi muốn chia sẻ với trẻ em và bạn. Đối với giáo viên, tôi đã thêm chức năng Lớp trên trang cá nhân, cho phép giáo viên tạo lớp và mời bạn học tham gia, làm cho việc luyện tập trở nên cạnh tranh hơn.Đây là một dự án nhỏ do tôi tự duy trì (không có nền tảng kỹ thuật, chủ yếu dựa vào ChatGPT/AI để hướng dẫn và hợp tác). Nếu bạn có đề xuất hoặc gặp vấn đề trong quá trình sử dụng, xin vui lòng để lại tin nhắn trong phần vấn đề của GitHub, và tôi sẽ cố gắng hết sức để tổ chức và giải quyết chúng. Cảm ơn mọi người trước. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Về TypeSprout",
+      "ctaTest": "Làm bài kiểm tra",
+      "googleUsersCount": "Người dùng đăng nhập bằng Google",
+      "googleUsersTooltip": "Tổng số người dùng đã đăng nhập bằng tài khoản Google",
+      "heroSubtitle": "Mỗi lần gõ phím đều trở thành năng lượng để tưới cây của bạn. Hỗ trợ đa ngôn ngữ giúp xây dựng thói quen gõ chính xác và tập trung.",
+      "heroTitle": "Trẻ em gõ, cây con phát triển.",
+      "tabs": {
+        "leader": "Bảng xếp hạng (xem trước)",
+        "visitors": "Khách truy cập"
+      },
+      "leaderEmpty": "Chưa có dữ liệu",
+      "leaderViewFull": "Xem bảng xếp hạng đầy đủ",
+      "players": "Người chơi",
+      "privacyNote": "Chúng tôi không thu thập dữ liệu cá nhân; thống kê được ẩn danh chỉ để xếp hạng và phản hồi học tập.",
+      "visitorsDesc": "Phân bố quốc gia của người truy cập và người chơi trên trang web (ẩn danh)."
+    },
+    "absoluteScale": "Xanh ≤{{low}}% · Vàng ≤{{mid}}% · Đỏ >{{mid}}% (% là tỷ lệ lỗi tích lũy gần đây cho phím đó)",
+    "accuracy": "Độ chính xác {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Biểu đồ xu hướng độ chính xác: đường cao hơn có nghĩa là chính xác hơn",
+      "accuracyChartTitle": "Độ chính xác",
+      "accuracyChartTooltip": "Trục Y: Độ chính xác (cao hơn có nghĩa là chính xác hơn); Trục X: thứ tự thời gian. Đường màu xanh thể hiện sự thay đổi độ chính xác cho mỗi bài kiểm tra.",
+      "defaultDescription": "Top: Xu hướng điểm số tốc độ; Bottom: Xu hướng độ chính xác. Đầu tiên cải thiện độ chính xác, sau đó từ từ tăng tốc độ.",
+      "speedChartAriaLabel": "Biểu đồ xu hướng điểm số tốc độ: đường cao hơn có nghĩa là hiệu suất tốt hơn",
+      "speedChartTitle": "Điểm Tốc Độ (Tốc Độ Chính Xác)",
+      "speedChartTooltip": "Trục Y: Điểm tốc độ (cao hơn thì tốt hơn); Trục X: thứ tự thời gian. Đường màu xanh lá hiển thị tốc độ của các ký tự đúng, kết hợp tốc độ và độ chính xác.",
+      "recordNumber": "Bản ghi {{number}}",
+      "speedScore": "Điểm tốc độ {{score}}",
+      "totalQuestionChars": "Tổng ký tự câu hỏi: {{chars}}",
+      "actualInput": "Nhập thực tế: {{chars}} ký tự",
+      "timeSpent": "Thời gian: {{seconds}} giây",
+      "accuracy": "Độ chính xác {{percent}}%",
+      "correctChars": "Ký tự đúng: {{chars}}",
+      "percentile": "Vượt khoảng {{percent}}% người",
+      "highestHere": "Cao nhất tại đây {{value}}",
+      "recentValue": "Gần đây {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Độ chính xác = ký tự đúng ÷ tổng số ký tự câu hỏi. Lưu ý: ký tự chưa gõ cũng được tính vào tổng, vì vậy các ký tự bị thiếu sẽ làm giảm độ chính xác.",
+      "hideInsights": "Ẩn thông tin",
+      "scoreTooltip": "Điểm tổng hợp = tốc độ nhập của các ký tự đúng chỉ. Tính toán: tốc độ (WPM/CPM) × độ chính xác. Mục đích: trước tiên ổn định độ chính xác, sau đó từ từ tăng tốc độ.",
+      "showInsights": "Hiển thị thông tin chi tiết",
+      "summary": "Tóm tắt phiên này",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Ngày hoạt động: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} ký tự",
+    "adjWpm": "Điểm tổng hợp (tốc độ chính xác) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Cookies quảng cáo: Như đã đề cập ở trên, nếu chúng tôi kích hoạt Google AdSense, Google sẽ sử dụng cookies để hiển thị quảng cáo. Bạn có thể truy cập trang cài đặt quảng cáo của Google (https://adssettings.google.com/) bất cứ lúc nào để quản lý hoặc từ chối quảng cáo cá nhân hóa.",
+        "functionalCookies": "Cookie chức năng: Chúng tôi sử dụng cookie để duy trì trạng thái đăng nhập của bạn."
+      },
+      "section5": {
+        "contactChannel": "Kênh Liên Hệ: Nếu bạn có bất kỳ câu hỏi nào về chính sách quyền riêng tư này hoặc muốn thực hiện quyền dữ liệu của mình (như truy vấn, sửa đổi, xóa), vui lòng gửi yêu cầu qua trang GitHub Issues chính thức của chúng tôi.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Lưu ý quan trọng: Xin lưu ý rằng GitHub Issues là một nền tảng công khai. Để bảo vệ quyền riêng tư cá nhân của bạn, xin tuyệt đối không để lại bất kỳ thông tin nhận dạng cá nhân nào trong nội dung Vấn đề, chẳng hạn như địa chỉ email, tên thật hoặc ảnh chụp màn hình tài khoản. Chúng tôi chỉ cần bạn cung cấp Tên người dùng của bạn trên TypeSprout và mô tả về vấn đề. Chúng tôi sẽ không liên hệ với bạn qua bất kỳ kênh riêng tư nào khác ngoài Issues.",
+        "responseTime": "Vì đây là một dự án được duy trì cá nhân, chúng tôi sẽ phản hồi nhanh nhất có thể trong khả năng của mình. Cảm ơn bạn đã kiên nhẫn và thông cảm."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Bạn có thể cung cấp độ tuổi, lĩnh vực nghề nghiệp, ngôn ngữ hoặc khu vực của mình. Thông tin này không bắt buộc và chủ yếu nhằm tối ưu hóa các gợi ý câu hỏi, cho phân tích thống kê ẩn danh và phân nhóm bảng xếp hạng. Chúng tôi không yêu cầu hoặc xác minh độ chính xác của thông tin này."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Quảng cáo): Chúng tôi có thể sử dụng Google AdSense trong tương lai để hiển thị quảng cáo nhằm hỗ trợ chi phí vận hành website. Google và các đối tác của họ có thể sử dụng Cookies (như Cookie DoubleClick) để hiển thị quảng cáo cá nhân hóa dựa trên lịch sử truy cập trước đây của bạn.",
+          "googleAnalytics": "Google Analytics: Chúng tôi sử dụng dịch vụ này để phân tích lưu lượng truy cập trang web nhằm hiểu cách sử dụng dịch vụ. Nó thu thập thông tin ẩn danh như địa chỉ IP của bạn, loại trình duyệt, hệ điều hành, các trang đã truy cập, v.v."
+        },
+        "principle": "Chúng tôi tuân thủ nguyên tắc tối giản, chỉ thu thập dữ liệu cần thiết để duy trì hoạt động dịch vụ:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Chức năng chính: ID người dùng ẩn danh và dữ liệu trò chơi của bạn là một phần của chức năng cốt lõi của dịch vụ này, được sử dụng để ghi lại điểm số của bạn, cung cấp biểu đồ lịch sử và bảng xếp hạng toàn cầu.",
+        "experienceOptimization": "Tối ưu hóa trải nghiệm: Tuổi, nghề nghiệp và thông tin khác mà bạn cung cấp tự nguyện sẽ được sử dụng để ghép bạn với các ngân hàng câu hỏi luyện gõ phù hợp hơn.",
+        "serviceMaintenance": "Bảo trì dịch vụ: Dữ liệu kỹ thuật được thu thập qua Google Analytics giúp chúng tôi hiểu tình trạng hoạt động của trang web và khắc phục các vấn đề tiềm ẩn.",
+        "statisticalAnalysis": "Phân tích thống kê: Chúng tôi sẽ ẩn danh và tổng hợp tất cả thông tin do người dùng tự nguyện cung cấp để hiểu rõ hơn về hồ sơ tổng thể của nhóm người dùng và cải thiện dịch vụ."
+      },
+      "section3": {
+        "crossBorderTransfer": "Chuyển Khoản Xuyên Biên Giới: Máy chủ GitHub và Google Firebase có thể nằm ngoài quốc gia của bạn (ví dụ: Hoa Kỳ). Bằng cách sử dụng dịch vụ này, bạn hiểu và đồng ý rằng dữ liệu của bạn sẽ được truyền tải, lưu trữ và xử lý trên các máy chủ ở nước ngoài.",
+        "dataRetention": "Data Retention: Vì dịch vụ này hoàn toàn miễn phí, chúng tôi không thể đảm bảo lưu trữ dữ liệu vĩnh viễn. Chúng tôi có quyền xóa một phần hoặc toàn bộ dữ liệu người dùng mà không cần thông báo.",
+        "storageLocation": "Vị trí lưu trữ: Mã của trang web này được lưu trữ trên GitHub, trong khi dữ liệu trò chơi của bạn và thông tin bạn cung cấp tự nguyện được lưu trữ trong cơ sở dữ liệu của Google Firebase."
+      },
+      "effectiveDate": "Ngày có hiệu lực: 21 tháng 9, 2025",
+      "introduction": "Chào mừng bạn đến với TypeSprout! Đây là một trang web luyện gõ miễn phí được tạo ra bởi một nhà phát triển cá nhân vì sở thích. Chúng tôi hiểu rằng quyền riêng tư của bạn là rất quan trọng, vì vậy chính sách này nhằm giải thích dữ liệu nào chúng tôi thu thập và cách chúng tôi sẽ sử dụng dữ liệu này.",
+      "notice": "Xin lưu ý: Dịch vụ này mang tính phi lợi nhuận, và tất cả các tính năng được cung cấp như hiện tại. Nếu bạn không đồng ý với bất kỳ điều khoản nào trong chính sách quyền riêng tư này, vui lòng ngừng sử dụng dịch vụ ngay lập tức. Việc tiếp tục sử dụng cho thấy bạn đã đọc, hiểu và đồng ý với tất cả nội dung của chính sách này.",
+      "titleSuffix": "Chính sách bảo mật"
+    },
+    "leaderboard": {
+      "allGrades": "Tất cả các cấp độ",
+      "lastMonth": "Xếp hạng của tháng trước",
+      "lastWeek": "Bảng xếp hạng tuần trước",
+      "loading": "Đang tải...",
+      "loadingHint": "Nếu vẫn không tải được， vui lòng kiểm tra kết nối mạng của bạn hoặc thử lại sau.",
+      "noData": "Không có dữ liệu",
+      "reload": "Tải lại",
+      "signInHint": "Mẹo: Đăng nhập để tự động lưu điểm kiểm tra của bạn; chúng tôi chỉ sử dụng chúng để xếp hạng và phản hồi học tập, không thu thập dữ liệu nhạy cảm cá nhân.",
+      "sortHint": "Mẹo: Nhấn Alt+↑/↓ để chuyển đổi sắp xếp",
+      "today": "Xếp hạng hôm nay",
+      "tooltip": "🏆 Bảng xếp hạng được tính như thế nào?&#10;• Hôm nay: điểm số hôm nay (giờ địa phương)&#10;• Hôm qua: điểm số hôm qua (giờ địa phương)&#10;• Tuần trước: từ thứ Hai đến Chủ nhật của tuần trước&#10;• Tháng trước: từ ngày 1 đến ngày cuối cùng của tháng trước&#10;&#10;📊 Điểm số được tính như thế nào?&#10;• Điểm tổng hợp = tốc độ tối đa × độ chính xác × thời gian luyện tập&#10;• Nhiều lần luyện tập trong cùng một ngày được gộp lại&#10;• Thời gian luyện tập lâu hơn = điểm số cao hơn&#10;&#10;💡 Mẹo: Luyện tập một chút mỗi ngày và cây của bạn sẽ phát triển!",
+      "yesterday": "Bảng xếp hạng của ngày hôm qua"
+    },
+    "test": {
+      "allowBackspace": "Cho phép phím Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Độ khó",
+      "difficultyEasy": "Dễ dàng",
+      "difficultyHard": "Khó",
+      "difficultyMedium": "Trung bình",
+      "finished": "Hoàn thành",
+      "inputPrompt": "Vui lòng gõ văn bản bên dưới",
+      "insightsSummary": "Thông tin (bản đồ nhiệt bàn phím, xu hướng tốc độ và độ chính xác)",
+      "loadingQuestions": "Đang tải câu hỏi...",
+      "mistakes": "Lỗi",
+      "outOfFocus": "Vui lòng nhấp vào ô nhập để tiếp tục gõ",
+      "promptStart": "Nhấn Bắt đầu, sau đó gõ văn bản ở trên. Dán bị vô hiệu hóa.",
+      "questionCount": "Số câu hỏi",
+      "questionPreview": "Câu hỏi (24 ký tự đầu tiên)",
+      "questionStats": "Thống kê câu hỏi của phiên này (thời gian đã sử dụng / giới hạn, số lỗi)",
+      "questionText": "Câu hỏi (không thể được chọn hoặc sao chép)",
+      "shortcutsDescription": "Không gian: Bắt đầu/Tạm dừng • R: Đặt lại • F: Tập trung vào đầu vào",
+      "signInToSave": "Đăng nhập để lưu tiến trình của bạn",
+      "submitAndReview": "Gửi và xem kết quả",
+      "submitQuestion": "Gửi câu hỏi này (Nhấn Enter)",
+      "timeLimit": "Thời gian giới hạn",
+      "timeSpent": "Thời gian đã trôi qua: {{seconds}} giây",
+      "title": "Kiểm tra",
+      "tryAgain": "Thử lại",
+      "shortcuts": "Nhấn Enter để gửi"
+    },
+    "profile": {
+      "alreadyJoined": "Bạn đã tham gia lớp học này rồi.",
+      "analysis": "Phân tích sâu sắc",
+      "birthday": "Sinh nhật (YYYY-MM)",
+      "classCodePlaceholder": "Mã lớp",
+      "classCodeTooltip": "Độc nhất trên toàn trang (3–50 ký tự; không được chứa /). Dùng cho các cuộc thi và nhóm bảng xếp hạng; có thể tham gia tối đa 5. Giáo viên có thể tạo mã mới; sẽ tự động tham gia sau khi tạo (nếu chưa đầy).",
+      "classCreatedAndJoined": "Lớp đã được tạo và tham gia thành công",
+      "classNotFound": "Không tìm thấy mã lớp",
+      "codeAlreadyTaken": "Mã lớp đã được sử dụng",
+      "confirmDelete": "Bạn có chắc chắn muốn xóa mã lớp này không?",
+      "copy": "Copy",
+      "copyFailed": "Sao chép không thành công, vui lòng chọn và sao chép thủ công.",
+      "copySuccess": "Mã lớp đã được sao chép vào clipboard.",
+      "country": "Quốc gia/Khu vực",
+      "create": "Tạo",
+      "delete": "Xóa",
+      "female": "Nữ",
+      "fruits": "Trái cây",
+      "fruitsTooltip": "Trái cây thu hoạch từ cây của bạn. Kiếm được bằng cách đạt được mục tiêu điểm hàng ngày.",
+      "gender": "Giới tính",
+      "googleAccount": "Tài khoản Google",
+      "history": "Lịch sử",
+      "invalidCodeFormat": "Vui lòng nhập từ 3-50 ký tự mà không có /",
+      "join": "Tham gia",
+      "joinError": "Không thể tham gia lớp học",
+      "joinSuccess": "Tham gia lớp học thành công",
+      "joinedClasses": "Lớp tôi đã tham gia",
+      "language": "Ngôn ngữ",
+      "male": "Nam",
+      "maxClassesReached": "Đã đạt số lượng lớp tối đa",
+      "maxJoinedClasses": "Số lượng lớp đã tham gia tối đa đã đạt.",
+      "myClasses": "Lớp học của tôi",
+      "nickname": "Biệt danh",
+      "noClasses": "Không có lớp học",
+      "noUser": "Người dùng không tìm thấy",
+      "onlyTeacherCanCreate": "Chỉ giáo viên mới có thể tạo mã lớp",
+      "other": "Khác",
+      "points": "Điểm",
+      "pointsDetail": "Điểm tổng cộng trên; vui lòng xem chi tiết tại",
+      "pointsTooltip": "Điểm kiếm được từ việc luyện tập hàng ngày. Dùng để phát triển cây của bạn và mở khóa phần thưởng.",
+      "remove": "Xóa",
+      "role": "Vai trò",
+      "roleCheckError": "Không thể kiểm tra vai trò người dùng",
+      "save": "Lưu",
+      "student": "Học sinh",
+      "teacher": "Giáo viên",
+      "view": "xem",
+      "xp": "Kinh nghiệm (XP)",
+      "xpTooltip": "Điểm kinh nghiệm kiếm được thông qua việc luyện tập gõ. Độ chính xác và tốc độ cao hơn = nhiều XP hơn!",
+      "youOwnThis": "Bạn sở hữu điều này",
+      "title": "Hồ sơ",
+      "auto": "Tự động",
+      "classCode": "Mã lớp",
+      "error": "Lỗi",
+      "alreadyTaken": "Đã được dùng",
+      "available": "Có sẵn",
+      "logout": "Đăng xuất",
+      "chartDescription": "Xu hướng cá nhân: trên là điểm tổng hợp, dưới là độ chính xác.",
+      "parent": "Phụ huynh"
+    },
+    "tips": {
+      "avgAdj": "Trung bình tổng hợp (30 ngày)",
+      "meVsSite": "Tôi vs Trang (30 ngày)",
+      "totalChars": "Tổng số ký tự: {{chars}} ký tự"
+    },
+    "admin": {
+      "bulkTranslationTool": "Công cụ Địa phương hóa Hàng loạt",
+      "execute": "Thực thi",
+      "sourceLanguage": "Nguồn ngôn ngữ",
+      "targetLanguage": "Ngôn ngữ mục tiêu",
+      "usageDescription": "Nhập mã nguồn và mã ngôn ngữ đích, dán văn bản nhiều dòng và nhấn thực thi, kết quả chỉ dành cho việc xem xét thủ công. Tính năng này yêu cầu mã thông báo quản trị để kích hoạt.",
+      "usageInstructions": "Hướng dẫn sử dụng"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "Các màn trình diễn và điều kiện mở khóa khác nhau (minh họa).",
+      "growthChartTitle": "Biểu đồ tăng trưởng",
+      "historyRule1": "Điểm được tính từ tốc độ × độ chính xác × thời gian, được sử dụng để thúc đẩy sự phát triển của cây.",
+      "historyRule2": "Danh sách dưới đây hiển thị từng bản ghi thu nhập, giúp bạn dễ dàng theo dõi nỗ lực của mình.",
+      "historyTitle": "Lịch sử là gì?",
+      "howToLevelUp": "Làm thế nào để nâng cấp?",
+      "levelUpRule1": "Luyện tập hàng ngày để tích lũy hoạt động; càng gõ lâu, bạn càng phát triển nhanh hơn.",
+      "levelUpRule2": "Tối đa cấp độ 5; nếu bạn có thể duy trì cấp độ 5 hàng ngày, bạn sẽ liên tục sản xuất trái cây.",
+      "levelUpRule3": "Trái cây thu thập được sẽ cung cấp phần thưởng nền tảng dựa trên xếp hạng; hiện tại có thể sử dụng thời gian thử nghiệm để tích lũy điểm.",
+      "maxStage": "Tối đa giai đoạn 5",
+      "myTree": "Cây Của Tôi",
+      "noLogs": "Hiện tại không có bản ghi nào",
+      "pointsExplanation": "Điểm hoạt động như thế nào? Được tạo ra từ các bài kiểm tra hàng ngày, liên quan đến thời gian nhập liệu hiệu quả, tốc độ và độ chính xác. Giới hạn hàng ngày 100; thực hành ngắn (≥5 giây và độ chính xác ≥30%) ít nhất +1.",
+      "recalculateActivity": "Tính toán lại hoạt động và giai đoạn",
+      "recalculateActivityTooltip": "Hoạt động và giai đoạn Tính toán lại là gì? Nó sẽ đọc lại 5 ngày ghi chép kiểm tra gần đây của bạn, tính toán số phút nhập liệu hiệu quả và cập nhật danh sách hoạt động cũng như giai đoạn hiện tại.",
+      "recentActivity": "Hoạt động 5 ngày gần đây",
+      "recentLogs": "Các bản ghi gần đây",
+      "stage1Desc": "Mầm đầu tiên xuất hiện",
+      "stage2Desc": "Lá thứ hai mọc",
+      "stage3Desc": "Nhân bản lá",
+      "stage4Desc": "Hoa nở",
+      "stage5Desc": "Tán cây nhỏ hình thành (trái cây)",
+      "todaySummary": "Tóm tắt hôm nay"
+    },
+    "ui": {
+      "closeHint": "Đóng gợi ý",
+      "gotIt": "Hiểu rồi",
+      "later": "Sau này",
+      "start": "Bắt đầu",
+      "string089": "Vui lòng đăng nhập trước.",
+      "string090": "Thông tin cá nhân",
+      "string092": "Chính sách bảo mật",
+      "string154": "Điều khoản dịch vụ"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản Dịch vụ này, vui lòng gửi chúng qua trang GitHub Issues chính thức của chúng tôi: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Xin lưu ý rằng đây là một nền tảng công cộng, vì vậy xin đừng để lại thông tin cá nhân riêng tư của bạn trên đó."
+      },
+      "section5": {
+        "content2": "Chúng tôi không chịu trách nhiệm cho bất kỳ tổn thất hoặc thiệt hại nào đối với hồ sơ luyện tập hoặc dữ liệu người dùng của bạn, cũng như không đảm bảo việc bảo tồn dữ liệu vĩnh viễn.",
+        "content3": "Chúng tôi có quyền sửa đổi, tạm ngừng hoặc chấm dứt vĩnh viễn dịch vụ này bất cứ lúc nào vì bất kỳ lý do gì, mà không cần thông báo trước.",
+        "subtitle1": "Cung cấp theo nguyên trạng:",
+        "subtitle2": "Bảo tồn Dữ liệu:",
+        "subtitle3": "Quyền Chấm Dứt Dịch Vụ:",
+        "content1": "Dịch vụ này được cung cấp \"như hiện tại\" mà không có bất kỳ bảo đảm nào.",
+        "title": "5. Miễn trừ trách nhiệm và giới hạn dịch vụ"
+      },
+      "footer": "© 2025 TypeSprout. Bảo lưu mọi quyền.",
+      "lastUpdated": "Cập nhật lần cuối: Ngày 21 tháng 9 năm 2025",
+      "section2": {
+        "listItem1": "Nội dung do AI tạo ra: Một số bài viết thực hành được phân tích, thu thập hoặc tạo ra bởi các mô hình AI (như ChatGPT) chỉ để thực hành gõ.",
+        "listItem2": "Văn bản Kinh Thánh: Một số ngân hàng câu hỏi Kinh Thánh đến từ dịch vụ API bên thứ ba. Khi dịch vụ đó không thể truy cập, các văn bản thay thế có thể được tạo ra bởi các mô hình AI.",
+        "content1": "Mục đích duy nhất của Dịch vụ này là cung cấp luyện tập kỹ năng gõ phím. Nó không phải là công cụ nghiên cứu học thuật hoặc giáo dục tôn giáo. Tất cả nội dung trên trang web đều phục vụ cho mục đích duy nhất này.",
+        "content2": "Để cung cấp văn bản luyện tập phong phú, nội dung trong ngân hàng câu hỏi của Dịch vụ này đến từ nhiều nguồn khác nhau. Chúng tôi xin tuyên bố rằng:",
+        "content3": "Không đảm bảo tính chính xác, đầy đủ và tính phù hợp của nó như là tài liệu tham khảo. Xin hãy chỉ coi nó như là văn bản luyện tập.",
+        "subtitle1": "Mục đích dịch vụ",
+        "subtitle2": "Nguồn gốc nội dung và miễn trừ trách nhiệm",
+        "title": "2. Mô tả dịch vụ và nguồn gốc nội dung"
+      },
+      "section1": {
+        "content1": "Chào mừng bạn đến với TypeSprout (sau đây gọi là \"Dịch vụ này\"). Dịch vụ này là một dự án miễn phí, phi lợi nhuận do một nhà phát triển cá nhân duy trì, nhằm cung cấp cho người dùng (đặc biệt là trẻ em và người học) một môi trường luyện tập gõ phím trực tuyến đơn giản.",
+        "content2": "Khi bạn truy cập hoặc sử dụng Dịch vụ này, bạn đồng ý rằng bạn đã đọc, hiểu và chấp nhận tất cả các điều khoản trong \"Điều khoản dịch vụ\" (sau đây gọi là \"Điều khoản này\\”). Nếu bạn không đồng ý với bất kỳ phần nào của Điều khoản này, vui lòng ngừng sử dụng Dịch vụ này ngay lập tức.",
+        "title": "1. Quy định chung và chấp nhận điều khoản"
+      },
+      "section3": {
+        "content1": "Dịch vụ này chỉ được sử dụng cho mục đích cá nhân và giáo dục, và được cấp phép sử dụng theo cách không độc quyền, không thể chuyển nhượng và có thể thu hồi.",
+        "content2": "Cấm sử dụng Dịch vụ này cho mục đích thương mại, trực tiếp hoặc gián tiếp.",
+        "subtitle1": "Sử dụng cho mục đích cá nhân, phi thương mại",
+        "subtitle2": "Cấm sử dụng cho mục đích thương mại",
+        "title": "3. Giấy phép sử dụng và hạn chế"
+      },
+      "section4": {
+        "content1": "Người dùng có trách nhiệm quản lý thông tin đăng nhập của mình một cách hợp lý.",
+        "content2": "Cấm hành vi cản trở hoạt động bình thường của Dịch vụ này và hành vi gian lận.",
+        "subtitle1": "An toàn tài khoản",
+        "subtitle2": "Cấm lạm dụng và hành vi không chính đáng",
+        "title": "4. Trách nhiệm của người dùng"
+      },
+      "section6": {
+        "content": "Vui lòng xác nhận chính sách quyền riêng tư.",
+        "title": "6. Chính sách quyền riêng tư"
+      },
+      "titleSuffix": "Điều khoản dịch vụ"
+    },
+    "correctChars": "Correct Chars: {{chars}} ký tự",
+    "createError": "Tạo không thành công: {{error}}",
+    "ctaPractice": "Bắt đầu luyện tập",
+    "layout": {
+      "dailyReminder": "Nhắc nhở: Mỗi ngày luyện tập một chút để cây con lớn nhanh và cải thiện kỹ năng gõ!",
+      "epExplanation": "Làm thế nào để kiếm điểm? Mỗi bài kiểm tra được tính bằng thời gian × tốc độ × độ chính xác (cơ bản × phút × (tốc độ/mục tiêu, tối đa ×2) × (0.5+0.5×độ chính xác)). Giới hạn hàng ngày 100; quy tắc khuyến khích: khi độ chính xác ≥30%, ít nhất +1 điểm cho mỗi 10 giây (tích lũy); ≥30 giây và độ chính xác ≥50% ít nhất +1.",
+      "loginSuggestion": "Chúng tôi khuyên bạn nên sử dụng Đăng nhập bằng Google ở góc trên bên phải để lưu điểm số và lịch sử của bạn; trang web này coi trọng tính ẩn danh và quyền riêng tư, và sẽ không lưu trữ dữ liệu nhạy cảm cá nhân.",
+      "remaining": "còn lại",
+      "todayProgress": "Hôm nay:"
+    },
+    "practice": {
+      "description": "Khu vực này chỉ dành cho các hoạt động và quản lý nội dung."
+    },
+    "error": {
+      "errorOccurred": "Đã xảy ra lỗi",
+      "goBack": "Quay lại",
+      "goHome": "Quay lại Trang Chủ",
+      "loadingError": "Đã xảy ra lỗi khi tải trang, vui lòng thử lại sau."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} tỷ lệ lỗi {{percent}}%",
+      "relativeScale": "Thang đo tương đối: Xanh ≤30% · Vàng ≤70% · Đỏ >70% (so với khóa lỗi cao nhất; dựa trên tỷ lệ lỗi tích lũy gần đây)"
+    },
+    "estimatedMinutes": "Ước tính {{minutes}} phút",
+    "nav": {
+      "garden": "Vườn",
+      "home": "Trang chủ",
+      "leaderboard": "Bảng xếp hạng",
+      "practice": "Thực hành",
+      "profile": "Hồ sơ",
+      "subtitle": "Chọn nội dung luyện tập phù hợp với bạn",
+      "test": "Kiểm tra",
+      "result": "Kết quả"
+    },
+    "meta": {
+      "gardenDescription": "Trồng cây của bạn với điểm gõ và phần thưởng.",
+      "homeDescription": "Trẻ em luyện gõ phím với trò chơi phát triển cây.",
+      "leaderboardDescription": "Bảng xếp hạng hàng ngày/hàng tuần/hàng tháng theo ngôn ngữ.",
+      "practiceDescription": "Luyện gõ miễn phí với hỗ trợ IME và các chế độ.",
+      "profileDescription": "Thông tin cá nhân của bạn, điểm số và sở thích.",
+      "result": "Kết quả",
+      "resultDescription": "Kết quả bài kiểm tra gõ của bạn.",
+      "testDescription": "Bài kiểm tra có thời gian hiển thị độ chính xác và điểm tổng hợp."
+    },
+    "grade": "Cấp độ {{grade}}",
+    "questionBank": {
+      "gradeRange": "Khối lớp",
+      "recommended": "Đề xuất",
+      "totalQuestions": "Tổng số câu hỏi",
+      "children": {
+        "name": "Ngân hàng cho trẻ em",
+        "description": "Luyện gõ cơ bản cho trẻ em"
+      },
+      "title": "Chọn ngân hàng câu hỏi",
+      "subtitle": "Chọn ngân hàng luyện tập phù hợp với bạn",
+      "loading": "Đang tải ngân hàng câu hỏi...",
+      "supportedLanguages": "Ngôn ngữ hỗ trợ",
+      "noRecommendation": "Không có ngân hàng đề xuất cho khối lớp của bạn",
+      "bible": {
+        "name": "Ngân hàng Kinh Thánh",
+        "description": "Luyện gõ câu Kinh Thánh"
+      }
+    },
+    "highestHere": "Highest here {{value}}",
+    "hours": "{{count}} giờ",
+    "hoursMinutes": "{{hours}} giờ {{minutes}} phút",
+    "leaderScore": "Điểm tổng hợp",
+    "levelUpSuggestion": "Để đạt được giai đoạn {{needStage}}, hãy đề xuất ít nhất {{moreMin}} phút nữa của đầu vào hiệu quả hôm nay.",
+    "loadError": "Không thể tải bảng xếp hạng, vui lòng thử lại sau.",
+    "auth": {
+      "signOut": "Đăng xuất",
+      "pleaseSignIn": "Vui lòng đăng nhập bằng Google trước",
+      "signIn": "Đăng nhập bằng Google"
+    },
+    "metricsTip": "Giải thích về tốc độ và độ chính xác",
+    "minutes": "{{count}} phút",
+    "minutesSeconds": "{{minutes}} phút {{seconds}} giây",
+    "bible": {
+      "name": "Ngân hàng câu hỏi Kinh Thánh"
+    },
+    "noRecommendation": "Không có ngân hàng câu hỏi được đề xuất cho cấp độ lớp của bạn",
+    "percentile": "Vượt quá khoảng {{percent}}% của mọi người",
+    "progress": "Tiến độ {{current}} / {{total}}",
+    "recentValue": "Gần đây {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Đã lưu theo thời gian thực vào Firestore",
+      "stage": "Giai đoạn {{stage}}",
+      "stageOverview": "Tổng quan năm giai đoạn (để so sánh ngoại hình)"
+    },
+    "seconds": "{{count}} giây",
+    "shortcuts": "Bắt đầu/tạm dừng · R đặt lại · F tập trung · Enter gửi câu hỏi này",
+    "speedScore": "Tốc độ đánh máy: {{score}}",
+    "stats": "{{chars}} ký tự · {{accuracy}}% độ chính xác",
+    "string094": "Chúng tôi chỉ sử dụng tài khoản Google của bạn để lưu tiến trình và lịch sử của bạn.",
+    "string095": "Chúng tôi thu thập dữ liệu gì?",
+    "string096": "Chúng tôi chỉ thu thập điểm số gõ phím， độ chính xác， và thời gian luyện tập của bạn. Chúng tôi không thu thập thông tin cá nhân như tên， email， hoặc dữ liệu nhạy cảm khác.",
+    "string097": "Chúng tôi sử dụng dữ liệu này để cung cấp cho bạn phản hồi cá nhân hóa và để cho bạn thấy tiến bộ của mình theo thời gian.",
+    "string155": "Bằng cách sử dụng trang web này, bạn đồng ý với các điều khoản sau:",
+    "string156": "Bạn chịu trách nhiệm cho việc học tập và tiến bộ của chính mình.",
+    "string157": "Các điều khoản là gì?",
+    "string158": "Các điều khoản bao gồm: sử dụng trang web chỉ cho mục đích giáo dục, không chia sẻ nội dung không phù hợp và tôn trọng người dùng khác.",
+    "supportedLanguages": "Ngôn ngữ được hỗ trợ",
+    "totalQuestionChars": "Tổng số ký tự câu hỏi: {{chars}} ký tự",
+    "vsSiteAverage": "So với trung bình của trang (cùng ngôn ngữ): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.805Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Gửi (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

@@ -1,0 +1,4506 @@
+{
+  "items": [
+    {
+      "id": "BIB-RCUV-HEB-013-004",
+      "lang": "uk-UA",
+      "text": "Шлюб нехай буде в пошані у всіх, і ложе нехай буде непорочне бо Бог судитиме розпусників і перелюбників.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-003",
+      "lang": "uk-UA",
+      "text": "Ось, діти — спадщина від Єгови, плід утроби — нагорода від нього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-044-003",
+      "lang": "uk-UA",
+      "text": "Бо я виллю воду на спраглого, і потоки на суху землю. Я виллю мій Дух на твоїх нащадків, і моє благословення на твоє потомство",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-016",
+      "lang": "uk-UA",
+      "text": "Ісус покликав їх, кажучи Дозвольте малим дітям приходити до мене, і не заважайте їм, бо Царство Боже належить таким, як ці.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-004",
+      "lang": "uk-UA",
+      "text": "Батьки, не дратуйте своїх дітей, але виховуйте їх у навчанні і повчанні Господньому.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-001",
+      "lang": "uk-UA",
+      "text": "Кожна мудра жінка будує свій дім, а нерозумна руйнує його своїми руками.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-032-039",
+      "lang": "uk-UA",
+      "text": "Я дам їм одне серце і один шлях, щоб вони боялися мене завжди, на добро їм і на добро їхнім дітям після них.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-019-026",
+      "lang": "uk-UA",
+      "text": "Отже, коли Ісус побачив свою матір і учня, якого любив, що стояв там, він сказав своїй матері Жінко, ось твій син!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-008",
+      "lang": "uk-UA",
+      "text": "А якщо хто не дбає про своїх, особливо про свою родину, той відрікся віри і гірший за невірного.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-001-017",
+      "lang": "uk-UA",
+      "text": "Але повитухи боялися Бога і не виконали того, що наказав їм цар Єгипту, а зберегли живими хлопчиків.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-103-013B",
+      "lang": "uk-UA",
+      "text": "Але милість Єгови від вічності до вічності з тими, хто боїться його, його праведність — для дітей дітей.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-061-009",
+      "lang": "uk-UA",
+      "text": "Їхнє потомство буде відоме серед народів, і їхнє потомство серед людей. Усі, хто їх бачить, визнають їх, що це те потомство, яке благословив Єгова.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-009",
+      "lang": "uk-UA",
+      "text": "Отже, що Бог зєднав, те нехай людина не розлучає.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-010B",
+      "lang": "uk-UA",
+      "text": "Любов не завдає шкоди ближньому. Отже, любов є виконанням закону.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-050-021",
+      "lang": "uk-UA",
+      "text": "Отже, не бійтеся. Я подбаю про вас і ваших малюків. Він втішив їх і говорив до них лагідно.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-029",
+      "lang": "uk-UA",
+      "text": "Хто турбує свій дім, той успадкує вітер. Нерозумний буде слугою мудрого серцем.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-010-007",
+      "lang": "uk-UA",
+      "text": "Ефраїм буде, як могутній чоловік, і їхнє серце буде радіти, як від вина. Так, їхні діти побачать це і зрадіють. Їхнє серце буде радіти в Єгові.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-026B",
+      "lang": "uk-UA",
+      "text": "Якщо хто приходить до мене і не нехтує своїм батьком, матірю, дружиною, дітьми, братами і сестрами, так, і своїм життям також, той не може бути моїм учнем.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-003",
+      "lang": "uk-UA",
+      "text": "Нехай чоловік віддає своїй дружині те, що їй належить, і так само дружина чоловікові.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1SA-001-027",
+      "lang": "uk-UA",
+      "text": "Я молився за цю дитину, і Єгова дав мені мою прохання, яке я просив у нього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-003",
+      "lang": "uk-UA",
+      "text": "Твоя дружина буде, як плідна виноградна лоза в найглибших частинах твого дому, твої діти, як оливкові паростки навколо твого столу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-012B",
+      "lang": "uk-UA",
+      "text": "Єгово, ти встановиш мир для нас, бо ти також зробив всю нашу роботу для нас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-006",
+      "lang": "uk-UA",
+      "text": "Отже, вони вже не двоє, а одне тіло. Що ж Бог зєднав, нехай людина не розлучає.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014B",
+      "lang": "uk-UA",
+      "text": "Робіть усе без нарікань і суперечок,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LEV-019-018",
+      "lang": "uk-UA",
+      "text": "Не мстіть, і не тримайте образи на дітей свого народу але любіть ближнього, як самого себе. Я Єгова.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014",
+      "lang": "uk-UA",
+      "text": "Дім і багатство — спадщина від батьків, а розумна дружина — від Єгови.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-065-023",
+      "lang": "uk-UA",
+      "text": "Вони не будуть трудитися даремно, і не народжуватимуть для лиха бо вони — потомство благословенне Єговою, і їхні нащадки з ними.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-012-025",
+      "lang": "uk-UA",
+      "text": "Знаючи їхні думки, Ісус сказав їм Кожне царство, що розділене саме в собі, спустошується, і кожне місто або дім, що розділений сам в собі, не встоїть.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-010",
+      "lang": "uk-UA",
+      "text": "Отже, коли ми маємо можливість, робімо добро всім людям, а особливо тим, хто з родини віри.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-005-016",
+      "lang": "uk-UA",
+      "text": "Шануй батька твого і матір твою, як заповів тобі Єгова, щоб твої дні були довгі і щоб добре було тобі в землі, яку дає тобі Єгова, твій Бог.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-025",
+      "lang": "uk-UA",
+      "text": "Я був молодим, а тепер старим, але я не бачив праведного покинутим, ні його дітей, що просять хліба.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011",
+      "lang": "uk-UA",
+      "text": "Він буде пасти своє стадо, як пастир. Він збереться ягнят в своїх обіймах і понесе їх на своїй грудях. Він лагідно веде тих, хто має малят.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-009",
+      "lang": "uk-UA",
+      "text": "Ісус сказав йому Сьогодні спасіння прийшло в цей дім, бо він також син Авраама.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-009B",
+      "lang": "uk-UA",
+      "text": "Будьте гостинні один до одного без нарікань.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-021-006",
+      "lang": "uk-UA",
+      "text": "Сара сказала Бог розвеселив мене. Усі, хто почує, будуть радіти зі мною.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-004B",
+      "lang": "uk-UA",
+      "text": "Гідна жінка — це корона її чоловіка, а ганебна дружина — як гнилість в його кістках.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-002-001",
+      "lang": "uk-UA",
+      "text": "На третій день була весілля в Кані Галилейській. Мати Ісуса була там.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-001B",
+      "lang": "uk-UA",
+      "text": "Тепер ми, сильні, повинні носити слабкості слабких, і не шукати задоволення в собі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-003",
+      "lang": "uk-UA",
+      "text": "О, величайте Єгову зі мною. Давайте разом прославимо його імя.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-004-004",
+      "lang": "uk-UA",
+      "text": "Але кожен чоловік сидітиме під своєю виноградною лозою і під своїм фіговим деревом. Ніхто не буде їх лякати, бо так сказав Єгова Саваоф.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-017",
+      "lang": "uk-UA",
+      "text": "Але він, знаючи їхні думки, сказав їм Кожне царство, що розділене саме в собі, спустошується. Дім, що розділений сам в собі, падає.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-015B",
+      "lang": "uk-UA",
+      "text": "Дивіться, щоб ніхто не повертав зло за зло, але завжди прагніть до того, що добре для один одного і для всіх.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-022",
+      "lang": "uk-UA",
+      "text": "Слухай свого батька, який дав тобі життя, і не зневажай свою матір, коли вона стара.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-018-005",
+      "lang": "uk-UA",
+      "text": "Хто приймає одну таку малу дитину в моє імя, той приймає мене,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-033-004",
+      "lang": "uk-UA",
+      "text": "Есав побіг назустріч йому, обняв його, впав на шию його, поцілував його, і вони заплакали.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-132-012",
+      "lang": "uk-UA",
+      "text": "Якщо твої діти збережуть мій заповіт, моє свідчення, яке я навчу їх, їхні діти також сидітимуть на твоєму троні навіки.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-053",
+      "lang": "uk-UA",
+      "text": "Отже, батько знав, що це в ту годину, коли Ісус сказав йому Твій син живе. Він повірив, як і весь його дім.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-033B",
+      "lang": "uk-UA",
+      "text": "Проте кожен з вас повинен також любити свою дружину, як самого себе і нехай дружина бачить, що вона поважає свого чоловіка.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2KI-004-030",
+      "lang": "uk-UA",
+      "text": "Мати дитини сказала Як живе Єгова, і як живе твоя душа, я не залишу тебе. Тож він встав і пішов за нею.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-022",
+      "lang": "uk-UA",
+      "text": "Хто знаходить дружину, той знаходить добру річ і отримує благодать від Єгови.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-001-058",
+      "lang": "uk-UA",
+      "text": "Сусіди її та родичі почули, що Господь виявив до неї велику милість, і вони раділи з нею.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-002-004",
+      "lang": "uk-UA",
+      "text": "щоб навчали молодих жінок любити своїх чоловіків, любити своїх дітей,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-011",
+      "lang": "uk-UA",
+      "text": "Там я забезпечу вас, бо ще пять років голоду щоб ви не злидніли, ви, і ваша родина, і все, що у вас є.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-005",
+      "lang": "uk-UA",
+      "text": "Щасливий чоловік, який має повну стрілу. Вони не будуть засоромлені, коли говоритимуть з ворогами своїми при воротах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-014B",
+      "lang": "uk-UA",
+      "text": "Але Ісус сказав Дозвольте малим дітям приходити до мене, і не забороняйте їм, бо Царство Небесне належить таким, як ці.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-013B",
+      "lang": "uk-UA",
+      "text": "допомагаючи святим у потребах, і виявляючи гостинність.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-017",
+      "lang": "uk-UA",
+      "text": "Виправляй сина свого, і він дасть тобі спокій так, він принесе радість твоїй душі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-019",
+      "lang": "uk-UA",
+      "text": "Живі, живі, він буде славити тебе, як я сьогодні. Батько сповістить твою правду дітям.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-002",
+      "lang": "uk-UA",
+      "text": "У домі мого Отця багато осель. Якби це не було так, я б сказав вам. Я йду приготувати місце для вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010B",
+      "lang": "uk-UA",
+      "text": "Як кожен отримав дар, використовуйте його для служіння один одному, як добрі управителі благодаті Божої в її різних формах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-133-003",
+      "lang": "uk-UA",
+      "text": "як роса Герсону, що сходить на гори Сіону бо там Господь дає благословення, навіть життя навіки.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-015-024",
+      "lang": "uk-UA",
+      "text": "бо цей, мій син, був мертвий і знову живий. Він загубився і знайдений. Тоді вони почали святкувати.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-005B",
+      "lang": "uk-UA",
+      "text": "Нехай ваша лагідність буде відома всім людям. Господь близько.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-031-049",
+      "lang": "uk-UA",
+      "text": "і Міцпа, бо він сказав Господь нехай спостерігає між мною і тобою, коли ми відсутні один від одного.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-078-004",
+      "lang": "uk-UA",
+      "text": "Ми не будемо ховати їх від їхніх дітей, сповіщаючи наступному поколінню хвали Господа, його силу і чудесні діла, які він вчинив.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-013-014",
+      "lang": "uk-UA",
+      "text": "Якщо я, Господь і Учитель, вмив ваші ноги, то й ви повинні вмивати ноги один одному.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-024B",
+      "lang": "uk-UA",
+      "text": "Давайте розглянемо, як спонукати один одного до любові і добрих діл,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1KI-008-057",
+      "lang": "uk-UA",
+      "text": "Нехай Господь, Бог наш, буде з нами, як був з нашими батьками. Нехай не залишить нас і не покине нас,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-033",
+      "lang": "uk-UA",
+      "text": "Прокляття Господа в домі безбожного, але він благословляє житло праведних.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-009B",
+      "lang": "uk-UA",
+      "text": "Блаженні миротворці, бо вони будуть названі дітьми Божими.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-019B",
+      "lang": "uk-UA",
+      "text": "Отже, давайте прагнути до речей, які сприяють миру, і до речей, якими ми можемо будувати один одного.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-014",
+      "lang": "uk-UA",
+      "text": "Нехай Господь примножить вас більше і більше, вас і ваших дітей.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HOS-011-004",
+      "lang": "uk-UA",
+      "text": "Я тягнув їх мотузками людини, з узами любові і я був для них, як ті, хто піднімає ярмо з їхніх шиї і я нахилився до нього і годував його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-045-015",
+      "lang": "uk-UA",
+      "text": "Він поцілував усіх своїх братів і плакав на них. Після цього його брати говорили з ним.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-031-026",
+      "lang": "uk-UA",
+      "text": "Вона відкриває свій рот з мудрістю. Добра наука на її язиці.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-017B",
+      "lang": "uk-UA",
+      "text": "Господь, Бог твій, серед тебе, могутній, який спасе. Він буде радіти над тобою з радістю. Він заспокоїть тебе в своїй любові. Він буде радіти над тобою з піснею.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-007-012B",
+      "lang": "uk-UA",
+      "text": "Отже, все, що ви бажаєте, щоб люди робили вам, те ж саме робіть і їм бо це закон і пророки.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-016",
+      "lang": "uk-UA",
+      "text": "Цим ми пізнаємо любов, бо він поклав своє життя за нас. І ми повинні покласти свої життя за братів.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-001",
+      "lang": "uk-UA",
+      "text": "Хваліть Господа! Блаженний чоловік, який боїться Господа, хто дуже тішиться його заповідями.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008B",
+      "lang": "uk-UA",
+      "text": "Він показав тобі, о чоловіче, що є добрим. Що вимагає від тебе Господь, як не діяти справедливо, любити милосердя і ходити смиренно з Богом твоїм?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-009",
+      "lang": "uk-UA",
+      "text": "Як Отець полюбив мене, так і я полюбив вас. Залишайтеся в моїй любові.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007B",
+      "lang": "uk-UA",
+      "text": "Отже, віддавайте кожному те, що ви повинні якщо ви повинні податки, платіть податки якщо мита, тоді мита якщо повагу, тоді повагу якщо честь, тоді честь.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-024",
+      "lang": "uk-UA",
+      "text": "Той, хто нещадно карає, ненавидить свого сина, але той, хто любить його, дбайливо дисциплінує його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-017B",
+      "lang": "uk-UA",
+      "text": "Робота праведності буде миром, а наслідок праведності, спокій і впевненість навіки.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-015",
+      "lang": "uk-UA",
+      "text": "Він сказав їм Остерігайтеся! Бережіть себе від жадібності, бо життя людини не складається з надмірності речей, які він має.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-018",
+      "lang": "uk-UA",
+      "text": "щоб вони робили добро, щоб вони були багаті в добрих справах, щоб вони були готові ділитися, охочі ділитися",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GEN-043-014",
+      "lang": "uk-UA",
+      "text": "Нехай Бог Всемогутній дасть вам милість перед людиною, щоб він відпустив вам вашого іншого брата і Бенжаміна. Якщо я втрачу своїх дітей, я втрачу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-122-007",
+      "lang": "uk-UA",
+      "text": "Мир буде в ваших стінах, і добробут у ваших палацах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-019",
+      "lang": "uk-UA",
+      "text": "Подяка буде виходити з них голосом тих, хто веселиться. Я примножу їх, і вони не будуть небагато я також прославлю їх, і вони не будуть малими.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-017-015",
+      "lang": "uk-UA",
+      "text": "Я молюся не про те, щоб ти забрав їх з світу, але щоб ти зберіг їх від злого.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-031",
+      "lang": "uk-UA",
+      "text": "Сиве волосся — це корона слави. Воно досягається життям праведності.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018",
+      "lang": "uk-UA",
+      "text": "але я буду радіти в Господі. Я буду радісним у Бозі свого спасіння!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-019-019B",
+      "lang": "uk-UA",
+      "text": "Шануй батька твого і матір твою. І Люби ближнього твого, як самого себе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013B",
+      "lang": "uk-UA",
+      "text": "Тепер нехай Бог надії наповнить вас усією радістю і миром у вірі, щоб ви могли рясніти надією в силі Святого Духа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-031-024",
+      "lang": "uk-UA",
+      "text": "Будьте сильні, і нехай ваше серце зміцниться, всі ви, хто надіється на Господа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-004",
+      "lang": "uk-UA",
+      "text": "Скажіть тим, у кого боязке серце Будьте сильні! Не бійтеся! Ось, ваш Бог прийде з помстою, Божою відплатою. Він прийде і спасе вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-027",
+      "lang": "uk-UA",
+      "text": "Але відразу Ісус сказав їм, кажучи Підніміть настрій! Це я! Не бійтеся.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-031-008",
+      "lang": "uk-UA",
+      "text": "Сам Господь йде перед вами. Він буде з вами. Він не залишить вас і не покине вас. Не бійтеся. Не бійтеся.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-001",
+      "lang": "uk-UA",
+      "text": "Безбожні втікають, коли ніхто не переслідує але праведні сміливі, як лев.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-036",
+      "lang": "uk-UA",
+      "text": "Але Ісус, коли почув сказане, відразу сказав правителю синагоги Не бійтеся, тільки вірте.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-004",
+      "lang": "uk-UA",
+      "text": "Навіть коли я йду через долину тіні смерті, не буду боятися зла, бо ти зі мною. Твій жезл і твій посох, вони втішають мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-007",
+      "lang": "uk-UA",
+      "text": "Він не буде боятися поганих новин. Його серце тверде, сподіваючись на Ягве.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-020",
+      "lang": "uk-UA",
+      "text": "Але він сказав їм Це я. Не бійтеся.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-013",
+      "lang": "uk-UA",
+      "text": "Але ви, брати, не втомлюйтеся робити добро.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-006",
+      "lang": "uk-UA",
+      "text": "Тому з добрим відвагою ми кажемо Господь - мій помічник. Я не буду боятися. Що може зробити мені людина?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-010",
+      "lang": "uk-UA",
+      "text": "Якщо ти спотикаєшся в часі біди, твоя сила мала.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-008",
+      "lang": "uk-UA",
+      "text": "Не бійтеся їх, бо я з вами, щоб рятувати вас, - говорить Ягве.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-032",
+      "lang": "uk-UA",
+      "text": "Не бійтеся, мале стадо, бо це добре воля вашого Отця дати вам Царство.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003",
+      "lang": "uk-UA",
+      "text": "Не тільки це, але й у наших стражданнях ми радіємо, знаючи, що страждання виробляє терпіння",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-010-025",
+      "lang": "uk-UA",
+      "text": "Ісус сказав їм Не бійтеся, і не лякайтеся. Будьте сильні і мужні, бо Ягве зробить це всім вашим ворогам, проти яких ви воюєте.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-003",
+      "lang": "uk-UA",
+      "text": "Коли я боюся, я покладаю свою надію на тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-028",
+      "lang": "uk-UA",
+      "text": "Не бійтеся тих, хто вбиває тіло, але не можуть вбити душу. Натомість, бійтеся того, хто може знищити і душу, і тіло в геєні.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-010",
+      "lang": "uk-UA",
+      "text": "Але нехай Бог усієї благодаті, який покликав вас до своєї вічної слави через Христа Ісуса, після того, як ви трохи постраждали, досконалить, утвердить, зміцнить і закріпить вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-003",
+      "lang": "uk-UA",
+      "text": "Хоча армія повинна таборувати проти мене, моє серце не буде боятися. Хоча війна підніметься проти мене, навіть тоді я буду впевнений.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-026",
+      "lang": "uk-UA",
+      "text": "бо Ягве буде твоєю впевненістю, і зберігатиме твою ногу від спотикання.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-011",
+      "lang": "uk-UA",
+      "text": "Ось, всі, хто розгніваний проти тебе, будуть розчаровані і засоромлені. Ті, хто бореться з тобою, будуть як нічого, і загинуть.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-006-050",
+      "lang": "uk-UA",
+      "text": "бо вони всі бачили його і були стурбовані. Але він відразу заговорив з ними і сказав їм Втішайтеся! Це я! Не бійтеся.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016",
+      "lang": "uk-UA",
+      "text": "Тому ми не втрачаємо серця, але хоча наш зовнішній чоловік і зникає, наш внутрішній чоловік оновлюється день за днем.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-017",
+      "lang": "uk-UA",
+      "text": "Якщо це станеться, наш Бог, якого ми служимо, здатний врятувати нас від вогняної печі і він врятує нас з твоєї руки, о царю.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-006",
+      "lang": "uk-UA",
+      "text": "Ягве на моєму боці. Я не буду боятися. Що може зробити мені людина?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEP-003-016",
+      "lang": "uk-UA",
+      "text": "В той день буде сказано Єрусалиму Не бійтеся, Сіоне. Не нехтуйте своїми руками.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-001",
+      "lang": "uk-UA",
+      "text": "Не нехтуйте своїм серцем. Вірте в Бога. Вірте також в мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-004-004",
+      "lang": "uk-UA",
+      "text": "Ви від Бога, мале дітище, і перемогли їх, бо більший той, хто у вас, ніж той, хто у світі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-006",
+      "lang": "uk-UA",
+      "text": "Він один - моя скеля і моє спасіння, моя фортеця. Я не буду похитнутий.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-029-025",
+      "lang": "uk-UA",
+      "text": "Страх перед людиною виявляється пасткою, але хто покладає свою надію на Ягве, той буде в безпеці.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-050-007",
+      "lang": "uk-UA",
+      "text": "Бо Господь Ягве допоможе мені. Тому я не був засоромлений. Тому я поставив своє обличчя, як кремінь, і знаю, що не буду розчарований.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-050",
+      "lang": "uk-UA",
+      "text": "Але Ісус, почувши це, відповів йому Не бійтеся. Лише вірте, і вона буде зцілена.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-010-035",
+      "lang": "uk-UA",
+      "text": "Тому не відкидайте свою сміливість, яка має велику нагороду.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-004",
+      "lang": "uk-UA",
+      "text": "В Бозі я хвалю його слово. В Бозі я покладаю свою надію. Я не буду боятися. Що може зробити плоть мені?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-014",
+      "lang": "uk-UA",
+      "text": "Не бійтеся, червяче Якове, і ви, люди Ізраїлю. Я допоможу вам, - говорить Ягве. - Ваш Визволитель - Святий Ізраїлю.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022",
+      "lang": "uk-UA",
+      "text": "Але Ісус, обернувшись і побачивши її, сказав Дочко, втішайся! Твоя віра зробила тебе здоровою. І жінка була зцілена з тієї години.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-001-028",
+      "lang": "uk-UA",
+      "text": "і нічим не лякаючись супротивниками, що є для них доказом загибелі, а для вас - спасіння, і це від Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-037",
+      "lang": "uk-UA",
+      "text": "Ні, у всіх цих речах ми більше, ніж переможці через того, хто полюбив нас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-031",
+      "lang": "uk-UA",
+      "text": "Коня готують до дня битви, але перемога - з Ягве.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EXO-015-002",
+      "lang": "uk-UA",
+      "text": "Яг є моя сила і пісня. Він став моїм спасінням. Це мій Бог, і я буду хвалити його Бог мого батька, і я буду величати його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-046-002",
+      "lang": "uk-UA",
+      "text": "Тому ми не будемо боятися, хоча земля змінюється, хоча гори трясуться в серці морів",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-005",
+      "lang": "uk-UA",
+      "text": "Не бійтеся, бо я з вами. Я приведу ваше потомство з сходу і зберу вас з заходу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-021-019",
+      "lang": "uk-UA",
+      "text": "19 Вашою витривалістю ви здобудете свої життя.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-012",
+      "lang": "uk-UA",
+      "text": "Блаженний той, хто витримує спокусу, бо коли він буде випробуваний, він отримає вінець життя, який Господь обіцяв тим, хто любить його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-NUM-013-030",
+      "lang": "uk-UA",
+      "text": "Калев заспокоїв народ перед Мойсеєм і сказав Підемо відразу і завоюємо його, бо ми здатні подолати його!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-009",
+      "lang": "uk-UA",
+      "text": "Той, хто ходить бездоганно, ходить впевнено, але той, хто спотворює свої шляхи, буде виявлений.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-010",
+      "lang": "uk-UA",
+      "text": "Блаженні ті, хто переслідувані за праведність, бо їхнє є Царство Небесне.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-058",
+      "lang": "uk-UA",
+      "text": "Отже, мої любі брати, будьте стійкими, непохитними, завжди багатими в справі Господа, бо ви знаєте, що ваша праця не є марною в Господі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-017",
+      "lang": "uk-UA",
+      "text": "Я не помру, але буду жити і проголошувати діла Яг.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-003",
+      "lang": "uk-UA",
+      "text": "Бо ти був для мене укриттям, сильною вежею від ворога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-034",
+      "lang": "uk-UA",
+      "text": "Він сказав їй Дочко, твоя віра зробила тебе здоровою. Іди в мир і будь зцілена від своєї хвороби.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-016",
+      "lang": "uk-UA",
+      "text": "щоб він дарував вам, відповідно до багатства своєї слави, щоб ви могли бути зміцнені силою через його Духа в внутрішній людині,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-008",
+      "lang": "uk-UA",
+      "text": "Його серце утверджене. Він не буде боятися в кінці, коли побачить своїх супротивників.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-025",
+      "lang": "uk-UA",
+      "text": "Нехай твої очі дивляться прямо вперед. Сфокусуй свій погляд прямо перед собою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-008-013",
+      "lang": "uk-UA",
+      "text": "Ягве військ - це той, кого ти повинен поважати як святого. Він той, кого ти повинен боятися. Він той, кого ти повинен жахатися.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-001",
+      "lang": "uk-UA",
+      "text": "І сказав їм притчу про те, що треба завжди молитися і не зневірятися.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-005-008",
+      "lang": "uk-UA",
+      "text": "Будьте тверезі, пильнуйте. Ваш супротивник, диявол, ходить, як рикаючий лев, шукаючи, кого поглинути.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-004",
+      "lang": "uk-UA",
+      "text": "У темряві світло сходить для праведного, милосердного і справедливого.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-019",
+      "lang": "uk-UA",
+      "text": "Господь, Господь, є моєю силою. Він робить мої ноги, як у оленя, і веде мене на високі місця. Для диригента, на струнних інструментах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-010-031",
+      "lang": "uk-UA",
+      "text": "Отже, не бійтеся. Ви дорожчі за багатьох горобців.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-013",
+      "lang": "uk-UA",
+      "text": "Отже, візьміть на себе всю броню Божу, щоб ви могли встояти в злий день, і, зробивши все, встояти.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-056-011",
+      "lang": "uk-UA",
+      "text": "Я поклав свою надію на Бога. Я не буду боятися. Що може зробити людина мені?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-025",
+      "lang": "uk-UA",
+      "text": "Не бійтеся раптового страху, ані спустошення безбожних, коли воно прийде",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007",
+      "lang": "uk-UA",
+      "text": "А я буду дивитися на Господа, буду чекати Бога спасіння мого. Мій Бог почує мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-027",
+      "lang": "uk-UA",
+      "text": "Ісус, дивлячись на них, сказав У людей це неможливо, але не у Бога, бо для Бога все можливе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-002-003",
+      "lang": "uk-UA",
+      "text": "Отже, терпіти труднощі, як добрий солдат Христа Ісуса.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-018",
+      "lang": "uk-UA",
+      "text": "Бо я вважаю, що страждання цього часу не варті порівняння з тією славою, яка буде відкрито нам.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-016",
+      "lang": "uk-UA",
+      "text": "Бо праведник сім разів упаде і підведеться знову, а безбожні будуть знищені лихом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-021",
+      "lang": "uk-UA",
+      "text": "Тоді Ісус знову сказав їм Мир вам! Як Отець послав мене, так і я посилаю вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-003-006",
+      "lang": "uk-UA",
+      "text": "Але Христос вірний, як Син над своїм домом. Ми є його домом, якщо зберігаємо впевненість і хвалу надії до кінця.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-020-004",
+      "lang": "uk-UA",
+      "text": "Бо Господь, Бог ваш, йде з вами, щоб боротися за вас проти ваших ворогів, щоб спасти вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-002",
+      "lang": "uk-UA",
+      "text": "З краю землі я закликаю до тебе, коли моє серце переповнене. Веди мене до скелі, що вища за мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-016",
+      "lang": "uk-UA",
+      "text": "Господь, який прокладає шлях у морі і стежку в могутніх водах,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-022",
+      "lang": "uk-UA",
+      "text": "Ісус відповів їм Вірте в Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009",
+      "lang": "uk-UA",
+      "text": "Не втомлюймося робити добро, бо в свій час пожнемо, якщо не зневіримося.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-023-006",
+      "lang": "uk-UA",
+      "text": "Отже, будьте дуже мужніми, щоб дотримуватися і виконувати все, що написано в книзі закону Мойсея, щоб не відступати від нього ні праворуч, ні ліворуч",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-024-005",
+      "lang": "uk-UA",
+      "text": "Мудрий чоловік має велику силу. Знаючий чоловік збільшує силу,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-013",
+      "lang": "uk-UA",
+      "text": "Шукатимете мене і знайдете, коли будете шукати мене всім своїм серцем.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-027",
+      "lang": "uk-UA",
+      "text": "Але він сказав Неможливе у людей можливе у Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-008",
+      "lang": "uk-UA",
+      "text": "Отже, не соромтеся свідчення нашого Господа, ані мене, його вязня але терпіти труднощі за Добру Новину відповідно до сили Божої,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-020",
+      "lang": "uk-UA",
+      "text": "Вірний чоловік багатий благословеннями але той, хто прагне бути багатим, не залишиться без покарання.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012",
+      "lang": "uk-UA",
+      "text": "Я, навіть я, той, хто втішає вас. Хто ти, що боїшся людини, яка помре, і сина людського, який буде, як трава?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-039",
+      "lang": "uk-UA",
+      "text": "Він прокинувся і заборонив вітру, і сказав морю Мир! Будь тихо! Вітер втих і настала велика тиша.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-007",
+      "lang": "uk-UA",
+      "text": "Але ми маємо цей скарб у глиняних посудинах, щоб надмірна велич сили була від Бога, а не від нас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-118-008",
+      "lang": "uk-UA",
+      "text": "Краще шукати притулку в Господі, ніж покладатися на людину.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-032",
+      "lang": "uk-UA",
+      "text": "Той, хто повільний на гнів, кращий за сильного той, хто володіє своїм духом, ніж той, хто захоплює місто.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-001-019",
+      "lang": "uk-UA",
+      "text": "Вони будуть боротися проти тебе, але не переможуть тебе бо я з тобою, говорить Господь, щоб рятувати тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-031",
+      "lang": "uk-UA",
+      "text": "Ісус негайно простягнув руку, схопив його і сказав йому О, ти з малою вірою, чому ти сумнівався?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-014",
+      "lang": "uk-UA",
+      "text": "Ми закликаємо вас, брати заохочуйте непорядних підбадьорюйте слабких підтримуйте слабких будьте терплячими до всіх.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2SA-022-033",
+      "lang": "uk-UA",
+      "text": "Бог - моя сильна фортеця. Він робить мій шлях досконалим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-059-016",
+      "lang": "uk-UA",
+      "text": "Але я буду співати про твою силу. Так, я буду співати про твою милість вранці. Бо ти був моєю високою вежею, притулком у день моєї біди.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-050",
+      "lang": "uk-UA",
+      "text": "Він сказав жінці Твоя віра спасла тебе. Іди в мирі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-006",
+      "lang": "uk-UA",
+      "text": "У цьому ви дуже радієте, хоча тепер, на короткий час, якщо потрібно, ви були засмучені різними випробуваннями,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-138-003",
+      "lang": "uk-UA",
+      "text": "У день, коли я закликав, ти відповів мені. Ти підбадьорив мене силою в моїй душі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-026",
+      "lang": "uk-UA",
+      "text": "У страху Господньому є безпечна фортеця, і він буде притулком для своїх дітей.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-013",
+      "lang": "uk-UA",
+      "text": "Так, з того часу, як був день, я є той. Ніхто не може вирвати з моєї руки. Я буду діяти, і хто може заважати цьому?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-049",
+      "lang": "uk-UA",
+      "text": "Ісус зупинився і сказав Покличте його. Вони покликали сліпого, кажучи йому Підбадьорся! Вставай. Він кличе тебе!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-012",
+      "lang": "uk-UA",
+      "text": "Боріться добрим боєм віри. Візьміть у свої руки вічне життя, до якого ви були покликані, і ви сповістили добру сповідь перед багатьма свідками.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOS-001-005",
+      "lang": "uk-UA",
+      "text": "Жодна людина не зможе встояти перед тобою всі дні твого життя. Як я був з Мойсеєм, так я буду з тобою. Я не залишу тебе і не покину тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-005",
+      "lang": "uk-UA",
+      "text": "Бо в день біди він сховає мене в своїй палаті. У таємному місці своєї скинії він сховає мене. Він підніме мене на скелю.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-009",
+      "lang": "uk-UA",
+      "text": "Тоді ви закликатимете, і Господь відповість. Ви будете кликати на допомогу, і він скаже Ось я. Якщо ви знімете з себе ярмо, вказування пальцем і говоріння злом",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-020-027",
+      "lang": "uk-UA",
+      "text": "Тоді він сказав Фомі Простягни сюди свій палець і подивися на мої руки. Простягни сюди свою руку і поклади її в бік мій. Не будь невіруючим, але віруючим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-003-012",
+      "lang": "uk-UA",
+      "text": "В ньому ми маємо сміливість і доступ з упевненістю через нашу віру в нього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DAN-003-018",
+      "lang": "uk-UA",
+      "text": "Але якщо ні, нехай буде відомо тобі, о царю, що ми не будемо служити твоїм богам і поклонятися золотому зображенню, яке ти поставив.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-061-004",
+      "lang": "uk-UA",
+      "text": "Я буду жити в твоїй палаті навіки. Я знайду притулок у тіні твоїх крил. Села.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-043-019",
+      "lang": "uk-UA",
+      "text": "Ось, я творю нове. Воно вже зявляється. Чи не знаєте ви цього? Я навіть прокладу шлях у пустелі та ріки в пустелі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-025",
+      "lang": "uk-UA",
+      "text": "Він сказав їм Де ваша віра? Лякаючись, вони дивувалися, кажучи один одному Хто ж це, що навіть вітри і вода йому підкоряються?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-005-004",
+      "lang": "uk-UA",
+      "text": "Бо все, що народжене від Бога, перемагає світ. Це є перемога, що перемогла світ ваша віра.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-008",
+      "lang": "uk-UA",
+      "text": "Не радій проти мене, вороже. Коли я впаду, я встану. Коли я сиджу в темряві, Господь буде світлом для мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-023",
+      "lang": "uk-UA",
+      "text": "Тоді ти будеш іти своїм шляхом безпечно. Нога твоя не спотикнеться.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-041-017",
+      "lang": "uk-UA",
+      "text": "Бідні та нужденні шукають води, і немає її. Язик їхній пересох від спраги. Я, Господь, відповім їм. Я, Бог Ізраїлів, не залишу їх.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-034",
+      "lang": "uk-UA",
+      "text": "Отже, не турбуйтеся про завтрашній день, бо завтрашній день сам про себе потурбується. Досить для кожного дня його власного зла.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-001",
+      "lang": "uk-UA",
+      "text": "Отже, бачачи, що ми маємо це служіння, як ми отримали милість, не втрачаємо серця.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-004",
+      "lang": "uk-UA",
+      "text": "який втішає нас у всіх наших скорботах, щоб ми могли втішати тих, хто в будь-якій скорботі, через втіху, якою ми самі втішені Богом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-019",
+      "lang": "uk-UA",
+      "text": "Багато скорбот у праведних, але Господь визволяє його з усіх.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-057-018",
+      "lang": "uk-UA",
+      "text": "Я бачив його шляхи, і зцілю його. Я також поведу його, і відновлю втіху йому та його плачучим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-011-030",
+      "lang": "uk-UA",
+      "text": "Бо ярмо моє легке, і тягар мій легкий.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-018",
+      "lang": "uk-UA",
+      "text": "Отже, втішайте один одного цими словами.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-023-003",
+      "lang": "uk-UA",
+      "text": "Він відновлює мою душу. Він веде мене стежками праведності ради імені свого.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-016-024",
+      "lang": "uk-UA",
+      "text": "Приємні слова — як стільник, солодкі для душі і здоровя для кісток.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-033-006",
+      "lang": "uk-UA",
+      "text": "Ось, я принесу їй здоровя і зцілення, і я зцілю їх і я відкрию їм багатство миру і правди.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-008-048",
+      "lang": "uk-UA",
+      "text": "Він сказав їй Дочка, втішайся. Твоя віра зробила тебе здоровою. Іди в мирі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-005-015",
+      "lang": "uk-UA",
+      "text": "і молитва віри зцілить того, хто хворий, і Господь підведе його. Якщо він скоїв гріхи, йому буде прощено.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-005-004",
+      "lang": "uk-UA",
+      "text": "Блаженні ті, хто плаче, бо вони будуть втішені.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-002",
+      "lang": "uk-UA",
+      "text": "Господи, мій Бог, я кликнув до Тебе, і Ти зцілив мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-049-013",
+      "lang": "uk-UA",
+      "text": "Співайте, небеса, і радійте, земля! Розквітайте в пісні, гори! Бо Господь втішив свій народ і матиме співчуття до своїх страждаючих.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-022",
+      "lang": "uk-UA",
+      "text": "Отже, ви тепер маєте смуток, але я знову побачу вас, і серце ваше зрадіє, і ніхто не відібє у вас вашої радості.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-005",
+      "lang": "uk-UA",
+      "text": "Тепер Бог терпіння і втіхи дарує вам бути однодумними один з одним за прикладом Христа Ісуса,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-091-002",
+      "lang": "uk-UA",
+      "text": "Я скажу про Господа Він — моє прибіжище і моя фортеця мій Бог, на якого я покладаюся.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-076",
+      "lang": "uk-UA",
+      "text": "Будь ласка, нехай Твоя милість буде для мого втішення, відповідно до Твого слова до Твого слуги.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-066-013",
+      "lang": "uk-UA",
+      "text": "Як одна, кого мати втішає, так я втішу вас. Ви будете втішені в Єрусалимі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-003",
+      "lang": "uk-UA",
+      "text": "Благословенний Бог і Отець Господа нашого Ісуса Христа, Отець милосердь і Бог усякого втішення,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-035",
+      "lang": "uk-UA",
+      "text": "Хто відділить нас від любові Христової? Чи гноблення, чи скорбота, чи переслідування, чи голод, чи нагота, чи небезпека, чи меч?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-094-019",
+      "lang": "uk-UA",
+      "text": "У множині моїх думок у мені, Твої втіхи радують мою душу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-013",
+      "lang": "uk-UA",
+      "text": "Тоді дівиця буде радіти в танці, молоді чоловіки і старі разом бо я перетворю їхнє плач на радість, і втішу їх, і змушу їх радіти з їхнього смутку.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-041",
+      "lang": "uk-UA",
+      "text": "Зворушений співчуттям, він простягнув руку, і торкнувся його, і сказав йому Я хочу. Будь очищений.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-002-016",
+      "lang": "uk-UA",
+      "text": "Тепер наш Господь Ісус Христос сам, і Бог наш Отець, який полюбив нас і дав нам вічний втішення і добру надію через благодать,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-027-010",
+      "lang": "uk-UA",
+      "text": "Коли мій батько і моя мати залишать мене, тоді Господь візьме мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-024",
+      "lang": "uk-UA",
+      "text": "Коли ти ляжеш, ти не будеш боятися. Так, ти ляжеш, і твій сон буде солодким.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-035-003",
+      "lang": "uk-UA",
+      "text": "Укріплюйте слабкі руки і зміцнюйте немічні коліна.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-009-024",
+      "lang": "uk-UA",
+      "text": "Негайно батько дитини закричав зі сльозами Я вірю. Допоможи моїй невірю!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-015",
+      "lang": "uk-UA",
+      "text": "Бо ми не маємо первосвященика, який не може бути зворушений почуттям наших немочей, але одного, хто був у всіх пунктах спокушений, як і ми, але без гріха.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-017",
+      "lang": "uk-UA",
+      "text": "Бо наше легке страждання, яке триває мить, працює для нас все більше і більше надзвичайно вічною вагою слави,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-050B",
+      "lang": "uk-UA",
+      "text": "Будь ласка, нехай Твоя милість буде для мого втішення, відповідно до Твого слова до Твого слуги.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-051-012B",
+      "lang": "uk-UA",
+      "text": "Я, навіть я, той, хто втішає вас. Хто ти, що боїшся людини, яка помре, і сина людського, який буде зроблений, як трава?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-018",
+      "lang": "uk-UA",
+      "text": "Я не залишу вас сиротами. Я прийду до вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-007",
+      "lang": "uk-UA",
+      "text": "Повернись до свого спокою, моя душо, бо Господь щедро вчинив з тобою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-025B",
+      "lang": "uk-UA",
+      "text": "Тривога в серці людини важить його, але добре слово радує його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-013",
+      "lang": "uk-UA",
+      "text": "Він поклав на неї руки, і негайно вона встала прямо і прославила Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-007-006",
+      "lang": "uk-UA",
+      "text": "Проте той, хто втішає смиренних, Бог, втішив нас приходом Тита,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-009-009B",
+      "lang": "uk-UA",
+      "text": "Ті, хто знає Твоє імя, покладуть на Тебе надію, бо Ти, Господи, не залишив тих, хто шукає Тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-014",
+      "lang": "uk-UA",
+      "text": "Дух людини підтримує його в хворобі, але зла духа, хто може витримати?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-019",
+      "lang": "uk-UA",
+      "text": "Ваші мертві оживуть. Їхні мертві тіла піднімуться. Прокиньтеся і співайте, ви, хто живе в пилу бо ваша роса, як роса трав, і земля викине померлих духів.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-008-017",
+      "lang": "uk-UA",
+      "text": "щоб здійснилося те, що було сказано через пророка Ісаю, кажучи Він взяв наші немочі і поніс наші хвороби.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-024B",
+      "lang": "uk-UA",
+      "text": "Він сам поніс наші гріхи в своєму тілі на дереві, щоб ми, померши для гріхів, жили для праведності. Ви були зцілені його ранами.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-003B",
+      "lang": "uk-UA",
+      "text": "і терпіння, перевірений характер і перевірений характер, надія",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-041-003",
+      "lang": "uk-UA",
+      "text": "Господь підтримає його на ліжку хвороби, і відновить його з ліжка недуги.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-013",
+      "lang": "uk-UA",
+      "text": "Веселе серце робить обличчя радісним, а болюче серце ламає дух.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-017-014",
+      "lang": "uk-UA",
+      "text": "Зціли мене, о Господи, і я буду зцілений спаси мене, і я буду спасений, бо ти - моя хвала.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-001-034",
+      "lang": "uk-UA",
+      "text": "Він зцілив багатьох, хто був хворий на різні недуги, і вигнав багато демонів. Він не дозволив демонам говорити, бо вони знали його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-003",
+      "lang": "uk-UA",
+      "text": "Але Господь вірний, який укріпить вас і охоронить вас від злого.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-027B",
+      "lang": "uk-UA",
+      "text": "Не нехтуйте серцем вашим. Вірте в Бога. Вірте також і в мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-006-009",
+      "lang": "uk-UA",
+      "text": "Господь почув мою молитву. Господь прийняв мою молитву.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-038-016",
+      "lang": "uk-UA",
+      "text": "Господи, люди живуть цими речами і мій дух знаходить життя в усіх них. Ти відновлюєш мене і даєш мені жити.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-019",
+      "lang": "uk-UA",
+      "text": "Тоді він сказав йому Встань і йди своєю дорогою. Твоя віра зцілила тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019",
+      "lang": "uk-UA",
+      "text": "Мій Бог забезпечить всі ваші потреби згідно з його багатствами в славі в Христі Ісусі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-005",
+      "lang": "uk-UA",
+      "text": "Бо як страждання Христові переповнюють нас, так і наше втіха переповнює через Христа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-042-011",
+      "lang": "uk-UA",
+      "text": "Чому ти в смутку, моя душо? Чому ти тривожишся в мені? Сподівайся на Бога! Бо я ще буду хвалити його, спасительну допомогу мого обличчя і мого Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-030-017",
+      "lang": "uk-UA",
+      "text": "Бо я відновлю здоровя тобі, і я зцілю тебе від твоїх ран, - говорить Господь, - бо вони назвали тебе вигнанцем, кажучи Це Сіон, якого ніхто не шукає.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-009-022B",
+      "lang": "uk-UA",
+      "text": "Але Ісус, обернувшись і побачивши її, сказав Дочка, будь сміливою! Твоя віра зробила тебе здоровою. І жінка стала здоровою з тієї години.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-019B",
+      "lang": "uk-UA",
+      "text": "щоб через дві незмінні речі, в яких неможливо, щоб Бог брешучи, ми мали сильне заохочення, які втекли до притулку, щоб схопити надію, що перед нами.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-008-028B",
+      "lang": "uk-UA",
+      "text": "Ми знаємо, що все сприяє добру тим, хто любить Бога, тим, хто покликаний згідно з його метою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-114",
+      "lang": "uk-UA",
+      "text": "Ти - моє укриття і мій щит. Я сподіваюся на твоє слово.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-040-011B",
+      "lang": "uk-UA",
+      "text": "Він буде годувати своє стадо, як пастир. Він збереться ягнят у своїх обіймах і понесе їх на своїй грудях. Він лагідно веде тих, хто має малят.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-007-013",
+      "lang": "uk-UA",
+      "text": "Коли Господь побачив її, він зглянувся на неї і сказав їй Не плач.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-008",
+      "lang": "uk-UA",
+      "text": "якого, не знаючи, ви любите. У ньому, хоча тепер ви його не бачите, але вірячи, ви радієте великою радістю, яка не може бути висловлена і повна слави,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-008",
+      "lang": "uk-UA",
+      "text": "Ми тиснемо з усіх боків, але не зламані в розгубленості, але не в безнадії",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-007",
+      "lang": "uk-UA",
+      "text": "Господь зберігатиме тебе від усякого зла. Він зберігатиме твою душу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-011B",
+      "lang": "uk-UA",
+      "text": "Бо я знаю думки, які я думаю про вас, - говорить Господь, - думки миру, а не зла, щоб дати вам надію і майбутнє.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-033B",
+      "lang": "uk-UA",
+      "text": "Вірно кажу вам, що ви будете плакати і сумувати, але світ буде радіти. Ви будете сумувати, але ваш сум буде перетворено на радість.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-012B",
+      "lang": "uk-UA",
+      "text": "радіючи в надії, витримуючи в труднощах, постійно перебуваючи в молитві,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-073-023",
+      "lang": "uk-UA",
+      "text": "Проте я завжди з тобою. Ти тримав мою праву руку.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-020",
+      "lang": "uk-UA",
+      "text": "Сину мій, уважай на мої слова. Поверни своє вухо до моїх слів.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-005-019",
+      "lang": "uk-UA",
+      "text": "Він не дозволив йому, але сказав йому Іди до свого дому, до своїх друзів, і розкажи їм, які великі речі зробив для тебе Господь і як він помилував тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-001-007",
+      "lang": "uk-UA",
+      "text": "Наша надія для вас непохитна, знаючи, що, оскільки ви є учасниками страждань, так ви також є учасниками втіхи.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-017",
+      "lang": "uk-UA",
+      "text": "Покажи мені знак своєї доброти, щоб ті, хто ненавидить мене, могли це побачити і бути осоромлені, бо ти, Господи, допоміг мені і втішив мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-012",
+      "lang": "uk-UA",
+      "text": "Відкладена надія робить серце хворим, але коли бажання здійснюється, це - дерево життя.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-013-011",
+      "lang": "uk-UA",
+      "text": "Ось, була жінка, яка мала дух недуги вісімнадцять років. Вона була зігнута і не могла ніяк випрямитися.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-003-007",
+      "lang": "uk-UA",
+      "text": "З цієї причини, брати, ми були втішені за вас у всіх наших труднощах і стражданнях через вашу віру.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-007B",
+      "lang": "uk-UA",
+      "text": "Робіть те, що ви навчилися, отримали, почули і бачили в мені, і Бог миру буде з вами.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-049",
+      "lang": "uk-UA",
+      "text": "ЗАЙН49 Згадай своє слово до свого слуги, бо ти дав мені надію.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-031-025",
+      "lang": "uk-UA",
+      "text": "Бо я наситив стомлену душу, і я відновив кожну сумну душу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-035",
+      "lang": "uk-UA",
+      "text": "Ісус плакав.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-016B",
+      "lang": "uk-UA",
+      "text": "Тому ми не втрачаємо серця, але хоча наш зовнішній чоловік і зникає, та наш внутрішній чоловік оновлюється день за днем.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-015-013C",
+      "lang": "uk-UA",
+      "text": "Тепер нехай Бог надії наповнить вас усією радістю і миром у вірі, щоб ви могли переповнюватися надією в силі Святого Духа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-119-092",
+      "lang": "uk-UA",
+      "text": "Якби не був закон твій моїм задоволенням, я б загинув у своїх стражданнях.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-017-017B",
+      "lang": "uk-UA",
+      "text": "Друг любить у всі часи а брат народжується для лиха.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-014-014",
+      "lang": "uk-UA",
+      "text": "Ісус вийшов і побачив велику юрбу. Він зглянувся на них і зцілив їхніх хворих.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005",
+      "lang": "uk-UA",
+      "text": "Будьте вільні від любові до грошей, задовольняйтеся такими речами, які у вас є, бо він сказав Я ніколи не залишу тебе, ні в жодному разі не покину тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-001-005B",
+      "lang": "uk-UA",
+      "text": "Блаженний той, хто витримує спокусу, бо коли він буде схвалений, він отримає вінець життя, який Господь обіцяв тим, хто любить його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-039",
+      "lang": "uk-UA",
+      "text": "Але спасіння праведних від Господа. Він - їхня твердиня в часі біди.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-007",
+      "lang": "uk-UA",
+      "text": "Хіба Бог не помститься своїм обраним, які кличуть до нього день і ніч, і все ж він проявляє терпіння до них?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-005-005B",
+      "lang": "uk-UA",
+      "text": "і надія не підводить нас, бо любов Божа була влита в наші серця через Святого Духа, який був даний нам.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-012-010",
+      "lang": "uk-UA",
+      "text": "Тому я маю задоволення в слабкостях, в образах, в потребах, в переслідуваннях і в стражданнях заради Христа. Бо коли я слабкий, тоді я сильний.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-121-003",
+      "lang": "uk-UA",
+      "text": "Він не дозволить, щоб нога твоя була зрушена. Той, хто охороняє тебе, не засне.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-037",
+      "lang": "uk-UA",
+      "text": "Усі, кого дає мені Отець, прийдуть до мене, і того, хто приходить до мене, я не викину геть.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-001-013B",
+      "lang": "uk-UA",
+      "text": "Отже, підготуйте свої уми до дії, будьте тверезими, і повністю покладайте надію на благодать, яка буде принесена вам у відкритті Ісуса Христа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-002B",
+      "lang": "uk-UA",
+      "text": "Отже, коли маємо можливість, робімо добро всім, а особливо тим, хто з дому віри.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-062-005",
+      "lang": "uk-UA",
+      "text": "Душе моя, чекай у тиші на Бога одного, бо моя надія від Нього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-011",
+      "lang": "uk-UA",
+      "text": "Благословення праведних підносить місто, а вуста безбожних руйнують його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-030-015B",
+      "lang": "uk-UA",
+      "text": "Бо так сказав Господь Ягве, Святий Ізраїлів Ви будете спасенні в поверненні та спокої. Ваша сила буде в тихості та впевненості. Ви відмовилися.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-052",
+      "lang": "uk-UA",
+      "text": "Ісус сказав йому Іди своїм шляхом, твоя віра зцілила тебе. І відразу він отримав зір і пішов за Ісусом дорогою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TI-001-007B",
+      "lang": "uk-UA",
+      "text": "Бо Бог не дав нам духа страху, але сили, любові та самоконтролю.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-029",
+      "lang": "uk-UA",
+      "text": "Чи бачиш ти людину, яка вміє працювати? Вона служитиме царям, а не буде служити невідомим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-DEU-008-018",
+      "lang": "uk-UA",
+      "text": "Але памятайте Ягве, вашого Бога, бо це Він дає вам силу здобувати багатство, щоб утвердити свій заповіт, який Він присягнув вашим батькам, як це є сьогодні.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-004-011",
+      "lang": "uk-UA",
+      "text": "і щоб ви прагнули вести тихе життя, займатися своїми справами і працювати своїми руками, як ми вас навчали.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-004",
+      "lang": "uk-UA",
+      "text": "Бідніє той, хто працює лінивою рукою, а рука старанного приносить багатство.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-090-017",
+      "lang": "uk-UA",
+      "text": "Нехай буде благодать Господа, Бога нашого, на нас. Утверди працю рук наших для нас. Так, утверди працю рук наших.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-012-042",
+      "lang": "uk-UA",
+      "text": "Господь сказав Хто ж є вірний і мудрий управитель, якого його пан поставить над своїм домом, щоб давати їм їхню частку їжі в потрібний час?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-004-028",
+      "lang": "uk-UA",
+      "text": "Нехай той, хто краде, більше не краде, а краще нехай працює, виробляючи своїми руками щось добре, щоб мати що дати тому, хто має потребу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-012-011",
+      "lang": "uk-UA",
+      "text": "Той, хто обробляє свою землю, матиме багато хліба, а той, хто переслідує фантазії, позбавлений розуму.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-021",
+      "lang": "uk-UA",
+      "text": "Господар сказав йому Добре зроблено, добрий і вірний слуго. Ти був вірний в малому, я поставлю тебе над багатьма. Увійди в радість твого пана.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-010",
+      "lang": "uk-UA",
+      "text": "Бо навіть коли ми були з вами, ми заповідали вам це Якщо хто не хоче працювати, той нехай не їсть.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-010-031",
+      "lang": "uk-UA",
+      "text": "Отже, чи їсте, чи пєте, чи що робите, все робіть на славу Божу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-004",
+      "lang": "uk-UA",
+      "text": "Душа лінивого бажає, і нічого не має, а бажання старанного буде повністю задоволене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-011",
+      "lang": "uk-UA",
+      "text": "Отже, якщо ви не були вірні в неправедному мамоні, хто довірить вам справжні багатства?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-TIT-003-014",
+      "lang": "uk-UA",
+      "text": "Нехай наші люди також навчаться підтримувати добрі діла для задоволення необхідних потреб, щоб вони не були безплідними.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-001-003",
+      "lang": "uk-UA",
+      "text": "Він буде, як дерево, посаджене при потоках води, що приносить свій плід у свій час, і листя його не вяне. Усе, що він робить, буде успішним.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-014-028",
+      "lang": "uk-UA",
+      "text": "Бо який з вас, бажаючи побудувати вежу, не спочатку сяде і не підрахує витрати, щоб побачити, чи має він достатньо, щоб завершити її?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-006-006",
+      "lang": "uk-UA",
+      "text": "Але благочестя з задоволенням є великим прибутком.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-002-014",
+      "lang": "uk-UA",
+      "text": "Усе робіть без нарікань і суперечок,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-021-005B",
+      "lang": "uk-UA",
+      "text": "Плани старанного, безумовно, ведуть до прибутку а кожен, хто поспішно діє, безумовно, поспішає до бідності.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-032-020",
+      "lang": "uk-UA",
+      "text": "Благословенні ви, хто сієте біля всіх вод, хто відправляє ноги вола і осла.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-017",
+      "lang": "uk-UA",
+      "text": "Ісус відповів їм Віддайте кесарю те, що кесареве, а Богу те, що Боже. Вони дуже дивувалися йому.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-006-010",
+      "lang": "uk-UA",
+      "text": "Бо Бог не є неправедний, щоб забути вашу працю і працю любові, яку ви виявили до Його імені, в тому, що ви служили святим і досі служите їм.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-015-010",
+      "lang": "uk-UA",
+      "text": "Але благодаттю Божою я є те, що я є. Його благодать, яка була дана мені, не була марною, але я працював більше за всіх їх проте не я, а благодать Божа, яка була зі мною.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-005",
+      "lang": "uk-UA",
+      "text": "Поклади свій шлях на Ягве. Довіряй також Йому, і Він зробить це",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-013-012",
+      "lang": "uk-UA",
+      "text": "Бо хто має, тому буде дано, і він матиме достаток а хто не має, у того буде відібрано навіть те, що він має.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-019",
+      "lang": "uk-UA",
+      "text": "Той, хто обробляє свою землю, матиме багато їжі а той, хто переслідує фантазії, матиме свою частку бідності.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-058-010B",
+      "lang": "uk-UA",
+      "text": "і якщо ти вилиєш свою душу на голодного, і задовольниш стражденну душу, тоді твій світло зійде в темряві, і твоя невідомість буде, як полуденне.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-004-020",
+      "lang": "uk-UA",
+      "text": "Ті, що були посіяні на добрій землі, це ті, хто чує слово, приймає його і приносить плід, деякі в тридцять разів, деякі в шістдесят разів, а деякі в сто разів.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-011",
+      "lang": "uk-UA",
+      "text": "не відстаючи в старанності, палкі в дусі, служачи Господу,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-024",
+      "lang": "uk-UA",
+      "text": "Є один, хто розсіює, і збільшує ще більше. Є один, хто утримує більше, ніж належить, але здобуває бідність.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JER-029-005",
+      "lang": "uk-UA",
+      "text": "Будуйте будинки і живіть у них. Садіть сади і їжте їхній плід.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-003-014",
+      "lang": "uk-UA",
+      "text": "Солдати також запитували його, кажучи А що нам? Що нам робити? Він сказав їм Не вимагайте від нікого насильством, і не звинувачуйте нікого неправдиво. Будьте задоволені своєю платнею.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-004-010",
+      "lang": "uk-UA",
+      "text": "Як кожен отримав дар, використовуйте його для служіння один одному, як добрі управителі благодаті Божої в її різних формах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-004-002",
+      "lang": "uk-UA",
+      "text": "Тут, крім того, вимагається від управителів, щоб вони були вірні.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-003",
+      "lang": "uk-UA",
+      "text": "Багатство і достаток у його домі. Його праведність триває вічно.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-022B",
+      "lang": "uk-UA",
+      "text": "Де немає поради, плани зазнають невдачі а в багатьох радниках вони утверджуються.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-045-007B",
+      "lang": "uk-UA",
+      "text": "Я формую світло і створюю темряву. Я творю мир і створюю лихо. Я є Ягве, який робить усі ці речі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-023",
+      "lang": "uk-UA",
+      "text": "Господар сказав йому Добре зроблено, добрий і вірний слуго. Ти був вірний в малому, я поставлю тебе над багатьма. Увійди в радість твого пана.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-127-002",
+      "lang": "uk-UA",
+      "text": "Марно вам вставати рано, пізно лягати, їсти хліб важкої праці, бо Він дає сон своїм улюбленим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-013-011",
+      "lang": "uk-UA",
+      "text": "Багатство, здобуте неправедно, зменшується, а той, хто збирає рукою, примножує його.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-001-008",
+      "lang": "uk-UA",
+      "text": "Ідіть на гору, принесіть дерево і побудуйте дім. Я візьму в цьому задоволення і буду прославлений, — говорить Ягве.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-016-013",
+      "lang": "uk-UA",
+      "text": "Ніхто не може служити двом панам, бо або ненавидітиме одного і любитиме іншого або ж триматиметься одного і зневажатиме іншого. Ви не можете служити Богові і Мамоні.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-005B",
+      "lang": "uk-UA",
+      "text": "Будьте вільні від любові до грошей, задовольняйтеся тим, що маєте, бо він сказав Я ніколи не залишу тебе, і ніколи не покину тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-GAL-006-009B",
+      "lang": "uk-UA",
+      "text": "Не втомлюймося робити добро, бо в свій час пожнемо, якщо не здамося.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-009",
+      "lang": "uk-UA",
+      "text": "Той, хто лінивий у своїй праці, брат тому, хто є майстром руйнування.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-012-043",
+      "lang": "uk-UA",
+      "text": "Він покликав своїх учнів і сказав їм Істинно кажу вам, ця бідна вдова дала більше, ніж усі, хто кладе в скарбницю,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-013-007",
+      "lang": "uk-UA",
+      "text": "Отже, віддавайте кожному те, що йому належить якщо ви повинні податки, сплачуйте податки якщо мито, то мито якщо повагу, то повагу якщо честь, то честь.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-008-021",
+      "lang": "uk-UA",
+      "text": "Дбаючи про чесні речі, не лише в очах Господа, але й в очах людей.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-006",
+      "lang": "uk-UA",
+      "text": "Краще бідний, який ходить у своїй цілісності, ніж той, хто є викривленим у своїх шляхах, і він багатий.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-AMO-005-024",
+      "lang": "uk-UA",
+      "text": "Але нехай справедливість тече, як ріки, а праведність, як могутній потік.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-021",
+      "lang": "uk-UA",
+      "text": "бо де ваше скарб, там буде і ваше серце.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-007",
+      "lang": "uk-UA",
+      "text": "з добрим наміром виконуючи службу, як для Господа, а не для людей,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-001",
+      "lang": "uk-UA",
+      "text": "Господарі, давайте своїм слугам те, що є справедливим і рівним, знаючи, що ви також маєте Господа на небі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-016",
+      "lang": "uk-UA",
+      "text": "Краще те, що має праведник, ніж багатство багатьох безбожних.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-001",
+      "lang": "uk-UA",
+      "text": "Ложні ваги є огидою для Ягве, але точні ваги — його задоволення.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-011",
+      "lang": "uk-UA",
+      "text": "Чи буду я терпіти нечесні ваги і мішок обманливих ваг?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-019-013",
+      "lang": "uk-UA",
+      "text": "Він покликав десять своїх слуг і дав їм десять мін, і сказав їм Ведіть бізнес, поки я не прийду.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1PE-002-018",
+      "lang": "uk-UA",
+      "text": "Слуги, будьте підкорені своїм господарям з усією повагою, не лише добрим і лагідним, але й злим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-004-013",
+      "lang": "uk-UA",
+      "text": "Тепер прийдіть, ви, які кажете Сьогодні або завтра підемо в це місто і проведемо там рік, торгуючи і отримуючи прибуток.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-005",
+      "lang": "uk-UA",
+      "text": "Добре тому чоловікові, який щедро діє і позичає. Він буде підтримувати свою справу в суді.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-025-029",
+      "lang": "uk-UA",
+      "text": "Бо кожному, хто має, буде дано, і він матиме достаток, а від того, хто не має, навіть те, що він має, буде відібрано.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-016-014B",
+      "lang": "uk-UA",
+      "text": "Нехай все, що ви робите, буде зроблено в любові.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2TH-003-012",
+      "lang": "uk-UA",
+      "text": "Тих, хто так живе, ми наказуємо і закликаємо в Господі Ісусі Христі, щоб вони працювали з тихою працею і їли свій хліб.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-049-020",
+      "lang": "uk-UA",
+      "text": "Чоловік, який має багатство без розуму, подібний до тварин, які гинуть.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-023-004",
+      "lang": "uk-UA",
+      "text": "Не втомлюйся, щоб стати багатим. У своїй мудрості проявляй стриманість.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAG-002-019",
+      "lang": "uk-UA",
+      "text": "Чи ще насіння в коморі? Так, виноградна лоза, смоківниця, гранат і оливкове дерево не дали плоду. З сьогоднішнього дня я благословлю вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-005-018",
+      "lang": "uk-UA",
+      "text": "Бо Писання говорить Не забороняй волові, коли він тягне зерно. І Працівник гідний своєї плати.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-005-009",
+      "lang": "uk-UA",
+      "text": "Хто робить великі речі, які не можуть бути зрозумілі, чудесні речі без числа",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-014-023",
+      "lang": "uk-UA",
+      "text": "У всій важкій праці є прибуток, але розмови гублять лише бідність.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-010-045B",
+      "lang": "uk-UA",
+      "text": "Бо Син Людський прийшов не для того, щоб йому служили, а щоб служити і віддати своє життя як викуп за багатьох.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-017",
+      "lang": "uk-UA",
+      "text": "Не віддавайте нікому зло за зло. Поважайте те, що є чесним в очах усіх людей.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-003",
+      "lang": "uk-UA",
+      "text": "в якому сховані всі скарби мудрості і знання.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-009",
+      "lang": "uk-UA",
+      "text": "Він розсипав, він дав бідним. Його праведність триває вічно. Його ріг буде піднесений з честю.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-027",
+      "lang": "uk-UA",
+      "text": "Не утримуй добра від тих, кому воно належить, коли в твоїй силі зробити це.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-020-026",
+      "lang": "uk-UA",
+      "text": "Серед вас не повинно бути так але хто хоче стати великим серед вас, той буде вашим слугою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-022",
+      "lang": "uk-UA",
+      "text": "Утримуйтеся від кожного виду зла.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-008B",
+      "lang": "uk-UA",
+      "text": "І Бог може зробити так, щоб всяка благодать була в достатку для вас, щоб ви завжди мали все необхідне в усьому, могли б мати достаток для кожної доброї справи.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-104-023",
+      "lang": "uk-UA",
+      "text": "Людина виходить на свою роботу, на свою працю до вечора.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-015",
+      "lang": "uk-UA",
+      "text": "Ліньки кидає в глибокий сон. Лінива душа страждатиме від голоду.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-013-016",
+      "lang": "uk-UA",
+      "text": "Але не забувайте робити добро і ділитися, бо такими жертвами Бог задоволений.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JAS-002-018",
+      "lang": "uk-UA",
+      "text": "Так, чоловік скаже У тебе є віра, а в мене є діла. Покажи мені свою віру без діл, а я покажу тобі свою віру через мої діла.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-037-023B",
+      "lang": "uk-UA",
+      "text": "Кроки людини встановлені Ягве. Він радується його шляхом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-020-013",
+      "lang": "uk-UA",
+      "text": "Не люби сон, щоб не прийти до бідності. Відкрий свої очі, і ти будеш задоволений хлібом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-007-009B",
+      "lang": "uk-UA",
+      "text": "Так говорить Ягве Сил Виконуйте правдивий суд, і показуйте доброту і співчуття кожен до свого брата.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-009-004",
+      "lang": "uk-UA",
+      "text": "Я повинен виконувати діла того, хто послав мене, поки день. Ніч наближається, коли ніхто не може працювати.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-014-012",
+      "lang": "uk-UA",
+      "text": "Отже, кожен з нас дасть звіт про себе перед Богом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CO-007-024",
+      "lang": "uk-UA",
+      "text": "Брати, нехай кожен чоловік, в якому стані він був покликаний, залишиться в тому стані з Богом.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-128-002",
+      "lang": "uk-UA",
+      "text": "Бо ти будеш їсти працю своїх рук. Ти будеш щасливий, і буде добре з тобою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-027",
+      "lang": "uk-UA",
+      "text": "Той, хто дає бідним, не має нестачі але той, хто закриває свої очі, матиме багато проклять.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-006-008C",
+      "lang": "uk-UA",
+      "text": "Він показав тобі, о чоловіче, що є добрим. Що вимагає від тебе Ягве, як не діяти справедливо, любити милосердя і ходити смиренно з твоїм Богом?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-024",
+      "lang": "uk-UA",
+      "text": "Ніхто не може служити двом панам, бо або він ненавидітиме одного і любитиме іншого, або ж буде відданий одному і зневажатиме іншого. Ви не можете служити і Богові, і Мамоні.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-001-010",
+      "lang": "uk-UA",
+      "text": "щоб ви могли ходити гідно перед Господом, щоб догоджати йому в усіх відношеннях, приносячи плід у кожному доброму ділі і зростаючи в пізнанні Бога,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-115-012",
+      "lang": "uk-UA",
+      "text": "Господь памятає про нас. Він благословить нас. Він благословить дім Ізраїлів. Він благословить дім Аарона.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-027-023",
+      "lang": "uk-UA",
+      "text": "Добре пізнай стан своїх овець і звертай увагу на свої стада,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-003",
+      "lang": "uk-UA",
+      "text": "Бо видіння ще на призначений час, і воно спішить до кінця, і не обмане. Хоча воно затримується, чекай на нього, бо воно неодмінно прийде. Не затримається.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-005-004",
+      "lang": "uk-UA",
+      "text": "Коли Він закінчив говорити, сказав Симонові Вийди на глибину і закинь свої сіті для лову.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-019B",
+      "lang": "uk-UA",
+      "text": "Мій Бог забезпечить кожну вашу потребу згідно з Його багатствами в славі в Христі Ісусі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018B",
+      "lang": "uk-UA",
+      "text": "У всьому дякуйте, бо це воля Божа в Христі Ісусі щодо вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JOB-001-021B",
+      "lang": "uk-UA",
+      "text": "Він сказав Нагим вийшов я з утроби матері моєї, і нагим повернуся туди. Господь дав, і Господь забрав. Благословенне імя Господа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-030-008",
+      "lang": "uk-UA",
+      "text": "Віддалити від мене неправду і брехню. Не дай мені ані бідності, ані багатства. Насити мене їжею, що потрібна мені,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-008-016B",
+      "lang": "uk-UA",
+      "text": "Ось що ви повинні робити говоріть кожен чоловік правду зі своїм ближнім. Виконуйте суд правди і миру у ваших воротах,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-008-036",
+      "lang": "uk-UA",
+      "text": "Бо яка користь людині, якщо вона здобуде весь світ, а свою душу втратить?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HEB-004-011",
+      "lang": "uk-UA",
+      "text": "Тож давайте старанно прагнути увійти в той спокій, щоб ніхто не впав за тим самим прикладом непослуху.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-011",
+      "lang": "uk-UA",
+      "text": "ви, збагачені в усьому для всієї щедрості, що приносить подяку Богові через нас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-112-002",
+      "lang": "uk-UA",
+      "text": "Його нащадки будуть могутніми на землі. Покоління праведних буде благословенним.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-001",
+      "lang": "uk-UA",
+      "text": "Добре імя бажаніше великого багатства, а любляча прихильність краща за срібло і золото.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-021-006B",
+      "lang": "uk-UA",
+      "text": "Він сказав їм Закиньте сіті з правого боку човна, і ви знайдете щось. Вони закинули, і тепер не могли витягнути її через безліч риби.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-012-002B",
+      "lang": "uk-UA",
+      "text": "Не уподібнюйтеся цьому світу, але перетворюйтеся оновленням вашого розуму, щоб ви могли довести, що є добра, приємна і досконала воля Божа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-006",
+      "lang": "uk-UA",
+      "text": "О, прийдіть, давайте поклонімось і схилимось. Давайте встанемо на коліна перед Господом, нашим Творцем,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-009",
+      "lang": "uk-UA",
+      "text": "Моліться так Отче наш, що на небесах, нехай святиться імя Твоє.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-017",
+      "lang": "uk-UA",
+      "text": "Моліться безперервно.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-063-004",
+      "lang": "uk-UA",
+      "text": "Тож я буду благословляти Тебе, поки живу. Я підніму свої руки в імя Твоє.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-029",
+      "lang": "uk-UA",
+      "text": "Господь далеко від безбожних, але Він чує молитву праведних.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-002",
+      "lang": "uk-UA",
+      "text": "Він сказав їм Коли ви молитеся, кажіть Отче наш, що на небесах, нехай святиться імя Твоє. Нехай прийде Царство Твоє. Нехай буде воля Твоя на землі, як на небі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-004-002",
+      "lang": "uk-UA",
+      "text": "Продовжуйте стійко в молитві, пильнуючи в ній з подякою,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-034-001",
+      "lang": "uk-UA",
+      "text": "Від Давида коли він удавав божевільного перед Авімелехом, який прогнав його, і він пішов. Я буду благословляти Господа завжди. Його хвала завжди буде в моїх устах.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-009",
+      "lang": "uk-UA",
+      "text": "Той, хто відвертає своє вухо від слухання закону, навіть його молитва є огидою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MIC-007-007B",
+      "lang": "uk-UA",
+      "text": "Але я буду дивитися на Господа. Я буду чекати на Бога мого спасіння. Мій Бог почує мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-004-024",
+      "lang": "uk-UA",
+      "text": "Бог є дух, і ті, хто поклоняється Йому, повинні поклонятися в дусі і правді.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-001",
+      "lang": "uk-UA",
+      "text": "Тому я закликаю, перш за все, щоб молитви, прохання, заступництва і подяки були зроблені за всіх людей,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-002",
+      "lang": "uk-UA",
+      "text": "Нехай моя молитва буде поставлена перед Тобою, як кадило піднесення моїх рук, як вечірня жертва.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-010",
+      "lang": "uk-UA",
+      "text": "Нехай прийде Царство Твоє. Нехай буде воля Твоя на землі, як на небі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-006-018",
+      "lang": "uk-UA",
+      "text": "з усією молитвою і проханнями, молячись завжди в Дусі, і пильнуючи до цього кінця в усій наполегливості і проханнях за всіх святих.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-029-002",
+      "lang": "uk-UA",
+      "text": "Віддайте Господу славу, що належить Його імені. Поклоняйтеся Господу в святому одязі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-002",
+      "lang": "uk-UA",
+      "text": "Бо Він нахилив своє вухо до мене, тому я буду кликати до Нього, поки живу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-004",
+      "lang": "uk-UA",
+      "text": "В той день ви скажете Дякуйте Господу! Кличте імя Його! Оголосіть Його діла серед народів! Проголосіть, що імя Його піднесене!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-018-013",
+      "lang": "uk-UA",
+      "text": "Але митник, стоячи далеко, навіть не піднімав своїх очей до неба, але бив себе в груди, кажучи Боже, будь милостивий до мене, грішника!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-020",
+      "lang": "uk-UA",
+      "text": "Тепер нашому Богу і Отцеві нехай буде слава на віки віків! Амінь.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-003-018B",
+      "lang": "uk-UA",
+      "text": "але я буду радіти в Господі. Я буду радісним у Бозі мого спасіння!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-014-013",
+      "lang": "uk-UA",
+      "text": "Що б ви не попросили в моєму імені, я зроблю це, щоб Отець був прославлений у Сині.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-018",
+      "lang": "uk-UA",
+      "text": "У всьому дякуйте, бо це воля Божа в Христі Ісусі щодо вас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-095-002",
+      "lang": "uk-UA",
+      "text": "Давайте прийдемо перед Його обличчям з подякою. Давайте прославимо Його піснями!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-028-013B",
+      "lang": "uk-UA",
+      "text": "Той, хто приховує свої гріхи, не процвітає, але хто визнає і відмовляється від них, знаходить милість.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-002-008",
+      "lang": "uk-UA",
+      "text": "Я бажаю, щоб чоловіки в кожному місці молилися, підносячи святі руки без гніву і сумніву.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-015-008",
+      "lang": "uk-UA",
+      "text": "Жертва, принесена безбожними, є огидою для Господа, але молитва праведних є Його втіхою.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-026-008",
+      "lang": "uk-UA",
+      "text": "Так, у шляхах Твоїх судів, Господи, ми чекали на Тебе. Твоє імя і Твоя слава є бажанням нашої душі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-041B",
+      "lang": "uk-UA",
+      "text": "Пильнуйте і моліться, щоб ви не впали в спокусу. Дух, справді, готовий, але плоть слабка.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PHP-004-006B",
+      "lang": "uk-UA",
+      "text": "Ні в чому не турбуйтеся, але в усьому, молитвою і проханням з подякою, нехай ваші прохання будуть відомі Богу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-086-012",
+      "lang": "uk-UA",
+      "text": "Я буду хвалити Тебе, Господи, Боже мій, всім своїм серцем. Я буду прославляти імя Твоє навіки.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-017-006",
+      "lang": "uk-UA",
+      "text": "Я кликнув до Тебе, бо Ти відповіси мені, Боже. Нахили своє вухо до мене. Почуй мою промову.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-016-023",
+      "lang": "uk-UA",
+      "text": "В той день ви не будете питати мене жодних питань. Найсуворіше кажу вам, що все, що ви попросите в Отця в моєму імені, Він дасть вам.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-099-005",
+      "lang": "uk-UA",
+      "text": "Виславляйте Господа, нашого Бога. Поклоняйтеся біля Його підніжжя. Він Святий!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-018-021B",
+      "lang": "uk-UA",
+      "text": "Смерть і життя в руці язика, і хто любить його, той їстиме його плоди.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-006B",
+      "lang": "uk-UA",
+      "text": "У всіх шляхах твоїх пізнавай його, і він направить стежки твої.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-055-006B",
+      "lang": "uk-UA",
+      "text": "Шукайте Господа, поки можна знайти, кличте його, поки він близько.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-006-011",
+      "lang": "uk-UA",
+      "text": "Дай нам сьогодні хліб наш насущний.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-005-025",
+      "lang": "uk-UA",
+      "text": "Брати, моліться за нас.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-004-026B",
+      "lang": "uk-UA",
+      "text": "Розправляй стежку для ніг твоїх, і всі дороги твої нехай будуть утверджені.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-HAB-002-020",
+      "lang": "uk-UA",
+      "text": "А Господь у святому храмі своєму. Нехай вся земля мовчить перед ним!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-015-007",
+      "lang": "uk-UA",
+      "text": "Якщо ви перебуватимете в мені, і слова мої перебуватимуть у вас, то просіть, чого бажаєте, і буде вам.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-011-002B",
+      "lang": "uk-UA",
+      "text": "Коли гордість приходить, тоді приходить і сором, а з покорою приходить мудрість.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-011-024",
+      "lang": "uk-UA",
+      "text": "Тому кажу вам, усе, що ви молитеся і просите, вірте, що отримали, і буде вам.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-020",
+      "lang": "uk-UA",
+      "text": "Дякуючи завжди за все в імя Господа нашого Ісуса Христа Богу, навіть Отцеві",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-141-003",
+      "lang": "uk-UA",
+      "text": "Постав, Господи, охорону на уста мої, і двері на губи мої.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ISA-012-006",
+      "lang": "uk-UA",
+      "text": "Кричіть і радійте, ви, жителі Сіону, бо Святий Ізраїлів великий серед вас!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-011-013B",
+      "lang": "uk-UA",
+      "text": "Отже, якщо ви, будучи злими, знаєте, як давати добрі дари дітям вашим, то наскільки більше Отець ваш небесний дасть Святого Духа тим, хто просить його!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1JN-003-022",
+      "lang": "uk-UA",
+      "text": "Отже, що б ми не просили, отримуємо від нього, бо дотримуємося заповідей його і робимо те, що угодне перед ним.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-024-005",
+      "lang": "uk-UA",
+      "text": "Страшачись, вони впали на обличчя до землі. Чоловіки сказали їм Чому ви шукаєте живого серед мертвих?",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-011",
+      "lang": "uk-UA",
+      "text": "Ти обернув мою скорботу на радість для мене, ти зняв з мене мішковину і одягнув мене в радість,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-043",
+      "lang": "uk-UA",
+      "text": "Коли він це сказав, то закликав голосом великим Лазарю, вийди!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-009-015",
+      "lang": "uk-UA",
+      "text": "Тепер дяка Богу за його невимовний дар!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-034",
+      "lang": "uk-UA",
+      "text": "Скажіть Дякуйте Господу, бо він добрий, бо його милість триває вічно.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-015",
+      "lang": "uk-UA",
+      "text": "Один з них, коли побачив, що він зцілений, повернувся, прославляючи Бога голосом великим.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-003-017",
+      "lang": "uk-UA",
+      "text": "І все, що робите, словом чи ділом, робіть усе в імя Господа Ісуса, дякуючи Богу Отцеві через нього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-003-009",
+      "lang": "uk-UA",
+      "text": "Вшановуй Господа з майном твоїм, з перших плодів усіх прибутків твоїх",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-011-041",
+      "lang": "uk-UA",
+      "text": "Отже, вони зняли камінь з місця, де лежав мертвий. Ісус підняв очі свої і сказав Отче, дякую тобі, що ти вислухав мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TH-001-002",
+      "lang": "uk-UA",
+      "text": "Ми завжди дякуємо Богу за всіх вас, згадуючи вас у молитвах наших,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-022-004",
+      "lang": "uk-UA",
+      "text": "Плід покори і страху Господнього — це багатство, честь і життя.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-002-028",
+      "lang": "uk-UA",
+      "text": "Тоді він прийняв його на руки свої і благословив Бога, і сказав,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-029-013",
+      "lang": "uk-UA",
+      "text": "Отже, тепер, Боже наш, ми дякуємо тобі і славимо імя твоє славне.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-EPH-005-004",
+      "lang": "uk-UA",
+      "text": "ні брудності, ні безглуздого говоріння, ні жартів, що не підходять, а краще дякування.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-106-001",
+      "lang": "uk-UA",
+      "text": "Хваліть Господа! Дякуйте Господу, бо він добрий, бо його милість триває вічно.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-010-022",
+      "lang": "uk-UA",
+      "text": "Благословення Господа приносить багатство, і він не додає до нього печалі.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-015-036",
+      "lang": "uk-UA",
+      "text": "І він узяв сім хлібів і рибу. І, дякуючи, розламав їх і дав учням, а учні — натовпу.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-2CO-004-015",
+      "lang": "uk-UA",
+      "text": "Бо все для вас, щоб благодать, множачись через багатьох, призвела до надмірного дякування на славу Бога.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-022-019",
+      "lang": "uk-UA",
+      "text": "І він узяв хліб, і, дякуючи, розламав і дав їм, кажучи Це тіло моє, що за вас віддається. Робіть це на спомин про мене.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-COL-002-007",
+      "lang": "uk-UA",
+      "text": "укорінені і збудовані в ньому і утверджені у вірі, так, як ви були навчені, переповнені дякуванням.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-008",
+      "lang": "uk-UA",
+      "text": "О, дякуйте Господу! Кличте імя його. Зробіть відомим, що він зробив серед народів.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ZEC-009-017",
+      "lang": "uk-UA",
+      "text": "Бо яка велика його доброта, і яка велика його краса! Зерно буде розцвітати для молодих людей, і нове вино для дівчат.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-145-010",
+      "lang": "uk-UA",
+      "text": "Усі твої діла дякуватимуть тобі, Господи. Святі твої прославлятимуть тебе.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PRO-019-014B",
+      "lang": "uk-UA",
+      "text": "Дім і багатство — спадок від батьків, а розумна дружина — від Господа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MRK-014-023",
+      "lang": "uk-UA",
+      "text": "І він узяв чашу, і, дякуючи, дав їм. І всі пили з неї.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-041",
+      "lang": "uk-UA",
+      "text": "І з ними Хеман і Єдутун, і решта, хто був вибраний, хто був згаданий по імені, щоб дякувати Господу, бо його милість триває вічно",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-030-012",
+      "lang": "uk-UA",
+      "text": "щоб серце моє співало хвалу тобі і не мовчало. Господи, Боже мій, я дякуватиму тобі навіки!",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-LUK-017-016",
+      "lang": "uk-UA",
+      "text": "Він впав на обличчя до ніг Ісуса, дякуючи йому і він був самарянином.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1TI-004-004",
+      "lang": "uk-UA",
+      "text": "Бо всяка істота Божа добра, і нічого не слід відкидати, якщо це приймається з дякуванням.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-007-017",
+      "lang": "uk-UA",
+      "text": "Я дякуватиму Господу за його праведність, і співатиму хвалу імені Господа Всевишнього.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-MAT-026-027",
+      "lang": "uk-UA",
+      "text": "І він узяв чашу, дякуючи, дав їм, кажучи Усі пийте з неї,",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-ROM-006-017",
+      "lang": "uk-UA",
+      "text": "Але дяка Богу, що, хоча ви були рабами гріха, ви стали слухняними від серця до того вчення, якому ви були передані.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-1CH-016-035",
+      "lang": "uk-UA",
+      "text": "Скажіть Спаси нас, Боже нашого спасіння! Зберіть нас разом і визволіть нас з народів, щоб дякувати імені твоєму святому, щоб тріумфувати в хваленні твоєму.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-PSA-116-017",
+      "lang": "uk-UA",
+      "text": "Я принесу тобі жертву дякування і буду кликати імя Господа.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    },
+    {
+      "id": "BIB-RCUV-JHN-006-023",
+      "lang": "uk-UA",
+      "text": "Але човни з Тиверіади підійшли до місця, де вони їли хліб після того, як Господь подякував.",
+      "type": "bible",
+      "grade_min": "7",
+      "grade_max": "12",
+      "tags": "audienceadultcategorybibleversionRCUV"
+    }
+  ],
+  "page": 2,
+  "next": 3
+}

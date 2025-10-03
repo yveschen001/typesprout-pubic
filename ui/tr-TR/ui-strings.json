@@ -1,0 +1,455 @@
+{
+  "language": "tr-TR",
+  "translations": {
+    "aboutBody": "TypeSprout, 1-6. sınıflar için bir yazma pratiği ve gelişim web sitesidir. zh‑TW / zh‑CN / en‑US desteği ile, dünya genelindeki çocukların girdi, anlama ve ifade pratiği yapabilecekleri güvenli ve dostane bir ortam sunmayı hedeflemektedir.",
+    "home": {
+      "aboutContent": "Herkese merhaba, ben Yves.C, Tayvan'dan bir baba. TypeSprout'un ilhamı, çocuklarımın dünyadaki arkadaşlarıyla Roblox'ta sohbet etmelerini izlemekten geldi—yazmanın aslında çocukların daha büyük bir dünyaya açılmaları için ilk anahtar olduğunu fark ettim. Bu yüzden, kodlama gerektirmeyen kavramlar + ChatGPT/AI kullanarak bu web yazma pratiğini oluşturdum ve her doğru tuş vuruşuyla biraz büyüyen küçük bir ağaç görsel geri bildirimi ekledim; günlük çabaları görünür başarılarla dönüştürüyor. İçerik açısından, 1-6. sınıflardan sık kullanılan kelimeleri seçilebilir soru bankalarına organize ettim; çocuklar ana dillerinde pratik yapabilir ve Ayarlar'dan pratik yapmak istedikleri İngilizce veya diğer dillere geçiş yapabilirler. Bu kelimeler, sınıf zorluğuna göre AI tarafından filtrelenmiştir.Yetişkinler için, şu anda İncil API'si ve AI tarafından üretilen İncil ayetlerini (ücretsiz çevrimiçi kaynaklardan, doğruluk sınırlı olabilir) içeren genişletilmiş bir soru bankası hazırladım ve pratik yapmayı daha ilginç hale getirmek için ünlü alıntılar gibi konuları kademeli olarak ekleyeceğim. TypeSprout'ta çocuklar, puanları ve günlük çabalarını kademeli olarak biriktirecekler; ekrandaki küçük ağaç da performanslarıyla gelişecek ve çaba → geri bildirim → yeniden katılım olumlu döngüsünü oluşturacak. Ayrıca, 5 günlük aktif bir meydan okuma tasarladım: ardışık 5 gün pratik yapmak küçük bir meyve ödülü kazanacak. Başarılar görünür hale geldiğinde, motivasyon artacak. Bu, çocuklarla ve sizinle paylaşmak istediğim öğrenme ritmi. Öğretmenler için, kişisel sayfada bir Sınıf işlevi ekledim; öğretmenlerin sınıflar oluşturmasına ve sınıf arkadaşlarını davet etmesine olanak tanıyarak pratiği daha rekabetçi hale getiriyor.Bu, kişisel olarak benim tarafımdan sürdürülen küçük bir projedir (mühendislik geçmişim yok, esasen ChatGPT/AI'ye rehberlik ve işbirliği için güveniyorum). Kullanım sırasında önerileriniz veya sorunlarla karşılaşırsanız, lütfen GitHub sorunlar bölümünde bir mesaj bırakmaktan çekinmeyin, elimden gelenin en iyisini yaparak bunları organize edip çözmeye çalışacağım. Şimdiden hepinize teşekkür ederim. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "TypeSprout Hakkında",
+      "ctaTest": "Testi Al",
+      "googleUsersCount": "Google Girişi Yapan Kullanıcılar",
+      "googleUsersTooltip": "Google hesaplarıyla giriş yapan toplam kullanıcı sayısı",
+      "heroSubtitle": "Her tuş vuruşu, ağacınızı sulamak için enerjiye dönüşür. Çok dilli destek, doğru yazma alışkanlıkları geliştirmeye ve odaklanmaya yardımcı olur.",
+      "heroTitle": "Çocuklar yazar, filiz büyür.",
+      "tabs": {
+        "leader": "Sıralama Tablosu (önizleme)",
+        "visitors": "Ziyaretçiler"
+      },
+      "leaderEmpty": "Henüz veri yok",
+      "leaderViewFull": "Tam sıralamayı görüntüle",
+      "players": "Oyuncular",
+      "privacyNote": "Kişisel verileri toplamıyoruz; istatistikler yalnızca sıralama ve öğrenme geri bildirimi için anonimleştirilmiştir.",
+      "visitorsDesc": "Site ziyaretçileri ve oyuncularının ülke dağılımı (anonim)."
+    },
+    "absoluteScale": "Yeşil ≤{{low}}% · Sarı ≤{{mid}}% · Kırmızı >{{mid}}% (% bu tuş için son toplam hata oranıdır)",
+    "accuracy": "Doğruluk {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Doğruluk trend grafi: daha yüksek çizgi daha fazla doğruluk anlamına gelir",
+      "accuracyChartTitle": "Doğruluk",
+      "accuracyChartTooltip": "Y ekseni: Doğruluk (daha yüksek, daha doğru); X ekseni: zaman sırası. Mavi çizgi, her test için doğruluk değişimlerini gösterir.",
+      "defaultDescription": "Üst: Hız puanı trendi; Alt: Doğruluk trendi. Önce doğruluğu artırın, ardından yavaş yavaş hızı artırın.",
+      "speedChartAriaLabel": "Hız puanı trend grafi: daha yüksek bir çizgi, daha iyi performans anlamına gelir",
+      "speedChartTitle": "Hız Skoru (Doğru Hız)",
+      "speedChartTooltip": "Y ekseni: Hız puanı (daha yüksek daha iyidir); X ekseni: zaman sırası. Yeşil çizgi yalnızca doğru karakterlerin hızını gösterir, hız ve doğruluğu birleştirir.",
+      "recordNumber": "Kayıt {{number}}",
+      "speedScore": "Hız puanı {{score}}",
+      "totalQuestionChars": "Toplam soru karakteri: {{chars}}",
+      "actualInput": "Gerçek giriş: {{chars}} karakter",
+      "timeSpent": "Harcanan süre: {{seconds}} sn",
+      "accuracy": "Doğruluk {{percent}}%",
+      "correctChars": "Doğru karakterler: {{chars}}",
+      "percentile": "Yaklaşık {{percent}}% kişiden daha iyi",
+      "highestHere": "Buradaki en yüksek {{value}}",
+      "recentValue": "Son {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Doğruluk = doğru karakterler ÷ toplam soru karakterleri. Not: yazılmamış karakterler toplamda da sayılır, bu nedenle eksik karakterler doğruluğu düşürecektir.",
+      "hideInsights": "İçgörüleri gizle",
+      "scoreTooltip": "Bileşik puan = yalnızca doğru karakterlerin giriş hızı. Hesaplama: hız (WPM/CPM) × doğruluk. Amaç: önce doğruluğu stabilize etmek, ardından hızı kademeli olarak artırmak.",
+      "showInsights": "İçgörüleri göster",
+      "summary": "Bu oturum özeti",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Aktif günler: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} karakterler",
+    "adjWpm": "Bileşik puan (doğru hız) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Reklam Çerezleri: Yukarıda belirtildiği gibi, Google AdSense'i etkinleştirirsek, Google reklamları görüntülemek için çerezler kullanacaktır. Kişiselleştirilmiş reklamlardan çıkmak veya yönetmek için istediğiniz zaman Google'ın reklam ayarları sayfasını (https://adssettings.google.com/) ziyaret edebilirsiniz.",
+        "functionalCookies": "Fonksiyonel Çerezler: Giriş durumunuzu korumak için çerezler kullanıyoruz."
+      },
+      "section5": {
+        "contactChannel": "İletişim Kanalı: Bu gizlilik politikası hakkında herhangi bir sorunuz varsa veya veri haklarınızı kullanmak istiyorsanız (örneğin sorgulama, düzeltme, silme), lütfen taleplerinizi resmi GitHub Sorunları sayfamız aracılığıyla iletin.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Önemli Hatırlatma: Lütfen GitHub Issues'un kamuya açık bir platform olduğunu unutmayın. Kişisel gizliliğinizi korumak için, lütfen Issue içeriğinde e-posta adresiniz, gerçek adınız veya hesap ekran görüntüleri gibi kişisel tanımlayıcı bilgileri bırakmayın. Sadece TypeSprout üzerindeki Kullanıcı Adınızı ve sorunun tanımını sağlamanızı istiyoruz. Size yalnızca Issues dışında başka özel kanallardan ulaşmayacağız.",
+        "responseTime": "Bu kişisel olarak yürütülen bir proje olduğu için, elimizden geldiğince hızlı bir şekilde yanıt vereceğiz. Sabır ve anlayışınız için teşekkür ederiz."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Yaş aralığınızı, mesleki alanınızı, dilinizi veya bölgenizi isteğe bağlı olarak verebilirsiniz. Bu bilgi zorunlu değildir ve esasen soru bankası önerilerini optimize etmek, anonim istatistiksel analizler yapmak ve liderlik sıralaması gruplandırması için kullanılacaktır. Bu bilgilerin doğruluğunu talep etmiyor veya doğrulamıyoruz."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Reklamcılık): Gelecekte web sitesi işletim maliyetlerini desteklemek için reklamlara yer vermek amacıyla Google AdSense kullanabiliriz. Google ve ortakları, geçmiş ziyaret geçmişinize dayalı kişiselleştirilmiş reklamlar göstermek için Çerezler (örneğin DoubleClick Çerezi) kullanabilir.",
+          "googleAnalytics": "Google Analytics: Bu hizmeti, web sitesi trafiğini analiz etmek ve hizmet kullanımını anlamak için kullanıyoruz. IP adresiniz, tarayıcı türü, işletim sistemi, ziyaret edilen sayfalar gibi anonimleştirilmiş bilgileri toplar."
+        },
+        "principle": "Minimalizm ilkesine bağlı kalıyoruz, yalnızca hizmetin devamı için gerekli verileri topluyoruz:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Temel Fonksiyon: Anonim kullanıcı ID'niz ve oyun verileriniz, bu hizmetin temel işlevselliğinin bir parçasıdır; puanlarınızı kaydetmek, tarihsel grafikler sağlamak ve küresel liderlik tabloları sunmak için kullanılır.",
+        "experienceOptimization": "Deneyim Optimizasyonu: Yaş, meslek ve gönüllü olarak sağladığınız diğer bilgiler, sizi daha uygun yazma pratik soru bankalarıyla eşleştirmek için kullanılacaktır.",
+        "serviceMaintenance": "Hizmet Bakımı: Google Analytics aracılığıyla toplanan teknik veriler, web sitesinin operasyonel durumunu anlamamıza ve potansiyel sorunları çözmemize yardımcı olur.",
+        "statisticalAnalysis": "İstatistiksel Analiz: Kullanıcıların gönüllü olarak sağladığı tüm bilgileri anonimleştirip birleştirerek kullanıcı grubunun genel profilini anlamak ve hizmeti geliştirmek için kullanacağız."
+      },
+      "section3": {
+        "crossBorderTransfer": "Sınır Ötesi Transfer: GitHub ve Google Firebase sunucuları ülkenizin dışında (örneğin, Amerika Birleşik Devletleri) bulunabilir. Bu hizmeti kullanarak, verilerinizin bu yurt dışı sunucularda iletileceğini, saklanacağını ve işleneceğini anladığınızı ve kabul ettiğinizi onaylıyorsunuz.",
+        "dataRetention": "Veri Saklama: Bu hizmet tamamen ücretsiz olduğu için, kalıcı veri saklama garantisi veremiyoruz. Kullanıcı verilerinin bir kısmını veya tamamını önceden bildirmeden silme hakkını saklı tutuyoruz.",
+        "storageLocation": "Depolama Yeri: Bu web sitesinin kodu GitHub'da barındırılmaktadır, oyun verileriniz ve gönüllü olarak sağladığınız bilgiler Google Firebase veritabanında saklanmaktadır."
+      },
+      "effectiveDate": "Geçerlilik Tarihi: 21 Eylül 2025",
+      "introduction": "TypeSprout'a hoş geldiniz! Bu, bir bireysel geliştirici tarafından ilgi amacıyla oluşturulmuş ücretsiz bir yazım pratiği web sitesidir. Gizliliğinizin önemli olduğunu anlıyoruz, bu nedenle bu politika topladığımız verileri ve bu verileri nasıl kullanacağımızı açıklamayı amaçlamaktadır.",
+      "notice": "Lütfen dikkat edin: Bu hizmet kar amacı gütmeyen bir niteliğe sahiptir ve tüm özellikler olduğu gibi sunulmaktadır. Bu gizlilik politikasının herhangi bir şartını kabul etmiyorsanız, lütfen bu hizmeti derhal kullanmayı bırakın. Hizmetin devamı, bu politikanın tüm içeriklerini okuduğunuzu, anladığınızı ve kabul ettiğinizi gösterir.",
+      "titleSuffix": "Gizlilik Politikası"
+    },
+    "leaderboard": {
+      "allGrades": "Tüm notlar",
+      "lastMonth": "Geçen ayın sıralaması",
+      "lastWeek": "Geçen haftanın sıralaması",
+      "loading": "Yükleniyor...",
+      "loadingHint": "Eğer yüklemeye devam edemiyorsa, lütfen ağ bağlantınızı kontrol edin veya daha sonra tekrar deneyin.",
+      "noData": "No data",
+      "reload": "Yenile",
+      "signInHint": "İpucu: Test puanlarınızı otomatik olarak kaydetmek için oturum açın; bunları yalnızca sıralama ve öğrenme geri bildirimi için kullanıyoruz, kişisel hassas veriler toplanmamaktadır.",
+      "sortHint": "İpucu: Sıralamayı değiştirmek için Alt+↑/↓ tuşlarına basın",
+      "today": "Bugünkü sıralama",
+      "tooltip": "🏆 Liderlik tablosu nasıl hesaplanır?&#10;• Bugün: bugünün puanları (yerel saat)&#10;• Dün: dünün puanları (yerel saat)&#10;• Geçen hafta: geçen haftanın Pazartesi'sinden Pazar'ına&#10;• Geçen ay: geçen ayın 1'inden son gününe kadar&#10;&#10;📊 Puanlar nasıl hesaplanır?&#10;• Bileşik puan = maksimum hız × doğruluk × pratik süresi&#10;• Aynı günde birden fazla pratik birleştirilir&#10;• Daha uzun pratik süresi = daha yüksek puan&#10;&#10;💡 İpucu: Her gün biraz pratik yapın ve ağacınız büyüyecek!",
+      "yesterday": "Dünkü sıralama"
+    },
+    "test": {
+      "allowBackspace": "Backspace Tuşuna İzin Ver",
+      "capsLock": "Büyük Harf Kilidi",
+      "difficulty": "Zorluk",
+      "difficultyEasy": "Kolay",
+      "difficultyHard": "Zor",
+      "difficultyMedium": "Orta",
+      "finished": "Tamamlandı",
+      "inputPrompt": "Lütfen aşağıdaki metni yazın",
+      "insightsSummary": "İçgörüler (klavye ısı haritası, hız ve doğruluk eğilimleri)",
+      "loadingQuestions": "Soru yükleniyor...",
+      "mistakes": "Hatalar",
+      "outOfFocus": "Lütfen yazmaya devam etmek için giriş kutusuna tıklayın",
+      "promptStart": "Başlat'a basın, ardından yukarıdaki metni yazın. Yapıştırma devre dışı.",
+      "questionCount": "Soru Sayısı",
+      "questionPreview": "Soru (ilk 24 karakter)",
+      "questionStats": "Bu oturumun soru istatistikleri (geçen süre / limit, hata sayısı)",
+      "questionText": "Soru metni (seçilemez veya kopyalanamaz)",
+      "shortcutsDescription": "Alan: Başlat/Durdur • R: Sıfırla • F: Girişe odaklan",
+      "signInToSave": "İlerlemenizi kaydetmek için oturum açın",
+      "submitAndReview": "Sonuçları gönder ve görüntüle",
+      "submitQuestion": "Bu soruyu gönder (Enter)",
+      "timeLimit": "Zaman sınırı",
+      "timeSpent": "Geçen Süre: {{seconds}} sn",
+      "title": "Test",
+      "tryAgain": "Tekrar dene",
+      "shortcuts": "Göndermek için Enter'a basın"
+    },
+    "profile": {
+      "alreadyJoined": "Bu derse zaten katıldınız.",
+      "analysis": "Derinlemesine Analiz",
+      "birthday": "Doğum Günü (YYYY-AA)",
+      "classCodePlaceholder": "Sınıf Kodu",
+      "classCodeTooltip": "Site genelinde benzersiz (3–50 karakter; / içeremez). Yarışmalar ve liderlik tabloları gruplaması için kullanılır; en fazla 5 ile birleştirilebilir. Öğretmenler yeni kodlar oluşturabilir; oluşturulduktan sonra otomatik olarak katılacaktır (eğer dolu değilse).",
+      "classCreatedAndJoined": "Sınıf başarıyla oluşturuldu ve katıldı",
+      "classNotFound": "Sınıf kodu bulunamadı",
+      "codeAlreadyTaken": "Sınıf kodu zaten alınmış",
+      "confirmDelete": "Bu sınıf kodunu silmek istediğinize emin misiniz?",
+      "copy": "Kopyala",
+      "copyFailed": "Kopyalama başarısız oldu, lütfen manuel olarak seçip kopyalayın.",
+      "copySuccess": "Sınıf kodu panoya kopyalandı.",
+      "country": "Ülke/Bölge",
+      "create": "Oluştur",
+      "delete": "Sil",
+      "female": "Kadın",
+      "fruits": "Meyveler",
+      "fruitsTooltip": "Ağacınızdan toplanan meyveler. Günlük puan hedeflerine ulaşarak kazanıldı.",
+      "gender": "Cinsiyet",
+      "googleAccount": "Google Hesabı",
+      "history": "Tarih",
+      "invalidCodeFormat": "Lütfen / olmadan 3-50 karakter girin.",
+      "join": "Katıl",
+      "joinError": "Derse katılamadı",
+      "joinSuccess": "Derse başarıyla katıldınız",
+      "joinedClasses": "Katıldığım Sınıflar",
+      "language": "Dil",
+      "male": "Erkek",
+      "maxClassesReached": "Maksimum sınıf sayısına ulaşıldı",
+      "maxJoinedClasses": "Katılınan sınıf sayısı maksimuma ulaştı",
+      "myClasses": "Sınıflarım",
+      "nickname": "Takma ad",
+      "noClasses": "Ders yok",
+      "noUser": "Kullanıcı bulunamadı",
+      "onlyTeacherCanCreate": "Sadece öğretmenler sınıf kodu oluşturabilir.",
+      "other": "Diğer",
+      "points": "Puanlar",
+      "pointsDetail": "Toplam puanlar yukarıda; detaylar için lütfen gidin",
+      "pointsTooltip": "Günlük pratikten kazanılan puanlar. Ağacınızı büyütmek ve ödülleri açmak için kullanılır.",
+      "remove": "Kaldır",
+      "role": "Rol",
+      "roleCheckError": "Kullanıcı rolü kontrol edilemedi",
+      "save": "Kaydet",
+      "student": "Öğrenci",
+      "teacher": "Öğretmen",
+      "view": "görünüm",
+      "xp": "Deneyim (XP)",
+      "xpTooltip": "Yazma pratiği ile kazanılan deneyim puanları. Daha yüksek doğruluk ve hız = daha fazla XP!",
+      "youOwnThis": "Buna sahipsin",
+      "title": "Profil",
+      "auto": "Otomatik",
+      "classCode": "Sınıf kodu",
+      "error": "Hata",
+      "alreadyTaken": "Zaten alınmış",
+      "available": "Uygun",
+      "logout": "Çıkış yap",
+      "chartDescription": "Kişisel eğilimler: üstte bileşik skor, altta doğruluk.",
+      "parent": "Veli"
+    },
+    "tips": {
+      "avgAdj": "Avg Kompozit (30g)",
+      "meVsSite": "Ben vs Site (30g)",
+      "totalChars": "Toplam karakter: {{chars}} karakter"
+    },
+    "admin": {
+      "bulkTranslationTool": "Toplu Yerelleştirme Aracı",
+      "execute": "Çalıştır",
+      "sourceLanguage": "Kaynak Dil",
+      "targetLanguage": "Hedef Dil",
+      "usageDescription": "Kaynak ve hedef dil kodlarını girin, çok satırlı metni yapıştırın ve çalıştır'a basın, sonuçlar yalnızca manuel inceleme içindir. Bu özellikyi etkinleştirmek için yönetici jetonuna ihtiyaç vardır.",
+      "usageInstructions": "Kullanım Talimatları"
+    },
+    "garden": {
+      "charsUnit": "karakterler",
+      "growthChartSubtitle": "Farklı sahne görünümleri ve kilit açma koşulları (illüstrasyon).",
+      "growthChartTitle": "Büyüme diyagramı",
+      "historyRule1": "Puanlar hız × doğruluk × zaman ile hesaplanır ve ağaç büyümesini teşvik etmek için kullanılır.",
+      "historyRule2": "Aşağıdaki liste, her kazanç kaydını gösterir ve çabalarınızı takip etmenizi kolaylaştırır.",
+      "historyTitle": "Tarih nedir?",
+      "howToLevelUp": "Seviyenizi nasıl yükseltebilirsiniz?",
+      "levelUpRule1": "Günlük pratik yaparak aktivite biriktirin; ne kadar uzun yazarsanız, o kadar hızlı gelişirsiniz.",
+      "levelUpRule2": "Maksimum seviye 5; eğer her gün seviye 5'i koruyabilirsen, sürekli meyve üreteceksin.",
+      "levelUpRule3": "Toplanan meyveler, sıralamaya göre platform ödülleri sağlayacaktır; şu anda test süresini puan biriktirme olarak kullanabilirsiniz.",
+      "maxStage": "Maksimum seviye 5",
+      "myTree": "Ağacım",
+      "noLogs": "Şu anda kayıt yok",
+      "pointsExplanation": "Puanlar nasıl çalışır? Günlük testlerden üretilir, etkili giriş süresi, hız ve doğruluk ile ilgilidir. Günlük limit 100; kısa pratik (≥5 saniye ve doğruluk ≥30%) en az +1.",
+      "recalculateActivity": "Etkinliği ve aşamayı yeniden hesapla",
+      "recalculateActivityTooltip": "Recalculate etkinliği ve aşaması nedir? Son 5 gününüzdeki test kayıtlarınızı yeniden okuyacak, etkili giriş dakikalarını hesaplayacak ve etkinlik listesini ve mevcut aşamayı güncelleyecektir.",
+      "recentActivity": "Son 5 gün etkinliği",
+      "recentLogs": "Son kayıtlar",
+      "stage1Desc": "İlk filiz ortaya çıkıyor",
+      "stage2Desc": "İkinci yaprak büyüyor",
+      "stage3Desc": "Yaprak çarpımı",
+      "stage4Desc": "Çiçekler açar",
+      "stage5Desc": "Küçük ağaç taçları (meyveler)",
+      "todaySummary": "Bugünün özeti"
+    },
+    "ui": {
+      "closeHint": "İpucu kapat",
+      "gotIt": "Anladım",
+      "later": "Sonra",
+      "start": "Başla",
+      "string089": "Lütfen önce oturum açın.",
+      "string090": "Kişisel Bilgiler",
+      "string092": "Gizlilik Politikası",
+      "string154": "Hizmet Şartları"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Hizmet Şartları ile ilgili herhangi bir sorunuz varsa, lütfen bunları resmi GitHub Sorunları sayfamız üzerinden iletin: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Lütfen unutmayın, bu bir kamu platformudur, bu yüzden kişisel gizlilik bilgilerinizi burada bırakmayın."
+      },
+      "section5": {
+        "content2": "Kullanım kayıtlarınız veya kullanıcı verilerinizdeki herhangi bir kayıp veya hasardan sorumlu değiliz, ayrıca kalıcı veri korunmasını da garanti etmiyoruz.",
+        "content3": "Bu hizmeti herhangi bir nedenle, önceden bildirimde bulunmaksızın, istediğimiz zaman değiştirme, askıya alma veya kalıcı olarak sonlandırma hakkını saklı tutarız.",
+        "subtitle1": "Sağlanan Olduğu Gibi:",
+        "subtitle2": "Veri Koruma:",
+        "subtitle3": "Hizmet Fesih Hakları:",
+        "content1": "Bu hizmet \"olduğu gibi\" sunulmaktadır ve herhangi bir garanti verilmemektedir.",
+        "title": "5. Feragatname ve Hizmet Kısıtlamaları"
+      },
+      "footer": "© 2025 TypeSprout. Tüm hakları saklıdır.",
+      "lastUpdated": "Son güncelleme: 21 Eylül 2025",
+      "section2": {
+        "listItem1": "AI Üretimi İçerik: Bazı pratik makaleler, yalnızca yazma pratiği için AI modelleri (örneğin ChatGPT) tarafından analiz edilir, toplanır veya üretilir.",
+        "listItem2": "Kutsal Kitap Metinleri: Bazı Kutsal Kitap soru bankaları üçüncü taraf API.Kutsal Kitap hizmetlerinden gelmektedir. O hizmet erişilemez olduğunda, alternatif metinler AI modelleri tarafından oluşturulabilir.",
+        "content1": "Bu hizmetin tek amacı yazma becerilerini pratik yapmaktır. Bu, akademik araştırma veya dini eğitim aracı değildir. Tüm web sitesi içeriği yalnızca bu tek amaca hizmet etmektedir.",
+        "content2": "Zengin pratik metinleri sağlamak için, bu hizmetin soru havuzu içeriği çeşitli kaynaklardan gelmektedir. Burada özellikle belirtmek isteriz ki:",
+        "content3": "Doğruluk, tamlık ve inanç verisi olarak uygunluk garantisi verilmemektedir. Lütfen bunları yalnızca pratik metinler olarak anlayın.",
+        "subtitle1": "Hizmet Amacı",
+        "subtitle2": "İçerik Kaynağı ve Feragat",
+        "title": "2. Hizmetin Tanımı ve İçerik Kaynağı"
+      },
+      "section1": {
+        "content1": "TypeSprout'a (bundan sonra \"Hizmet\" olarak anılacaktır) hoş geldiniz. Bu hizmet, bireysel geliştiriciler tarafından sürdürülen ücretsiz, kar amacı gütmeyen bir projedir ve kullanıcılara (özellikle çocuklar ve öğreniciler) basit bir çevrimiçi yazma pratiği ortamı sunmayı amaçlamaktadır.",
+        "content2": "Bu hizmete eriştiğiniz veya kullandığınızda, bu \"Hizmet Şartları\"nı (bundan sonra \"Şartlar\" olarak anılacaktır) okuduğunuzu, anladığınızı ve tüm içeriğin bağlayıcılığını kabul ettiğinizi belirtmiş olursunuz. Eğer bu şartların herhangi bir kısmına katılmıyorsanız, lütfen hemen bu hizmeti kullanmayı bırakın.",
+        "title": "1. Genel Hükümler ve Kabul Şartları"
+      },
+      "section3": {
+        "content1": "Bu hizmet yalnızca kişisel ve eğitim amaçlı kullanım için olup, devredilemez, geri alınabilir bir şekilde lisanslanmıştır.",
+        "content2": "Bu hizmetin doğrudan veya dolaylı olarak ticari amaçlarla kullanılması yasaktır.",
+        "subtitle1": "Kişisel, ticari olmayan kullanım",
+        "subtitle2": "Ticari amaçlarla kullanım yasaktır",
+        "title": "3. Kullanım İzni ve Kısıtlamalar"
+      },
+      "section4": {
+        "content1": "Kullanıcı, giriş bilgilerini düzgün bir şekilde yönetmekten sorumludur.",
+        "content2": "Bu hizmetin normal işleyişini engelleyen veya hileli davranışlarda bulunan eylemler yasaktır.",
+        "subtitle1": "Hesap Güvenliği",
+        "subtitle2": "Kötüye Kullanım ve Hileli Davranışlar Yasaktır",
+        "title": "4. Kullanıcının Sorumluluğu"
+      },
+      "section6": {
+        "content": "Lütfen gizlilik politikalarını kontrol edin.",
+        "title": "6. Gizlilik Politikası"
+      },
+      "titleSuffix": "Hizmet Şartları"
+    },
+    "correctChars": "Doğru Karakterler: {{chars}} karakterler",
+    "createError": "Create failed: {{error}}",
+    "ctaPractice": "Pratik Başlat",
+    "layout": {
+      "dailyReminder": "Hatırlatma: Her gün biraz alıştırma yap; fidan büyüsün, yazma hızın gelişsin!",
+      "epExplanation": "Puan nasıl kazanılır? Her test, zaman × hız × doğruluk (temel × dakika × (hız/hedef, max ×2) × (0.5+0.5×doğruluk)) ile hesaplanır. Günlük limit 100; teşvik kuralları: doğruluk ≥%30 olduğunda, her 10 saniyede en az +1 puan (toplam); ≥30 saniye ve doğruluk ≥%50 olduğunda en az +1.",
+      "loginSuggestion": "Google ile giriş yapmanızı öneririz, böylece puanlarınızı ve geçmişinizi kaydedebilirsiniz; bu site anonimlik ve gizliliğe değer verir ve kişisel hassas verileri saklamaz.",
+      "remaining": "kalan",
+      "todayProgress": "Bugün:"
+    },
+    "practice": {
+      "description": "Bu alan yalnızca işlemler ve içerik yönetimi içindir."
+    },
+    "error": {
+      "errorOccurred": "Bir hata oluştu",
+      "goBack": "Geri dön",
+      "goHome": "Ana Sayfaya Dön",
+      "loadingError": "Bir hata oluştu, lütfen daha sonra tekrar deneyin."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} hata oranı {{percent}}%",
+      "relativeScale": "Göreceli ölçek: Yeşil ≤%30 · Sarı ≤%70 · Kırmızı >%70 (en yüksek hata anahtarına göre; son birikimli hata oranına dayalı)"
+    },
+    "estimatedMinutes": "Tahmini {{minutes}} dakika",
+    "nav": {
+      "garden": "Bahçe",
+      "home": "Ana Sayfa",
+      "leaderboard": "Sıralama Tablosu",
+      "practice": "Pratik Yap",
+      "profile": "Profil",
+      "subtitle": "Size uygun pratik içeriğini seçin",
+      "test": "Test",
+      "result": "Sonuç"
+    },
+    "meta": {
+      "gardenDescription": "Ağaçınızı yazma puanları ve ödüllerle büyütün.",
+      "homeDescription": "Oyunlaştırılmış ağaç büyümesi ile çocuklar için yazma pratiği.",
+      "leaderboardDescription": "Dil bazında günlük/haftalık/aylık liderlik tabloları.",
+      "practiceDescription": "Ücretsiz yazma pratiği, IME desteği ve modlarla.",
+      "profileDescription": "Kişisel bilgilerin, notun ve tercihlerin.",
+      "result": "Sonuç",
+      "resultDescription": "Test sonuçlarınız.",
+      "testDescription": "Zamanlı test, doğruluk ve bileşik puanı gösterir."
+    },
+    "grade": "Not ortalaması {{grade}}",
+    "questionBank": {
+      "gradeRange": "Sınıf aralığı",
+      "recommended": "Tavsiye Edilen",
+      "totalQuestions": "Toplam soru",
+      "children": {
+        "name": "Çocuk Soru Bankası",
+        "description": "Çocuklar için temel yazma alıştırmaları"
+      },
+      "title": "Soru bankası seç",
+      "subtitle": "Sana uygun alıştırma bankasını seç",
+      "loading": "Soru bankaları yükleniyor...",
+      "supportedLanguages": "Desteklenen diller",
+      "noRecommendation": "Sınıf seviyen için önerilen banka yok",
+      "bible": {
+        "name": "İncil Soru Bankası",
+        "description": "Kutsal Kitap ayeti yazma alıştırması"
+      }
+    },
+    "highestHere": "En yüksek burada {{value}}",
+    "hours": "{{count}} saat",
+    "hoursMinutes": "{{hours}} saat {{minutes}} dakika",
+    "leaderScore": "Bileşik Puan",
+    "levelUpSuggestion": "Hedefe ulaşmak için {{needStage}} aşamasında, bugün en az {{moreMin}} dakika daha etkili girdi önerin.",
+    "loadError": "Liderlik tablosu yüklenemedi, lütfen daha sonra tekrar deneyin.",
+    "auth": {
+      "signOut": "Çıkış yap",
+      "pleaseSignIn": "Lütfen önce Google ile oturum açın",
+      "signIn": "Google ile giriş yap"
+    },
+    "metricsTip": "Hız ve doğruluk açıklaması",
+    "minutes": "{{count}} dakika",
+    "minutesSeconds": "{{minutes}} dakika {{seconds}} saniye",
+    "bible": {
+      "name": "Kutsal Kitap Soru Bankası"
+    },
+    "noRecommendation": "Seviye düzeyiniz için önerilen soru bankası yok.",
+    "percentile": "Yaklaşık {{percent}}% insanı aşıyor",
+    "progress": "İlerleme {{current}} / {{total}}",
+    "recentValue": "Son {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Gerçek zamanlı Firestore'a kaydedildi",
+      "stage": "Aşama {{stage}}",
+      "stageOverview": "Beş aşamalı genel bakış (görünüm karşılaştırması için)"
+    },
+    "seconds": "{{count}} saniye",
+    "shortcuts": "Boşluk başlangıç/duraklat · R sıfırla · F odaklan · Enter bu soruyu gönder",
+    "speedScore": "Hız Skoru: {{score}}",
+    "stats": "{{chars}} karakter · {{accuracy}}% doğruluk",
+    "string094": "Sadece ilerlemenizi ve geçmişinizi kaydetmek için Google hesabınızı kullanıyoruz.",
+    "string095": "Hangi verileri topluyoruz?",
+    "string096": "Yalnızca yazma puanlarınızı, doğruluğunuzu ve pratik sürenizi topluyoruz. Adınız, e-posta adresiniz veya diğer hassas veriler gibi kişisel bilgileri toplamıyoruz.",
+    "string097": "Bu verileri, size kişiselleştirilmiş geri bildirim sağlamak ve zaman içindeki ilerlemenizi göstermek için kullanıyoruz.",
+    "string155": "Bu web sitesini kullanarak aşağıdaki şartları kabul etmiş olursunuz:",
+    "string156": "Kendi öğreniminiz ve ilerlemenizden siz sorumlusunuz.",
+    "string157": "Terimler nelerdir?",
+    "string158": "Bu terimler şunları içerir: web sitesini yalnızca eğitim amaçları için kullanmak, uygunsuz içerik paylaşmamak ve diğer kullanıcılara saygı göstermek.",
+    "supportedLanguages": "Desteklenen Diller",
+    "totalQuestionChars": "Toplam Soru Karakteri: {{chars}} karakter",
+    "vsSiteAverage": "Site ortalamasına göre (aynı dil): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.777Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Gönder (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "language": "fi-FI",
+  "translations": {
+    "aboutBody": "TypeSprout on kirjoittamisen harjoittelu- ja kehityssivusto 1–6 luokkalaisille, jossa on zh‑TW / zh‑CN / en‑US-tuki. Tavoitteena on tarjota turvallinen ja ystävällinen ympäristö lapsille ympäri maailmaa harjoitella syöttämistä, ymmärtämistä ja ilmaisua.",
+    "home": {
+      "aboutContent": "Hei kaikille, olen Yves.C, isä Taiwanista. TypeSproutin inspiraatio tuli siitä, kun näin lasteni jutustelevan ystäviensä kanssa ympäri maailmaa Robloxissa—ymmärsin, että kirjoittaminen on itse asiassa ensimmäinen avain, jonka lapset tarvitsevat avatakseen suuremman maailman. Joten loin tämän verkkopohjaisen kirjoitusharjoituksen ilman koodia + ChatGPT/AI, lisäten pienen puun kasvun visuaalista palautetta: jokaisella oikealla näppäinpainalluksella puu kasvaa hieman, muuttaen päivittäiset ponnistelut näkyviksi saavutuksiksi. Sisällön osalta olen järjestänyt yleisesti käytettyjä sanoja 1-6 luokilta valittaviin kysymyspankkeihin; lapset voivat harjoitella äidinkieltään ja vaihtaa englantiin tai muihin kieliin, joita he haluavat harjoitella Asetuksissa. Nämä sanat suodattaa AI luokka vaikeuden mukaan.Aikuisille olen valmistanut laajennetun kysymyspankin, joka tällä hetkellä sisältää Raamatun API:n ja AI:lla tuotettuja Raamatun kirjoituksia (ilmaisista verkkolähteistä, tarkkuus voi olla rajallista), ja lisään vähitellen aiheita, kuten kuuluisia lainauksia, jotta harjoittelu olisi mielenkiintoisempaa. TypeSproutissa lapset keräävät vähitellen pisteitä ja päivittäisiä ponnisteluja; näyttöön ilmestyvä pieni puu kukoistaa myös heidän suoritustensa myötä, muodostaen positiivisen syklin ponnistus → palaute → uudelleen sitoutuminen. Olen myös suunnitellut 5 päivän aktiivisen haasteen: 5 peräkkäisen päivän harjoittelu tuo pienen hedelmäpalkinnon. Kun saavutukset ovat näkyviä, motivaatio kasvaa. Tämä on oppimisrytmi, jonka haluan jakaa lasten ja teidän kanssanne. Opettajille lisäsin Luokka-toiminnon henkilökohtaiselle sivulle, jolloin opettajat voivat luoda luokkia ja kutsua luokkatovereita osallistumaan, mikä tekee harjoittelusta kilpailullisempaa.Tämä on pieni projekti, jota ylläpidän henkilökohtaisesti (ei insinööritaustaa, pääasiassa luottaen ChatGPT/AI:hin ohjauksessa ja yhteistyössä). Jos sinulla on ehdotuksia tai kohtaat ongelmia käytön aikana, voit jättää viestin GitHubin ongelmaosioon, ja teen parhaani järjestääkseni ja ratkaistakseni ne. Kiitos kaikille etukäteen. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "Tietoa TypeSproutista",
+      "ctaTest": "Ota testi",
+      "googleUsersCount": "Google-kirjautujat",
+      "googleUsersTooltip": "Google-tilillä kirjautuneiden käyttäjien kokonaismäärä",
+      "heroSubtitle": "Jokainen näppäinpainallus muuttuu energiaksi, joka kastaa puusi. Monikielinen tuki auttaa rakentamaan oikeita kirjoitustottumuksia ja keskittymään.",
+      "heroTitle": "Lapset kirjoittavat, taimi kasvaa.",
+      "tabs": {
+        "leader": "Tulostaulu (esikatselu)",
+        "visitors": "Kävijät"
+      },
+      "leaderEmpty": "Ei tietoja vielä",
+      "leaderViewFull": "Näytä koko tulostaulu",
+      "players": "Pelaajat",
+      "privacyNote": "Emme kerää henkilötietoja; tilastot ovat anonymisoituja vain sijoitusten ja oppimispalautteen vuoksi.",
+      "visitorsDesc": "Sivuston kävijöiden ja pelaajien (anonyymit) maajakauma."
+    },
+    "absoluteScale": "Vihreä ≤{{low}}% · Keltainen ≤{{mid}}% · Punainen >{{mid}}% (% on kyseisen näppäimen viimeisin kumulatiivinen virheprosentti)",
+    "accuracy": "Tarkkuus {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Tarkkuuskehityksen kaavio: korkeampi viiva tarkoittaa tarkempaa",
+      "accuracyChartTitle": "Tarkkuus",
+      "accuracyChartTooltip": "Y-akseli: Tarkkuus (korkeampi tarkoittaa tarkempaa); X-akseli: aikajärjestys. Sininen viiva näyttää tarkkuuden muutokset jokaisessa testissä.",
+      "defaultDescription": "Ylhäällä: Nopeuspisteiden kehitys; Alhaalla: Tarkkuuden kehitys. Paranna ensin tarkkuutta, sitten lisää nopeutta vähitellen.",
+      "speedChartAriaLabel": "Nopeusindeksin trendikaavio: korkeampi viiva tarkoittaa parempaa suorituskykyä",
+      "speedChartTitle": "Nopeus pisteet (Oikea nopeus)",
+      "speedChartTooltip": "Y-akseli: Nopeuspisteet (korkeampi on parempi); X-akseli: aikajärjestys. Vihreä viiva näyttää vain oikeiden merkkien nopeuden, yhdistäen nopeuden ja tarkkuuden.",
+      "recordNumber": "Tietue {{number}}",
+      "speedScore": "Nopeuspisteet {{score}}",
+      "totalQuestionChars": "Kysymysten merkit yhteensä: {{chars}}",
+      "actualInput": "Todellinen syöte: {{chars}} merkkiä",
+      "timeSpent": "Käytetty aika: {{seconds}} s",
+      "accuracy": "Tarkkuus {{percent}}%",
+      "correctChars": "Oikeat merkit: {{chars}}",
+      "percentile": "Parempi kuin noin {{percent}}% ihmisistä",
+      "highestHere": "Korkein täällä {{value}}",
+      "recentValue": "Viimeisin {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Tarkkuus = oikeat merkit ÷ kysymyksen kokonaismerkit. Huom: kirjoittamattomia merkkejä lasketaan myös kokonaismäärään, joten puuttuvat merkit alentavat tarkkuutta.",
+      "hideInsights": "Piilota näkemykset",
+      "scoreTooltip": "Kokonaispisteet = oikeiden merkkien syöttönopeus. Laskenta: nopeus (WPM/CPM) × tarkkuus. Tavoite: ensin vakauttaa tarkkuus, sitten vähitellen lisätä nopeutta.",
+      "showInsights": "Näytä näkemykset",
+      "summary": "Tämän istunnon yhteenveto",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Aktiiviset päivät: {{activeDays}} / {{total}}",
+    "actualInput": "{{chars}} merkit",
+    "adjWpm": "Kokonaispisteet (oikea nopeus) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Mainosevästeet: Kuten edellä mainittiin, jos otamme käyttöön Google AdSensen, Google käyttää evästeitä mainosten näyttämiseen. Voit vierailla Googlen mainosasetussivulla (https://adssettings.google.com/) milloin tahansa hallitaksesi tai poistuaksesi personoiduista mainoksista.",
+        "functionalCookies": "Toiminnalliset evästeet: Käytämme evästeitä ylläpitääksemme kirjautumistilasi."
+      },
+      "section5": {
+        "contactChannel": "Yhteydenottokanava: Jos sinulla on kysymyksiä tästä tietosuojakäytännöstä tai haluat käyttää tietojasi koskevia oikeuksiasi (kuten kysely, korjaus, poistaminen), lähetäthän pyyntösi virallisen GitHub Issues -sivumme kautta.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Tärkeä muistutus: Huomaa, että GitHub Issues on julkinen alusta. Suojellaksesi henkilökohtaista yksityisyyttäsi, älä jätä mitään henkilökohtaisia tunnistamistietoja Issue-sisältöön, kuten sähköpostiosoitettasi, oikeaa nimeäsi tai tilin kuvakaappauksia. Tarvitsemme vain käyttäjänimesi TypeSproutissa ja kuvauksen ongelmasta. Emme ota sinuun yhteyttä muilla yksityisillä kanavilla kuin Issues.",
+        "responseTime": "Koska tämä on henkilökohtaisesti ylläpidetty projekti, vastaamme mahdollisimman nopeasti kykyjemme mukaan. Kiitos kärsivällisyydestäsi ja ymmärryksestäsi."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "Voit halutessasi antaa ikäryhmäsi, ammattialasi, kielesi tai alueesi. Tämä tieto ei ole pakollista ja on pääasiassa tarkoitettu kysymyspankin suositusten optimointiin, nimettömään tilastolliseen analyysiin ja tulostaulukoiden ryhmittelyyn. Emme vaadi tai vahvista tämän tiedon tarkkuutta."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Mainonta): Saatamme käyttää tulevaisuudessa Google AdSensea näyttääksemme mainoksia verkkosivuston käyttökatteiden tukemiseksi. Google ja sen kumppanit saattavat käyttää evästeitä (kuten DoubleClick-evästettä) näyttääkseen henkilökohtaisia mainoksia perustuen aiempaan vierailuhistoriaasi.",
+          "googleAnalytics": "Google Analytics: Käytämme tätä palvelua verkkosivuston liikenteen analysoimiseen ymmärtääksemme palvelun käyttöä. Se kerää anonymisoitua tietoa, kuten IP-osoitteesi, selain tyyppi, käyttöjärjestelmä, vierailtujen sivujen määrä jne."
+        },
+        "principle": "Noudatamme minimalismin periaatetta, keräten vain palvelun toiminnan ylläpitämiseen tarvittavat tiedot:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Ydintoiminto: Anonyymi käyttäjä-ID:si ja pelitietosi ovat tämän palvelun ydintoiminto, jota käytetään pisteidesi tallentamiseen, historiallisten kaavioiden tarjoamiseen ja maailmanlaajuisiin tulostauluihin.",
+        "experienceOptimization": "Kokemuksen optimointi: Ikä, ammatti ja muu vapaaehtoisesti antamasi tieto käytetään, jotta voimme yhdistää sinut sopivampiin kirjoitusharjoituskysymyksiin.",
+        "serviceMaintenance": "Palvelun ylläpito: Google Analyticsin kautta kerätty tekninen data auttaa meitä ymmärtämään verkkosivuston toimintatilaa ja korjaamaan mahdollisia ongelmia.",
+        "statisticalAnalysis": "Tilastollinen analyysi: Anonymisoimme ja yhdistämme kaikki käyttäjien vapaaehtoisesti antamat tiedot ymmärtääksemme käyttäjäryhmän yleistä profiilia ja parantaaksemme palvelua."
+      },
+      "section3": {
+        "crossBorderTransfer": "Rajat ylittävä siirto: GitHub- ja Google Firebase -palvelimet saattavat sijaita maasi ulkopuolella (esim. Yhdysvalloissa). Käyttämällä tätä palvelua ymmärrät ja hyväksyt, että tietosi siirretään, tallennetaan ja käsitellään näillä ulkomaisilla palvelimilla.",
+        "dataRetention": "Tietojen säilyttäminen: Koska tämä palvelu on täysin ilmainen, emme voi taata pysyvää tietojen tallennusta. Pidätämme oikeuden poistaa osan tai kaikki käyttäjätiedot ilman ennakkoilmoitusta.",
+        "storageLocation": "Tallennuspaikka: Tämän verkkosivuston koodi on isännöity GitHubissa, kun taas pelitietosi ja vapaaehtoisesti antamasi tiedot tallennetaan Google Firebasen tietokantaan."
+      },
+      "effectiveDate": "Voimaantulopäivämäärä: 21. syyskuuta 2025",
+      "introduction": "Tervetuloa TypeSproutiin! Tämä on ilmainen kirjoitusharjoittelu verkkosivusto, jonka on luonut yksittäinen kehittäjä mielenkiinnosta. Ymmärrämme, että yksityisyytesi on tärkeää, joten tämä käytäntö selittää, mitä tietoja keräämme ja miten aiomme käyttää näitä tietoja.",
+      "notice": "Huomaa, että tämä palvelu on voittoa tavoittelematon, ja kaikki ominaisuudet tarjotaan sellaisinaan. Jos et hyväksy tätä tietosuojakäytäntöä, lopeta tämän palvelun käyttö heti. Jatkuva käyttö tarkoittaa, että olet lukenut, ymmärtänyt ja hyväksynyt tämän käytännön kaikki sisällöt.",
+      "titleSuffix": "Tietosuojakäytäntö"
+    },
+    "leaderboard": {
+      "allGrades": "Kaikki arvosanat",
+      "lastMonth": "Viime kuun sijoitus",
+      "lastWeek": "Viime viikon sijoitus",
+      "loading": "Ladataan...",
+      "loadingHint": "Jos se edelleen epäonnistuu lataamisessa, tarkista verkkoyhteytesi tai yritä myöhemmin uudelleen.",
+      "noData": "Ei tietoja",
+      "reload": "Lataa uudelleen",
+      "signInHint": "Vinkki: Kirjaudu sisään tallentaaksesi testituloksesi automaattisesti; käytämme niitä vain sijoitusten ja oppimispalautteen varten, emme kerää mitään henkilökohtaisia arkaluontoisia tietoja.",
+      "sortHint": "Vinkki: Paina Alt+↑/↓ vaihtaaksesi lajittelua",
+      "today": "Tämän päivän sijoitus",
+      "tooltip": "🏆 Miten tulostaulu lasketaan?&#10;• Tänään: tämän päivän pisteet (paikallisaika)&#10;• Eilen: eiliset pisteet (paikallisaika)&#10;• Viime viikolla: maanantaista sunnuntaihin viime viikolla&#10;• Viime kuussa: kuukauden ensimmäisestä päivästä viimeiseen päivään&#10;&#10;📊 Miten pisteet lasketaan?&#10;• Yhteispisteet = maksimi nopeus × tarkkuus × harjoitusaika&#10;• Useat harjoitukset samana päivänä yhdistetään&#10;• Pidempi harjoitusaika = korkeampi pistemäärä&#10;&#10;💡 Vinkki: Harjoittele vähän joka päivä ja puusi kasvaa!",
+      "yesterday": "Eilisessä rankingissa"
+    },
+    "test": {
+      "allowBackspace": "Salli Poista",
+      "capsLock": "Caps Lock",
+      "difficulty": "Vaikeus",
+      "difficultyEasy": "Helppo",
+      "difficultyHard": "Vaikea",
+      "difficultyMedium": "Keskitaso",
+      "finished": "Valmis",
+      "inputPrompt": "Ole hyvä ja kirjoita alla oleva teksti",
+      "insightsSummary": "Oivallukset (näppäimistön lämpökartta, nopeus- ja tarkkuustrendit)",
+      "loadingQuestions": "Ladataan kysymyksiä...",
+      "mistakes": "Virheet",
+      "outOfFocus": "Ole hyvä ja napsauta syöttöruutua jatkaaksesi kirjoittamista",
+      "promptStart": "Aloita painamalla Start, sitten kirjoita yllä oleva teksti. Liittäminen on pois käytöstä.",
+      "questionCount": "Kysymysten määrä",
+      "questionPreview": "Kysymys (ensimmäiset 24 merkkiä)",
+      "questionStats": "Tämän istunnon kysymystilastot (aika käytetty / raja, virheiden määrä)",
+      "questionText": "Kysymysteksti (ei voi valita tai kopioida)",
+      "shortcutsDescription": "Avaruus: Aloita/Pysäytä • R: Nollaa • F: Keskity syötteeseen",
+      "signInToSave": "Kirjaudu sisään tallentaaksesi edistymisesi",
+      "submitAndReview": "Lähetä ja katso tulokset",
+      "submitQuestion": "Lähetä tämä kysymys (Enter)",
+      "timeLimit": "Aikaraja",
+      "timeSpent": "Aika kulunut: {{seconds}} sek",
+      "title": "Testi",
+      "tryAgain": "Yritä uudelleen",
+      "shortcuts": "Paina Enter lähettääksesi"
+    },
+    "profile": {
+      "alreadyJoined": "Olet jo liittynyt tähän luokkaan",
+      "analysis": "Syvällinen analyysi",
+      "birthday": "Syntymäpäivä (VVVV-KK)",
+      "classCodePlaceholder": "Luokan koodi",
+      "classCodeTooltip": "Sivustokohtainen ainutlaatuinen (3–50 merkkiä; ei voi sisältää /). Käytetään kilpailuissa ja tulostaulukoiden ryhmittelyssä; voi liittyä enintään 5:een. Opettajat voivat luoda uusia koodeja; liittyy automaattisesti luomisen jälkeen (jos ei ole täynnä).",
+      "classCreatedAndJoined": "Luokka luotiin ja liittyminen onnistui",
+      "classNotFound": "Luokkakoodia ei löytynyt",
+      "codeAlreadyTaken": "Luokkakoodi on jo käytössä",
+      "confirmDelete": "Oletko varma, että haluat poistaa tämän luokkakoodin?",
+      "copy": "Kopioi",
+      "copyFailed": "Kopiointi epäonnistui, valitse ja kopioi manuaalisesti.",
+      "copySuccess": "Luokkakoodi kopioitu leikepöydälle.",
+      "country": "Maa/Alue",
+      "create": "Luo",
+      "delete": "Poista",
+      "female": "Nainen",
+      "fruits": "Hedelmät",
+      "fruitsTooltip": "Hedelmät, jotka on kerätty puustasi. Ansaittu päivittäisten piste- tavoitteiden saavuttamisesta.",
+      "gender": "Sukupuoli",
+      "googleAccount": "Google-tili",
+      "history": "Historia",
+      "invalidCodeFormat": "Ole hyvä ja syötä 3-50 merkkiä ilman /",
+      "join": "Liity",
+      "joinError": "Luokan liittyminen epäonnistui",
+      "joinSuccess": "Onnistuneesti liitytty luokkaan",
+      "joinedClasses": "Liittymieni luokkien määrä",
+      "language": "Kieli",
+      "male": "Mies",
+      "maxClassesReached": "Maksimimäärä luokkia saavutettu",
+      "maxJoinedClasses": "Liittyneiden luokkien enimmäismäärä saavutettu",
+      "myClasses": "Kurssini",
+      "nickname": "Lempinimi",
+      "noClasses": "Ei luokkia",
+      "noUser": "Käyttäjää ei löytynyt",
+      "onlyTeacherCanCreate": "Vain opettajat voivat luoda luokkakoodeja",
+      "other": "Muut",
+      "points": "Pisteet",
+      "pointsDetail": "Pisteet yhteensä; tarkemmat tiedot löydät osoitteesta",
+      "pointsTooltip": "Pisteet, jotka ansaitset päivittäisestä harjoittelusta. Käytetään puusi kasvattamiseen ja palkintojen avaamiseen.",
+      "remove": "Poista",
+      "role": "Rooli",
+      "roleCheckError": "Käyttäjäroolin tarkistus epäonnistui",
+      "save": "Tallenna",
+      "student": "Opiskelija",
+      "teacher": "Opettaja",
+      "view": "näkymä",
+      "xp": "Kokemus (XP)",
+      "xpTooltip": "Kokemuspisteet, jotka ansaitaan kirjoitusharjoitusten kautta. Korkeampi tarkkuus ja nopeus = enemmän XP!",
+      "youOwnThis": "Sinä omistat tämän",
+      "title": "Profiili",
+      "auto": "Automaattinen",
+      "classCode": "Luokan koodi",
+      "error": "Virhe",
+      "alreadyTaken": "Varattu",
+      "available": "Saatavilla",
+      "logout": "Kirjaudu ulos",
+      "chartDescription": "Henkilökohtaiset trendit: ylhäällä yhdistetty pistemäärä, alhaalla tarkkuus.",
+      "parent": "Vanhempi"
+    },
+    "tips": {
+      "avgAdj": "Keskimääräinen yhdistelmä (30 pv)",
+      "meVsSite": "Minä vs Sivusto (30 pv)",
+      "totalChars": "Yhteensä merkkejä: {{chars}} merkkiä"
+    },
+    "admin": {
+      "bulkTranslationTool": "Bulk Localization Tool",
+      "execute": "Suorita",
+      "sourceLanguage": "Lähdekieli",
+      "targetLanguage": "Kohdekieli",
+      "usageDescription": "Syötä lähde- ja kohdekielen koodit, liitä monirivinen teksti ja paina suorita, tulokset ovat vain manuaalista tarkistusta varten. Tämä ominaisuus vaatii ylläpitäjän tunnuksen käyttöönottamiseksi.",
+      "usageInstructions": "Käyttöohjeet"
+    },
+    "garden": {
+      "charsUnit": "merkit",
+      "growthChartSubtitle": "Eri näyttämöiden esiintymiset ja avausolosuhteet (kuvitus).",
+      "growthChartTitle": "Kasvukaavio",
+      "historyRule1": "Pisteet lasketaan nopeudesta × tarkkuudesta × ajasta, ja niitä käytetään puiden kasvun edistämiseen.",
+      "historyRule2": "Alla oleva lista näyttää jokaisen ansiotietueen, mikä helpottaa ponnistelujesi seuraamista.",
+      "historyTitle": "Mikä on historia?",
+      "howToLevelUp": "Miten nostaa tasoa?",
+      "levelUpRule1": "Harjoittele päivittäin kerryttääksesi toimintaa; mitä pidempään kirjoitat, sitä nopeammin kehityt.",
+      "levelUpRule2": "Maksimi taso 5; jos pystyt ylläpitämään tasoa 5 päivittäin, tulet jatkuvasti tuottamaan hedelmiä.",
+      "levelUpRule3": "Kerätyt hedelmät tarjoavat alustan palkintoja sijoituksen mukaan; tällä hetkellä voi käyttää testiaikaa pisteiden keräämiseen.",
+      "maxStage": "Maksimi taso 5",
+      "myTree": "Minun Puuni",
+      "noLogs": "Ei tällä hetkellä tietueita",
+      "pointsExplanation": "Miten pisteet toimivat? Ne generoidaan päivittäisistä testeistä, jotka liittyvät tehokkaaseen syöttöaikaan, nopeuteen ja tarkkuuteen. Päivittäinen raja 100; lyhyessä harjoituksessa (≥5 sekuntia ja tarkkuus ≥30%) vähintään +1.",
+      "recalculateActivity": "Laske aktiviteetti ja vaihe uudelleen",
+      "recalculateActivityTooltip": "Mikä on Toiminnan ja vaiheen uudelleenlaskenta? Se lukee uudelleen viimeiset 5 päivääsi testitietoja, laskee tehokkaat syöttöminuutit ja päivittää toimintaluettelon ja nykyisen vaiheen.",
+      "recentActivity": "Viimeisten 5 päivän aktiviteetti",
+      "recentLogs": "Viimeisimmät tiedot",
+      "stage1Desc": "Ensimmäinen verso nousee",
+      "stage2Desc": "Toinen lehti kasvaa",
+      "stage3Desc": "Lehden kertolasku",
+      "stage4Desc": "Kukat kukkivat",
+      "stage5Desc": "Pienet puunlatvat (hedelmät)",
+      "todaySummary": "Tämän päivän yhteenveto"
+    },
+    "ui": {
+      "closeHint": "Sulje vihje",
+      "gotIt": "Selvä",
+      "later": "Myöhemmin",
+      "start": "Aloita",
+      "string089": "Ole hyvä ja kirjaudu ensin sisään.",
+      "string090": "Henkilökohtaiset tiedot",
+      "string092": "Tietosuojakäytäntö",
+      "string154": "Käyttöehdot"
+    },
+    "terms": {
+      "section7": {
+        "content1": "Jos sinulla on kysymyksiä näistä käyttöehdoista, esitä ne virallisen GitHub Issues -sivumme kautta: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Ole hyvä ja huomioi, että tämä on julkinen alusta, joten älä jätä henkilökohtaisia tietojasi siihen."
+      },
+      "section5": {
+        "content2": "Emme ole vastuussa mistään menetyksistä tai vahingoista, jotka liittyvät harjoitustietoihisi tai käyttäjätietoihisi, emmekä takaa pysyvää tietojen säilyttämistä.",
+        "content3": "Pidätämme oikeuden muuttaa, keskeyttää tai lopettaa tämä palvelu milloin tahansa mistä tahansa syystä ilman ennakkoilmoitusta.",
+        "subtitle1": "Tarjotaan sellaisenaan:",
+        "subtitle2": "Data säilyttäminen:",
+        "subtitle3": "Palvelun päättämisoikeudet:",
+        "content1": "Tätä palvelua tarjotaan \"sellaisena kuin se on\" ilman mitään takuita.",
+        "title": "5. Vastuuvapauslauseke ja palvelun rajoitukset"
+      },
+      "footer": "© 2025 TypeSprout. Kaikki oikeudet pidätetään.",
+      "lastUpdated": "Viimeksi päivitetty: 21. syyskuuta 2025",
+      "section2": {
+        "listItem1": "AI Generated Content: Joitakin harjoitusartikkeleita analysoidaan, kerätään tai luodaan AI-malleilla (kuten ChatGPT) vain kirjoitusharjoituksia varten.",
+        "listItem2": "Raamatun tekstit: Jotkut Raamatun kysymyspankit tulevat kolmannen osapuolen API.Bible-palveluista. Kun tämä palvelu ei ole käytettävissä, vaihtoehtoisia tekstejä voidaan luoda tekoälymalleilla.",
+        "content1": "Tämän palvelun ainoa tarkoitus on tarjota kirjoitustaitojen harjoittelua. Se ei ole akateeminen tutkimus- tai uskonnollisen koulutuksen työkalu. Kaikki verkkosivuston sisältö palvelee tätä yhtä tarkoitusta.",
+        "content2": "Tarjotaksemme monipuolisia harjoitustekstejä, tämän palvelun kysymyspankin sisältö on peräisin useista lähteistä. Ilmoitamme erityisesti:",
+        "content3": "Oikeellisuutta, täydellisyyttä ja sopivuutta uskomusmateriaalina ei taata. Ole hyvä ja ymmärrä se vain harjoitusteksteinä.",
+        "subtitle1": "Palvelun tarkoitus",
+        "subtitle2": "Sisältölähteet ja vastuuvapaus",
+        "title": "2. Palvelun kuvaus ja sisältölähteet"
+      },
+      "section1": {
+        "content1": "Tervetuloa käyttämään TypeSproutia (jäljempänä \"palvelu\"). Tämä palvelu on henkilökehittäjän ylläpitämä ilmainen, voittoa tavoittelematon projekti, joka tarjoaa käyttäjille (erityisesti lapsille ja oppijoille) yksinkertaisen online-työpajaympäristön kirjoitusharjoituksiin.",
+        "content2": "Kun käytät tai pääset käsiksi tähän palveluun, vahvistat, että olet lukenut, ymmärtänyt ja hyväksynyt tämän \"Palveluehdot\" (jäljempänä \"ehdot\") kaikki sisällöt. Jos et hyväksy mitään osaa näistä ehdoista, lopeta palvelun käyttö heti.",
+        "title": "1. Yleiset säännöt ja ehtojen hyväksyminen"
+      },
+      "section3": {
+        "content1": "Tätä palvelua saa käyttää vain henkilökohtaisiin ja koulutustarkoituksiin, ja se myönnetään ei-yksinomaisena, siirtämättömänä, peruutettavana käyttöoikeutena.",
+        "content2": "Kaupallisen käytön suora tai epäsuora käyttö palvelussa on kielletty.",
+        "subtitle1": "Henkilökohtainen, ei-kaupallinen käyttö",
+        "subtitle2": "Kaupallisen käytön kieltäminen",
+        "title": "3. Käyttöoikeudet ja rajoitukset"
+      },
+      "section4": {
+        "content1": "Käyttäjän on vastuullisesti hallittava kirjautumistietojaan.",
+        "content2": "On kiellettyä häiritä tämän palvelun normaalia toimintaa tai huijata.",
+        "subtitle1": "Tilin turvallisuus",
+        "subtitle2": "Kielletty väärinkäyttö ja vilpillinen toiminta",
+        "title": "4. Käyttäjän vastuu"
+      },
+      "section6": {
+        "content": "Ole hyvä ja tarkista tietosuojakäytäntö.",
+        "title": "6. Tietosuojakäytäntö"
+      },
+      "titleSuffix": "Palveluehdot"
+    },
+    "correctChars": "Oikeat merkit: {{chars}} merkit",
+    "createError": "Luonti epäonnistui: {{error}}",
+    "ctaPractice": "Aloita harjoittelu",
+    "layout": {
+      "dailyReminder": "Muistutus: Harjoittele vähän joka päivä – taimi kasvaa ja kirjoitustaito paranee!",
+      "epExplanation": "Kuinka ansaita pisteitä? Jokainen testi lasketaan kaavalla aika × nopeus × tarkkuus (perus × minuutit × (nopeus/tavoite, max ×2) × (0.5+0.5×tarkkuus)). Päivittäinen raja 100; kannustussäännöt: kun tarkkuus ≥30%, vähintään +1 piste 10 sekunnissa (kumulatiivinen); ≥30 sekuntia ja tarkkuus ≥50% vähintään +1.",
+      "loginSuggestion": "Suosittelemme kirjautumaan Google-tilillä oikeassa yläkulmassa tallentaaksesi pisteesi ja historiatietosi; tämä sivusto arvostaa nimettömyyttä ja yksityisyyttä, eikä tallenna henkilökohtaisia arkaluonteisia tietoja.",
+      "remaining": "jäljellä",
+      "todayProgress": "Tänään:"
+    },
+    "practice": {
+      "description": "Tämä alue on vain operaatioita ja sisällönhallintaa varten."
+    },
+    "error": {
+      "errorOccurred": "Tapahtui virhe",
+      "goBack": "Mene takaisin",
+      "goHome": "Takaisin etusivulle",
+      "loadingError": "Sivun lataamisessa tapahtui virhe, yritä myöhemmin uudelleen."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} virheprosentti {{percent}}%",
+      "relativeScale": "Suhteellinen asteikko: Vihreä ≤30% · Keltainen ≤70% · Punainen >70% (suhteessa korkeimpaan virheavain; perustuu viimeaikaiseen kumulatiiviseen virheprosenttiin)"
+    },
+    "estimatedMinutes": "Arvioitu {{minutes}} minuuttia",
+    "nav": {
+      "garden": "Puutarha",
+      "home": "Koti",
+      "leaderboard": "Kilpailulauta",
+      "practice": "Harjoitella",
+      "profile": "Profiili",
+      "subtitle": "Valitse sinulle sopiva harjoitussisältö",
+      "test": "Testi",
+      "result": "Tulos"
+    },
+    "meta": {
+      "gardenDescription": "Kasvata puusi kirjoituspisteillä ja palkinnoilla.",
+      "homeDescription": "Lasten kirjoitusharjoittelu pelillistetyn puun kasvun avulla.",
+      "leaderboardDescription": "Päivittäiset/viikoittaiset/kuukausittaiset tulostaulut kielittäin.",
+      "practiceDescription": "Ilmainen kirjoitusharjoittelu IME-tuen ja tilojen kanssa.",
+      "profileDescription": "Henkilökohtaiset tietosi, arvosanasi ja mieltymyksesi.",
+      "result": "Tulos",
+      "resultDescription": "Sinun kirjoitustestisi tulokset.",
+      "testDescription": "Aikakatkaisu, joka näyttää tarkkuuden ja yhdistetyn pistemäärän."
+    },
+    "grade": "Arvosana {{grade}}",
+    "questionBank": {
+      "gradeRange": "Luokka-aste",
+      "recommended": "Suositeltu",
+      "totalQuestions": "Kysymysten kokonaismäärä",
+      "children": {
+        "name": "Lasten kysymyspankki",
+        "description": "Peruskirjoitusharjoituksia lapsille"
+      },
+      "title": "Valitse kysymyspankki",
+      "subtitle": "Valitse sinulle sopiva harjoituspankki",
+      "loading": "Ladataan kysymyspankkeja...",
+      "supportedLanguages": "Tuetut kielet",
+      "noRecommendation": "Ei suositeltuja pankkeja luokka-asteellesi",
+      "bible": {
+        "name": "Raamatun kysymyspankki",
+        "description": "Raamatun jakeiden kirjoitusharjoituksia"
+      }
+    },
+    "highestHere": "Korkein täällä {{value}}",
+    "hours": "{{count}} tuntia",
+    "hoursMinutes": "{{hours}} tuntia {{minutes}} minuuttia",
+    "leaderScore": "Kooste Piste",
+    "levelUpSuggestion": "Saavuttaaksesi vaiheen {{needStage}}, ehdota vähintään {{moreMin}} lisää minuuttia tehokasta syöttöä tänään.",
+    "loadError": "Kilpailulistaa ei voitu ladata, yritä myöhemmin uudelleen.",
+    "auth": {
+      "signOut": "Kirjaudu ulos",
+      "pleaseSignIn": "Kirjaudu ensin sisään Googlella",
+      "signIn": "Kirjaudu sisään Googlella"
+    },
+    "metricsTip": "Nopeus ja tarkkuus selitys",
+    "minutes": "{{count}} minuuttia",
+    "minutesSeconds": "{{minutes}} minuuttia {{seconds}} sekuntia",
+    "bible": {
+      "name": "Raamatun kysymyspankki"
+    },
+    "noRecommendation": "Ei suositeltuja kysymyspankkeja tasollesi",
+    "percentile": "Ylittää noin {{percent}}% ihmisistä",
+    "progress": "Edistyminen {{current}} / {{total}}",
+    "recentValue": "Uusimmat {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Reaaliaikaisesti tallennettu Firestoreen",
+      "stage": "Vaihe {{stage}}",
+      "stageOverview": "Viiden vaiheen yleiskatsaus (ulkonäön vertailua varten)"
+    },
+    "seconds": "{{count}} sekuntia",
+    "shortcuts": "Aloita/pysäytä · R nollaa · F keskity · Enter lähetä tämä kysymys",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} merkkiä · {{accuracy}}% tarkkuus",
+    "string094": "Käytämme Google-tiliäsi vain edistymisesi ja historiatietojesi tallentamiseen.",
+    "string095": "Mitä tietoja keräämme?",
+    "string096": "Keräämme vain kirjoitustuloksesi, tarkkuutesi ja harjoitusaikasi. Emme kerää henkilökohtaisia tietoja, kuten nimeäsi, sähköpostiasi tai muita arkaluontoisia tietoja.",
+    "string097": "Käytämme näitä tietoja antaaksemme sinulle henkilökohtaista palautetta ja näyttääksesi edistymisesi ajan myötä.",
+    "string155": "Käyttämällä tätä verkkosivustoa hyväksyt seuraavat ehdot:",
+    "string156": "Olet vastuussa omasta oppimisestasi ja edistymisestäsi.",
+    "string157": "Mitä ovat ehdot?",
+    "string158": "Verkkosivuston käyttö vain opetustarkoituksiin, ei sopimattoman sisällön jakaminen ja muiden käyttäjien kunnioittaminen.",
+    "supportedLanguages": "Tuetut kielet",
+    "totalQuestionChars": "Yhteensä kysymysmerkkejä: {{chars}} merkkiä",
+    "vsSiteAverage": "Verkkosivun keskiarvoon verrattuna (sama kieli): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.698Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Lähetä (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}

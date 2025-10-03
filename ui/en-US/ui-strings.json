@@ -1,0 +1,455 @@
+{
+  "language": "en-US",
+  "translations": {
+    "aboutBody": "TypeSprout is a typing practice and growth website for grades 1–6 with zh‑TW / zh‑CN / en‑US support， aiming to offer a safe and friendly environment for kids worldwide to practice input， understanding， and expression.",
+    "home": {
+      "aboutContent": "Hi everyone， I'm Yves.C， a dad from Taiwan. The inspiration for TypeSprout came from watching my kids chat with friends around the world on Roblox—I realized that typing is actually the first key for children to open up to a bigger world. So I created this web typing practice using no-code concepts + ChatGPT/AI， adding little tree growth visual feedback: with every correct keystroke， the tree grows a little， turning daily efforts into visible achievements. In terms of content， I have organized commonly used words from grades 1-6 into selectable question banks; children can practice their native language and switch to English or other languages they want to practice in Settings. These words are filtered by AI according to grade difficulty. For adults， I have prepared an extended question bank， currently including Bible API and AI-generated Bible scriptures (from free online resources， accuracy may be limited)， and I will gradually add topics like famous quotes to make practice more interesting. In TypeSprout， children will gradually accumulate points and daily efforts; the little tree on the screen will also thrive with their performance， forming a positive cycle of effort → feedback → re-engagement. I also designed a 5-day active challenge: practicing for 5 consecutive days will earn a small fruit reward. When achievements are visible， motivation will grow. This is the learning rhythm I want to share with children and you. For teachers， I added a Class function on the personal page， allowing teachers to create classes and invite classmates to participate， making practice feel more competitive. This is a small project maintained by me personally (no engineering background， mainly relying on ChatGPT/AI for guidance and collaboration). If you have suggestions or encounter problems during use， please feel free to leave a message in the GitHub issues section， and I will do my best to organize and solve them. Thank you all in advance. GitHub: https://github.com/yveschen001/typesprout-pubic/issues",
+      "aboutTitle": "About TypeSprout",
+      "ctaTest": "Take Test",
+      "googleUsersCount": "Google Login Users",
+      "googleUsersTooltip": "Total number of users who logged in with Google accounts",
+      "heroSubtitle": "Every keystroke becomes energy to water your tree. Multi-language support helps build correct typing habits and focus.",
+      "heroTitle": "Kids type， the seedling grows.",
+      "tabs": {
+        "leader": "Leaderboard (preview)",
+        "visitors": "Visitors"
+      },
+      "leaderEmpty": "No data yet",
+      "leaderViewFull": "View full leaderboard",
+      "players": "Players",
+      "privacyNote": "We do not collect personal data; statistics are anonymized for ranking and learning feedback only.",
+      "visitorsDesc": "Country distribution of site visitors and players (anonymous)."
+    },
+    "absoluteScale": "Green ≤{{low}}% · Yellow ≤{{mid}}% · Red >{{mid}}% (% is the recent cumulative error rate for that key)",
+    "accuracy": "Accuracy {{accuracy}}%",
+    "charts": {
+      "accuracyChartAriaLabel": "Accuracy trend chart: higher line means more accurate",
+      "accuracyChartTitle": "Accuracy",
+      "accuracyChartTooltip": "Y-axis: Accuracy (higher means more accurate); X-axis: time order. Blue line shows accuracy changes for each test.",
+      "defaultDescription": "Top: Speed score trend; Bottom: Accuracy trend. First improve accuracy， then gradually increase speed.",
+      "speedChartAriaLabel": "Speed score trend chart: higher line means better performance",
+      "speedChartTitle": "Speed Score (Correct Speed)",
+      "speedChartTooltip": "Y-axis: Speed score (higher is better); X-axis: time order. Green line shows speed of correct characters only， combining speed and accuracy.",
+      "recordNumber": "Record {{number}}",
+      "speedScore": "Speed Score: {{score}}",
+      "totalQuestionChars": "Total Question Chars: {{chars}} chars",
+      "actualInput": "Actual Input: {{chars}} chars",
+      "timeSpent": "Time Spent: {{seconds}} sec",
+      "accuracy": "Accuracy {{percent}}%",
+      "correctChars": "Correct Chars: {{chars}} chars",
+      "percentile": "Exceeds about {{percent}}% of people",
+      "highestHere": "Highest here {{value}}",
+      "recentValue": "Recent {{value}} {{trend}}"
+    },
+    "result": {
+      "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Note: untyped chars are also counted in total， so missing chars will lower accuracy.",
+      "hideInsights": "Hide insights",
+      "scoreTooltip": "Composite score = input speed of correct chars only. Calculation: speed (WPM/CPM) × accuracy. Purpose: first stabilize accuracy， then gradually increase speed.",
+      "showInsights": "Show insights",
+      "summary": "This session summary",
+      "timeSpent": "Time spent: {{time}}",
+      "totalChars": "Total characters: {{chars}} characters",
+      "correctChars": "Correct characters: {{chars}} characters",
+      "accuracy": "Accuracy: {{accuracy}}%",
+      "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+      "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+      "tryAgain": "Try again",
+      "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+      "seconds": "{{count}} seconds",
+      "minutes": "{{count}} minutes",
+      "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+      "hours": "{{count}} hours",
+      "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+    },
+    "activeDays": "Active days: {{activeDays}} / {{total}}",
+    "actualInput": "Actual Input: {{chars}} chars",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "privacy": {
+      "section4": {
+        "advertisingCookies": "Advertising Cookies: As mentioned above， if we enable Google AdSense， Google will use cookies to display ads. You can visit Google's ad settings page (https://adssettings.google.com/) at any time to manage or opt out of personalized ads.",
+        "functionalCookies": "Functional Cookies: We use cookies to maintain your login status."
+      },
+      "section5": {
+        "contactChannel": "Contact Channel: If you have any questions about this privacy policy or wish to exercise your data rights (such as query， correction， deletion)， please submit requests through our official GitHub Issues page.",
+        "githubLink": "https://github.com/yveschen001/typesprout-pubic/issues",
+        "importantReminder": "Important Reminder: Please note that GitHub Issues is a public platform. To protect your personal privacy， please absolutely do not leave any personal identification information in the Issue content， such as your email address， real name， or account screenshots. We only need you to provide your Username on TypeSprout and a description of the issue. We will not contact you through any private channels other than Issues.",
+        "responseTime": "Since this is a personally maintained project， we will respond as quickly as possible within our capabilities. Thank you for your patience and understanding."
+      },
+      "section1": {
+        "voluntaryInfo": {
+          "content": "You may optionally provide your age range， professional field， language， or region. This information is not mandatory and is primarily intended to optimize question bank recommendations， for anonymous statistical analysis， and leaderboard grouping. We do not require or verify the accuracy of this information."
+        },
+        "technicalData": {
+          "googleAdsense": "Google AdSense (Advertising): We may use Google AdSense in the future to display ads to support website operating costs. Google and its partners may use Cookies (such as DoubleClick Cookie) to show personalized ads based on your past visit history.",
+          "googleAnalytics": "Google Analytics: We use this service to analyze website traffic to understand service usage. It collects anonymized information such as your IP address， browser type， operating system， pages visited， etc."
+        },
+        "principle": "We adhere to the principle of minimalism， collecting only the data necessary to maintain service operation:",
+        "googleAuth": {
+          "title": "Google Login Authentication",
+          "content": "When you log in using your Google account, we only use Google's authentication service to verify your identity and create a unique anonymous user ID for you. We do not actively request, access, or store any personal privacy data from your Google account, such as your real name or address."
+        },
+        "gameData": {
+          "title": "Game Data",
+          "content": "Every typing practice score you perform on the website, including speed (WPM), accuracy, time used, etc. This data is associated with your anonymous user ID to generate your personal history and leaderboard."
+        }
+      },
+      "section2": {
+        "coreFunction": "Core Function: Your anonymous user ID and game data are part of the core functionality of this service， used to record your scores， provide historical charts， and global leaderboards.",
+        "experienceOptimization": "Experience Optimization: The age， profession， and other information you voluntarily provide will be used to match you with more suitable typing practice question banks.",
+        "serviceMaintenance": "Service Maintenance: Technical data collected through Google Analytics helps us understand the website's operational status and fix potential issues.",
+        "statisticalAnalysis": "Statistical Analysis: We will anonymize and aggregate all user-voluntarily provided information to understand the overall profile of the user group and improve the service."
+      },
+      "section3": {
+        "crossBorderTransfer": "Cross-Border Transfer: GitHub and Google Firebase servers may be located outside your country (e.g.， United States). By using this service， you understand and agree that your data will be transmitted， stored， and processed on these overseas servers.",
+        "dataRetention": "Data Retention: Since this service is completely free， we cannot guarantee permanent data storage. We reserve the right to clear some or all user data without notice.",
+        "storageLocation": "Storage Location: This website's code is hosted on GitHub， while your game data and voluntarily provided information are stored in Google Firebase's database."
+      },
+      "effectiveDate": "Effective Date: September 21， 2025",
+      "introduction": "Welcome to TypeSprout! This is a free typing practice website created by an individual developer out of interest. We understand that your privacy is crucial， so this policy aims to explain what data we collect and how we will use this data.",
+      "notice": "Please note: This service is non-profit in nature， and all features are provided as is. If you do not agree to any terms of this privacy policy， please stop using this service immediately. Continued use indicates that you have read， understood， and agree to all contents of this policy.",
+      "titleSuffix": "Privacy Policy"
+    },
+    "leaderboard": {
+      "allGrades": "All grades",
+      "lastMonth": "Last month's ranking",
+      "lastWeek": "Last week's ranking",
+      "loading": "Loading...",
+      "loadingHint": "If it continues to fail to load， please check your network connection or try again later",
+      "noData": "No data",
+      "reload": "Reload",
+      "signInHint": "Tip: Sign in to save your test scores automatically; we only use them for ranking and learning feedback， no personal sensitive data collected.",
+      "sortHint": "Tip: Press Alt+↑/↓ to toggle sorting",
+      "today": "Today's ranking",
+      "tooltip": "🏆 How is the leaderboard calculated?&#10;• Today: today's scores (local time)&#10;• Yesterday: yesterday's scores (local time)&#10;• Last week: Monday to Sunday of last week&#10;• Last month: 1st to last day of last month&#10;&#10;📊 How are scores calculated?&#10;• Composite score = max speed × accuracy × practice time&#10;• Multiple practices on the same day are combined&#10;• Longer practice time = higher score&#10;&#10;💡 Tip: Practice a little every day and your tree will grow!",
+      "yesterday": "Yesterday's ranking"
+    },
+    "test": {
+      "allowBackspace": "Allow Backspace",
+      "capsLock": "Caps Lock",
+      "difficulty": "Difficulty",
+      "difficultyEasy": "Easy",
+      "difficultyHard": "Hard",
+      "difficultyMedium": "Medium",
+      "finished": "Finished",
+      "inputPrompt": "Please type the text below",
+      "insightsSummary": "Insights (keyboard heatmap， speed and accuracy trends)",
+      "loadingQuestions": "Loading questions...",
+      "mistakes": "Mistakes",
+      "outOfFocus": "Please click the input box to continue typing",
+      "promptStart": "Press Start， then type the text above. Pasting is disabled.",
+      "questionCount": "Question Count",
+      "questionPreview": "Question (first 24 characters)",
+      "questionStats": "This session's question statistics (time spent / limit， mistake count)",
+      "questionText": "Question text (cannot be selected or copied)",
+      "shortcutsDescription": "Space: Start/Pause • R: Reset • F: Focus input",
+      "signInToSave": "Sign in to save your progress",
+      "submitAndReview": "Submit and view results",
+      "submitQuestion": "Submit this question (Enter)",
+      "timeLimit": "Time limit",
+      "timeSpent": "Time Spent: {{seconds}} sec",
+      "title": "Test",
+      "tryAgain": "Try again",
+      "shortcuts": "Press Enter to submit"
+    },
+    "profile": {
+      "alreadyJoined": "You have already joined this class",
+      "analysis": "In-depth Analysis",
+      "birthday": "Birthday (YYYY-MM)",
+      "classCodePlaceholder": "Class Code",
+      "classCodeTooltip": "Site-wide unique (3–50 chars; cannot contain /). Used for competitions and leaderboard grouping; can join up to 5. Teachers can create new codes; will auto-join after creation (if not full).",
+      "classCreatedAndJoined": "Class created and joined successfully",
+      "classNotFound": "Class code not found",
+      "codeAlreadyTaken": "Class code already taken",
+      "confirmDelete": "Are you sure you want to delete this class code?",
+      "copy": "Copy",
+      "copyFailed": "Copy failed， please select and copy manually.",
+      "copySuccess": "Class code copied to clipboard.",
+      "country": "Country/Region",
+      "create": "Create",
+      "delete": "Delete",
+      "female": "Female",
+      "fruits": "Fruits",
+      "fruitsTooltip": "Fruits collected from your tree. Earned by reaching daily point goals.",
+      "gender": "Gender",
+      "googleAccount": "Google Account",
+      "history": "History",
+      "invalidCodeFormat": "Please enter 3-50 characters without /",
+      "join": "Join",
+      "joinError": "Failed to join class",
+      "joinSuccess": "Successfully joined class",
+      "joinedClasses": "Classes I Joined",
+      "language": "Language",
+      "male": "Male",
+      "maxClassesReached": "Maximum number of classes reached",
+      "maxJoinedClasses": "Maximum number of joined classes reached",
+      "myClasses": "My Classes",
+      "nickname": "Nickname",
+      "noClasses": "No classes",
+      "noUser": "User not found",
+      "onlyTeacherCanCreate": "Only teachers can create class codes",
+      "other": "Other",
+      "points": "Points",
+      "pointsDetail": "Points total above; details please go to",
+      "pointsTooltip": "Points earned from daily practice. Used to grow your tree and unlock rewards.",
+      "remove": "Remove",
+      "role": "Role",
+      "roleCheckError": "Failed to check user role",
+      "save": "Save",
+      "student": "Student",
+      "teacher": "Teacher",
+      "view": "view",
+      "xp": "Experience (XP)",
+      "xpTooltip": "Experience points earned through typing practice. Higher accuracy and speed = more XP!",
+      "youOwnThis": "You own this",
+      "title": "Profile",
+      "auto": "Auto",
+      "classCode": "Class Code",
+      "error": "Error",
+      "alreadyTaken": "Already taken",
+      "available": "Available",
+      "logout": "Logout",
+      "chartDescription": "Personal trends: top composite score, bottom accuracy.",
+      "parent": "Parent"
+    },
+    "tips": {
+      "avgAdj": "Avg Composite (30d)",
+      "meVsSite": "Me vs Site (30d)",
+      "totalChars": "Total characters: {{chars}} characters"
+    },
+    "admin": {
+      "bulkTranslationTool": "Bulk Localization Tool",
+      "execute": "Execute",
+      "sourceLanguage": "Source Language",
+      "targetLanguage": "Target Language",
+      "usageDescription": "Enter source and target language codes， paste multi-line text and press execute， results are for manual review only. This feature requires admin token to enable.",
+      "usageInstructions": "? Usage Instructions"
+    },
+    "garden": {
+      "charsUnit": "chars",
+      "growthChartSubtitle": "Different stage appearances and unlock conditions (illustration).",
+      "growthChartTitle": "Growth diagram",
+      "historyRule1": "Points are calculated from speed × accuracy × time， used to promote tree growth.",
+      "historyRule2": "The list below shows each earning record， making it easy for you to track your efforts.",
+      "historyTitle": "What is History?",
+      "howToLevelUp": "How to level up?",
+      "levelUpRule1": "Practice daily to accumulate activity; the longer you type， the faster you grow.",
+      "levelUpRule2": "Maximum stage 5; if you can maintain stage 5 daily， you will continuously produce fruits.",
+      "levelUpRule3": "Collected fruits will provide platform rewards based on ranking; currently can use test time as score accumulation.",
+      "maxStage": "Maximum stage 5",
+      "myTree": "My Tree",
+      "noLogs": "No records currently",
+      "pointsExplanation": "How do points work? Generated from daily tests， related to effective input time， speed and accuracy. Daily limit 100; short practice (≥5 seconds and accuracy ≥30%) at least +1.",
+      "recalculateActivity": "Recalculate activity and stage",
+      "recalculateActivityTooltip": "What is Recalculate activity and stage? It will re-read your recent 5 days of test records， calculate effective input minutes， and update the activity list and current stage.",
+      "recentActivity": "Recent 5 days activity",
+      "recentLogs": "Recent records",
+      "stage1Desc": "First sprout emerges",
+      "stage2Desc": "Second leaf grows",
+      "stage3Desc": "Leaf multiplication",
+      "stage4Desc": "Flowers bloom",
+      "stage5Desc": "Small tree crown forms (fruits)",
+      "todaySummary": "Today's summary"
+    },
+    "ui": {
+      "closeHint": "Close hint",
+      "gotIt": "Got it",
+      "later": "Later",
+      "start": "Start",
+      "string089": "Please sign in first.",
+      "string090": "Personal Information",
+      "string092": "Privacy Policy",
+      "string154": "Terms of Service"
+    },
+    "terms": {
+      "section7": {
+        "content1": "If you have any questions about these Terms of Service， please raise them through our official GitHub Issues page: https://github.com/yveschen001/typesprout-pubic/issues",
+        "warning": "Please note that this is a public platform， so please do not leave your personal privacy information on it."
+      },
+      "section5": {
+        "content2": "We are not responsible for any loss or damage to your practice records or user data， nor do we guarantee permanent data preservation.",
+        "content3": "We reserve the right to modify， suspend， or permanently terminate this service at any time for any reason， without prior notice.",
+        "subtitle1": "Provided As-Is:",
+        "subtitle2": "Data Preservation:",
+        "subtitle3": "Service Termination Rights:",
+        "content1": "The Service is provided on an \"as is\" basis without any warranties.",
+        "title": "5. Disclaimer and Service Limitations"
+      },
+      "footer": "© 2025 TypeSprout. All rights reserved.",
+      "lastUpdated": "Last updated: September 21， 2025",
+      "section2": {
+        "listItem1": "AI Generated Content: Some practice articles are analyzed， collected， or generated by AI models (such as ChatGPT) for typing practice only.",
+        "listItem2": "Bible Texts: Some Bible question banks come from third-party API.Bible services. When that service is inaccessible， alternative texts may be generated by AI models.",
+        "content1": "The sole purpose of the Service is to provide typing skills practice. It is not an academic research or religious education tool. All content on the website serves this single purpose.",
+        "content2": "To provide a rich practice text, the content of the Service's question bank comes from multiple sources. We hereby specifically state:",
+        "content3": "The accuracy, completeness, and suitability as faith-based material are not guaranteed. Please understand it solely as practice text.",
+        "subtitle1": "Purpose of the Service",
+        "subtitle2": "Content Sources and Disclaimer",
+        "title": "2. Description of the Service and Content Sources"
+      },
+      "section1": {
+        "content1": "Welcome to TypeSprout (hereinafter referred to as \"the Service\"). The Service is a free, non-profit project maintained by an individual developer, aimed at providing users (especially children and learners) with a simple online typing practice environment.",
+        "content2": "By accessing or using the Service, you signify that you have read, understood, and agree to be bound by all the terms of this Terms of Service (hereinafter referred to as \"these Terms\"). If you do not agree to any part of these Terms, please immediately stop using the Service.",
+        "title": "1. General Provisions and Acceptance of Terms"
+      },
+      "section3": {
+        "content1": "The Service is limited to personal and educational use, and is licensed for use in a non-exclusive, non-transferable, revocable manner.",
+        "content2": "Commercial use of the Service, either directly or indirectly, is prohibited.",
+        "subtitle1": "Personal, Non-commercial Use",
+        "subtitle2": "Prohibition of Commercial Use",
+        "title": "3. License and Restrictions"
+      },
+      "section4": {
+        "content1": "Users are responsible for properly managing their login information.",
+        "content2": "Actions that interfere with the normal operation of the Service and cheating are prohibited.",
+        "subtitle1": "Account Security",
+        "subtitle2": "Prohibition of Abuse and Misconduct",
+        "title": "4. User Responsibilities"
+      },
+      "section6": {
+        "content": "Please review the privacy policy.",
+        "title": "6. Privacy Policy"
+      },
+      "titleSuffix": "Terms of Service"
+    },
+    "correctChars": "Correct Chars: {{chars}} chars",
+    "createError": "Create failed: {{error}}",
+    "ctaPractice": "Start Practice",
+    "layout": {
+      "dailyReminder": "Reminder: Practice a little every day to help your sapling grow and improve your typing!",
+      "epExplanation": "How to earn points? Each test is calculated by time × speed × accuracy (base × minutes × (speed/target， max ×2) × (0.5+0.5×accuracy)). Daily limit 100; encouragement rules: when accuracy ≥30%， at least +1 point per 10 seconds (cumulative); ≥30 seconds and accuracy ≥50% at least +1. {{estMinLeft}}",
+      "loginSuggestion": "We recommend using Sign in with Google in the top right to save your scores and history; this site values anonymity and privacy， and will not store personal sensitive data.",
+      "remaining": "remaining",
+      "todayProgress": "Today:"
+    },
+    "practice": {
+      "description": "This area is for operations and content management only."
+    },
+    "error": {
+      "errorOccurred": "An error occurred",
+      "goBack": "Go back",
+      "goHome": "Back to Home",
+      "loadingError": "An error occurred while loading the page， please try again later."
+    },
+    "keyboard": {
+      "errorRate": "{{key}} error rate {{percent}}%",
+      "relativeScale": "Relative scale: Green ≤30% · Yellow ≤70% · Red >70% (relative to highest error key; based on recent cumulative error rate)"
+    },
+    "estimatedMinutes": "Estimated {{minutes}} minutes",
+    "nav": {
+      "garden": "Garden",
+      "home": "Home",
+      "leaderboard": "Leaderboard",
+      "practice": "Practice",
+      "profile": "Profile",
+      "subtitle": "Choose the practice content that suits you",
+      "test": "Test",
+      "result": "Result"
+    },
+    "meta": {
+      "gardenDescription": "Grow your tree with typing points and rewards.",
+      "homeDescription": "Kids typing practice with gamified tree growth. zh-TW/zh-CN/en-US",
+      "leaderboardDescription": "Daily/weekly/monthly leaderboards by language.",
+      "practiceDescription": "Free typing practice with IME support and modes.",
+      "profileDescription": "Your personal information， grade and preferences.",
+      "result": "Result",
+      "resultDescription": "Your typing test results.",
+      "testDescription": "Timed test showing accuracy and composite score."
+    },
+    "grade": "Grade {{grade}}",
+    "questionBank": {
+      "title": "Choose Question Bank",
+      "subtitle": "Select the practice bank that suits you",
+      "loading": "Loading question banks...",
+      "gradeRange": "Grade Range",
+      "supportedLanguages": "Supported Languages",
+      "recommended": "Recommended",
+      "totalQuestions": "Total Questions",
+      "noRecommendation": "No recommended question banks for your grade level",
+      "children": {
+        "name": "Children Question Bank",
+        "description": "Basic typing practice suitable for children"
+      },
+      "bible": {
+        "name": "Bible Question Bank",
+        "description": "Bible verse typing practice"
+      }
+    },
+    "highestHere": "Highest here {{value}}",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes",
+    "leaderScore": "Composite Score",
+    "levelUpSuggestion": "To reach stage {{needStage}}， suggest at least {{moreMin}} more minutes of effective input today.",
+    "loadError": "Failed to load leaderboard， please try again later",
+    "auth": {
+      "signOut": "Sign out",
+      "pleaseSignIn": "Please sign in with Google first",
+      "signIn": "Sign in with Google"
+    },
+    "metricsTip": "Speed and accuracy explanation",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "bible": {
+      "name": "Bible Question Bank"
+    },
+    "noRecommendation": "No recommended question banks for your grade level",
+    "percentile": "Exceeds about {{percent}}% of people",
+    "progress": "Progress {{current}} / {{total}}",
+    "recentValue": "Recent {{value}} {{trend}}",
+    "recordNumber": "Record {{number}}",
+    "dev": {
+      "savedToFirestore": "Real-time saved to Firestore",
+      "stage": "Stage {{stage}}",
+      "stageOverview": "Five-stage overview (for appearance comparison)"
+    },
+    "seconds": "{{count}} seconds",
+    "shortcuts": "Space start/pause · R reset · F focus · Enter submit this question",
+    "speedScore": "Speed Score: {{score}}",
+    "stats": "{{chars}} chars · {{accuracy}}% accuracy",
+    "string094": "We only use your Google account to save your progress and history.",
+    "string095": "What data do we collect?",
+    "string096": "We only collect your typing scores， accuracy， and practice time. We do not collect personal information such as your name， email， or other sensitive data.",
+    "string097": "We use this data to provide you with personalized feedback and to show you your progress over time.",
+    "string155": "By using this website， you agree to the following terms:",
+    "string156": "1. You are responsible for your own learning and progress.",
+    "string157": "What are the terms?",
+    "string158": "The terms include: using the website for educational purposes only， not sharing inappropriate content， and respecting other users.",
+    "supportedLanguages": "Supported Languages",
+    "totalQuestionChars": "Total Question Chars: {{chars}} chars",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}"
+  },
+  "translationCount": 332,
+  "lastUpdated": "2025-10-02T09:27:22.677Z",
+  "version": "v1",
+  "profile": {
+    "pointsTooltip": "You earn points by practice. Points grow your tree and unlock rewards. You can harvest fruits daily."
+  },
+  "garden": {
+    "pointsExplanation": "Points come from daily practice (effective input, speed, accuracy). After harvest, today’s growth value is cleared and converted to fruits; points may be slightly adjusted."
+  },
+  "result": {
+    "summary": "This session summary",
+    "timeSpent": "Time spent: {{time}}",
+    "totalChars": "Total characters: {{chars}} characters",
+    "correctChars": "Correct characters: {{chars}} characters",
+    "accuracy": "Accuracy: {{accuracy}}%",
+    "accuracyTooltip": "Accuracy = correct chars ÷ total question chars. Untyped chars lower accuracy.",
+    "adjWpm": "Composite score (correct speed) {{adjWpm}}",
+    "scoreTooltip": "Composite = speed of correct chars only. First穩定 accuracy, then speed.",
+    "vsSiteAverage": "Compared to site average (same language): {{adjWpm}} / {{siteAvg}}{{percentile}}",
+    "tryAgain": "Try again",
+    "showInsights": "Show insights",
+    "hideInsights": "Hide insights",
+    "chartDescription": "Top: composite trend; Bottom: accuracy trend. First stabilize accuracy, then increase speed.",
+    "seconds": "{{count}} seconds",
+    "minutes": "{{count}} minutes",
+    "minutesSeconds": "{{minutes}} minutes {{seconds}} seconds",
+    "hours": "{{count}} hours",
+    "hoursMinutes": "{{hours}} hours {{minutes}} minutes"
+  },
+  "test": {
+    "submitQuestion": "Submit (Enter)"
+  },
+  "layout": {
+    "dailyReminder": "The more you practice each day, the more fluent your typing becomes."
+  }
+}
